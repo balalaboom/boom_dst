@@ -1116,3 +1116,61 @@
 [02:02:08]: KU_TtsjKcrU	running text command:	carol	true	
 [02:02:13]: KU_TtsjKcrU	running text command:	flex	true	
 [02:02:36]: KU_TtsjKcrU	running text command:	flex	true	
+[02:02:38]: KU_TtsjKcrU	running text command:	flex	true	
+[02:02:39]: KU_TtsjKcrU	running text command:	flex	true	
+[02:02:41]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:04]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:05]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:05]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:06]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:06]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:19]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:20]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:21]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000278
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000278
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000278
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000278
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000278
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000278
+[02:03:22]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000278
+[02:03:23]: Serializing world: session/537C5C69FFB19629/0000000278
+[02:03:23]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:39]: [P2P] Connection failed for '76561197976933513'
+[02:03:40]: [Steam] SendUserDisconnect for '76561197976933513'
+[02:03:40]: Connection lost to 162.145.17.193|1 <9039928570248745992>
+[02:03:40]: [Shard] (KU_g0ecL7wy) disconnected from [SHDMASTER](1)
+[02:03:40]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000279
+[02:03:50]: Could not find anim [death] in bank [ghost]
+[02:03:50]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000279
+[02:04:14]: KU_TtsjKcrU	running text command:	carol	true	
+[02:04:33]: [Steam] SendUserDisconnect for '76561198251790870'
+[02:04:33]: Connection lost to 162.145.17.189|1 <3443985174293308480>
+[02:04:33]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[02:04:34]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000279
+[02:06:05]: Could not find anim [idle_loop] in bank [ghost]
+[02:06:08]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000279
+[02:09:18]: [P2P] Connection failed for '76561198286499269'
+[02:09:22]: [Steam] SendUserDisconnect for '76561198286499269'
+[02:09:22]: Connection lost to 162.145.17.194|1 <79438605985495771>
+[02:09:22]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[02:09:23]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000279
+[02:11:23]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000279
+[02:11:23]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000279
+[02:11:23]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000279
+[02:11:23]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000279
+[02:11:24]: Serializing world: session/537C5C69FFB19629/0000000279
+[02:13:24]: [P2P] Received from 162.145.17.189|1 '76561198251790870'
+[02:13:24]: [P2P] Sent to 162.145.17.189|1 '76561198251790870'
+[02:13:28]: New incoming connection 162.145.17.189|1 <1477249030633101509>
+[02:13:28]: Client connected from 162.145.17.189|1 <1477249030633101509>
+[02:13:28]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^PfdlX6FDCJeNL7q6aAZ9ualPLv0fxsWsMOZxRLSJ0MI= for <1477249030633101509>
+[02:13:29]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[02:13:29]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[02:13:29]: [Steam] Authenticated client '76561198251790870'
+[02:13:32]: [Shard] Read save location file for (KU_TtsjKcrU)
+[02:13:40]: [P2P] Session timed out for '76561197976933513'
+[02:13:40]: [P2P] Remove session: 162.145.17.193|1 '76561197976933513'
+[02:13:43]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000279
+[02:13:43]: Spawning player at: [Load] (-111.67, -0.00, 518.97)	
+[02:14:20]: KU_TtsjKcrU	running text command:	flex	true	

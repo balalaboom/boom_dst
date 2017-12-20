@@ -146,3 +146,17 @@
 [01:59:20]: [Say] (KU_d2kn6_6v) chunen: 我想要牛毛QAQ
 [02:00:34]: [Say] (KU_d2kn6_6v) chunen: 保溫的帽子都可以
 [02:01:11]: [Say] (KU_d2kn6_6v) chunen: 感恩
+[02:03:10]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我要休息了掰
+[02:03:17]: [Say] (KU_3aPAZWmD) ルビー: 88/
+[02:03:17]: [Say] (KU_d2kn6_6v) chunen: 晚安
+[02:03:25]: [Say] (KU_d2kn6_6v) chunen: 所以只有三間對吧
+[02:03:28]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 888
+[02:03:40]: [Leave Announcement] 崎三 :heart:
+[02:03:50]: [Death Announcement] ルビー 死亡，死因： 麥特斯克。他變成了一個令人毛骨悚然的鬼！
+[02:04:33]: [Leave Announcement] AierLuosen
+[02:06:05]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[02:07:58]: [Say] (KU_d2kn6_6v) chunen: 打玩了,蛋我身上位置不構
+[02:08:31]: [Say] (KU_d2kn6_6v) chunen: 貝雷帽get誰要先帶?
+[02:09:14]: [Say] (KU_d2kn6_6v) chunen: 晚安
+[02:09:22]: [Leave Announcement] 提爾詩
+[02:13:42]: [Join Announcement] AierLuosen
