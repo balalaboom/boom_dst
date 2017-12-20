@@ -114,3 +114,35 @@
 [01:35:33]: [Say] (KU_d2kn6_6v) chunen: 辛苦了/
 [01:36:00]: [Say] (KU_UEtQ29K_) 雷克:  我拥有 1 个 蜘蛛卵。
 [01:37:32]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 今年畫大合唱就好
+[01:39:25]: [Say] (KU_TtsjKcrU) AierLuosen:  (Hunger: 3/150) The factory's gonna be short a worker if I don't get some grub!
+[01:39:28]: [Say] (KU_UEtQ29K_) 雷克:  (脑残值: 21/100) 我们上一次有午睡吗？！
+[01:39:40]: [Say] (KU_UEtQ29K_) 雷克: 我把理智補滿之後
+[01:39:46]: [Say] (KU_UEtQ29K_) 雷克: 給提爾詩玩
+[01:40:58]: [Say] (KU_UEtQ29K_) 雷克: 好 我給提爾詩玩了 幫我叫他~
+[01:41:08]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 0.0
+[01:41:11]: [Say] (KU_UEtQ29K_) 雷克: 0.0
+[01:41:15]: [Say] (KU_d2kn6_6v) chunen: 0.0
+[01:41:29]: [Join Announcement] 提爾詩
+[01:41:41]: [Leave Announcement] 雷克
+[01:42:33]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 兩個都拿
+[01:42:35]: [Say] (KU_d2kn6_6v) chunen: BOOM蜂巢收哪~
+[01:42:55]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 第一天就有?
+[01:43:22]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 2/120) I'll starve without some meat!
+[01:43:40]: [Say] (KU_d2kn6_6v) chunen: 我,我有蜂巢orz
+[01:48:45]: [Say] (KU_d2kn6_6v) chunen: 各種車輪戰
+[01:52:38]: [Say] (KU_d2kn6_6v) chunen: www
+[01:53:41]: [Say] (KU_d2kn6_6v) chunen: www
+[01:53:56]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 不能建回去 = =
+[01:54:32]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 建器人都不是在唱
+[01:54:36]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 機
+[01:55:00]: [Say] (KU_d2kn6_6v) chunen: 壞掉的車子喇叭QAQ
+[01:56:49]: [Skin Announcement] 崎三 :heart: mysterybox_ice_4
+[01:56:56]: [Say] (KU_g0ecL7wy) 崎三 :heart:: .
+[01:57:02]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 又箱子
+[01:57:10]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我要紅箱
+[01:57:18]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 不要藍箱
+[01:57:58]: [Say] (KU_d2kn6_6v) chunen: 我會冷QAQ
+[01:58:27]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 空虛直漠覺得冷
+[01:59:20]: [Say] (KU_d2kn6_6v) chunen: 我想要牛毛QAQ
+[02:00:34]: [Say] (KU_d2kn6_6v) chunen: 保溫的帽子都可以
+[02:01:11]: [Say] (KU_d2kn6_6v) chunen: 感恩

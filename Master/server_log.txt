@@ -1027,3 +1027,92 @@
 [01:32:46]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
 [01:32:47]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000275
 [01:33:08]: [P2P] Connection failed for '76561198286499269'
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000275
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000275
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000275
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000275
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000275
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000275
+[01:39:18]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000275
+[01:39:18]: Serializing world: session/537C5C69FFB19629/0000000275
+[01:40:00]: KU_TtsjKcrU	running text command:	flex	true	
+[01:40:29]: KU_TtsjKcrU	running text command:	carol	true	
+[01:41:16]: [P2P] Received from 162.145.17.194|1 '76561198286499269'
+[01:41:16]: [P2P] Sent to 162.145.17.194|1 '76561198286499269'
+[01:41:16]: New incoming connection 162.145.17.194|1 <79438605985495771>
+[01:41:16]: Client connected from 162.145.17.194|1 <79438605985495771>
+[01:41:16]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^UQR7AogJ3QmRKbXImLGLOcon/l7BsEQISA6QMQ12G/k= for <79438605985495771>
+[01:41:17]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[01:41:17]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[01:41:17]: [Steam] Authenticated client '76561198286499269'
+[01:41:20]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[01:41:31]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000275
+[01:41:31]: Spawning player at: [Load] (-100.84, -0.00, 400.36)	
+[01:41:41]: [Steam] SendUserDisconnect for '76561198031035145'
+[01:41:41]: Connection lost to 162.145.17.191|1 <5076239404975539542>
+[01:41:41]: [Shard] (KU_UEtQ29K_) disconnected from [SHDMASTER](1)
+[01:41:41]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000276
+[01:42:14]: [P2P] Connection failed for '76561198031035145'
+[01:46:35]: KU_g0ecL7wy	running text command:	chicken	true	
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000276
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000276
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000276
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000276
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000276
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000276
+[01:47:19]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000276
+[01:47:19]: Serializing world: session/537C5C69FFB19629/0000000276
+[01:47:35]: KU_TtsjKcrU	running text command:	flex	true	
+[01:51:14]: KU_TtsjKcrU	running text command:	flex	true	
+[01:51:41]: [P2P] Session timed out for '76561198031035145'
+[01:51:41]: [P2P] Remove session: 162.145.17.191|1 '76561198031035145'
+[01:51:48]: KU_d2kn6_6v	running text command:	flex	true	
+[01:52:53]: KU_TtsjKcrU	running text command:	carol	true	
+[01:53:08]: KU_BIj2U1ZB	running text command:	impatient	true	
+[01:53:12]: KU_BIj2U1ZB	running text command:	slowclap	true	
+[01:53:15]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:53:25]: KU_TtsjKcrU	running text command:	carol	true	
+[01:53:37]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:53:37]: KU_TtsjKcrU	running text command:	carol	true	
+[01:54:02]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-113.22, 538.92)
+[01:54:13]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-122.06, 542.36)
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000277
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000277
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000277
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000277
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000277
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000277
+[01:55:21]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000277
+[01:55:21]: Serializing world: session/537C5C69FFB19629/0000000277
+[01:55:28]: KU_TtsjKcrU	running text command:	carol	true	
+[01:55:58]: KU_3aPAZWmD	running text command:	carol	true	
+[01:56:34]: KU_TtsjKcrU	running text command:	carol	true	
+[01:56:56]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:57:38]: KU_TtsjKcrU	running text command:	carol	true	
+[01:57:54]: KU_TtsjKcrU	running text command:	flex	true	
+[01:57:56]: KU_TtsjKcrU	running text command:	carol	true	
+[01:58:20]: KU_TtsjKcrU	running text command:	carol	true	
+[01:58:45]: KU_TtsjKcrU	running text command:	no	true	
+[01:58:48]: KU_TtsjKcrU	running text command:	carol	true	
+[01:59:43]: KU_d2kn6_6v	running text command:	fistshake	true	
+[01:59:46]: KU_d2kn6_6v	running text command:	fistshake	true	
+[01:59:59]: KU_TtsjKcrU	running text command:	flex	true	
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:00:14]: KU_TtsjKcrU	running text command:	carol	true	
+[02:00:22]: KU_d2kn6_6v	running text command:	fistshake	true	
+[02:00:27]: KU_BIj2U1ZB	running text command:	carol	true	
+[02:00:34]: KU_TtsjKcrU	running text command:	carol	true	
+[02:00:35]: KU_TtsjKcrU	running text command:	carol	true	
+[02:00:40]: KU_TtsjKcrU	running text command:	carol	true	
+[02:01:15]: KU_TtsjKcrU	running text command:	carol	true	
+[02:01:28]: KU_BIj2U1ZB	running text command:	carol	true	
+[02:01:42]: KU_BIj2U1ZB	running text command:	carol	true	
+[02:01:50]: KU_TtsjKcrU	running text command:	carol	true	
+[02:01:51]: KU_TtsjKcrU	running text command:	carol	true	
+[02:01:59]: KU_TtsjKcrU	running text command:	carol	true	
+[02:02:00]: KU_BIj2U1ZB	running text command:	carol	true	
+[02:02:02]: KU_TtsjKcrU	running text command:	carol	true	
+[02:02:08]: KU_TtsjKcrU	running text command:	carol	true	
+[02:02:13]: KU_TtsjKcrU	running text command:	flex	true	
+[02:02:36]: KU_TtsjKcrU	running text command:	flex	true	
