@@ -453,3 +453,76 @@
 [00:11:55]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000265
 [00:11:55]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000265
 [00:11:55]: Serializing world: session/537C5C69FFB19629/0000000265
+[00:15:38]: [P2P] Session request for '76561198251790870'
+[00:15:43]: [P2P] Create session: 162.145.17.189|1 '76561198251790870'
+[00:15:43]: [P2P] Received from 162.145.17.189|1 '76561198251790870'
+[00:15:43]: [P2P] Sent to 162.145.17.189|1 '76561198251790870'
+[00:15:49]: New incoming connection 162.145.17.189|1 <1947605903221322215>
+[00:15:49]: Client connected from 162.145.17.189|1 <1947605903221322215>
+[00:15:49]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^4IoydQqZsraAvHQTxKgBzl/LEiHOs6iwIick4pKN8Bo= for <1947605903221322215>
+[00:15:49]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:15:49]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:15:50]: [Steam] Authenticated client '76561198251790870'
+[00:15:52]: [Shard] Read save location file for (KU_TtsjKcrU)
+[00:16:04]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000254
+[00:16:04]: Spawning player at: [Load] (-126.08, 0.00, 538.94)	
+[00:18:22]: KU_TtsjKcrU	running text command:	flex	true	
+[00:19:03]: KU_TtsjKcrU	running text command:	flex	true	
+[00:19:33]: KU_TtsjKcrU	running text command:	flex	true	
+[00:19:55]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000266
+[00:19:55]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000266
+[00:19:55]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000266
+[00:19:56]: Serializing world: session/537C5C69FFB19629/0000000266
+[00:20:45]: KU_TtsjKcrU	running text command:	flex	true	
+[00:20:47]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(flex={ item_type = "emote_flex", requires_validation = true, anim = "emote_flex", loop = true, mounted = true, } UserToPlayer("AierLuosen").sg:GoToState("emote",flex)) @(-138.01, 535.32)
+[00:21:32]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(flex={ item_type = "emote_flex", requires_validation = true, anim = "emote_flex", loop = true, mounted = true, } UserToPlayer("AierLuosen").sg:GoToState("emote",flex).data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToStap¿O5Æâ ) @(-135.52, 545.90)
+[00:21:32]: attempt to call a nil value
+[00:21:59]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-135.38, 540.57)
+[00:22:33]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-137.54, 542.16)
+[00:22:34]: KU_3aPAZWmD	running text command:	carol	true	
+[00:22:41]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-137.54, 542.16)
+[00:23:43]: [P2P] Session request for '76561198310003934'
+[00:23:48]: [P2P] Create session: 162.145.17.190|1 '76561198310003934'
+[00:23:48]: [P2P] Received from 162.145.17.190|1 '76561198310003934'
+[00:23:48]: [P2P] Sent to 162.145.17.190|1 '76561198310003934'
+[00:23:48]: New incoming connection 162.145.17.190|1 <2961815380628460187>
+[00:23:48]: Client connected from 162.145.17.190|1 <2961815380628460187>
+[00:23:48]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^gtKACrSYvw5Vn2XKVQ3WeScSQ3xZJGSeSpCx6FhIDlE= for <2961815380628460187>
+[00:23:49]: Client authenticated: (KU_d2kn6_6v) chunen
+[00:23:49]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[00:23:49]: KU_TtsjKcrU	running text command:	carol	true	
+[00:23:49]: [Steam] Authenticated client '76561198310003934'
+[00:23:52]: [Shard] Read save location file for (KU_d2kn6_6v)
+[00:24:23]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP
+[00:24:59]: Spawn request: wathgrithr from chunen
+[00:24:59]: Skin request: (wathgrithr_none) (body_willow_gladiator) (hand_willow_gladiator) (legs_willow_gladiator) (feet_willow_gladiator)
+[00:24:59]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[00:24:59]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000267
+[00:25:26]: KU_TtsjKcrU	running text command:	carol	true	
+[00:27:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000267
+[00:27:56]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000267
+[00:27:56]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000267
+[00:27:56]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000267
+[00:27:57]: Serializing world: session/537C5C69FFB19629/0000000267
+[00:29:22]: KU_TtsjKcrU	running text command:	flex	true	
+[00:29:58]: KU_TtsjKcrU	running text command:	carol	true	
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:31:07]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:09]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:09]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:10]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:12]: KU_TtsjKcrU	running text command:	carol	true	
+[00:31:42]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:43]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:44]: KU_TtsjKcrU	running text command:	flex	true	
+[00:31:47]: KU_TtsjKcrU	running text command:	squat	true	
+[00:33:49]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-106.94, 541.25)
+[00:33:55]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(data={     item_type = "emote_carol",     requires_validation = true,     anim = { "emote_pre_carol", "emote_loop_carol", },     fx = false,     loop = true,     mounted = true,     sounddelay = 0.8,     soundlooped = true,     soundoverride = "carol", };for k,v in pairs(AllPlayers) do     v.sg:GoToState("emote",data) end ) @(-106.99, 541.32)
+[00:35:52]: KU_TtsjKcrU	running text command:	flex	true	
+[00:35:57]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000268
+[00:35:57]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000268
+[00:35:57]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000268
+[00:35:57]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000268
+[00:35:58]: Serializing world: session/537C5C69FFB19629/0000000268
+[00:37:15]: KU_TtsjKcrU	running text command:	carol	true	
