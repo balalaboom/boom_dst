@@ -435,3 +435,8 @@
 [00:00:27]: Validating portal[2] <-> 1[2] (active)	
 [00:00:28]: [Shard] Slave LUA is now ready!
 [00:00:28]: Sim paused
+[00:03:35]: Sim unpaused
+[00:11:55]: Serializing world: session/5C44BECFFFC07A2A/0000000265
+[00:11:55]: Truncating to snapshot #265...
+[00:11:55]:  - session/5C44BECFFFC07A2A/0000000259
+[00:11:55]:    1 file(s) removed
