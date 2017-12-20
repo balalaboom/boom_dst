@@ -10,7 +10,7 @@ KLEI     1 return {
         game_mode="endless",
         intention="cooperative",
         max_players=12,
-        name="Balalaboom's World",
+        name="Boom's World",
         online_mode=true,
         password="0000",
         privacy_type=0,
