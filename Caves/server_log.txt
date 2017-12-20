@@ -488,3 +488,7 @@
 [01:00:01]:    1 file(s) removed
 [01:00:06]: [200] Account Communication Success (6)
 [01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:08:02]: Serializing world: session/5C44BECFFFC07A2A/0000000272
+[01:08:02]: Truncating to snapshot #272...
+[01:08:02]:  - session/5C44BECFFFC07A2A/0000000266
+[01:08:02]:    1 file(s) removed

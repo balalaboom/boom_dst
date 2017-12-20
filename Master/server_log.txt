@@ -638,3 +638,24 @@
 [01:00:01]: Serializing world: session/537C5C69FFB19629/0000000271
 [01:00:06]: [200] Account Communication Success (6)
 [01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:02:41]: KU_UEtQ29K_	running text command:	chicken	true	
+[01:08:02]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000272
+[01:08:02]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000272
+[01:08:02]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000272
+[01:08:02]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000272
+[01:08:02]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000272
+[01:08:02]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000272
+[01:08:02]: Serializing world: session/537C5C69FFB19629/0000000272
+[01:13:57]: [P2P] Session request for '76561197976933513'
+[01:14:01]: [P2P] Create session: 162.145.17.193|1 '76561197976933513'
+[01:14:01]: [P2P] Received from 162.145.17.193|1 '76561197976933513'
+[01:14:01]: [P2P] Sent to 162.145.17.193|1 '76561197976933513'
+[01:14:04]: New incoming connection 162.145.17.193|1 <9039928570248745992>
+[01:14:04]: Client connected from 162.145.17.193|1 <9039928570248745992>
+[01:14:04]: ValidateGameSessionToken pgs-sing^KU_g0ecL7wy^DontStarveTogether^3yRUWNr6k/eFyFclkdlzlHMHTQrOrsU54HUd9sGdd+Y= for <9039928570248745992>
+[01:14:04]: Client authenticated: (KU_g0ecL7wy) 崎三 :heart:
+[01:14:05]: [Steam] SendUserConnectAndAuthenticate for '76561197976933513'
+[01:14:05]: [Steam] Authenticated client '76561197976933513'
+[01:14:07]: [Shard] Read save location file for (KU_g0ecL7wy)
+[01:14:21]: Resuming user: session/537C5C69FFB19629/A7L818J58VLS/0000000254
+[01:14:21]: Spawning player at: [Load] (-119.53, 0.00, 530.25)	
