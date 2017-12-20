@@ -526,3 +526,115 @@
 [00:35:57]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000268
 [00:35:58]: Serializing world: session/537C5C69FFB19629/0000000268
 [00:37:15]: KU_TtsjKcrU	running text command:	carol	true	
+[00:40:10]: Activating portal[1] to 2560562348	
+[00:40:11]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000269
+[00:40:11]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(2560562348)
+[00:40:11]: [Shard] Begin migration #1 for (KU_TtsjKcrU)
+[00:40:11]: [Shard] #1 [SHDMASTER](1) -> Caves(2560562348)
+[00:40:11]: [Shard] #1 <- session/537C5C69FFB19629/A7JNFMML4RAU/0000000269
+[00:40:11]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:40:11]: [Steam] SendUserDisconnect for '76561198251790870'
+[00:40:11]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[00:40:24]: [Shard] Completed migration #1 for player (KU_TtsjKcrU)
+[00:40:24]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[00:43:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000269
+[00:43:58]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000269
+[00:43:58]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000269
+[00:43:59]: Serializing world: session/537C5C69FFB19629/0000000269
+[00:45:43]: [Shard] Begin migration #2 for (KU_TtsjKcrU)
+[00:45:43]: [Shard] #2 Caves(2560562348) -> [SHDMASTER](1)
+[00:45:43]: [Shard] #2 -> session/537C5C69FFB19629/A7JNFMML4RAU/0000000270
+[00:45:43]: [Shard] Received migration #2 data for (KU_TtsjKcrU)
+[00:45:43]: [Shard] (KU_TtsjKcrU) disconnected from Caves(2560562348)
+[00:45:53]: [P2P] Received from 162.145.17.189|1 '76561198251790870'
+[00:45:53]: [P2P] Sent to 162.145.17.189|1 '76561198251790870'
+[00:45:54]: New incoming connection 162.145.17.189|1 <3443985174293308480>
+[00:45:54]: Client connected from 162.145.17.189|1 <3443985174293308480>
+[00:45:54]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^zTYsiH0Zn+Y0qo62LoB4zmlJO7OuD6h8oPqxalAbpfA= for <3443985174293308480>
+[00:45:55]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:45:55]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:45:55]: [Steam] Authenticated client '76561198251790870'
+[00:45:55]: [Shard] Completed incoming migration #2 for (KU_TtsjKcrU)
+[00:45:55]: [Shard] Completed migration #2 for player (KU_TtsjKcrU)
+[00:45:55]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[00:46:06]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000270
+[00:46:06]: Player will spawn close to portal #1	
+[00:46:06]: Spawning player at: [Load] (-8.39, 0.00, 469.52)	
+[00:46:34]: [P2P] Session request for '76561198031035145'
+[00:46:38]: [P2P] Create session: 162.145.17.191|1 '76561198031035145'
+[00:46:38]: [P2P] Received from 162.145.17.191|1 '76561198031035145'
+[00:46:38]: [P2P] Sent to 162.145.17.191|1 '76561198031035145'
+[00:47:55]: [P2P] Received from 162.145.17.191|1 '76561198031035145'
+[00:47:55]: [P2P] Sent to 162.145.17.191|1 '76561198031035145'
+[00:47:55]: New incoming connection 162.145.17.191|1 <7178778056801287075>
+[00:47:55]: Client connected from 162.145.17.191|1 <7178778056801287075>
+[00:47:55]: ValidateGameSessionToken pgs-sing^KU_UEtQ29K_^DontStarveTogether^YhdKeKRJuzSHc3HL1t02Rk6cAq5OghORp+1QmpqkSdM= for <7178778056801287075>
+[00:47:56]: Client authenticated: (KU_UEtQ29K_) 雷克
+[00:47:56]: [Steam] SendUserConnectAndAuthenticate for '76561198031035145'
+[00:47:56]: [Steam] Authenticated client '76561198031035145'
+[00:47:59]: [Shard] Read save location file for (KU_UEtQ29K_)
+[00:48:34]: Resuming user: session/537C5C69FFB19629/A7JOTND0H59V
+[00:48:45]: Spawn request: webber from 雷克
+[00:48:45]: Skin request: (webber_ice) (body_webber_ice) (hand_willow_ice) () (feet_webber_ice)
+[00:48:45]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[00:48:45]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000270
+[00:51:09]: [Steam] SendUserDisconnect for '76561198031035145'
+[00:51:09]: Connection lost to 162.145.17.191|1 <7178778056801287075>
+[00:51:09]: [Shard] (KU_UEtQ29K_) disconnected from [SHDMASTER](1)
+[00:51:09]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000270
+[00:51:27]: [P2P] Session request for '76561198211986697'
+[00:51:32]: [P2P] Create session: 162.145.17.192|1 '76561198211986697'
+[00:51:32]: [P2P] Received from 162.145.17.192|1 '76561198211986697'
+[00:51:32]: [P2P] Sent to 162.145.17.192|1 '76561198211986697'
+[00:51:33]: New incoming connection 162.145.17.192|1 <8598555842600342216>
+[00:51:33]: Client connected from 162.145.17.192|1 <8598555842600342216>
+[00:51:33]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^8Lb12sq8o/3+92hftMRu5v3ojDdhT7P6V3IAcOR4xes= for <8598555842600342216>
+[00:51:34]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[00:51:34]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[00:51:34]: [Steam] Authenticated client '76561198211986697'
+[00:51:37]: [Shard] Read save location file for (KU_M673WWQo)
+[00:51:59]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000270
+[00:51:59]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000270
+[00:51:59]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000270
+[00:51:59]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000270
+[00:52:00]: Serializing world: session/537C5C69FFB19629/0000000270
+[00:52:00]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI
+[00:52:23]: [P2P] Received from 162.145.17.191|1 '76561198031035145'
+[00:52:23]: [P2P] Sent to 162.145.17.191|1 '76561198031035145'
+[00:52:28]: New incoming connection 162.145.17.191|1 <5076239404975539542>
+[00:52:28]: Client connected from 162.145.17.191|1 <5076239404975539542>
+[00:52:28]: ValidateGameSessionToken pgs-sing^KU_UEtQ29K_^DontStarveTogether^kxJw9+Izv3UBCKjoL3ftk1949Yo24RVUjuIC0rltG/Y= for <5076239404975539542>
+[00:52:28]: Client authenticated: (KU_UEtQ29K_) 雷克
+[00:52:28]: [Steam] SendUserConnectAndAuthenticate for '76561198031035145'
+[00:52:29]: [Steam] Authenticated client '76561198031035145'
+[00:52:31]: [Shard] Read save location file for (KU_UEtQ29K_)
+[00:52:42]: Resuming user: session/537C5C69FFB19629/A7JOTND0H59V/0000000270
+[00:52:42]: Spawning player at: [Load] (-195.59, 0.00, -83.42)	
+[00:52:53]: Spawn request: woodie from 夜月夏目
+[00:52:53]: Skin request: (woodie_none) () () () ()
+[00:52:53]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[00:52:53]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000271
+[00:53:47]: KU_TtsjKcrU	running text command:	carol	true	
+[00:55:22]: KU_UEtQ29K_	running text command:	chicken	true	
+[00:55:27]: KU_UEtQ29K_	running text command:	cheer	true	
+[00:55:28]: KU_UEtQ29K_	running text command:	flex	true	
+[00:55:30]: KU_UEtQ29K_	running text command:	impatient	true	
+[00:55:31]: KU_UEtQ29K_	running text command:	fistshake	true	
+[00:55:33]: KU_UEtQ29K_	running text command:	step	true	
+[00:55:34]: KU_UEtQ29K_	running text command:	robot	true	
+[00:55:36]: KU_UEtQ29K_	running text command:	swoon	true	
+[00:55:37]: KU_UEtQ29K_	running text command:	sleepy	true	
+[00:55:39]: KU_UEtQ29K_	running text command:	slowclap	true	
+[00:55:41]: KU_UEtQ29K_	running text command:	shrug	true	
+[00:56:18]: KU_TtsjKcrU	running text command:	carol	true	
+[00:58:19]: KU_TtsjKcrU	running text command:	carol	true	
+[00:58:27]: KU_TtsjKcrU	running text command:	carol	true	
+[01:00:01]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000271
+[01:00:01]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000271
+[01:00:01]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000271
+[01:00:01]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000271
+[01:00:01]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000271
+[01:00:01]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000271
+[01:00:01]: Serializing world: session/537C5C69FFB19629/0000000271
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
