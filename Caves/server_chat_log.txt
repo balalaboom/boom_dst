@@ -60,3 +60,57 @@
 [01:14:14]: [Say] (KU_UEtQ29K_) 雷克: 我好想打羊。
 [01:14:19]: [Join Announcement] 崎三 :heart:
 [01:14:36]: [Say] (KU_UEtQ29K_) 雷克: 崎三OWO
+[01:14:51]: [Say] (KU_g0ecL7wy) 崎三 :heart:: owo
+[01:15:39]: [Say] (KU_d2kn6_6v) chunen: owo
+[01:15:48]: [Say] (KU_UEtQ29K_) 雷克: owo
+[01:15:55]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 機器人呢?
+[01:16:39]: [Say] (KU_d2kn6_6v) chunen: ooooo
+[01:17:03]: [Say] (KU_d2kn6_6v) chunen: OK
+[01:18:52]: [Say] (KU_UEtQ29K_) 雷克: .
+[01:18:52]: [Death Announcement] 雷克 死亡，死因： 嗡嗡熊蜂。他變成了一個令人毛骨悚然的鬼！
+[01:19:09]: [Say] (KU_UEtQ29K_) 雷克: 我輩蜜蜂狂丁
+[01:21:44]: [Death Announcement] ルビー 死亡，死因： 尖喙恐懼化身。他變成了一個令人毛骨悚然的鬼！
+[01:22:05]: [Death Announcement] 夜月夏目 死亡，死因： 嗡嗡熊蜂。他變成了一個令人毛骨悚然的鬼！
+[01:22:22]: [Death Announcement] chunen 死亡，死因： 嗡嗡熊蜂。她變成了一個令人毛骨悚然的鬼！
+[01:22:39]: [Vote Announcement] rollback passed
+[01:22:44]: [Death Announcement] balalaboom 死亡，死因： 女王蜂。她變成了一個令人毛骨悚然的鬼！
+[01:23:50]: [Say] (KU_d2kn6_6v) chunen: 藥膏13個
+[01:23:55]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我在家
+[01:24:51]: [Say] (KU_UEtQ29K_) 雷克: ..
+[01:24:59]: [Say] (KU_UEtQ29K_) 雷克: 人品爆炸
+[01:25:01]: [Say] (KU_uGVY9zVB) balalaboom: ?
+[01:25:11]: [Say] (KU_UEtQ29K_) 雷克: 全鋼他..
+[01:25:18]: [Say] (KU_UEtQ29K_) 雷克: 打一隻蝴蝶就掉黃油
+[01:25:46]: [Say] (KU_UEtQ29K_) 雷克: 克勞斯 YEE~ 克勞斯
+[01:25:49]: [Say] (KU_UEtQ29K_) 雷克: (?)
+[01:25:59]: [Say] (KU_UEtQ29K_) 雷克: 我剛剛有聽到YEE對嗎?
+[01:26:01]: [Say] (KU_d2kn6_6v) chunen: 克勞德*(X
+[01:26:29]: [Say] (KU_d2kn6_6v) chunen: 坎普斯:我下輩子 要當好人
+[01:26:56]: [Say] (KU_UEtQ29K_) 雷克: ...
+[01:27:01]: [Say] (KU_UEtQ29K_) 雷克: 長鬍子好噁心
+[01:27:10]: [Say] (KU_UEtQ29K_) 雷克: 好奇怪
+[01:27:17]: [Say] (KU_UEtQ29K_) 雷克: 這個SKIN長鬍子超怪
+[01:28:17]: [Say] (KU_UEtQ29K_) 雷克:  (脑残值: 58/100) 小睡一会可以回复一下。
+[01:28:31]: [Say] (KU_UEtQ29K_) 雷克:  (饥饿值: 140/175) 我们两者的胃部都爆满了。
+[01:28:45]: [Say] (KU_UEtQ29K_) 雷克: 忘了換回英文XD
+[01:28:52]: [Say] (KU_UEtQ29K_) 雷克:  (生命值: 175/175) 我们甚至没有划痕一丝！
+[01:29:13]: [Say] (KU_UEtQ29K_) 雷克: 大力士吃飽跳起來
+[01:29:22]: [Say] (KU_UEtQ29K_) 雷克: 我覺得很像海豹..
+[01:29:41]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我分類好了
+[01:30:17]: [Say] (KU_UEtQ29K_) 雷克: ..
+[01:30:22]: [Say] (KU_UEtQ29K_) 雷克: 香
+[01:30:32]: [Say] (KU_d2kn6_6v) chunen: 誰能幫我搓一根長矛
+[01:30:57]: [Say] (KU_UEtQ29K_) 雷克: 我沒學
+[01:30:58]: [Say] (KU_d2kn6_6v) chunen: 乾恩
+[01:31:23]: [Say] (KU_UEtQ29K_) 雷克: 有木有
+[01:31:46]: [Say] (KU_uGVY9zVB) balalaboom: 被小蜜蜂追打的就往外圈跑
+[01:31:49]: [Say] (KU_UEtQ29K_) 雷克: 豪
+[01:31:50]: [Say] (KU_uGVY9zVB) balalaboom: 小隻的不打
+[01:31:50]: [Say] (KU_d2kn6_6v) chunen: gogo
+[01:31:53]: [Say] (KU_uGVY9zVB) balalaboom: GO
+[01:32:26]: [Join Announcement] 提爾詩
+[01:32:46]: [Leave Announcement] 提爾詩
+[01:34:48]: [Say] (KU_UEtQ29K_) 雷克:  (脑残值: 17/100) 我们上一次有午睡吗？！
+[01:35:33]: [Say] (KU_d2kn6_6v) chunen: 辛苦了/
+[01:36:00]: [Say] (KU_UEtQ29K_) 雷克:  我拥有 1 个 蜘蛛卵。
+[01:37:32]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 今年畫大合唱就好
