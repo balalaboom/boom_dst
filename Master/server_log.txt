@@ -1396,3 +1396,15 @@
 [03:20:22]: [Shard] Read save location file for (KU_M673WWQo)
 [03:20:47]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000309
 [03:20:47]: Spawning player at: [Load] (-136.45, -0.00, 532.11)	
+[03:27:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000310
+[03:27:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000310
+[03:27:41]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000310
+[03:27:41]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000310
+[03:27:42]: Serializing world: session/537C5C69FFB19629/0000000310
+[03:30:07]: [200] Account Communication Success (6)
+[03:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:35:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000311
+[03:35:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000311
+[03:35:42]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000311
+[03:35:42]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000311
+[03:35:43]: Serializing world: session/537C5C69FFB19629/0000000311
