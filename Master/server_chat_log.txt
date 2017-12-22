@@ -85,3 +85,15 @@
 [02:36:19]: [Say] (KU_6DFSm74k) Nalant: 󰀅󰀆󰀅
 [02:36:30]: [Say] (KU_6DFSm74k) Nalant: 最醜的那種
 [02:36:52]: [Say] (KU_6DFSm74k) Nalant: 高腳鳥會重生啊
+[02:46:40]: [Death Announcement] balalaboom 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
+[02:47:04]: [Resurrect Announcement] balalaboom 復活自 ルビー.
+[02:48:04]: [Skin Announcement] balalaboom mysterybox_ice_4
+[02:48:27]: [Say] (KU_6DFSm74k) Nalant: 春天啊
+[02:50:37]: [Say] (KU_6DFSm74k) Nalant: 黏液?
+[02:51:51]: [Say] (KU_6DFSm74k) Nalant: 吃下去那瞬間降理智
+[02:52:29]: [Say] (KU_6DFSm74k) Nalant: 鏟子快壞掉給我
+[02:54:58]: [Say] (KU_6DFSm74k) Nalant: 差一點又被查理殺掉
+[02:57:16]: [Skin Announcement] Nalant mysterybox_ice_4
+[02:58:13]: [Announcement] 有 ╰(󰀅ω󰀅)╯
+[02:58:38]: [Say] (KU_6DFSm74k) Nalant: 有脆皮麥叔
+[03:00:31]: [Say] (KU_6DFSm74k) Nalant: 嗯
