@@ -10,3 +10,21 @@
 [00:49:09]: [Join Announcement] 提爾詩
 [00:49:34]: [Leave Announcement] (tw)Liu
 [01:00:01]: [Skin Announcement] ルビー mysterybox_classic_4
+[01:05:29]: [Join Announcement] chunen
+[01:05:42]: [Say] (KU_d2kn6_6v) chunen: QAQ
+[01:05:51]: [Say] (KU_d2kn6_6v) chunen: 會太頓嗎
+[01:06:07]: [Say] (KU_d2kn6_6v) chunen: 那我去看本本0w0
+[01:06:13]: [Say] (KU_d2kn6_6v) chunen: 你們玩
+[01:09:14]: [Say] (KU_d2kn6_6v) chunen: !?
+[01:09:35]: [Death Announcement] balalaboom 死亡，死因： 麥特斯克。她變成了一個令人毛骨悚然的鬼！
+[01:11:16]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[01:14:16]: [Say] (KU_d2kn6_6v) chunen: 大象被殺了QAQ
+[01:14:51]: [Join Announcement] Nalant
+[01:16:54]: [Say] (KU_6DFSm74k) Nalant: 可以打3啊
+[01:17:01]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 麋鹿鵝。她變成了一個令人毛骨悚然的鬼！
+[01:17:09]: [Say] (KU_d2kn6_6v) chunen: wwww
+[01:17:14]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 chunen.
+[01:17:15]: [Say] (KU_6DFSm74k) Nalant: 被蛋砸死?
+[01:17:48]: [Say] (KU_d2kn6_6v) chunen: 35寫不能敲W
+[01:21:13]: [Skin Announcement] balalaboom mysterybox_classic_4
+[01:24:13]: [Skin Announcement] chunen mysterybox_classic_4

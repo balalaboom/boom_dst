@@ -579,3 +579,59 @@
 [00:59:34]: [P2P] Remove session: 118.241.205.248|1 '76561198145254895'
 [01:00:06]: [200] Account Communication Success (6)
 [01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:03:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000293
+[01:03:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000293
+[01:03:42]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000293
+[01:03:42]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000293
+[01:03:43]: Serializing world: session/537C5C69FFB19629/0000000293
+[01:05:11]: [P2P] Session request for '76561198310003934'
+[01:05:16]: [P2P] Create session: 118.241.205.250|1 '76561198310003934'
+[01:05:16]: [P2P] Received from 118.241.205.250|1 '76561198310003934'
+[01:05:16]: [P2P] Sent to 118.241.205.250|1 '76561198310003934'
+[01:05:16]: New incoming connection 118.241.205.250|1 <3195359896186774152>
+[01:05:16]: Client connected from 118.241.205.250|1 <3195359896186774152>
+[01:05:16]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^/jm7JnEP2NOM5KZGdeN2gN8K4dyWX5+2hi/bhE26r3Y= for <3195359896186774152>
+[01:05:17]: Client authenticated: (KU_d2kn6_6v) chunen
+[01:05:17]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[01:05:17]: [Steam] Authenticated client '76561198310003934'
+[01:05:20]: [Shard] Read save location file for (KU_d2kn6_6v)
+[01:05:30]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000284
+[01:05:30]: Spawning player at: [Load] (-123.89, -0.00, 530.74)	
+[01:09:35]: Could not find anim [death] in bank [ghost]
+[01:09:35]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
+[01:11:16]: Could not find anim [idle_loop] in bank [ghost]
+[01:11:19]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
+[01:11:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
+[01:11:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000294
+[01:11:43]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000294
+[01:11:43]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000294
+[01:11:43]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000294
+[01:11:44]: Serializing world: session/537C5C69FFB19629/0000000294
+[01:14:35]: [P2P] Session request for '76561198165400477'
+[01:14:39]: [P2P] Create session: 118.241.205.251|1 '76561198165400477'
+[01:14:39]: [P2P] Received from 118.241.205.251|1 '76561198165400477'
+[01:14:39]: [P2P] Sent to 118.241.205.251|1 '76561198165400477'
+[01:14:39]: New incoming connection 118.241.205.251|1 <3175361789180932549>
+[01:14:39]: Client connected from 118.241.205.251|1 <3175361789180932549>
+[01:14:39]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^yOq4zzfbmC5iURAlclem9QUrNU0w4oJFeBKr4dwl924= for <3175361789180932549>
+[01:14:40]: Client authenticated: (KU_6DFSm74k) Nalant
+[01:14:40]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
+[01:14:40]: [Steam] Authenticated client '76561198165400477'
+[01:14:43]: [Shard] Read save location file for (KU_6DFSm74k)
+[01:14:52]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E
+[01:16:01]: Spawn request: waxwell from Nalant
+[01:16:01]: Skin request: (waxwell_gladiator) (body_cardigan_black_jet) (hand_wilson_gladiator) (legs_skirt_plaid_blue_cornflower) (feet_formal_stiletto_black_scribble)
+[01:16:01]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[01:16:01]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000295
+[01:17:01]: Could not find anim [death] in bank [ghost]
+[01:17:01]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
+[01:17:14]: Could not find anim [idle_loop] in bank [ghost]
+[01:17:17]: Could not find anim [transform] in bank [wilson]
+[01:17:18]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
+[01:19:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000295
+[01:19:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000295
+[01:19:44]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
+[01:19:44]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000295
+[01:19:44]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000295
+[01:19:44]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000295
+[01:19:45]: Serializing world: session/537C5C69FFB19629/0000000295
