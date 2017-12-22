@@ -504,3 +504,28 @@
 [01:33:52]: Spawning player at: [Load] (366.58, 0.00, -265.55)	
 [01:35:46]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000297
 [01:35:46]: Serializing world: session/5C44BECFFFC07A2A/0000000297
+[01:43:48]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000298
+[01:43:49]: Serializing world: session/5C44BECFFFC07A2A/0000000298
+[01:48:15]: Could not find anim [death] in bank [ghost]
+[01:48:15]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000299
+[01:48:47]: Activating portal[1] to 1	
+[01:48:47]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000299
+[01:48:47]: [Shard] Migration request: (KU_d2kn6_6v) to [SHDMASTER](1)
+[01:48:47]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000299
+[01:48:47]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:48:47]: Ignored request to resume during migration
+[01:48:47]: [Steam] SendUserDisconnect for '76561198310003934'
+[01:51:50]: Serializing world: session/5C44BECFFFC07A2A/0000000299
+[01:51:50]: Truncating to snapshot #299...
+[01:51:50]:  - session/5C44BECFFFC07A2A/0000000293
+[01:51:50]:  - session/5C44BECFFFC07A2A/0000000291
+[01:51:50]:  - session/5C44BECFFFC07A2A/0000000292
+[01:51:50]:    3 file(s) removed
+[01:58:48]: [P2P] Session timed out for '76561198310003934'
+[01:58:48]: [P2P] Remove session: 118.241.203.244|1 '76561198310003934'
+[01:59:51]: Serializing world: session/5C44BECFFFC07A2A/0000000300
+[01:59:51]: Truncating to snapshot #300...
+[01:59:51]:  - session/5C44BECFFFC07A2A/0000000294
+[01:59:51]:    1 file(s) removed
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_uGVY9zVB) from TokenPurpose

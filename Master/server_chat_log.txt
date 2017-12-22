@@ -37,3 +37,23 @@
 [01:32:17]: [Say] (KU_6DFSm74k) Nalant: 我在提爾斯的服也是女戰XD
 [01:34:12]: [Say] (KU_d2kn6_6v) chunen: 下線再上線?
 [01:37:07]: [Leave Announcement] 提爾詩
+[01:44:50]: [Say] (KU_d2kn6_6v) chunen: 地底不會LAG
+[01:45:38]: [Say] (KU_6DFSm74k) Nalant: 暫離
+[01:45:49]: [Leave Announcement] Nalant
+[01:48:15]: [Death Announcement] chunen 死亡，死因： 蜘蛛戰士。她變成了一個令人毛骨悚然的鬼！
+[01:48:18]: [Say] (KU_d2kn6_6v) chunen: GG QAQ
+[01:48:32]: [Say] (KU_d2kn6_6v) chunen: 大意了
+[01:50:21]: [Say] (KU_d2kn6_6v) chunen: 可能要等你們
+[01:51:56]: [Say] (KU_d2kn6_6v) chunen: 貪心想撿東西,結果燈拿不起來˙030
+[01:52:05]: [Say] (KU_d2kn6_6v) chunen: 然後我就被蜘蛛咬死了w
+[01:52:28]: [Leave Announcement] chunen
+[01:52:34]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 青蛙。她變成了一個令人毛骨悚然的鬼！
+[01:52:35]: [Leave Announcement] 小坤
+[01:52:38]: [Leave Announcement] 讓子彈飛一會兒
+[01:56:14]: [Skin Announcement] ルビー mysterybox_classic_4
+[01:57:24]: [Join Announcement] 讓子彈飛一會兒
+[01:58:49]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 ルビー.
+[01:59:22]: [Death Announcement] ルビー 死亡，死因： 豬人。他變成了一個令人毛骨悚然的鬼！
+[02:00:07]: [Resurrect Announcement] ルビー 復活自 讓子彈飛一會兒.
+[02:01:22]: [Join Announcement] 夜月夏目
+[02:01:59]: [Join Announcement] Nalant
