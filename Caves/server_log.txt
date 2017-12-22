@@ -542,3 +542,28 @@
 [02:23:57]:  - session/5C44BECFFFC07A2A/0000000297
 [02:23:57]:  - session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000297
 [02:23:57]:    2 file(s) removed
+[02:28:38]: RemoteCommandInput: "c_announce(c_countprefabs("klaus_sack")~=0 and "有" or "沒有")"
+[02:28:38]: There are 	0	klaus_sacks in the world.	
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:31:58]: Serializing world: session/5C44BECFFFC07A2A/0000000304
+[02:31:58]: Truncating to snapshot #304...
+[02:31:58]:  - session/5C44BECFFFC07A2A/0000000298
+[02:31:58]:  - session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000298
+[02:31:58]:    2 file(s) removed
+[02:38:17]: [Shard] #3 -> session/5C44BECFFFC07A2A/A7GOQFEC0S9E/0000000305
+[02:38:17]: [Shard] Received migration #3 data for (KU_6DFSm74k)
+[02:38:22]: [P2P] Session request for '76561198165400477'
+[02:38:26]: [P2P] Create session: 118.241.203.245|1 '76561198165400477'
+[02:38:26]: [P2P] Received from 118.241.203.245|1 '76561198165400477'
+[02:38:26]: [P2P] Sent to 118.241.203.245|1 '76561198165400477'
+[02:38:27]: New incoming connection 118.241.203.245|1 <432465195679423073>
+[02:38:27]: Client connected from 118.241.203.245|1 <432465195679423073>
+[02:38:27]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^ybZ7cRV+cZXxF0Rc2QoSrfUKzFrM3EXsyHlmGvksGZY= for <432465195679423073>
+[02:38:27]: Client authenticated: (KU_6DFSm74k) Nalant
+[02:38:27]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
+[02:38:28]: [Steam] Authenticated client '76561198165400477'
+[02:38:28]: [Shard] Completed incoming migration #3 for (KU_6DFSm74k)
+[02:38:36]: Resuming user: session/5C44BECFFFC07A2A/A7GOQFEC0S9E/0000000305
+[02:38:36]: Player will spawn close to portal #1	
+[02:38:36]: Spawning player at: [Load] (362.03, 0.00, -263.47)	

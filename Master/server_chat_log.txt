@@ -71,3 +71,17 @@
 [02:24:34]: [Say] (KU_6DFSm74k) Nalant: 住在屋裡的不會
 [02:26:23]: [Say] (KU_6DFSm74k) Nalant: 可以查一下袋子出現沒
 [02:26:36]: [Say] (KU_6DFSm74k) Nalant: findnext("klaus_sack")
+[02:27:46]: [Say] (KU_6DFSm74k) Nalant: 還是我記錯XD
+[02:28:38]: [Announcement] 沒有
+[02:29:26]: [Say] (KU_6DFSm74k) Nalant: 食人花放哪
+[02:29:34]: [Leave Announcement] 夜月夏目
+[02:31:22]: [Join Announcement] 夜月夏目
+[02:32:43]: [Skin Announcement] Nalant mysterybox_classic_4
+[02:32:51]: [Say] (KU_6DFSm74k) Nalant: 紅箱箱
+[02:33:08]: [Say] (KU_3aPAZWmD) ルビー: OWOb
+[02:33:18]: [Say] (KU_6DFSm74k) Nalant: 結果開出四件白裝XD
+[02:33:23]: [Say] (KU_3aPAZWmD) ルビー: wwww
+[02:33:27]: [Say] (KU_uGVY9zVB) balalaboom: lol
+[02:36:19]: [Say] (KU_6DFSm74k) Nalant: 󰀅󰀆󰀅
+[02:36:30]: [Say] (KU_6DFSm74k) Nalant: 最醜的那種
+[02:36:52]: [Say] (KU_6DFSm74k) Nalant: 高腳鳥會重生啊
