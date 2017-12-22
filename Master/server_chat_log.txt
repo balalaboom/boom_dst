@@ -195,3 +195,33 @@
 [04:36:21]: [Say] (KU_6DFSm74k) Nalant: 難得現在還在下雨
 [04:37:32]: [Say] (KU_6DFSm74k) Nalant: 蟻獅沒出來
 [04:37:37]: [Say] (KU_6DFSm74k) Nalant: 要沙塵暴
+[04:40:14]: [Say] (KU_6DFSm74k) Nalant: 要離開綠洲才會有沙塵暴
+[04:42:05]: [Say] (KU_6DFSm74k) Nalant: 要沒看到沙漠才可以吧XD
+[04:42:42]: [Say] (KU_6DFSm74k) Nalant: 原地下線上線應該也可以
+[04:42:46]: [Say] (KU_6DFSm74k) Nalant: 我去偷看
+[04:43:06]: [Say] (KU_6DFSm74k) Nalant: 還沒
+[04:43:35]: [Leave Announcement] Nalant
+[04:43:46]: [Leave Announcement] ルビー
+[04:43:48]: [Leave Announcement] balalaboom
+[04:44:34]: [Join Announcement] balalaboom
+[04:44:41]: [Join Announcement] Nalant
+[04:45:49]: [Join Announcement] ルビー
+[04:46:51]: [Say] (KU_6DFSm74k) Nalant: 走吧
+[04:46:55]: [Say] (KU_3aPAZWmD) ルビー: OK
+[04:47:21]: [Say] (KU_6DFSm74k) Nalant: 祭品我拿38%的
+[04:48:07]: [Say] (KU_3aPAZWmD) ルビー: XD
+[04:48:13]: [Say] (KU_6DFSm74k) Nalant: 燒玻璃
+[04:48:38]: [Say] (KU_6DFSm74k) Nalant: 狗狗
+[04:48:53]: [Say] (KU_6DFSm74k) Nalant: 我也打得贏
+[04:48:56]: [Leave Announcement] balalaboom
+[04:48:58]: [Leave Announcement] ルビー
+[04:48:58]: [Say] (KU_6DFSm74k) Nalant: 22天
+[04:50:10]: [Join Announcement] balalaboom
+[04:50:23]: [Join Announcement] ルビー
+[04:50:44]: [Say] (KU_6DFSm74k) Nalant: 我帶仙人掌回家做食物哦?
+[04:55:49]: [Say] (KU_6DFSm74k) Nalant: 可以
+[04:56:05]: [Say] (KU_6DFSm74k) Nalant: 都忘記你是伍迪了XD
+[05:00:11]: [Say] (KU_6DFSm74k) Nalant: 我先休息一下
+[05:00:13]: [Say] (KU_6DFSm74k) Nalant: 掰掰
+[05:00:16]: [Say] (KU_3aPAZWmD) ルビー: 88/
+[05:00:27]: [Leave Announcement] Nalant
