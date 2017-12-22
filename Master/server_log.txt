@@ -532,3 +532,50 @@
 [00:37:30]: KU_MitzUqYv	running text command:	fistshake	true	
 [00:37:33]: KU_MitzUqYv	running text command:	flex	true	
 [00:37:37]: KU_MitzUqYv	running text command:	chicken	true	
+[00:39:31]: Could not find anim [death] in bank [ghost]
+[00:39:31]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000290
+[00:39:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000290
+[00:39:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000290
+[00:39:40]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000290
+[00:39:40]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000290
+[00:39:40]: Serializing world: session/537C5C69FFB19629/0000000290
+[00:39:59]: KU_MitzUqYv	running text command:	laugh	true	
+[00:40:04]: KU_MitzUqYv	running text command:	laugh	true	
+[00:40:07]: KU_MitzUqYv	running text command:	laugh	true	
+[00:40:07]: Could not find anim [idle_loop] in bank [ghost]
+[00:40:10]: Could not find anim [transform] in bank [wilson]
+[00:40:11]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000291
+[00:40:17]: KU_MitzUqYv	running text command:	laugh	true	
+[00:47:07]: KU_MitzUqYv	running text command:	squat	true	
+[00:47:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000291
+[00:47:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000291
+[00:47:41]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000291
+[00:47:41]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000291
+[00:47:41]: Serializing world: session/537C5C69FFB19629/0000000291
+[00:48:52]: [P2P] Session request for '76561198286499269'
+[00:48:56]: [P2P] Create session: 118.241.205.249|1 '76561198286499269'
+[00:48:56]: [P2P] Received from 118.241.205.249|1 '76561198286499269'
+[00:48:56]: [P2P] Sent to 118.241.205.249|1 '76561198286499269'
+[00:48:56]: New incoming connection 118.241.205.249|1 <3860794656865821789>
+[00:48:56]: Client connected from 118.241.205.249|1 <3860794656865821789>
+[00:48:56]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^hEk32l/v/L+UfY4FVGLozvK/W1Vi1zZkhNSWnWgc5Qw= for <3860794656865821789>
+[00:48:56]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[00:48:56]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[00:48:57]: [Steam] Authenticated client '76561198286499269'
+[00:48:59]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[00:49:11]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000279
+[00:49:11]: Spawning player at: [Load] (-128.38, -0.00, 536.70)	
+[00:49:34]: [Steam] SendUserDisconnect for '76561198145254895'
+[00:49:34]: Connection lost to 118.241.205.248|1 <6861005078835344268>
+[00:49:34]: [Shard] (KU_1uTCSDWL) disconnected from [SHDMASTER](1)
+[00:49:35]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000292
+[00:55:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000292
+[00:55:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000292
+[00:55:42]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000292
+[00:55:42]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000292
+[00:55:42]: Serializing world: session/537C5C69FFB19629/0000000292
+[00:58:33]: KU_MitzUqYv	running text command:	sit	true	
+[00:59:34]: [P2P] Session timed out for '76561198145254895'
+[00:59:34]: [P2P] Remove session: 118.241.205.248|1 '76561198145254895'
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
