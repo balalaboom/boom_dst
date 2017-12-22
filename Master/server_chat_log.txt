@@ -165,3 +165,21 @@
 [04:01:55]: [Say] (KU_6DFSm74k) Nalant: 太多隻了
 [04:02:09]: [Say] (KU_6DFSm74k) Nalant: 大概站這個位置
 [04:03:07]: [Say] (KU_6DFSm74k) Nalant: 我開囉?
+[04:05:04]: [Say] (KU_6DFSm74k) Nalant: 站這邊
+[04:06:27]: [Say] (KU_6DFSm74k) Nalant: 嗯
+[04:09:59]: [Skin Announcement] 夜月夏目 mysterybox_classic_4
+[04:10:00]: [Say] (KU_6DFSm74k) Nalant: 蟾蜍皮
+[04:15:59]: [Say] (KU_6DFSm74k) Nalant: Ben XD
+[04:16:42]: [Say] (KU_6DFSm74k) Nalant: 糟糕要死在外面了
+[04:16:50]: [Say] (KU_6DFSm74k) Nalant: 嗯
+[04:17:08]: [Leave Announcement] Nalant
+[04:17:41]: [Join Announcement] Nalant
+[04:17:44]: [Death Announcement] Nalant 死亡，死因： 投機取巧。他變成了一個令人毛骨悚然的鬼！
+[04:17:53]: [Say] (KU_6DFSm74k) Nalant: 原來我身上有燈
+[04:18:00]: [Say] (KU_6DFSm74k) Nalant: 我剛剛找不到wwwww
+[04:18:06]: [Say] (KU_6DFSm74k) Nalant: 眼殘
+[04:18:46]: [Say] (KU_6DFSm74k) Nalant: 我還想說我剛剛填光果填到提燈不見
+[04:19:06]: [Resurrect Announcement] Nalant 復活自 夜月夏目.
+[04:19:33]: [Say] (KU_6DFSm74k) Nalant: 家裡還有暖石嗎
+[04:19:48]: [Say] (KU_6DFSm74k) Nalant: 感謝
+[04:27:04]: [Say] (KU_6DFSm74k) Nalant: 什麼時候要去圍毆蟻獅XD

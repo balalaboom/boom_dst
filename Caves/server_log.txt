@@ -1348,3 +1348,19 @@
 [04:01:11]: Validating portal[7] <-> 1[7] (active)	
 [04:01:11]: Validating portal[3] <-> 1[3] (active)	
 [04:01:11]: Validating portal[6] <-> 1[6] (active)	
+[04:03:23]: Serializing world: session/5C44BECFFFC07A2A/0000000314
+[04:03:23]: Truncating to snapshot #314...
+[04:03:23]:  - session/5C44BECFFFC07A2A/0000000308
+[04:03:23]:    1 file(s) removed
+[04:09:10]: Serializing world: session/5C44BECFFFC07A2A/0000000315
+[04:09:10]: Truncating to snapshot #315...
+[04:09:10]:  - session/5C44BECFFFC07A2A/0000000309
+[04:09:10]:    1 file(s) removed
+[04:17:11]: Serializing world: session/5C44BECFFFC07A2A/0000000316
+[04:17:11]: Truncating to snapshot #316...
+[04:17:11]:  - session/5C44BECFFFC07A2A/0000000310
+[04:17:11]:    1 file(s) removed
+[04:25:12]: Serializing world: session/5C44BECFFFC07A2A/0000000317
+[04:25:12]: Truncating to snapshot #317...
+[04:25:12]:  - session/5C44BECFFFC07A2A/0000000311
+[04:25:12]:    1 file(s) removed
