@@ -121,3 +121,47 @@
 [03:31:05]: [Say] (KU_6DFSm74k) Nalant: 我要先回家一趟
 [03:38:41]: [Say] (KU_6DFSm74k) Nalant: 我先去蓋牆
 [03:39:00]: [Say] (KU_6DFSm74k) Nalant: 八個石牆跟兩個木牌
+[03:41:56]: [Leave Announcement] balalaboom
+[03:42:16]: [Say] (KU_6DFSm74k) Nalant: 好像蓋得有點寬XD
+[03:42:30]: [Say] (KU_3aPAZWmD) ルビー: 竟然w
+[03:43:40]: [Say] (KU_6DFSm74k) Nalant: 就這樣吧 沒卡住就算了(X
+[03:43:47]: [Say] (KU_3aPAZWmD) ルビー: XD
+[03:44:25]: [Say] (KU_6DFSm74k) Nalant: ㄅㄨㄣˋ
+[03:44:35]: [Say] (KU_3aPAZWmD) ルビー: 英文課 XD
+[03:44:56]: [Say] (KU_6DFSm74k) Nalant: 幫我帶一個食物
+[03:45:05]: [Say] (KU_3aPAZWmD) ルビー: 好喔
+[03:45:39]: [Say] (KU_6DFSm74k) Nalant: 我想自己一個人偷打看看
+[03:45:49]: [Say] (KU_6DFSm74k) Nalant: 看會不會卡住
+[03:46:44]: [Say] (KU_6DFSm74k) Nalant: 真的蓋太寬XD
+[03:47:14]: [Say] (KU_6DFSm74k) Nalant: 放著不管他會回家嗎
+[03:47:31]: [Say] (KU_6DFSm74k) Nalant: 好像會
+[03:47:35]: [Say] (KU_6DFSm74k) Nalant: 我重蓋一個
+[03:48:35]: [Join Announcement] balalaboom
+[03:49:09]: [Say] (KU_6DFSm74k) Nalant: 回來偷吃食物
+[03:51:44]: [Say] (KU_6DFSm74k) Nalant: 要多拿一把鑰匙來XD
+[03:51:58]: [Say] (KU_6DFSm74k) Nalant: 被我用掉了
+[03:52:28]: [Say] (KU_6DFSm74k) Nalant: 嗯
+[03:52:53]: [Say] (KU_6DFSm74k) Nalant: 我有水餃了
+[03:53:20]: [Say] (KU_6DFSm74k) Nalant: boom有帶睡書嗎
+[03:53:29]: [Say] (KU_6DFSm74k) Nalant: 沒有就直接扛
+[03:53:33]: [Say] (KU_6DFSm74k) Nalant: 坎普斯
+[03:53:50]: [Say] (KU_6DFSm74k) Nalant: 你們先在這邊等
+[03:53:52]: [Say] (KU_6DFSm74k) Nalant: 嗯
+[03:53:57]: [Say] (KU_6DFSm74k) Nalant: 我這個位置
+[03:54:55]: [Say] (KU_6DFSm74k) Nalant: 嗯站boom那邊
+[03:55:30]: [Say] (KU_6DFSm74k) Nalant: 5
+[03:55:34]: [Say] (KU_6DFSm74k) Nalant: 有一隻沒卡到
+[03:55:43]: [Say] (KU_6DFSm74k) Nalant: 我先拖走
+[03:56:36]: [Say] (KU_6DFSm74k) Nalant: 繞一下就好了 應該不用回溯
+[03:58:36]: [Say] (KU_6DFSm74k) Nalant: 拉過來
+[03:58:47]: [Say] (KU_6DFSm74k) Nalant: 要站在魔法範圍外
+[03:59:23]: [Say] (KU_6DFSm74k) Nalant: 不是
+[03:59:42]: [Say] (KU_6DFSm74k) Nalant: 慢慢拉
+[04:00:01]: [Death Announcement] Nalant 死亡，死因： 坎普斯。他變成了一個令人毛骨悚然的鬼！
+[04:00:08]: [Say] (KU_6DFSm74k) Nalant: XD
+[04:00:15]: [Resurrect Announcement] Nalant 復活自 夜月夏目.
+[04:00:25]: [Death Announcement] ルビー 死亡，死因： 克勞斯。他變成了一個令人毛骨悚然的鬼！
+[04:01:53]: [Say] (KU_6DFSm74k) Nalant: 等等先用冰杖冰坎普斯吧
+[04:01:55]: [Say] (KU_6DFSm74k) Nalant: 太多隻了
+[04:02:09]: [Say] (KU_6DFSm74k) Nalant: 大概站這個位置
+[04:03:07]: [Say] (KU_6DFSm74k) Nalant: 我開囉?
