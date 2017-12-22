@@ -225,3 +225,7 @@
 [05:00:13]: [Say] (KU_6DFSm74k) Nalant: 掰掰
 [05:00:16]: [Say] (KU_3aPAZWmD) ルビー: 88/
 [05:00:27]: [Leave Announcement] Nalant
+[05:22:11]: [Leave Announcement] balalaboom
+[05:24:20]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
+[05:24:28]: [Leave Announcement] 夜月夏目
+[05:25:32]: [Join Announcement] 夜月夏目
