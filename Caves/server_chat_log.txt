@@ -183,3 +183,15 @@
 [04:19:33]: [Say] (KU_6DFSm74k) Nalant: 家裡還有暖石嗎
 [04:19:48]: [Say] (KU_6DFSm74k) Nalant: 感謝
 [04:27:04]: [Say] (KU_6DFSm74k) Nalant: 什麼時候要去圍毆蟻獅XD
+[04:29:03]: [Say] (KU_6DFSm74k) Nalant: 補品在冰箱
+[04:29:18]: [Say] (KU_6DFSm74k) Nalant: 你們有人帶祭品嗎
+[04:30:25]: [Say] (KU_6DFSm74k) Nalant: 家裡的帶過去也壞了
+[04:32:05]: [Say] (KU_6DFSm74k) Nalant: 祭品在你身上嗎
+[04:33:00]: [Say] (KU_6DFSm74k) Nalant: 下雨沒沙塵暴嗎
+[04:34:39]: [Say] (KU_6DFSm74k) Nalant: 沒避雷針XD
+[04:35:25]: [Say] (KU_6DFSm74k) Nalant: 不會自燃?
+[04:35:30]: [Say] (KU_6DFSm74k) Nalant: 但是會被雷劈
+[04:35:58]: [Say] (KU_6DFSm74k) Nalant: 只有一顆XD
+[04:36:21]: [Say] (KU_6DFSm74k) Nalant: 難得現在還在下雨
+[04:37:32]: [Say] (KU_6DFSm74k) Nalant: 蟻獅沒出來
+[04:37:37]: [Say] (KU_6DFSm74k) Nalant: 要沙塵暴
