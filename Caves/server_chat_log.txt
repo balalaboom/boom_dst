@@ -28,3 +28,12 @@
 [01:17:48]: [Say] (KU_d2kn6_6v) chunen: 35寫不能敲W
 [01:21:13]: [Skin Announcement] balalaboom mysterybox_classic_4
 [01:24:13]: [Skin Announcement] chunen mysterybox_classic_4
+[01:27:20]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Health: 9/200) My saga reaches an end...
+[01:27:23]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Sanity: 4/120) Stay back, beasts of darkness!
+[01:27:25]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 9/120) I'll starve without some meat!
+[01:30:16]: [Join Announcement] 小坤
+[01:30:33]: [Say] (KU_d2kn6_6v) chunen: 為什麼殺死兔人,他噴了一個ㄆㄨㄣ給我@@
+[01:30:52]: [Say] (KU_d2kn6_6v) chunen: 黑人問號
+[01:32:17]: [Say] (KU_6DFSm74k) Nalant: 我在提爾斯的服也是女戰XD
+[01:34:12]: [Say] (KU_d2kn6_6v) chunen: 下線再上線?
+[01:37:07]: [Leave Announcement] 提爾詩

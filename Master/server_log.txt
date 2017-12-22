@@ -635,3 +635,51 @@
 [01:19:44]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000295
 [01:19:44]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000295
 [01:19:45]: Serializing world: session/537C5C69FFB19629/0000000295
+[01:27:45]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000296
+[01:27:45]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000296
+[01:27:45]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000296
+[01:27:45]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000296
+[01:27:45]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000296
+[01:27:45]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000296
+[01:27:46]: Serializing world: session/537C5C69FFB19629/0000000296
+[01:29:56]: [P2P] Session request for '76561198159209988'
+[01:30:00]: [P2P] Create session: 118.241.205.252|1 '76561198159209988'
+[01:30:00]: [P2P] Received from 118.241.205.252|1 '76561198159209988'
+[01:30:00]: [P2P] Sent to 118.241.205.252|1 '76561198159209988'
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:30:07]: New incoming connection 118.241.205.252|1 <24241799469645214>
+[01:30:07]: Client connected from 118.241.205.252|1 <24241799469645214>
+[01:30:07]: ValidateGameSessionToken pgs-sing^KU_aIEojigU^DontStarveTogether^3aAGRr7joYrvZ9gr7iCXENihdfFD9zXbfAEcjEP8JFc= for <24241799469645214>
+[01:30:08]: Client authenticated: (KU_aIEojigU) 小坤
+[01:30:08]: [Steam] SendUserConnectAndAuthenticate for '76561198159209988'
+[01:30:08]: [Steam] Authenticated client '76561198159209988'
+[01:30:11]: [Shard] Read save location file for (KU_aIEojigU)
+[01:30:17]: Resuming user: session/537C5C69FFB19629/A7KH4EPBDIKU
+[01:32:34]: Spawn request: wathgrithr from 小坤
+[01:32:34]: Skin request: (wathgrithr_none) (body_willow_gladiator) (hand_willow_gladiator) (legs_willow_gladiator) (feet_wathgrithr_gladiator)
+[01:32:34]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[01:32:34]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000297
+[01:33:33]: Activating portal[1] to 2560562348	
+[01:33:34]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000297
+[01:33:34]: [Shard] Migration request: (KU_d2kn6_6v) to Caves(2560562348)
+[01:33:34]: [Shard] Begin migration #1 for (KU_d2kn6_6v)
+[01:33:34]: [Shard] #1 [SHDMASTER](1) -> Caves(2560562348)
+[01:33:34]: [Shard] #1 <- session/537C5C69FFB19629/A7KS5EOHNSDP/0000000297
+[01:33:34]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:33:34]: [Steam] SendUserDisconnect for '76561198310003934'
+[01:33:34]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[01:33:43]: [Shard] Completed migration #1 for player (KU_d2kn6_6v)
+[01:33:43]: [Shard] Writing save location file for (KU_d2kn6_6v)
+[01:35:46]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000297
+[01:35:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000297
+[01:35:46]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000297
+[01:35:46]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000297
+[01:35:46]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000297
+[01:35:46]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000297
+[01:35:47]: Serializing world: session/537C5C69FFB19629/0000000297
+[01:37:03]: [P2P] Connection failed for '76561198286499269'
+[01:37:07]: [Steam] SendUserDisconnect for '76561198286499269'
+[01:37:07]: Connection lost to 118.241.205.249|1 <3860794656865821789>
+[01:37:07]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[01:37:07]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000298

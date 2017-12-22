@@ -480,3 +480,27 @@
 [01:19:44]: Truncating to snapshot #295...
 [01:19:44]:  - session/5C44BECFFFC07A2A/0000000289
 [01:19:44]:    1 file(s) removed
+[01:27:45]: Serializing world: session/5C44BECFFFC07A2A/0000000296
+[01:27:45]: Truncating to snapshot #296...
+[01:27:45]:  - session/5C44BECFFFC07A2A/0000000290
+[01:27:45]:    1 file(s) removed
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:33:34]: [Shard] #1 -> session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000297
+[01:33:34]: [Shard] Received migration #1 data for (KU_d2kn6_6v)
+[01:33:38]: [P2P] Session request for '76561198310003934'
+[01:33:41]: [P2P] Create session: 118.241.203.244|1 '76561198310003934'
+[01:33:41]: [P2P] Received from 118.241.203.244|1 '76561198310003934'
+[01:33:41]: [P2P] Sent to 118.241.203.244|1 '76561198310003934'
+[01:33:42]: New incoming connection 118.241.203.244|1 <2724520370533347987>
+[01:33:42]: Client connected from 118.241.203.244|1 <2724520370533347987>
+[01:33:42]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^Q1wRpNAzNv95Irn7u/xh0T0/j+vZPe/wZLmxtNyb+Fs= for <2724520370533347987>
+[01:33:43]: Client authenticated: (KU_d2kn6_6v) chunen
+[01:33:43]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[01:33:43]: [Steam] Authenticated client '76561198310003934'
+[01:33:43]: [Shard] Completed incoming migration #1 for (KU_d2kn6_6v)
+[01:33:52]: Resuming user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000297
+[01:33:52]: Player will spawn close to portal #1	
+[01:33:52]: Spawning player at: [Load] (366.58, 0.00, -265.55)	
+[01:35:46]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000297
+[01:35:46]: Serializing world: session/5C44BECFFFC07A2A/0000000297
