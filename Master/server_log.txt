@@ -495,3 +495,40 @@
 [00:23:40]: Skin request: (wendy_ice) (body_wendy_ice) (hand_wendy_ice) () (feet_wendy_ice)
 [00:23:40]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
 [00:23:40]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000289
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:30:37]: KU_1uTCSDWL	running text command:	carol	true	
+[00:30:50]: KU_1uTCSDWL	running text command:	carol	true	
+[00:30:50]: KU_MitzUqYv	running text command:	sit	true	
+[00:30:51]: KU_1uTCSDWL	running text command:	squat	true	
+[00:30:53]: KU_1uTCSDWL	running text command:	squat	true	
+[00:30:55]: KU_1uTCSDWL	running text command:	sit	true	
+[00:31:03]: KU_1uTCSDWL	running text command:	laugh	true	
+[00:31:05]: KU_1uTCSDWL	running text command:	shrug	true	
+[00:31:05]: KU_MitzUqYv	running text command:	laugh	true	
+[00:31:06]: KU_1uTCSDWL	running text command:	slowclap	true	
+[00:31:08]: KU_1uTCSDWL	running text command:	carol	true	
+[00:31:08]: KU_MitzUqYv	running text command:	bonesaw	true	
+[00:31:13]: KU_MitzUqYv	running text command:	angry	true	
+[00:31:15]: KU_MitzUqYv	running text command:	dance	true	
+[00:31:23]: KU_3aPAZWmD	running text command:	carol	true	
+[00:31:34]: KU_1uTCSDWL	running text command:	chicken	true	
+[00:31:39]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000289
+[00:31:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000289
+[00:31:39]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000289
+[00:31:39]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000289
+[00:31:39]: Serializing world: session/537C5C69FFB19629/0000000289
+[00:34:09]: KU_1uTCSDWL	running text command:	carol	true	
+[00:35:37]: KU_MitzUqYv	running text command:	sit	true	
+[00:35:44]: KU_MitzUqYv	running text command:	kiss	true	
+[00:36:52]: KU_MitzUqYv	running text command:	sit	true	
+[00:36:59]: KU_MitzUqYv	running text command:	squat	true	
+[00:37:03]: KU_MitzUqYv	running text command:	squat	true	
+[00:37:14]: KU_MitzUqYv	running text command:	joy	true	
+[00:37:16]: KU_MitzUqYv	running text command:	joy	true	
+[00:37:19]: KU_MitzUqYv	running text command:	joy	true	
+[00:37:22]: KU_MitzUqYv	running text command:	joy	true	
+[00:37:26]: KU_MitzUqYv	running text command:	fistshake	true	
+[00:37:30]: KU_MitzUqYv	running text command:	fistshake	true	
+[00:37:33]: KU_MitzUqYv	running text command:	flex	true	
+[00:37:37]: KU_MitzUqYv	running text command:	chicken	true	
