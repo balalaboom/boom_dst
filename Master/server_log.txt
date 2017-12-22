@@ -2201,3 +2201,40 @@
 [05:37:26]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000328
 [05:37:26]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000328
 [05:37:26]: Serializing world: session/537C5C69FFB19629/0000000328
+[05:45:27]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000329
+[05:45:27]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000329
+[05:45:27]: Serializing world: session/537C5C69FFB19629/0000000329
+[05:53:17]: [Steam] SendUserDisconnect for '76561198211986697'
+[05:53:17]: Connection lost to 118.241.205.254|1 <9118944926831691541>
+[05:53:17]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[05:53:18]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000330
+[05:53:28]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000330
+[05:53:28]: Serializing world: session/537C5C69FFB19629/0000000330
+[05:54:13]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
+[05:54:13]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
+[05:54:13]: New incoming connection 118.241.205.254|1 <4396663795420260194>
+[05:54:13]: Client connected from 118.241.205.254|1 <4396663795420260194>
+[05:54:13]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^lrKAKTKZeyPp+zt8Dj879VlMZRvPVHXBxY6C1iWjC+I= for <4396663795420260194>
+[05:54:13]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[05:54:14]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[05:54:14]: [Steam] Authenticated client '76561198211986697'
+[05:54:16]: [Shard] Read save location file for (KU_M673WWQo)
+[05:54:25]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000330
+[05:54:26]: Spawning player at: [Load] (180.78, -0.00, -82.03)	
+[05:59:29]: [P2P] Create session: 118.241.206.1|1 '76561198354843262'
+[05:59:29]: [P2P] Received from 118.241.206.1|1 '76561198354843262'
+[05:59:29]: [P2P] Sent to 118.241.206.1|1 '76561198354843262'
+[06:00:07]: [200] Account Communication Success (6)
+[06:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:01:29]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000331
+[06:01:29]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000331
+[06:01:30]: Serializing world: session/537C5C69FFB19629/0000000331
+[06:02:17]: [Steam] SendUserDisconnect for '76561198211986697'
+[06:02:17]: Connection lost to 118.241.205.254|1 <4396663795420260194>
+[06:02:17]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[06:02:17]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000332
+[06:02:52]: [Steam] SendUserDisconnect for '76561198189824466'
+[06:02:52]: Connection lost to 118.241.205.246|1 <2170874965702245951>
+[06:02:52]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[06:02:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000332
+[06:02:52]: Sim paused

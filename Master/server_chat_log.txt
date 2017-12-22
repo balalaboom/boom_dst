@@ -229,3 +229,9 @@
 [05:24:20]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
 [05:24:28]: [Leave Announcement] 夜月夏目
 [05:25:32]: [Join Announcement] 夜月夏目
+[05:45:10]: [Skin Announcement] ルビー mysterybox_ice_4
+[05:53:10]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
+[05:53:17]: [Leave Announcement] 夜月夏目
+[05:54:24]: [Join Announcement] 夜月夏目
+[06:02:17]: [Leave Announcement] 夜月夏目
+[06:02:52]: [Leave Announcement] ルビー
