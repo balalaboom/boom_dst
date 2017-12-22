@@ -424,3 +424,74 @@
 [00:00:26]: Validating portal[6] <-> 2560562348[6] (disabled)	
 [00:00:26]: Validating portal[10] <-> 2560562348[10] (disabled)	
 [00:00:26]: Validating portal[9] <-> 2560562348[9] (active)	
+[00:04:45]: [P2P] Session request for '76561198354843262'
+[00:04:49]: [P2P] Create session: 118.241.205.245|1 '76561198354843262'
+[00:04:49]: [P2P] Received from 118.241.205.245|1 '76561198354843262'
+[00:04:49]: [P2P] Sent to 118.241.205.245|1 '76561198354843262'
+[00:04:49]: New incoming connection 118.241.205.245|1 <2428120602713962450>
+[00:04:49]: Client connected from 118.241.205.245|1 <2428120602713962450>
+[00:04:49]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^ohX8qLlLkeoJ42Z54pSA+AASiNUaDBLep+CpTq+zZLs= for <2428120602713962450>
+[00:04:50]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[00:04:50]: [Steam] Authenticated host '76561198354843262'
+[00:04:52]: [Shard] Read save location file for (KU_uGVY9zVB)
+[00:05:22]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000284
+[00:05:22]: Spawning player at: [Load] (-113.02, 0.00, 519.63)	
+[00:05:22]: Sim unpaused
+[00:07:36]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000286
+[00:07:36]: Serializing world: session/537C5C69FFB19629/0000000286
+[00:08:02]: [P2P] Session request for '76561198189824466'
+[00:08:07]: [P2P] Create session: 118.241.205.246|1 '76561198189824466'
+[00:08:07]: [P2P] Received from 118.241.205.246|1 '76561198189824466'
+[00:08:07]: [P2P] Sent to 118.241.205.246|1 '76561198189824466'
+[00:08:07]: New incoming connection 118.241.205.246|1 <1943028747246230455>
+[00:08:07]: Client connected from 118.241.205.246|1 <1943028747246230455>
+[00:08:07]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^+McE00E4Ew/P2coVQibdQ+p3lLUKfbwo1JanA5LT6oE= for <1943028747246230455>
+[00:08:08]: Client authenticated: (KU_3aPAZWmD) ルビー
+[00:08:08]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[00:08:08]: [Steam] Authenticated client '76561198189824466'
+[00:08:11]: [Shard] Read save location file for (KU_3aPAZWmD)
+[00:08:27]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000284
+[00:08:27]: Spawning player at: [Load] (-130.59, 0.00, 535.63)	
+[00:10:13]: [P2P] Session request for '76561198099860495'
+[00:10:16]: [P2P] Create session: 118.241.205.247|1 '76561198099860495'
+[00:10:16]: [P2P] Received from 118.241.205.247|1 '76561198099860495'
+[00:10:16]: [P2P] Sent to 118.241.205.247|1 '76561198099860495'
+[00:10:25]: New incoming connection 118.241.205.247|1 <5495918621223941705>
+[00:10:25]: Client connected from 118.241.205.247|1 <5495918621223941705>
+[00:10:25]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^HFv2TIVUjps2xcBMbXquPU0tgxQF9uyeapmQ0DHjESs= for <5495918621223941705>
+[00:10:26]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[00:10:26]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[00:10:26]: [Steam] Authenticated client '76561198099860495'
+[00:10:29]: [Shard] Read save location file for (KU_MitzUqYv)
+[00:10:42]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P
+[00:11:33]: Spawn request: winona from 讓子彈飛一會兒
+[00:11:33]: Skin request: (winona_gladiator) (body_winona_gladiator) (hand_winona_gladiator) (legs_winona_gladiator) (feet_winona_gladiator)
+[00:11:33]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[00:11:33]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000287
+[00:15:37]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000287
+[00:15:37]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000287
+[00:15:37]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000287
+[00:15:38]: Serializing world: session/537C5C69FFB19629/0000000287
+[00:20:47]: [P2P] Session request for '76561198145254895'
+[00:20:52]: [P2P] Create session: 118.241.205.248|1 '76561198145254895'
+[00:20:52]: [P2P] Received from 118.241.205.248|1 '76561198145254895'
+[00:20:52]: [P2P] Sent to 118.241.205.248|1 '76561198145254895'
+[00:21:53]: KU_MitzUqYv	running text command:	carol	true	
+[00:23:06]: [P2P] Received from 118.241.205.248|1 '76561198145254895'
+[00:23:06]: [P2P] Sent to 118.241.205.248|1 '76561198145254895'
+[00:23:06]: New incoming connection 118.241.205.248|1 <6861005078835344268>
+[00:23:06]: Client connected from 118.241.205.248|1 <6861005078835344268>
+[00:23:06]: ValidateGameSessionToken pgs-sing^KU_1uTCSDWL^DontStarveTogether^QTqlcX1Cn5pZWjlJHw/CPdG1FJ763dlGj0ySpAdQ+Ts= for <6861005078835344268>
+[00:23:07]: Client authenticated: (KU_1uTCSDWL) (tw)Liu
+[00:23:07]: [Steam] SendUserConnectAndAuthenticate for '76561198145254895'
+[00:23:07]: [Steam] Authenticated client '76561198145254895'
+[00:23:10]: [Shard] Read save location file for (KU_1uTCSDWL)
+[00:23:24]: Resuming user: session/537C5C69FFB19629/A7G7GT671M0L
+[00:23:38]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000288
+[00:23:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000288
+[00:23:38]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000288
+[00:23:38]: Serializing world: session/537C5C69FFB19629/0000000288
+[00:23:40]: Spawn request: wendy from (tw)Liu
+[00:23:40]: Skin request: (wendy_ice) (body_wendy_ice) (hand_wendy_ice) () (feet_wendy_ice)
+[00:23:40]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
+[00:23:40]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000289
