@@ -97,3 +97,23 @@
 [02:58:13]: [Announcement] 有 ╰(󰀅ω󰀅)╯
 [02:58:38]: [Say] (KU_6DFSm74k) Nalant: 有脆皮麥叔
 [03:00:31]: [Say] (KU_6DFSm74k) Nalant: 嗯
+[03:03:35]: [Say] (KU_6DFSm74k) Nalant: 對啊不知道甚麼時候改了
+[03:04:35]: [Skin Announcement] 夜月夏目 mysterybox_classic_4
+[03:07:50]: [Leave Announcement] 夜月夏目
+[03:08:36]: [Say] (KU_6DFSm74k) Nalant: 還有另外一片樺樹林嗎
+[03:10:12]: [Death Announcement] balalaboom 死亡，死因： 高腳鳥。她變成了一個令人毛骨悚然的鬼！
+[03:10:52]: [Death Announcement] ルビー 死亡，死因： 高腳鳥。他變成了一個令人毛骨悚然的鬼！
+[03:12:11]: [Join Announcement] 夜月夏目
+[03:14:07]: [Leave Announcement] 夜月夏目
+[03:15:06]: [Say] (KU_6DFSm74k) Nalant: 我也想去開開看了XD
+[03:15:41]: [Leave Announcement] Nalant
+[03:17:50]: [Join Announcement] Nalant
+[03:17:57]: [Say] (KU_6DFSm74k) Nalant: 藍箱都是頭貼XD
+[03:18:05]: [Say] (KU_3aPAZWmD) ルビー: (拍拍
+[03:18:13]: [Say] (KU_6DFSm74k) Nalant: 想要BOSS背景
+[03:20:46]: [Join Announcement] 夜月夏目
+[03:20:55]: [Say] (KU_6DFSm74k) Nalant: 要用圍毆的嗎
+[03:21:07]: [Say] (KU_6DFSm74k) Nalant: 圍毆的我可以幫蓋牆XD
+[03:21:39]: [Say] (KU_6DFSm74k) Nalant: 也可以單吃看看XD 麥叔單吃好抖
+[03:24:48]: [Say] (KU_6DFSm74k) Nalant: 巢變成女王了
+[03:25:04]: [Say] (KU_6DFSm74k) Nalant: 克勞斯
