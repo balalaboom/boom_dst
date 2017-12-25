@@ -525,3 +525,57 @@
 [00:07:00]: [Shard] Read save location file for (KU_3aPAZWmD)
 [00:07:49]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000332
 [00:07:49]: Spawning player at: [Load] (-125.52, -0.00, 538.83)	
+[00:14:12]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000354
+[00:14:12]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000354
+[00:14:12]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000354
+[00:14:12]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000354
+[00:14:12]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000354
+[00:14:12]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000354
+[00:14:12]: Serializing world: session/537C5C69FFB19629/0000000354
+[00:14:30]: [P2P] Session request for '76561198211986697'
+[00:14:35]: [P2P] Create session: 18.67.183.173|1 '76561198211986697'
+[00:14:35]: [P2P] Received from 18.67.183.173|1 '76561198211986697'
+[00:14:35]: [P2P] Sent to 18.67.183.173|1 '76561198211986697'
+[00:14:36]: New incoming connection 18.67.183.173|1 <1412166405719712060>
+[00:14:36]: Client connected from 18.67.183.173|1 <1412166405719712060>
+[00:14:36]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^aLnlmKnY+X+CvegSmSFOky/W/h9emdAXNwn2hmQ8Nr4= for <1412166405719712060>
+[00:14:36]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[00:14:36]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[00:14:36]: [Steam] Authenticated client '76561198211986697'
+[00:14:39]: [Shard] Read save location file for (KU_M673WWQo)
+[00:15:27]: KU_MitzUqYv	running text command:	laugh	true	
+[00:15:30]: KU_MitzUqYv	running text command:	laugh	true	
+[00:15:35]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000332
+[00:15:35]: Spawning player at: [Load] (-181.83, -0.00, -76.75)	
+[00:15:49]: Could not find anim [death] in bank [ghost]
+[00:15:49]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000355
+[00:17:30]: Could not find anim [idle_loop] in bank [ghost]
+[00:17:33]: Could not find anim [transform] in bank [wilson]
+[00:17:34]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000355
+[00:19:19]: KU_TtsjKcrU	running text command:	flex	true	
+[00:19:23]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:25]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:26]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:28]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:29]: [P2P] Connection failed for '76561198211986697'
+[00:19:29]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:31]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:32]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:19:32]: [Steam] SendUserDisconnect for '76561198211986697'
+[00:19:32]: Connection lost to 18.67.183.173|1 <1412166405719712060>
+[00:19:32]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[00:19:33]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000355
+[00:19:39]: KU_TtsjKcrU	running text command:	flex	true	
+[00:19:40]: KU_TtsjKcrU	running text command:	flex	true	
+[00:19:41]: KU_TtsjKcrU	running text command:	impatient	true	
+[00:19:42]: KU_TtsjKcrU	running text command:	flex	true	
+[00:20:08]: KU_TtsjKcrU	running text command:	squat	true	
+[00:20:43]: KU_TtsjKcrU	running text command:	cry	true	
+[00:22:11]: KU_TtsjKcrU	running text command:	robot	true	
+[00:22:13]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000355
+[00:22:13]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000355
+[00:22:13]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000355
+[00:22:13]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000355
+[00:22:13]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000355
+[00:22:13]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000355
+[00:22:13]: Serializing world: session/537C5C69FFB19629/0000000355
