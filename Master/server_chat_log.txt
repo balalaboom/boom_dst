@@ -161,3 +161,41 @@
 [04:01:41]: [Resurrect Announcement] adai1198 復活自 ルビー.
 [04:24:53]: [Say] (KU_vIIO9TCg) adai1198:  I have 22 鵝卵石磚s.
 [04:29:39]: [Say] (KU_vIIO9TCg) adai1198:  I have 128 落葉林地皮s.
+[04:48:27]: [Join Announcement] 夜月夏目
+[04:50:20]: [Leave Announcement] balalaboom
+[04:52:45]: [Join Announcement] Nalant
+[04:53:01]: [Say] (KU_6DFSm74k) Nalant: 為什麼要住極光下面XD
+[04:55:56]: [Say] (KU_6DFSm74k) Nalant: 大一輪?
+[04:56:56]: [Leave Announcement] 夜月夏目
+[04:57:13]: [Say] (KU_6DFSm74k) Nalant: 進來參觀看大家都在做什麼
+[04:57:34]: [Say] (KU_6DFSm74k) Nalant: 哇還沒吃
+[04:58:08]: [Join Announcement] 阿薩謝爾
+[04:58:47]: [Say] (KU_vIIO9TCg) adai1198:  We have a 巨鹿眼球 in this 箱子.
+[04:58:56]: [Say] (KU_6DFSm74k) Nalant: 哦哦
+[04:59:24]: [Join Announcement] 夜月夏目
+[04:59:39]: [Say] (KU_6DFSm74k) Nalant: 就卡位置用mod啊
+[05:00:13]: [Say] (KU_6DFSm74k) Nalant: 也太拚手速了
+[05:00:51]: [Say] (KU_6DFSm74k) Nalant: 可以耶
+[05:04:06]: [Say] (KU_6DFSm74k) Nalant: 你也被黑死
+[05:04:19]: [Join Announcement] 讓子彈飛一會兒
+[05:04:21]: [Say] (KU_6DFSm74k) Nalant: 我上次來這邊也黑死兩次
+[05:04:27]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: HIHI
+[05:04:37]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我起床了
+[05:04:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: n
+[05:05:02]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 這誰家
+[05:05:10]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他怎不見了
+[05:05:28]: [Say] (KU_6DFSm74k) Nalant: 對哦我還有紅骨沒測試怎麼打XD
+[05:07:29]: [Say] (KU_6DFSm74k) Nalant: 1%我都拿來當燃料
+[05:07:30]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我剛剛玩到最後真的在神遊
+[05:07:44]: [Say] (KU_6DFSm74k) Nalant: 你剛剛在玩什麼
+[05:07:53]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 在boom的房
+[05:08:02]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我
+[05:08:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我睡著wwww
+[05:08:48]: [Say] (KU_6DFSm74k) Nalant: 一疊炸藥是8000傷害嗎
+[05:08:58]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我是真的超類
+[05:09:08]: [Say] (KU_6DFSm74k) Nalant: 紅骨血多少啊
+[05:09:19]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 18000艾爾說buff
+[05:09:43]: [Say] (KU_6DFSm74k) Nalant: 我還沒打過紅骨XD
+[05:09:47]: [Say] (KU_6DFSm74k) Nalant: <-新手
+[05:09:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我自己打他都沒看到血量 還打了兩次www
+[05:09:53]: [Say] (KU_vIIO9TCg) adai1198: !新手
