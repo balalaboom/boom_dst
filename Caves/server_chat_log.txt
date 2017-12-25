@@ -326,3 +326,31 @@
 [07:19:40]: [Say] (KU_6DFSm74k) Nalant: 犀牛鑰匙只能留在地底
 [07:20:15]: [Say] (KU_6DFSm74k) Nalant: 應該是上地表的時候會掉在洞口
 [07:22:48]: [Join Announcement] 崎三
+[07:24:40]: [Say] (KU_6DFSm74k) Nalant: 地底的齒輪怪都清了嗎
+[07:24:40]: [Say] (KU_g0ecL7wy) 崎三: 沒飯吃
+[07:25:46]: [Say] (KU_6DFSm74k) Nalant: 克勞斯都不給蠟紙了
+[07:27:07]: [Join Announcement] 提爾詩
+[07:28:59]: [Say] (KU_uGVY9zVB) balalaboom: 打紅骨
+[07:30:11]: [Say] (KU_uGVY9zVB) balalaboom: 有人帶魂和活木嗎?
+[07:30:14]: [Say] (KU_uGVY9zVB) balalaboom: @@
+[07:30:22]: [Say] (KU_uGVY9zVB) balalaboom: 被地鼠撿走了
+[07:30:48]: [Say] (KU_uGVY9zVB) balalaboom: 幫我挖
+[07:31:05]: [Say] (KU_uGVY9zVB) balalaboom: 這
+[07:31:56]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[07:32:01]: [Say] (KU_g0ecL7wy) 崎三: xd
+[07:32:35]: [Say] (KU_uGVY9zVB) balalaboom: 可以
+[07:32:37]: [Say] (KU_g0ecL7wy) 崎三: o
+[07:32:53]: [Say] (KU_uGVY9zVB) balalaboom: GO
+[07:32:53]: [Say] (KU_g0ecL7wy) 崎三: 這個(不知怎麼講)可以XXXX
+[07:33:48]: [Say] (KU_uGVY9zVB) balalaboom: 我帶了
+[07:37:19]: [Say] (KU_uGVY9zVB) balalaboom: 進去後再穿
+[07:39:18]: [Say] (KU_6DFSm74k) Nalant: 哈奇怎麼變刺刺的了
+[07:40:00]: [Say] (KU_uGVY9zVB) balalaboom: 等等
+[07:40:06]: [Say] (KU_uGVY9zVB) balalaboom: 找鑰匙
+[07:40:14]: [Say] (KU_uGVY9zVB) balalaboom: 你們先去
+[07:40:18]: [Say] (KU_g0ecL7wy) 崎三: 我要學包裝紙 QQ
+[07:44:44]: [Join Announcement] AierLuosen
+[07:44:54]: [Say] (KU_3aPAZWmD) ルビー: 艾爾 安安 OWO/
+[07:45:04]: [Say] (KU_3aPAZWmD) ルビー: 小心笨雄 OWO
+[07:46:09]: [Say] (KU_g0ecL7wy) 崎三: atrium
+[07:46:40]: [Say] (KU_6DFSm74k) Nalant: atrium_key
