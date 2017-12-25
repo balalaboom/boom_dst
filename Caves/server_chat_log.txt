@@ -1,4 +1,14 @@
-[00:04:14]: [Join Announcement] balalaboom
-[00:53:00]: [Skin Announcement] balalaboom mysterybox_classic_4
-[01:52:44]: [Death Announcement] balalaboom 死亡，死因： 紅色獵犬。她變成了一個令人毛骨悚然的鬼！
-[02:05:21]: [Leave Announcement] balalaboom
+[00:02:05]: [Join Announcement] balalaboom
+[00:02:52]: [Join Announcement] AierLuosen
+[00:03:03]: [Say] (KU_TtsjKcrU) AierLuosen: 聊天室嗎?
+[00:03:09]: [Say] (KU_uGVY9zVB) balalaboom: OK
+[00:03:49]: [Join Announcement] 讓子彈飛一會兒
+[00:04:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: HIHI
+[00:04:10]: [Join Announcement] 提爾詩
+[00:04:22]: [Join Announcement] 雷克
+[00:04:29]: [Leave Announcement] 提爾詩
+[00:05:25]: [Join Announcement] 提爾詩
+[00:07:05]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: WWW
+[00:07:46]: [Join Announcement] ルビー
+[00:08:54]: [Say] (KU_UEtQ29K_) 雷克: 我該幹嘛(?
+[00:10:16]: [Say] (KU_UEtQ29K_) 雷克: 我想餐一咖
