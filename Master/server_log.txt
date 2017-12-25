@@ -441,3 +441,11 @@
 [00:10:54]: Serializing world: session/537C5C69FFB19629/0000000335
 [00:18:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000336
 [00:18:55]: Serializing world: session/537C5C69FFB19629/0000000336
+[00:26:55]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000337
+[00:26:55]: Serializing world: session/537C5C69FFB19629/0000000337
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:34:55]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000338
+[00:34:56]: Serializing world: session/537C5C69FFB19629/0000000338
+[00:42:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000339
+[00:42:56]: Serializing world: session/537C5C69FFB19629/0000000339
