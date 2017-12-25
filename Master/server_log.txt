@@ -729,3 +729,202 @@
 [00:46:15]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000348
 [00:46:15]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000347
 [00:46:15]:    14 file(s) removed
+[00:47:31]: Serializing world: session/537C5C69FFB19629/0000000359
+[00:47:31]: Truncating to snapshot #359...
+[00:47:31]:  - session/537C5C69FFB19629/0000000353
+[00:47:31]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000353
+[00:47:31]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000353
+[00:47:31]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000353
+[00:47:31]:  - session/537C5C69FFB19629/A7JOTND0H59V/0000000353
+[00:47:31]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000332
+[00:47:31]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000353
+[00:47:31]:    7 file(s) removed
+[00:47:54]: [P2P] Session timed out for '76561198251790870'
+[00:47:54]: [P2P] Remove session: 18.67.183.168|1 '76561198251790870'
+[00:48:18]: [P2P] Session timed out for '76561198354843262'
+[00:48:18]: [P2P] Remove session: 18.67.183.167|1 '76561198354843262'
+[00:48:20]: [P2P] Session timed out for '76561198286499269'
+[00:48:20]: [P2P] Remove session: 18.67.183.171|1 '76561198286499269'
+[00:48:31]: [P2P] Session timed out for '76561198159209988'
+[00:48:31]: [P2P] Remove session: 18.67.183.174|1 '76561198159209988'
+[00:49:21]: [P2P] Session timed out for '76561198189824466'
+[00:49:21]: [P2P] Remove session: 18.67.183.172|1 '76561198189824466'
+[00:49:26]: [P2P] Session timed out for '76561198099860495'
+[00:49:26]: [P2P] Remove session: 18.67.183.169|1 '76561198099860495'
+[00:51:39]: [P2P] Session timed out for '76561198031035145'
+[00:51:39]: [P2P] Remove session: 18.67.183.170|1 '76561198031035145'
+[00:52:04]: [P2P] Session request for '76561198074627101'
+[00:52:05]: [P2P] Create session: 18.67.183.175|1 '76561198074627101'
+[00:52:05]: [P2P] Received from 18.67.183.175|1 '76561198074627101'
+[00:52:05]: [P2P] Sent to 18.67.183.175|1 '76561198074627101'
+[00:52:05]: New incoming connection 18.67.183.175|1 <2583985956695630474>
+[00:52:05]: Client connected from 18.67.183.175|1 <2583985956695630474>
+[00:52:05]: ValidateGameSessionToken pgs-sing^KU_vIIO9TCg^DontStarveTogether^8bCqVKfmPxP58s1ZExPsjeOSmA5Y5dSTju1GmfqwFKQ= for <2583985956695630474>
+[00:52:06]: Client authenticated: (KU_vIIO9TCg) adai1198
+[00:52:06]: [Steam] SendUserConnectAndAuthenticate for '76561198074627101'
+[00:52:06]: [Steam] Authenticated client '76561198074627101'
+[00:52:09]: [Shard] Read save location file for (KU_vIIO9TCg)
+[00:52:17]: Resuming user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000224
+[00:52:18]: Spawning player at: [Load] (-120.19, 0.00, 521.66)	
+[00:54:16]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000360
+[00:54:16]: Serializing world: session/537C5C69FFB19629/0000000360
+[00:57:02]: [Shard] Begin migration #8 for (KU_TtsjKcrU)
+[00:57:02]: [Shard] #8 Caves(2560562348) -> [SHDMASTER](1)
+[00:57:03]: [Shard] #8 -> session/537C5C69FFB19629/A7JNFMML4RAU/0000000361
+[00:57:03]: [Shard] Received migration #8 data for (KU_TtsjKcrU)
+[00:57:03]: [Shard] (KU_TtsjKcrU) disconnected from Caves(2560562348)
+[00:57:13]: [P2P] Create session: 18.67.183.176|1 '76561198251790870'
+[00:57:13]: [P2P] Received from 18.67.183.176|1 '76561198251790870'
+[00:57:13]: [P2P] Sent to 18.67.183.176|1 '76561198251790870'
+[00:57:14]: New incoming connection 18.67.183.176|1 <6436592029915133136>
+[00:57:14]: Client connected from 18.67.183.176|1 <6436592029915133136>
+[00:57:14]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^xPdaxM1O7LLymF+u5VaROoLwO0Zve026InWzCbS9drA= for <6436592029915133136>
+[00:57:15]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:57:15]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:57:15]: [Steam] Authenticated client '76561198251790870'
+[00:57:15]: [Shard] Completed incoming migration #8 for (KU_TtsjKcrU)
+[00:57:15]: [Shard] Completed migration #8 for player (KU_TtsjKcrU)
+[00:57:15]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[00:57:18]: [Shard] (KU_MitzUqYv) disconnected from Caves(2560562348)
+[00:57:27]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000361
+[00:57:27]: Player will spawn close to portal #1	
+[00:57:27]: Spawning player at: [Load] (-6.37, 0.00, 469.30)	
+[00:57:30]: [P2P] Create session: 18.67.183.177|1 '76561198099860495'
+[00:57:30]: [P2P] Received from 18.67.183.177|1 '76561198099860495'
+[00:57:30]: [P2P] Sent to 18.67.183.177|1 '76561198099860495'
+[00:57:57]: [P2P] Received from 18.67.183.177|1 '76561198099860495'
+[00:57:57]: [P2P] Sent to 18.67.183.177|1 '76561198099860495'
+[00:58:09]: New incoming connection 18.67.183.177|1 <2711254417994543374>
+[00:58:09]: Client connected from 18.67.183.177|1 <2711254417994543374>
+[00:58:09]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^SvWz/KpjI7fQ+2o4+5nWlCUdMIzsCEZtghMGFh2HX3o= for <2711254417994543374>
+[00:58:10]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[00:58:10]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[00:58:10]: [Steam] Authenticated client '76561198099860495'
+[00:58:13]: [Shard] Read save location file for (KU_MitzUqYv)
+[00:58:13]: [Shard] Forwarding player to Caves(2560562348)
+[00:58:13]: [Shard] Begin migration #9 for (KU_MitzUqYv)
+[00:58:13]: [Shard] #9 [SHDMASTER](1) -> Caves(2560562348)
+[00:58:13]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:58:13]: [Steam] SendUserDisconnect for '76561198099860495'
+[00:58:13]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[00:58:21]: [Shard] Completed migration #9 for player (KU_MitzUqYv)
+[00:58:21]: [Shard] Writing save location file for (KU_MitzUqYv)
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:00:10]: [Steam] SendUserDisconnect for '76561198251790870'
+[01:00:10]: Connection lost to 18.67.183.176|1 <6436592029915133136>
+[01:00:10]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[01:00:11]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000361
+[01:00:55]: [P2P] Connection failed for '76561198251790870'
+[01:02:17]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000361
+[01:02:17]: Serializing world: session/537C5C69FFB19629/0000000361
+[01:02:27]: [Shard] (KU_UEtQ29K_) disconnected from Caves(2560562348)
+[01:03:44]: [Shard] Begin migration #10 for (KU_MitzUqYv)
+[01:03:44]: [Shard] #10 Caves(2560562348) -> [SHDMASTER](1)
+[01:03:44]: [Shard] #10 -> session/537C5C69FFB19629/A7IQPNUNMI5P/0000000362
+[01:03:44]: [Shard] Received migration #10 data for (KU_MitzUqYv)
+[01:03:44]: [Shard] (KU_MitzUqYv) disconnected from Caves(2560562348)
+[01:03:45]: [Shard] Begin migration #11 for (KU_3aPAZWmD)
+[01:03:45]: [Shard] #11 Caves(2560562348) -> [SHDMASTER](1)
+[01:03:45]: [Shard] #11 -> session/537C5C69FFB19629/A7GE8P58S30D/0000000362
+[01:03:45]: [Shard] Received migration #11 data for (KU_3aPAZWmD)
+[01:03:45]: [Shard] (KU_3aPAZWmD) disconnected from Caves(2560562348)
+[01:03:52]: [P2P] Received from 18.67.183.177|1 '76561198099860495'
+[01:03:52]: [P2P] Sent to 18.67.183.177|1 '76561198099860495'
+[01:03:53]: New incoming connection 18.67.183.177|1 <6199902700029384481>
+[01:03:53]: Client connected from 18.67.183.177|1 <6199902700029384481>
+[01:03:53]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^h7oWPGH1DbFcZ4igQcAxjQjfRHpjG2lQMSwKhwR/U2E= for <6199902700029384481>
+[01:03:54]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[01:03:54]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[01:03:54]: [Steam] Authenticated client '76561198099860495'
+[01:03:54]: [Shard] Completed incoming migration #10 for (KU_MitzUqYv)
+[01:03:54]: [Shard] Completed migration #10 for player (KU_MitzUqYv)
+[01:03:54]: [Shard] Writing save location file for (KU_MitzUqYv)
+[01:03:55]: [P2P] Create session: 18.67.183.178|1 '76561198189824466'
+[01:03:55]: [P2P] Received from 18.67.183.178|1 '76561198189824466'
+[01:03:55]: [P2P] Sent to 18.67.183.178|1 '76561198189824466'
+[01:03:55]: New incoming connection 18.67.183.178|1 <122170225041978441>
+[01:03:55]: Client connected from 18.67.183.178|1 <122170225041978441>
+[01:03:55]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^9ORHajVem+mwJBUbh8vQoUOVqNmiFBGIL2WbWB8sjEU= for <122170225041978441>
+[01:03:55]: Client authenticated: (KU_3aPAZWmD) ルビー
+[01:03:56]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[01:03:56]: [Steam] Authenticated client '76561198189824466'
+[01:03:56]: [Shard] Completed incoming migration #11 for (KU_3aPAZWmD)
+[01:03:56]: [Shard] Completed migration #11 for player (KU_3aPAZWmD)
+[01:03:56]: [Shard] Writing save location file for (KU_3aPAZWmD)
+[01:04:06]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000362
+[01:04:06]: Player will spawn close to portal #1	
+[01:04:06]: Spawning player at: [Load] (-6.00, 0.00, 468.24)	
+[01:04:16]: [Shard] Begin migration #12 for (KU_BIj2U1ZB)
+[01:04:16]: [Shard] #12 Caves(2560562348) -> [SHDMASTER](1)
+[01:04:16]: [Shard] #12 -> session/537C5C69FFB19629/A7HD5D17G66B/0000000362
+[01:04:16]: [Shard] Received migration #12 data for (KU_BIj2U1ZB)
+[01:04:16]: [Shard] (KU_BIj2U1ZB) disconnected from Caves(2560562348)
+[01:04:18]: [Shard] Begin migration #13 for (KU_aIEojigU)
+[01:04:18]: [Shard] #13 Caves(2560562348) -> [SHDMASTER](1)
+[01:04:18]: [Shard] #13 -> session/537C5C69FFB19629/A7KH4EPBDIKU/0000000362
+[01:04:18]: [Shard] Received migration #13 data for (KU_aIEojigU)
+[01:04:18]: [Shard] (KU_aIEojigU) disconnected from Caves(2560562348)
+[01:04:20]: [Shard] Begin migration #14 for (KU_uGVY9zVB)
+[01:04:20]: [Shard] #14 Caves(2560562348) -> [SHDMASTER](1)
+[01:04:20]: [Shard] #14 -> session/537C5C69FFB19629/A7N10VH2FLUB/0000000362
+[01:04:20]: [Shard] Received migration #14 data for (KU_uGVY9zVB)
+[01:04:20]: [Shard] (KU_uGVY9zVB) disconnected from Caves(2560562348)
+[01:04:21]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000362
+[01:04:21]: Player will spawn close to portal #1	
+[01:04:21]: Spawning player at: [Load] (-8.55, 0.00, 469.38)	
+[01:04:25]: [P2P] Create session: 18.67.183.179|1 '76561198286499269'
+[01:04:25]: [P2P] Received from 18.67.183.179|1 '76561198286499269'
+[01:04:25]: [P2P] Sent to 18.67.183.179|1 '76561198286499269'
+[01:04:26]: New incoming connection 18.67.183.179|1 <2632749171339211496>
+[01:04:26]: Client connected from 18.67.183.179|1 <2632749171339211496>
+[01:04:26]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^FxueQdC7wGeH8RQm9U4nZ1WvcbvUo1f3di46DFUk9Jg= for <2632749171339211496>
+[01:04:26]: [P2P] Create session: 18.67.183.180|1 '76561198159209988'
+[01:04:26]: [P2P] Received from 18.67.183.180|1 '76561198159209988'
+[01:04:26]: [P2P] Sent to 18.67.183.180|1 '76561198159209988'
+[01:04:26]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[01:04:26]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[01:04:26]: [Steam] Authenticated client '76561198286499269'
+[01:04:26]: [Shard] Completed incoming migration #12 for (KU_BIj2U1ZB)
+[01:04:26]: [Shard] Completed migration #12 for player (KU_BIj2U1ZB)
+[01:04:26]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[01:04:27]: New incoming connection 18.67.183.180|1 <5905682325882768495>
+[01:04:27]: Client connected from 18.67.183.180|1 <5905682325882768495>
+[01:04:27]: ValidateGameSessionToken pgs-sing^KU_aIEojigU^DontStarveTogether^XcPTYTQYyy9GbbAtf6gFG21Q6isGiXfoK8/qhNXIryk= for <5905682325882768495>
+[01:04:27]: Client authenticated: (KU_aIEojigU) 小坤
+[01:04:27]: [Steam] SendUserConnectAndAuthenticate for '76561198159209988'
+[01:04:27]: [Steam] Authenticated client '76561198159209988'
+[01:04:27]: [Shard] Completed incoming migration #13 for (KU_aIEojigU)
+[01:04:27]: [Shard] Completed migration #13 for player (KU_aIEojigU)
+[01:04:27]: [Shard] Writing save location file for (KU_aIEojigU)
+[01:04:28]: [P2P] Create session: 18.67.183.181|1 '76561198354843262'
+[01:04:28]: [P2P] Received from 18.67.183.181|1 '76561198354843262'
+[01:04:28]: [P2P] Sent to 18.67.183.181|1 '76561198354843262'
+[01:04:29]: New incoming connection 18.67.183.181|1 <7129324394316300899>
+[01:04:29]: Client connected from 18.67.183.181|1 <7129324394316300899>
+[01:04:29]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^zEkzIv4+u6J89wZ11jya/S7+fwagzkYyUxXu6Qyueic= for <7129324394316300899>
+[01:04:29]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[01:04:29]: [Steam] Authenticated host '76561198354843262'
+[01:04:29]: [Shard] Completed incoming migration #14 for (KU_uGVY9zVB)
+[01:04:29]: [Shard] Completed migration #14 for player (KU_uGVY9zVB)
+[01:04:29]: [Shard] Writing save location file for (KU_uGVY9zVB)
+[01:04:35]: Resuming user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000362
+[01:04:35]: Player will spawn close to portal #1	
+[01:04:35]: Spawning player at: [Load] (-7.71, 0.00, 466.82)	
+[01:04:38]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000362
+[01:04:38]: Player will spawn close to portal #1	
+[01:04:38]: Spawning player at: [Load] (-8.36, 0.00, 469.54)	
+[01:04:38]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000362
+[01:04:38]: Player will spawn close to portal #1	
+[01:04:38]: Spawning player at: [Load] (-9.00, 0.00, 468.28)	
+[01:06:48]: KU_vIIO9TCg	running text command:	sit	true	
+[01:06:58]: KU_vIIO9TCg	running text command:	sit	true	
+[01:10:11]: [P2P] Session timed out for '76561198251790870'
+[01:10:11]: [P2P] Remove session: 18.67.183.176|1 '76561198251790870'
+[01:10:17]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000362
+[01:10:17]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000362
+[01:10:17]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000362
+[01:10:17]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000362
+[01:10:17]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000362
+[01:10:17]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000362
+[01:10:18]: Serializing world: session/537C5C69FFB19629/0000000362

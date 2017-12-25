@@ -84,3 +84,40 @@
 [00:45:10]: [Say] (KU_UEtQ29K_) 雷克:  我需要 1 燧石 来制造 斧頭。
 [00:45:47]: [Say] (KU_aIEojigU) 小坤: 我沒斧頭，就抽機會攻擊ww
 [00:45:56]: [Say] (KU_UEtQ29K_) 雷克: 好了 做出來了
+[00:48:16]: [Say] (KU_3aPAZWmD) ルビー: SOR...
+[00:51:33]: [Say] (KU_aIEojigU) 小坤: 還是有點看不懂XD
+[00:52:17]: [Join Announcement] adai1198
+[00:52:22]: [Say] (KU_aIEojigU) 小坤: 我以為都是直接硬爆蟾蜍 (?
+[00:52:23]: [Say] (KU_vIIO9TCg) adai1198: 0.0
+[00:52:27]: [Say] (KU_UEtQ29K_) 雷克: 0.0
+[00:52:28]: [Say] (KU_3aPAZWmD) ルビー: 紅骨? OWO
+[00:52:35]: [Say] (KU_3aPAZWmD) ルビー: 阿呆 安 OWO/
+[00:52:55]: [Say] (KU_3aPAZWmD) ルビー: 犀牛跟齒輪有清嗎? OAO
+[00:53:46]: [Say] (KU_TtsjKcrU) AierLuosen: 拿手杖尻/
+[00:53:51]: [Say] (KU_UEtQ29K_) 雷克: 沒手杖
+[00:53:54]: [Say] (KU_TtsjKcrU) AierLuosen: 女戰尻好尻滿
+[00:54:30]: [Say] (KU_UEtQ29K_) 雷克: 舒服
+[00:55:00]: [Say] (KU_UEtQ29K_) 雷克: 澳丁!
+[00:55:24]: [Say] (KU_UEtQ29K_) 雷克: 可惡 沒哈奇可以打
+[00:55:37]: [Say] (KU_UEtQ29K_) 雷克: 地面打切斯特 地底打哈奇
+[00:56:48]: [Say] (KU_TtsjKcrU) AierLuosen: 融重
+[00:56:55]: [Say] (KU_TtsjKcrU) AierLuosen: 蠕蟲
+[00:57:18]: [Leave Announcement] 讓子彈飛一會兒
+[00:57:58]: [Say] (KU_UEtQ29K_) 雷克: .
+[00:58:32]: [Join Announcement] 讓子彈飛一會兒
+[00:59:02]: [Say] (KU_UEtQ29K_) 雷克: 臭兔子
+[00:59:50]: [Say] (KU_aIEojigU) 小坤: 求食物www
+[00:59:55]: [Death Announcement] 小坤 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
+[00:59:56]: [Say] (KU_TtsjKcrU) AierLuosen: 先下了 掰掰掰
+[01:00:00]: [Say] (KU_vIIO9TCg) adai1198: 886
+[01:00:08]: [Say] (KU_UEtQ29K_) 雷克: ..
+[01:00:10]: [Leave Announcement] AierLuosen
+[01:00:15]: [Say] (KU_UEtQ29K_) 雷克: GGGGGGGGGGGGGGGGGGGGG
+[01:01:15]: [Resurrect Announcement] 小坤 復活自 雷克.
+[01:01:31]: [Say] (KU_aIEojigU) 小坤: 等下我可能會餓死或冷死XD
+[01:01:31]: [Say] (KU_UEtQ29K_) 雷克: 我先到這裡好了
+[01:02:05]: [Say] (KU_UEtQ29K_) 雷克: 那我退囉
+[01:02:15]: [Say] (KU_3aPAZWmD) ルビー: 88/
+[01:02:27]: [Leave Announcement] 雷克
+[01:02:50]: [Say] (KU_vIIO9TCg) adai1198:  I have a 海象牙.
+[01:07:18]: [Say] (KU_BIj2U1ZB) 提爾詩:  I have a 龜殼碎片.

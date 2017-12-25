@@ -579,3 +579,107 @@
 [00:46:14]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000358
 [00:46:14]: Serializing user: session/5C44BECFFFC07A2A/A7JOTND0H59V/0000000358
 [00:46:15]: Serializing world: session/5C44BECFFFC07A2A/0000000358
+[00:47:11]: KU_TtsjKcrU	running text command:	flex	true	
+[00:47:14]: KU_UEtQ29K_	running text command:	flex	true	
+[00:47:29]: RemoteCommandInput: "c_save()"
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000359
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000359
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000359
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000359
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000359
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000359
+[00:47:31]: Serializing user: session/5C44BECFFFC07A2A/A7JOTND0H59V/0000000359
+[00:47:31]: Serializing world: session/5C44BECFFFC07A2A/0000000359
+[00:51:20]: KU_MitzUqYv	running text command:	impatient	true	
+[00:51:54]: KU_UEtQ29K_	running text command:	flex	true	
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000360
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000360
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000360
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000360
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000360
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000360
+[00:54:16]: Serializing user: session/5C44BECFFFC07A2A/A7JOTND0H59V/0000000360
+[00:54:16]: Serializing world: session/5C44BECFFFC07A2A/0000000360
+[00:54:57]: KU_MitzUqYv	running text command:	flex	true	
+[00:56:08]: KU_MitzUqYv	running text command:	flex	true	
+[00:57:02]: Activating portal[1] to 1	
+[00:57:02]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000361
+[00:57:02]: [Shard] Migration request: (KU_TtsjKcrU) to [SHDMASTER](1)
+[00:57:02]: [Shard] #8 <- session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000361
+[00:57:03]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:57:03]: [Steam] SendUserDisconnect for '76561198251790870'
+[00:57:18]: [Steam] SendUserDisconnect for '76561198099860495'
+[00:57:18]: Connection lost to 18.69.188.139|1 <3144382973395509829>
+[00:57:18]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000361
+[00:58:13]: [Shard] Received forward request #9 for (KU_MitzUqYv)
+[00:58:17]: [P2P] Received from 18.69.188.139|1 '76561198099860495'
+[00:58:17]: [P2P] Sent to 18.69.188.139|1 '76561198099860495'
+[00:58:18]: New incoming connection 18.69.188.139|1 <5838942500720896279>
+[00:58:18]: Client connected from 18.69.188.139|1 <5838942500720896279>
+[00:58:18]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^W+fjdCqMToos6RcBoMhUJSls0j+s/NoIb/gQaljgX90= for <5838942500720896279>
+[00:58:18]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[00:58:18]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[00:58:19]: [Steam] Authenticated client '76561198099860495'
+[00:58:21]: [Shard] Completed incoming migration #9 for (KU_MitzUqYv)
+[00:58:33]: Resuming user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000361
+[00:58:33]: Spawning player at: [Load] (587.33, -0.00, -429.73)	
+[00:59:55]: Could not find anim [death] in bank [ghost]
+[00:59:55]: Serializing user: session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000361
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:01:15]: Could not find anim [idle_loop] in bank [ghost]
+[01:01:18]: Could not find anim [transform] in bank [wilson]
+[01:01:19]: Serializing user: session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000361
+[01:02:16]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000361
+[01:02:16]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000361
+[01:02:16]: Serializing user: session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000361
+[01:02:16]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000361
+[01:02:16]: Serializing user: session/5C44BECFFFC07A2A/A7JOTND0H59V/0000000361
+[01:02:16]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000361
+[01:02:17]: Serializing world: session/5C44BECFFFC07A2A/0000000361
+[01:02:20]: KU_MitzUqYv	running text command:	dance	true	
+[01:02:27]: [Steam] SendUserDisconnect for '76561198031035145'
+[01:02:27]: Connection lost to 18.69.188.140|1 <4166146676302824888>
+[01:02:28]: Serializing user: session/5C44BECFFFC07A2A/A7JOTND0H59V/0000000362
+[01:02:48]: [P2P] Connection failed for '76561198031035145'
+[01:03:43]: Activating portal[1] to 1	
+[01:03:44]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000362
+[01:03:44]: [Shard] Migration request: (KU_MitzUqYv) to [SHDMASTER](1)
+[01:03:44]: [Shard] #10 <- session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000362
+[01:03:44]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:03:44]: [Steam] SendUserDisconnect for '76561198099860495'
+[01:03:44]: Activating portal[1] to 1	
+[01:03:45]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000362
+[01:03:45]: [Shard] Migration request: (KU_3aPAZWmD) to [SHDMASTER](1)
+[01:03:45]: [Shard] #11 <- session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000362
+[01:03:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:03:45]: [Steam] SendUserDisconnect for '76561198189824466'
+[01:04:16]: Activating portal[1] to 1	
+[01:04:16]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000362
+[01:04:16]: [Shard] Migration request: (KU_BIj2U1ZB) to [SHDMASTER](1)
+[01:04:16]: [Shard] #12 <- session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000362
+[01:04:16]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:04:16]: [Steam] SendUserDisconnect for '76561198286499269'
+[01:04:17]: Activating portal[1] to 1	
+[01:04:18]: Serializing user: session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000362
+[01:04:18]: [Shard] Migration request: (KU_aIEojigU) to [SHDMASTER](1)
+[01:04:18]: [Shard] #13 <- session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000362
+[01:04:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:04:18]: [Steam] SendUserDisconnect for '76561198159209988'
+[01:04:20]: Activating portal[1] to 1	
+[01:04:20]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000362
+[01:04:20]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[01:04:20]: [Shard] #14 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000362
+[01:04:20]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:04:20]: [Steam] SendUserDisconnect for '76561198354843262'
+[01:07:07]: [P2P] Session timed out for '76561198251790870'
+[01:07:07]: [P2P] Remove session: 18.69.188.134|1 '76561198251790870'
+[01:10:17]: Serializing world: session/5C44BECFFFC07A2A/0000000362
+[01:10:17]: Truncating to snapshot #362...
+[01:10:17]:  - session/5C44BECFFFC07A2A/0000000354
+[01:10:17]:  - session/5C44BECFFFC07A2A/0000000353
+[01:10:17]:  - session/5C44BECFFFC07A2A/0000000355
+[01:10:17]:  - session/5C44BECFFFC07A2A/0000000356
+[01:10:17]:  - session/5C44BECFFFC07A2A/0000000352
+[01:10:17]:  - session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000270
+[01:10:17]:    6 file(s) removed
