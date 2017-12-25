@@ -1094,3 +1094,38 @@
 [03:42:19]: Spawning player at: [Load] (364.61, 0.00, -262.02)	
 [03:46:44]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000381
 [03:46:44]: Serializing world: session/5C44BECFFFC07A2A/0000000381
+[03:53:20]: Activating portal[1] to 1	
+[03:53:20]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000382
+[03:53:20]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[03:53:20]: [Shard] #18 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000382
+[03:53:20]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:53:21]: [Steam] SendUserDisconnect for '76561198354843262'
+[03:54:46]: Serializing world: session/5C44BECFFFC07A2A/0000000382
+[03:54:46]: Truncating to snapshot #382...
+[03:54:46]:  - session/5C44BECFFFC07A2A/0000000376
+[03:54:46]:  - session/5C44BECFFFC07A2A/0000000375
+[03:54:46]:    2 file(s) removed
+[04:00:06]: [200] Account Communication Success (6)
+[04:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:02:47]: Serializing world: session/5C44BECFFFC07A2A/0000000383
+[04:02:47]: Truncating to snapshot #383...
+[04:02:47]:  - session/5C44BECFFFC07A2A/0000000377
+[04:02:47]:    1 file(s) removed
+[04:03:24]: [P2P] Session timed out for '76561198354843262'
+[04:03:24]: [P2P] Remove session: 18.69.188.142|1 '76561198354843262'
+[04:09:51]: [Shard] #19 -> session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000384
+[04:09:51]: [Shard] Received migration #19 data for (KU_uGVY9zVB)
+[04:09:59]: [P2P] Create session: 18.69.188.143|1 '76561198354843262'
+[04:09:59]: [P2P] Received from 18.69.188.143|1 '76561198354843262'
+[04:09:59]: [P2P] Sent to 18.69.188.143|1 '76561198354843262'
+[04:10:00]: New incoming connection 18.69.188.143|1 <4795513649786545974>
+[04:10:00]: Client connected from 18.69.188.143|1 <4795513649786545974>
+[04:10:00]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^bed2stMmYU6tHq7nwQYtz+Ryai9Zz0T27PmOEJSVD9s= for <4795513649786545974>
+[04:10:01]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[04:10:01]: [Steam] Authenticated host '76561198354843262'
+[04:10:01]: [Shard] Completed incoming migration #19 for (KU_uGVY9zVB)
+[04:10:09]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000384
+[04:10:09]: Player will spawn close to portal #1	
+[04:10:09]: Spawning player at: [Load] (364.91, 0.00, -262.07)	
+[04:10:47]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000384
+[04:10:47]: Serializing world: session/5C44BECFFFC07A2A/0000000384

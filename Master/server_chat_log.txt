@@ -152,3 +152,10 @@
 [02:43:51]: [Say] (KU_vIIO9TCg) adai1198:  We have 3 圓石s in this 箱子.
 [03:06:19]: [Say] (KU_uGVY9zVB) balalaboom: 烤好烤滿
 [03:37:04]: [Say] (KU_vIIO9TCg) adai1198:  We have 6 螢光果s in this 冰箱.
+[03:48:54]: [Leave Announcement] adai1198
+[03:54:01]: [Death Announcement] balalaboom 死亡，死因： 蝙蝠。她變成了一個令人毛骨悚然的鬼！
+[03:54:10]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[03:54:30]: [Join Announcement] adai1198
+[03:57:51]: [Say] (KU_vIIO9TCg) adai1198:  I have 140 岩石地皮s.
+[04:01:32]: [Death Announcement] adai1198 死亡，死因： 黑暗。他變成了一個令人毛骨悚然的鬼！
+[04:01:41]: [Resurrect Announcement] adai1198 復活自 ルビー.
