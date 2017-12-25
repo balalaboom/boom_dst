@@ -313,3 +313,16 @@
 [07:09:15]: [Leave Announcement] adai1198
 [07:09:15]: [Say] (KU_6DFSm74k) Nalant: 克勞斯給了我一個禮物
 [07:09:28]: [Say] (KU_6DFSm74k) Nalant: 機器人
+[07:13:04]: [Say] (KU_6DFSm74k) Nalant: 燒螢光果
+[07:13:40]: [Say] (KU_3aPAZWmD) ルビー:  I have 68 波蘭餃子s.
+[07:13:41]: [Say] (KU_3aPAZWmD) ルビー:  I have 80 火龍果派s.
+[07:15:17]: [Say] (KU_6DFSm74k) Nalant: az晚安
+[07:15:18]: [Leave Announcement] 阿薩謝爾
+[07:17:24]: [Say] (KU_6DFSm74k) Nalant: 都沒人去打XD
+[07:17:37]: [Say] (KU_6DFSm74k) Nalant: 不喜歡夏天打克勞斯
+[07:18:35]: [Say] (KU_6DFSm74k) Nalant: 有攻擊力加乘的角色有哪些啊
+[07:18:44]: [Say] (KU_6DFSm74k) Nalant: 哦哦
+[07:19:27]: [Say] (KU_6DFSm74k) Nalant: 鑰匙是打犀牛的
+[07:19:40]: [Say] (KU_6DFSm74k) Nalant: 犀牛鑰匙只能留在地底
+[07:20:15]: [Say] (KU_6DFSm74k) Nalant: 應該是上地表的時候會掉在洞口
+[07:22:48]: [Join Announcement] 崎三
