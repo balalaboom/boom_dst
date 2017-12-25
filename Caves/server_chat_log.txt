@@ -415,3 +415,45 @@
 [08:18:03]: [Say] (KU_6DFSm74k) Nalant: 我的
 [08:19:44]: [Death Announcement] ルビー 死亡，死因： 穴居懸掛蜘蛛。他變成了一個令人毛骨悚然的鬼！
 [08:20:58]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[08:23:28]: [Say] (KU_g0ecL7wy) 崎三: ==
+[08:24:27]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 6 禮物s.
+[08:26:37]: [Say] (KU_TtsjKcrU) AierLuosen: QWQ
+[08:26:47]: [Say] (KU_TtsjKcrU) AierLuosen: 克勞斯....
+[08:27:41]: [Say] (KU_TtsjKcrU) AierLuosen: 沒拆/
+[08:27:56]: [Say] (KU_TtsjKcrU) AierLuosen: !!!
+[08:27:59]: [Say] (KU_uGVY9zVB) balalaboom: !!!
+[08:28:09]: [Say] (KU_6DFSm74k) Nalant: 包包吧
+[08:28:11]: [Say] (KU_TtsjKcrU) AierLuosen: 對
+[08:29:30]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 11/120) I'll starve without some meat!
+[08:29:31]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Health: 24/200) My saga reaches an end...
+[08:30:09]: [Say] (KU_TtsjKcrU) AierLuosen: 連續肌肉OuO
+[08:30:18]: [Say] (KU_TtsjKcrU) AierLuosen: 女占
+[08:30:21]: [Say] (KU_TtsjKcrU) AierLuosen: 地上
+[08:31:30]: [Say] (KU_g0ecL7wy) 崎三: OK
+[08:31:52]: [Say] (KU_TtsjKcrU) AierLuosen: 我也想打影魔
+[08:31:58]: [Say] (KU_TtsjKcrU) AierLuosen: 可是要等幾天
+[08:32:31]: [Say] (KU_6DFSm74k) Nalant: 不是一起打的嗎?
+[08:32:42]: [Say] (KU_6DFSm74k) Nalant: 哦哦
+[08:32:42]: [Say] (KU_TtsjKcrU) AierLuosen: 門那邊有一隻犀牛跟主教
+[08:32:52]: [Say] (KU_TtsjKcrU) AierLuosen: 我有標
+[08:33:53]: [Say] (KU_TtsjKcrU) AierLuosen: 很會著火
+[08:34:18]: [Say] (KU_TtsjKcrU) AierLuosen: 可以拿嗎
+[08:34:20]: [Say] (KU_TtsjKcrU) AierLuosen:  We have a 眼球傘 in this 箱子 with 77% durability.
+[08:34:32]: [Say] (KU_TtsjKcrU) AierLuosen: 拿眼球傘
+[08:34:38]: [Say] (KU_TtsjKcrU) AierLuosen: 之前帶壞了QQ
+[08:34:44]: [Say] (KU_g0ecL7wy) 崎三: .
+[08:35:41]: [Say] (KU_TtsjKcrU) AierLuosen: 先下 要打影魔再叫我/
+[08:35:51]: [Say] (KU_g0ecL7wy) 崎三: LOL
+[08:35:55]: [Say] (KU_TtsjKcrU) AierLuosen: 先下 8888
+[08:36:08]: [Say] (KU_g0ecL7wy) 崎三: 8888
+[08:36:09]: [Leave Announcement] AierLuosen
+[08:36:42]: [Say] (KU_g0ecL7wy) 崎三: 我要學包裝紙 QQQQQQQQ
+[08:36:58]: [Leave Announcement] 提爾詩
+[08:37:36]: [Join Announcement] 提爾詩
+[08:38:10]: [Death Announcement] Nalant 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[08:38:22]: [Say] (KU_6DFSm74k) Nalant: 空地
+[08:39:57]: [Say] (KU_6DFSm74k) Nalant: 要回兩次XD
+[08:40:48]: [Say] (KU_6DFSm74k) Nalant: 原本以為沒狗了結果家裡還有XD
+[08:43:14]: [Say] (KU_6DFSm74k) Nalant: 我也先離開囉 掰掰
+[08:43:27]: [Leave Announcement] Nalant
+[08:46:53]: [Leave Announcement] 提爾詩
