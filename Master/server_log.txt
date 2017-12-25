@@ -928,3 +928,18 @@
 [01:10:17]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000362
 [01:10:17]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000362
 [01:10:18]: Serializing world: session/537C5C69FFB19629/0000000362
+[01:16:03]: Could not find anim [death] in bank [ghost]
+[01:16:03]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000363
+[01:16:37]: Could not find anim [idle_loop] in bank [ghost]
+[01:16:41]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000363
+[01:18:18]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000363
+[01:18:18]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000363
+[01:18:18]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000363
+[01:18:18]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000363
+[01:18:18]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000363
+[01:18:18]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000363
+[01:18:18]: Serializing world: session/537C5C69FFB19629/0000000363
+[01:21:25]: [Steam] SendUserDisconnect for '76561198159209988'
+[01:21:25]: Connection lost to 18.67.183.180|1 <5905682325882768495>
+[01:21:25]: [Shard] (KU_aIEojigU) disconnected from [SHDMASTER](1)
+[01:21:26]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000364

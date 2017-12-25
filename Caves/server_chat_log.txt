@@ -121,3 +121,14 @@
 [01:02:27]: [Leave Announcement] 雷克
 [01:02:50]: [Say] (KU_vIIO9TCg) adai1198:  I have a 海象牙.
 [01:07:18]: [Say] (KU_BIj2U1ZB) 提爾詩:  I have a 龜殼碎片.
+[01:12:19]: [Say] (KU_aIEojigU) 小坤: 提爾詩你平常都吃什麼www
+[01:12:42]: [Say] (KU_aIEojigU) 小坤: 我看出來了 (?
+[01:12:46]: [Say] (KU_BIj2U1ZB) 提爾詩: 考怪物肉 讚
+[01:12:51]: [Say] (KU_BIj2U1ZB) 提爾詩:  I have a 烤怪物肉.
+[01:12:53]: [Say] (KU_vIIO9TCg) adai1198: 笨羊
+[01:14:35]: [Say] (KU_aIEojigU) 小坤: 女戰覺得生存困難www
+[01:16:03]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 獨眼巨鹿。她變成了一個令人毛骨悚然的鬼！
+[01:16:37]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 重生護符.
+[01:19:16]: [Say] (KU_aIEojigU) 小坤: 我覺得我還是下次近來如果是秋天就從地表開始玩w
+[01:21:13]: [Say] (KU_aIEojigU) 小坤: 先這樣www
+[01:21:25]: [Leave Announcement] 小坤
