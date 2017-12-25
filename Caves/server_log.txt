@@ -738,3 +738,43 @@
 [01:42:20]:  - session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000360
 [01:42:20]:  - session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000360
 [01:42:20]:    8 file(s) removed
+[01:49:27]: [Shard] #15 -> session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000367
+[01:49:27]: [Shard] Received migration #15 data for (KU_vIIO9TCg)
+[01:49:31]: [P2P] Session request for '76561198074627101'
+[01:49:35]: [P2P] Create session: 18.69.188.141|1 '76561198074627101'
+[01:49:35]: [P2P] Received from 18.69.188.141|1 '76561198074627101'
+[01:49:35]: [P2P] Sent to 18.69.188.141|1 '76561198074627101'
+[01:49:36]: New incoming connection 18.69.188.141|1 <6742776464462725871>
+[01:49:36]: Client connected from 18.69.188.141|1 <6742776464462725871>
+[01:49:36]: ValidateGameSessionToken pgs-sing^KU_vIIO9TCg^DontStarveTogether^bL87ig2w+CFBj99AU/EmUmq+9RWmg5bnAVPsZHqXpbg= for <6742776464462725871>
+[01:49:36]: Client authenticated: (KU_vIIO9TCg) adai1198
+[01:49:36]: [Steam] SendUserConnectAndAuthenticate for '76561198074627101'
+[01:49:36]: [Steam] Authenticated client '76561198074627101'
+[01:49:36]: [Shard] Completed incoming migration #15 for (KU_vIIO9TCg)
+[01:49:45]: Resuming user: session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000367
+[01:49:45]: Player will spawn close to portal #1	
+[01:49:45]: Spawning player at: [Load] (363.62, 0.00, -262.10)	
+[01:50:21]: Serializing user: session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000367
+[01:50:21]: Serializing world: session/5C44BECFFFC07A2A/0000000367
+[01:58:21]: Serializing user: session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000368
+[01:58:21]: Serializing world: session/5C44BECFFFC07A2A/0000000368
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:04:02]: Activating portal[1] to 1	
+[02:04:03]: Serializing user: session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000369
+[02:04:03]: [Shard] Migration request: (KU_vIIO9TCg) to [SHDMASTER](1)
+[02:04:03]: [Shard] #16 <- session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000369
+[02:04:03]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:04:03]: [Steam] SendUserDisconnect for '76561198074627101'
+[02:06:23]: Serializing world: session/5C44BECFFFC07A2A/0000000369
+[02:06:23]: Truncating to snapshot #369...
+[02:06:23]:  - session/5C44BECFFFC07A2A/0000000362
+[02:06:23]:  - session/5C44BECFFFC07A2A/0000000361
+[02:06:23]:  - session/5C44BECFFFC07A2A/0000000363
+[02:06:23]:  - session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000361
+[02:06:23]:  - session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000361
+[02:06:23]:  - session/5C44BECFFFC07A2A/A7JOTND0H59V/0000000361
+[02:06:23]:  - session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000361
+[02:06:23]:  - session/5C44BECFFFC07A2A/A7KH4EPBDIKU/0000000361
+[02:06:23]:  - session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000361
+[02:06:23]:    9 file(s) removed

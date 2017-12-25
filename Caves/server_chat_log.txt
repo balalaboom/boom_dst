@@ -139,3 +139,5 @@
 [01:30:36]: [Leave Announcement] 提爾詩
 [01:31:07]: [Say] (KU_vIIO9TCg) adai1198: hounds
 [01:42:29]: [Join Announcement] ルビー
+[01:58:07]: [Leave Announcement] balalaboom
+[02:05:05]: [Say] (KU_vIIO9TCg) adai1198:  I have 118 螢光果s.
