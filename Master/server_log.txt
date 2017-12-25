@@ -540,3 +540,11 @@
 [01:19:22]: giving 	136192 - rope	
 [01:19:22]: giving 	136194 - rope	
 [01:19:22]: giving 	136196 - rope	
+[01:22:59]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000344
+[01:22:59]: Serializing world: session/537C5C69FFB19629/0000000344
+[01:30:05]: [200] Account Communication Success (6)
+[01:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:31:00]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000345
+[01:31:00]: Serializing world: session/537C5C69FFB19629/0000000345
+[01:39:00]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000346
+[01:39:01]: Serializing world: session/537C5C69FFB19629/0000000346
