@@ -306,3 +306,10 @@
 [06:40:14]: [Say] (KU_6DFSm74k) Nalant: 對啊
 [06:40:28]: [Say] (KU_6DFSm74k) Nalant: 被震到會受傷嗎
 [06:46:28]: [Say] (KU_VOig0Obi) 阿薩謝爾: 修啦幹!
+[06:51:40]: [Say] (KU_VOig0Obi) 阿薩謝爾: 西郎姑陶
+[06:59:08]: [Say] (KU_6DFSm74k) Nalant: 狗狗
+[06:59:47]: [Say] (KU_VOig0Obi) 阿薩謝爾: MAGIC
+[07:07:11]: [Say] (KU_VOig0Obi) 阿薩謝爾: 精神時光屋
+[07:09:15]: [Leave Announcement] adai1198
+[07:09:15]: [Say] (KU_6DFSm74k) Nalant: 克勞斯給了我一個禮物
+[07:09:28]: [Say] (KU_6DFSm74k) Nalant: 機器人

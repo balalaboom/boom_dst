@@ -2253,3 +2253,485 @@
 [06:46:13]: KU_MitzUqYv	running text command:	joy	true	
 [06:46:16]: KU_VOig0Obi	running text command:	joy	true	
 [06:46:16]: KU_MitzUqYv	running text command:	joy	true	
+[06:47:21]: KU_MitzUqYv	running text command:	flex	true	
+[06:49:11]: KU_vIIO9TCg	running text command:	rude	true	
+[06:49:14]: KU_vIIO9TCg	running text command:	no	true	
+[06:51:03]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000404
+[06:51:03]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000404
+[06:51:03]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000404
+[06:51:03]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000404
+[06:51:03]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000404
+[06:51:03]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000404
+[06:51:04]: Serializing world: session/537C5C69FFB19629/0000000404
+[06:52:52]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[06:52:54]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[06:52:55]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[06:58:15]: Could not find anim [transform_out] in bank [FROMNUM]
+[06:59:04]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000405
+[06:59:04]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000405
+[06:59:04]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000405
+[06:59:04]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000405
+[06:59:04]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000405
+[06:59:04]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000405
+[06:59:04]: Serializing world: session/537C5C69FFB19629/0000000405
+[07:00:07]: [200] Account Communication Success (6)
+[07:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[07:02:02]: Received world rollback request: count=1	
+[07:02:02]: Truncating to snapshot #405...
+[07:02:02]:  - session/537C5C69FFB19629/0000000383
+[07:02:02]:  - session/537C5C69FFB19629/0000000382
+[07:02:02]:  - session/537C5C69FFB19629/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/0000000370
+[07:02:02]:  - session/537C5C69FFB19629/0000000369
+[07:02:02]:  - session/537C5C69FFB19629/0000000376
+[07:02:02]:  - session/537C5C69FFB19629/0000000368
+[07:02:02]:  - session/537C5C69FFB19629/0000000378
+[07:02:02]:  - session/537C5C69FFB19629/0000000381
+[07:02:02]:  - session/537C5C69FFB19629/0000000379
+[07:02:02]:  - session/537C5C69FFB19629/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/0000000372
+[07:02:02]:  - session/537C5C69FFB19629/0000000375
+[07:02:02]:  - session/537C5C69FFB19629/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/0000000371
+[07:02:02]:  - session/537C5C69FFB19629/0000000380
+[07:02:02]:  - session/537C5C69FFB19629/0000000388
+[07:02:02]:  - session/537C5C69FFB19629/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/0000000389
+[07:02:02]:  - session/537C5C69FFB19629/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/0000000385
+[07:02:02]:  - session/537C5C69FFB19629/0000000374
+[07:02:02]:  - session/537C5C69FFB19629/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/0000000367
+[07:02:02]:  - session/537C5C69FFB19629/0000000399
+[07:02:02]:  - session/537C5C69FFB19629/0000000384
+[07:02:02]:  - session/537C5C69FFB19629/0000000398
+[07:02:02]:  - session/537C5C69FFB19629/0000000387
+[07:02:02]:  - session/537C5C69FFB19629/0000000373
+[07:02:02]:  - session/537C5C69FFB19629/0000000377
+[07:02:02]:  - session/537C5C69FFB19629/0000000390
+[07:02:02]:  - session/537C5C69FFB19629/0000000397
+[07:02:02]:  - session/537C5C69FFB19629/0000000386
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000365
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000390
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000389
+[07:02:02]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000355
+[07:02:02]:  - session/537C5C69FFB19629/A7JOTND0H59V/0000000398
+[07:02:02]:  - session/537C5C69FFB19629/A7JOTND0H59V/0000000397
+[07:02:02]:  - session/537C5C69FFB19629/A7JOTND0H59V/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/A7JOTND0H59V/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7JOTND0H59V/0000000358
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000399
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000398
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000397
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000390
+[07:02:02]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000323
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000399
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000398
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000397
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000390
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000389
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000388
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000387
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000386
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000385
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000384
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000383
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000382
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000381
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000380
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000379
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000378
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000377
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000376
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000375
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000374
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000373
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000372
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000371
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000370
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000369
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000368
+[07:02:02]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000367
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000390
+[07:02:02]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000254
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000399
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000398
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000397
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000396
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000395
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000394
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000391
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000390
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000389
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000388
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000387
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000386
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000385
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000384
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000383
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000382
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000381
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000380
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000379
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000378
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000377
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000376
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000375
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000374
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000373
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000372
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000371
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000370
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000369
+[07:02:02]:  - session/537C5C69FFB19629/A7N54IC2BKPA/0000000367
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000393
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000392
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000389
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000388
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000387
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000384
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000383
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000382
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000381
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000380
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000379
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000378
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000377
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000376
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000375
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000374
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000373
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000372
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000371
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000368
+[07:02:02]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000367
+[07:02:02]:    158 file(s) removed
+[07:02:02]:  > session/537C5C69FFB19629/A7IQPNUNMI5P/savelocation
+[07:02:02]:  > session/537C5C69FFB19629/A7IOC71O41LI/savelocation
+[07:02:02]:  > session/537C5C69FFB19629/A7JOTND0H59V/savelocation
+[07:02:02]:  > session/537C5C69FFB19629/A7GOQFEC0S9E/savelocation
+[07:02:02]:  > session/537C5C69FFB19629/A7JTHCL032BC/savelocation
+[07:02:02]:  > session/537C5C69FFB19629/A7N54IC2BKPA/savelocation
+[07:02:02]:  > session/537C5C69FFB19629/A7N10VH2FLUB/savelocation
+[07:02:02]:    7 file(s) updated
+[07:02:02]: unloading prefabs for mod MOD_workshop-362175979	
+[07:02:02]: unloading prefabs for mod MOD_workshop-1111711682	
+[07:02:02]: unloading prefabs for mod MOD_workshop-378160973	
+[07:02:03]: Collecting garbage...
+[07:02:03]: lua_gc took 0.37 seconds
+[07:02:03]: ~ShardLuaProxy()
+[07:02:03]: ~ItemServerLuaProxy()
+[07:02:03]: ~InventoryLuaProxy()
+[07:02:03]: ~NetworkLuaProxy()
+[07:02:03]: ~SimLuaProxy()
+[07:02:04]: lua_close took 0.77 seconds
+[07:02:04]: ReleaseAll
+[07:02:04]: ReleaseAll Finished
+[07:02:04]: cGame::StartPlaying
+[07:02:04]: LOADING LUA
+[07:02:04]: DoLuaFile scripts/main.lua
+[07:02:04]: DoLuaFile loading buffer scripts/main.lua
+[07:02:04]:   taskgrouplist:	default	Together	
+[07:02:04]:   taskgrouplist:	classic	Classic	
+[07:02:04]:   taskgrouplist:	cave_default	Underground	
+[07:02:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[07:02:04]: running main.lua
+	
+[07:02:04]: loaded modindex	
+[07:02:04]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[07:02:04]: modoverrides.lua enabling workshop-378160973	
+[07:02:04]: modoverrides.lua enabling workshop-1111711682	
+[07:02:04]: modoverrides.lua enabling workshop-362175979	
+[07:02:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[07:02:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[07:02:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[07:02:04]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[07:02:04]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[07:02:04]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[07:02:04]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[07:02:04]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
+[07:02:04]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[07:02:04]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[07:02:04]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[07:02:04]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[07:02:04]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[07:02:04]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[07:02:04]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[07:02:04]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[07:02:04]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[07:02:04]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[07:02:04]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[07:02:04]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[07:02:04]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[07:02:04]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[07:02:04]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[07:02:04]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[07:02:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[07:02:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[07:02:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[07:02:04]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[07:02:04]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[07:02:04]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[07:02:04]: [adai] 中文化修復完成。	
+[07:02:04]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[07:02:04]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[07:02:04]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[07:02:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[07:02:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[07:02:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[07:02:05]: LOADING LUA SUCCESS
+[07:02:05]: Registering mod namespace "workshop-378160973"
+[07:02:05]: PlayerDeaths could not load morgue	
+[07:02:05]: PlayerHistory could not load player_history	
+[07:02:05]: bloom_enabled	false	
+[07:02:05]: loaded saveindex	
+[07:02:05]: OnFilesLoaded()	
+[07:02:05]: OnUpdatePurchaseStateComplete	
+[07:02:05]: Loading world: session/537C5C69FFB19629/0000000405	
+[07:02:05]: Save file is at version 4.77	
+[07:02:05]: 	BE assets already loaded	
+[07:02:05]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[07:02:05]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[07:02:05]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[07:02:05]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[07:02:05]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[07:02:05]: Begin Session: 537C5C69FFB19629
+[07:02:05]: Stomping previously assigned session identifier, two loads issued.
+[07:02:05]: saving to server_temp/server_save	
+[07:02:06]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[07:02:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[07:02:06]: Loading Nav Grid	
+[07:02:06]: setting 	summerlength	15	
+[07:02:06]: setting 	isnightmaredawn	false	
+[07:02:06]: setting 	elapseddaysinseason	10	
+[07:02:06]: setting 	isfullmoon	false	
+[07:02:06]: setting 	moisture	3524.1547851562	
+[07:02:06]: setting 	springlength	20	
+[07:02:06]: setting 	isnightmarewild	false	
+[07:02:06]: setting 	moonphase	half	
+[07:02:06]: setting 	precipitationrate	0	
+[07:02:06]: setting 	iswet	false	
+[07:02:06]: setting 	isnewmoon	false	
+[07:02:06]: setting 	iswinter	false	
+[07:02:06]: setting 	israining	false	
+[07:02:06]: setting 	isnightmarewarn	false	
+[07:02:06]: setting 	precipitation	none	
+[07:02:06]: setting 	cavephase	day	
+[07:02:06]: setting 	moistureceil	4829.3735351562	
+[07:02:06]: setting 	isday	true	
+[07:02:06]: setting 	iscaveday	true	
+[07:02:06]: setting 	season	summer	
+[07:02:06]: setting 	timeinphase	0.0030114376183712	
+[07:02:06]: setting 	temperature	89.688354338412	
+[07:02:06]: setting 	isnightmarecalm	false	
+[07:02:06]: setting 	isnight	false	
+[07:02:06]: setting 	isdusk	false	
+[07:02:06]: setting 	iscavedusk	false	
+[07:02:06]: setting 	isautumn	false	
+[07:02:06]: setting 	issnowing	false	
+[07:02:06]: setting 	iswaxingmoon	true	
+[07:02:06]: setting 	pop	0.70721015548616	
+[07:02:06]: setting 	snowlevel	0	
+[07:02:06]: setting 	issnowcovered	false	
+[07:02:06]: setting 	autumnlength	20	
+[07:02:06]: setting 	phase	day	
+[07:02:06]: setting 	nightmaretime	0	
+[07:02:06]: setting 	winterlength	15	
+[07:02:06]: setting 	isspring	false	
+[07:02:06]: setting 	nightmarephase	none	
+[07:02:06]: setting 	remainingdaysinseason	5	
+[07:02:06]: setting 	cycles	345	
+[07:02:06]: setting 	iscavenight	false	
+[07:02:06]: setting 	nightmaretimeinphase	0	
+[07:02:06]: setting 	wetness	0	
+[07:02:06]: setting 	time	0.0020703633626302	
+[07:02:06]: setting 	issummer	true	
+[07:02:20]: Reconstructing topology	
+[07:02:20]: 	...Sorting points	
+[07:02:20]: 	...Sorting edges	
+[07:02:20]: 	...Connecting nodes	
+[07:02:20]: 	...Validating connections	
+[07:02:20]: 	...Housekeeping	
+[07:02:20]: 	...Done!	
+[07:02:20]: Restoring user: session/537C5C69FFB19629/A7GE8P58S30D/0000000405	
+[07:02:20]: Restoring user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000405	
+[07:02:20]: Restoring user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000405	
+[07:02:20]: Restoring user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000405	
+[07:02:20]: Restoring user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000405	
+[07:02:20]: Restoring user: session/537C5C69FFB19629/A7JTHCL032BC/0000000405	
+[07:02:20]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000406
+[07:02:20]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000406
+[07:02:20]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000406
+[07:02:20]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000406
+[07:02:20]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000406
+[07:02:20]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000406
+[07:02:20]: 1 uploads added to server. From server_temp
+[07:02:20]: World 2560562348 is now connected	
+[07:02:20]: Telling Client our new session identifier: 537C5C69FFB19629
+[07:02:20]: ModIndex: Load sequence finished successfully.	
+[07:02:22]: Reset() returning
+[07:02:22]: Error decoding lua RPC sender
+[07:02:22]: Error decoding lua RPC sender
+[07:02:22]: Error decoding lua RPC sender
+[07:02:22]: Received resync request from client with no player
+[07:02:22]: [Shard] Slave 'Caves(2560562348)' restarting...
+[07:02:22]: World 2560562348 is now disconnected	
+[07:02:22]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[07:02:22]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[07:02:22]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[07:02:22]: Validating portal[1] <-> 2560562348[1] (inactive)	
+[07:02:23]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[07:02:23]: Validating portal[10] <-> 2560562348[10] (inactive)	
+[07:02:23]: Validating portal[5] <-> 2560562348[5] (inactive)	
+[07:02:23]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[07:02:23]: Validating portal[2] <-> 2560562348[2] (inactive)	
+[07:02:23]: Validating portal[4] <-> 2560562348[4] (inactive)	
+[07:02:23]: Sim paused
+[07:02:27]: Restarting player migration on master server
+[07:02:27]: [Shard] Read save location file for (KU_uGVY9zVB)
+[07:02:27]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000406
+[07:02:27]: Spawning player at: [Load] (-99.29, -0.00, 567.21)	
+[07:02:27]: Sim unpaused
+[07:02:28]: Could not find anim [sway2_loop_normal] in bank [tree_leaf_monster]
+[07:02:28]: Could not find anim [sway2_loop_short] in bank [tree_leaf_monster]
+[07:02:28]: [Shard] Slave Caves(2560562348) ready!
+[07:02:28]: World 2560562348 is now connected	
+[07:02:28]: Validating portal[8] <-> 2560562348[8] (active)	
+[07:02:28]: Validating portal[6] <-> 2560562348[6] (disabled)	
+[07:02:28]: Validating portal[3] <-> 2560562348[3] (active)	
+[07:02:28]: Validating portal[1] <-> 2560562348[1] (active)	
+[07:02:28]: Validating portal[7] <-> 2560562348[7] (active)	
+[07:02:28]: Validating portal[10] <-> 2560562348[10] (disabled)	
+[07:02:28]: Validating portal[5] <-> 2560562348[5] (active)	
+[07:02:28]: Validating portal[9] <-> 2560562348[9] (active)	
+[07:02:28]: Validating portal[2] <-> 2560562348[2] (active)	
+[07:02:28]: Validating portal[4] <-> 2560562348[4] (active)	
+[07:02:28]: Restarting player migration on master server
+[07:02:28]: [Shard] Read save location file for (KU_vIIO9TCg)
+[07:02:28]: Resuming user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000406
+[07:02:28]: Spawning player at: [Load] (-95.13, -0.00, 569.38)	
+[07:02:29]: Restarting player migration on master server
+[07:02:29]: [Shard] Read save location file for (KU_6DFSm74k)
+[07:02:29]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000406
+[07:02:29]: Spawning player at: [Load] (-128.04, -0.00, 537.38)	
+[07:02:32]: Restarting player migration on master server
+[07:02:32]: [Shard] Read save location file for (KU_MitzUqYv)
+[07:02:32]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000406
+[07:02:32]: Spawning player at: [Load] (-111.48, -0.00, 565.99)	
+[07:02:52]: Restarting player migration on master server
+[07:02:52]: [Shard] Read save location file for (KU_VOig0Obi)
+[07:02:52]: Resuming user: session/537C5C69FFB19629/A7JTHCL032BC/0000000406
+[07:02:52]: Spawning player at: [Load] (-94.72, -0.00, 563.26)	
+[07:03:26]: Restarting player migration on master server
+[07:03:26]: [Shard] Read save location file for (KU_3aPAZWmD)
+[07:03:26]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000406
+[07:03:26]: Spawning player at: [Load] (-119.50, -0.00, 674.99)	
+[07:04:07]: KU_vIIO9TCg	running text command:	sit	true	
+[07:04:13]: KU_MitzUqYv	running text command:	flex	true	
+[07:04:17]: KU_VOig0Obi	running text command:	laugh	true	
+[07:04:42]: KU_MitzUqYv	running text command:	impatient	true	
+[07:09:15]: [Steam] SendUserDisconnect for '76561198074627101'
+[07:09:15]: Connection lost to 18.67.183.183|1 <6958978508553592909>
+[07:09:15]: [Shard] (KU_vIIO9TCg) disconnected from [SHDMASTER](1)
+[07:09:15]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000406
+[07:10:27]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000406
+[07:10:27]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000406
+[07:10:27]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000406
+[07:10:27]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000406
+[07:10:27]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000406
+[07:10:28]: Serializing world: session/537C5C69FFB19629/0000000406
