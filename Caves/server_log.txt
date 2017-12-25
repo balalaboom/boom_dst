@@ -1068,3 +1068,29 @@
 [03:22:42]: Truncating to snapshot #378...
 [03:22:42]:  - session/5C44BECFFFC07A2A/0000000372
 [03:22:42]:    1 file(s) removed
+[03:30:06]: [200] Account Communication Success (6)
+[03:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:30:43]: Serializing world: session/5C44BECFFFC07A2A/0000000379
+[03:30:43]: Truncating to snapshot #379...
+[03:30:43]:  - session/5C44BECFFFC07A2A/0000000373
+[03:30:43]:    1 file(s) removed
+[03:38:44]: Serializing world: session/5C44BECFFFC07A2A/0000000380
+[03:38:44]: Truncating to snapshot #380...
+[03:38:44]:  - session/5C44BECFFFC07A2A/0000000374
+[03:38:44]:    1 file(s) removed
+[03:42:01]: [Shard] #17 -> session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000381
+[03:42:01]: [Shard] Received migration #17 data for (KU_uGVY9zVB)
+[03:42:09]: [P2P] Create session: 18.69.188.142|1 '76561198354843262'
+[03:42:09]: [P2P] Received from 18.69.188.142|1 '76561198354843262'
+[03:42:09]: [P2P] Sent to 18.69.188.142|1 '76561198354843262'
+[03:42:10]: New incoming connection 18.69.188.142|1 <3899947105084879132>
+[03:42:10]: Client connected from 18.69.188.142|1 <3899947105084879132>
+[03:42:10]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^aLeq34t5/hTHaXdChLIIeMZDBxDnfYohG36hxblmgAg= for <3899947105084879132>
+[03:42:10]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[03:42:10]: [Steam] Authenticated host '76561198354843262'
+[03:42:10]: [Shard] Completed incoming migration #17 for (KU_uGVY9zVB)
+[03:42:19]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000381
+[03:42:19]: Player will spawn close to portal #1	
+[03:42:19]: Spawning player at: [Load] (364.61, 0.00, -262.02)	
+[03:46:44]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000381
+[03:46:44]: Serializing world: session/5C44BECFFFC07A2A/0000000381

@@ -151,3 +151,4 @@
 [02:41:55]: [Say] (KU_vIIO9TCg) adai1198:  I have a 華麗裝飾.
 [02:43:51]: [Say] (KU_vIIO9TCg) adai1198:  We have 3 圓石s in this 箱子.
 [03:06:19]: [Say] (KU_uGVY9zVB) balalaboom: 烤好烤滿
+[03:37:04]: [Say] (KU_vIIO9TCg) adai1198:  We have 6 螢光果s in this 冰箱.

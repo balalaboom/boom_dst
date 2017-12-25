@@ -1437,3 +1437,27 @@
 [03:22:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000378
 [03:22:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000378
 [03:22:43]: Serializing world: session/537C5C69FFB19629/0000000378
+[03:30:06]: [200] Account Communication Success (6)
+[03:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:30:43]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000379
+[03:30:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000379
+[03:30:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000379
+[03:30:43]: Serializing world: session/537C5C69FFB19629/0000000379
+[03:38:44]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000380
+[03:38:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000380
+[03:38:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000380
+[03:38:44]: Serializing world: session/537C5C69FFB19629/0000000380
+[03:42:00]: Activating portal[1] to 2560562348	
+[03:42:01]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000381
+[03:42:01]: [Shard] Migration request: (KU_uGVY9zVB) to Caves(2560562348)
+[03:42:01]: [Shard] Begin migration #17 for (KU_uGVY9zVB)
+[03:42:01]: [Shard] #17 [SHDMASTER](1) -> Caves(2560562348)
+[03:42:01]: [Shard] #17 <- session/537C5C69FFB19629/A7N10VH2FLUB/0000000381
+[03:42:01]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:42:01]: [Steam] SendUserDisconnect for '76561198354843262'
+[03:42:01]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[03:42:10]: [Shard] Completed migration #17 for player (KU_uGVY9zVB)
+[03:42:10]: [Shard] Writing save location file for (KU_uGVY9zVB)
+[03:46:44]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000381
+[03:46:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000381
+[03:46:45]: Serializing world: session/537C5C69FFB19629/0000000381
