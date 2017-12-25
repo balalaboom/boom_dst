@@ -1,3 +1,4 @@
 [00:04:14]: [Join Announcement] balalaboom
 [00:53:00]: [Skin Announcement] balalaboom mysterybox_classic_4
 [01:52:44]: [Death Announcement] balalaboom 死亡，死因： 紅色獵犬。她變成了一個令人毛骨悚然的鬼！
+[02:05:21]: [Leave Announcement] balalaboom

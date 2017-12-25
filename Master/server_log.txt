@@ -823,3 +823,74 @@
 [01:53:20]: Validating portal[9] <-> 2560562348[9] (active)	
 [01:53:20]: Validating portal[8] <-> 2560562348[8] (active)	
 [01:53:20]: Sim unpaused
+[02:00:05]: [200] Account Communication Success (6)
+[02:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:01:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000348
+[02:01:21]: Serializing world: session/537C5C69FFB19629/0000000348
+[02:05:19]: RemoteCommandInput: "c_save()"
+[02:05:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000349
+[02:05:21]: Serializing world: session/537C5C69FFB19629/0000000349
+[02:05:21]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:05:21]: Connection lost to 22.161.85.152|1 <1599064637251353865>
+[02:05:21]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[02:05:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000350
+[02:05:21]: Sim paused
+[02:05:35]: RemoteCommandInput: "c_save()"
+[02:05:35]: Sim unpaused
+[02:05:36]: Serializing world: session/537C5C69FFB19629/0000000350
+[02:05:36]: Truncating to snapshot #350...
+[02:05:36]:  - session/537C5C69FFB19629/0000000343
+[02:05:36]:  - session/537C5C69FFB19629/0000000342
+[02:05:36]:  - session/537C5C69FFB19629/0000000344
+[02:05:36]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000344
+[02:05:36]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000343
+[02:05:36]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000342
+[02:05:36]:    6 file(s) removed
+[02:05:36]: Sim paused
+[02:05:46]: World 2560562348 is now disconnected	
+[02:05:46]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[02:05:46]: Validating portal[4] <-> 2560562348[4] (inactive)	
+[02:05:46]: Validating portal[5] <-> 2560562348[5] (inactive)	
+[02:05:46]: Validating portal[1] <-> 2560562348[1] (inactive)	
+[02:05:46]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[02:05:46]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[02:05:46]: Validating portal[2] <-> 2560562348[2] (inactive)	
+[02:05:46]: Validating portal[10] <-> 2560562348[10] (inactive)	
+[02:05:46]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[02:05:46]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[02:05:46]: [Shard] A slave has disconnected: 'Caves(2560562348)'
+[02:09:12]: RemoteCommandInput: "c_shutdown()"
+[02:09:12]: c_shutdown	nil	
+[02:09:13]: Serializing world: session/537C5C69FFB19629/0000000351
+[02:09:13]: Truncating to snapshot #351...
+[02:09:13]:  - session/537C5C69FFB19629/0000000345
+[02:09:13]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000345
+[02:09:13]:    2 file(s) removed
+[02:09:13]: unloading prefabs for mod MOD_workshop-362175979	
+[02:09:13]: unloading prefabs for mod MOD_workshop-1111711682	
+[02:09:13]: unloading prefabs for mod MOD_workshop-378160973	
+[02:09:13]: unloading prefabs for mod MOD_workshop-362175979	
+[02:09:13]: unloading prefabs for mod MOD_workshop-1111711682	
+[02:09:13]: unloading prefabs for mod MOD_workshop-378160973	
+[02:09:13]: Serializing world: session/537C5C69FFB19629/0000000352
+[02:09:13]: Truncating to snapshot #352...
+[02:09:13]:  - session/537C5C69FFB19629/0000000346
+[02:09:13]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000346
+[02:09:13]:    2 file(s) removed
+[02:09:13]: unloading prefabs for mod MOD_workshop-362175979	
+[02:09:13]: unloading prefabs for mod MOD_workshop-1111711682	
+[02:09:13]: unloading prefabs for mod MOD_workshop-378160973	
+[02:09:14]: [Shard] Stopping shard mode
+[02:09:15]: Collecting garbage...
+[02:09:15]: lua_gc took 0.49 seconds
+[02:09:15]: ~ShardLuaProxy()
+[02:09:15]: ~ItemServerLuaProxy()
+[02:09:15]: ~InventoryLuaProxy()
+[02:09:15]: ~NetworkLuaProxy()
+[02:09:15]: ~SimLuaProxy()
+[02:09:16]: lua_close took 0.60 seconds
+[02:09:16]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:09:16]: shaders/ui_yuv.ksh - 1
+[02:09:16]: CurlRequestManager::ClientThread::Main() complete
+[02:09:16]: HttpClient2 discarded 1 callbacks.
+[02:09:16]: Shutting down
