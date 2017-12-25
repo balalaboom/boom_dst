@@ -159,3 +159,5 @@
 [03:57:51]: [Say] (KU_vIIO9TCg) adai1198:  I have 140 岩石地皮s.
 [04:01:32]: [Death Announcement] adai1198 死亡，死因： 黑暗。他變成了一個令人毛骨悚然的鬼！
 [04:01:41]: [Resurrect Announcement] adai1198 復活自 ルビー.
+[04:24:53]: [Say] (KU_vIIO9TCg) adai1198:  I have 22 鵝卵石磚s.
+[04:29:39]: [Say] (KU_vIIO9TCg) adai1198:  I have 128 落葉林地皮s.

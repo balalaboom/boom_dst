@@ -1536,3 +1536,36 @@
 [04:18:48]: Serializing world: session/537C5C69FFB19629/0000000385
 [04:19:54]: [P2P] Session timed out for '76561198354843262'
 [04:19:54]: [P2P] Remove session: 18.67.183.185|1 '76561198354843262'
+[04:26:48]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000386
+[04:26:49]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000386
+[04:26:49]: Serializing world: session/537C5C69FFB19629/0000000386
+[04:30:07]: [200] Account Communication Success (6)
+[04:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:32:02]: [Shard] Begin migration #20 for (KU_uGVY9zVB)
+[04:32:02]: [Shard] #20 Caves(2560562348) -> [SHDMASTER](1)
+[04:32:02]: [Shard] #20 -> session/537C5C69FFB19629/A7N10VH2FLUB/0000000387
+[04:32:02]: [Shard] Received migration #20 data for (KU_uGVY9zVB)
+[04:32:02]: [Shard] (KU_uGVY9zVB) disconnected from Caves(2560562348)
+[04:32:10]: [P2P] Create session: 18.67.183.186|1 '76561198354843262'
+[04:32:10]: [P2P] Received from 18.67.183.186|1 '76561198354843262'
+[04:32:10]: [P2P] Sent to 18.67.183.186|1 '76561198354843262'
+[04:32:11]: New incoming connection 18.67.183.186|1 <3325693694814884554>
+[04:32:11]: Client connected from 18.67.183.186|1 <3325693694814884554>
+[04:32:11]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^ZnEolfTU6qoLad/mOx3KIjgCQRCmnOdZKfqVeJv66vI= for <3325693694814884554>
+[04:32:12]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[04:32:12]: [Steam] Authenticated host '76561198354843262'
+[04:32:12]: [Shard] Completed incoming migration #20 for (KU_uGVY9zVB)
+[04:32:12]: [Shard] Completed migration #20 for player (KU_uGVY9zVB)
+[04:32:12]: [Shard] Writing save location file for (KU_uGVY9zVB)
+[04:32:20]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000387
+[04:32:20]: Player will spawn close to portal #1	
+[04:32:20]: Spawning player at: [Load] (-7.68, 0.00, 466.82)	
+[04:34:50]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000387
+[04:34:50]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000387
+[04:34:50]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000387
+[04:34:50]: Serializing world: session/537C5C69FFB19629/0000000387
+[04:42:50]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000388
+[04:42:50]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000388
+[04:42:50]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000388
+[04:42:51]: Serializing world: session/537C5C69FFB19629/0000000388
+[04:43:57]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]

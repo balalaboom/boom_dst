@@ -1131,3 +1131,28 @@
 [04:10:47]: Serializing world: session/5C44BECFFFC07A2A/0000000384
 [04:18:48]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000385
 [04:18:48]: Serializing world: session/5C44BECFFFC07A2A/0000000385
+[04:26:48]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000386
+[04:26:49]: Serializing world: session/5C44BECFFFC07A2A/0000000386
+[04:30:07]: [200] Account Communication Success (6)
+[04:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:32:01]: Activating portal[1] to 1	
+[04:32:02]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000387
+[04:32:02]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[04:32:02]: [Shard] #20 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000387
+[04:32:02]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:32:02]: [Steam] SendUserDisconnect for '76561198354843262'
+[04:34:50]: Serializing world: session/5C44BECFFFC07A2A/0000000387
+[04:34:50]: Truncating to snapshot #387...
+[04:34:50]:  - session/5C44BECFFFC07A2A/0000000378
+[04:34:50]:  - session/5C44BECFFFC07A2A/0000000381
+[04:34:50]:  - session/5C44BECFFFC07A2A/0000000379
+[04:34:50]:  - session/5C44BECFFFC07A2A/0000000380
+[04:34:50]:  - session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000381
+[04:34:50]:  - session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000362
+[04:34:50]:    6 file(s) removed
+[04:42:05]: [P2P] Session timed out for '76561198354843262'
+[04:42:05]: [P2P] Remove session: 18.69.188.143|1 '76561198354843262'
+[04:42:50]: Serializing world: session/5C44BECFFFC07A2A/0000000388
+[04:42:50]: Truncating to snapshot #388...
+[04:42:50]:  - session/5C44BECFFFC07A2A/0000000382
+[04:42:50]:    1 file(s) removed
