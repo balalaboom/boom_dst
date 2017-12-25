@@ -354,3 +354,56 @@
 [07:45:04]: [Say] (KU_3aPAZWmD) ルビー: 小心笨雄 OWO
 [07:46:09]: [Say] (KU_g0ecL7wy) 崎三: atrium
 [07:46:40]: [Say] (KU_6DFSm74k) Nalant: atrium_key
+[07:48:05]: [Say] (KU_6DFSm74k) Nalant: 好多觸手
+[07:48:07]: [Say] (KU_6DFSm74k) Nalant: XD
+[07:48:14]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 小觸手。她變成了一個令人毛骨悚然的鬼！
+[07:50:42]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 重生護符.
+[07:52:24]: [Say] (KU_TtsjKcrU) AierLuosen:  I have a 厚皮毛.
+[07:52:48]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 5 絨毛簇s.
+[07:53:01]: [Say] (KU_3aPAZWmD) ルビー: 感謝艾爾
+[07:53:13]: [Say] (KU_TtsjKcrU) AierLuosen: 他剛剛 再吃農田
+[07:53:15]: [Say] (KU_g0ecL7wy) 崎三: who we waiting for?
+[07:53:19]: [Say] (KU_3aPAZWmD) ルビー: OAO!
+[07:53:24]: [Say] (KU_3aPAZWmD) ルビー: QWQ
+[07:53:30]: [Say] (KU_uGVY9zVB) balalaboom: 我
+[07:53:41]: [Say] (KU_3aPAZWmD) ルビー: 我的火龍果跟南瓜 QWQ
+[07:53:43]: [Say] (KU_uGVY9zVB) balalaboom: 我要敲圖勒礦
+[07:55:31]: [Say] (KU_uGVY9zVB) balalaboom: 缺2個圓石QQ
+[07:55:42]: [Say] (KU_uGVY9zVB) balalaboom: 我要敲
+[07:55:47]: [Say] (KU_6DFSm74k) Nalant: 只能等地震了
+[07:55:54]: [Say] (KU_g0ecL7wy) 崎三: 什麼圓石?
+[07:56:33]: [Say] (KU_g0ecL7wy) 崎三: 我撿了
+[07:56:55]: [Say] (KU_6DFSm74k) Nalant: 地龍
+[07:57:06]: [Leave Announcement] 讓子彈飛一會兒
+[07:57:09]: [Leave Announcement] balalaboom
+[07:58:38]: [Death Announcement] ルビー 死亡，死因： 蝙蝠。他變成了一個令人毛骨悚然的鬼！
+[07:58:41]: [Say] (KU_g0ecL7wy) 崎三: lol
+[07:59:09]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[07:59:10]: [Join Announcement] 讓子彈飛一會兒
+[07:59:23]: [Join Announcement] balalaboom
+[07:59:45]: [Say] (KU_6DFSm74k) Nalant: 重生護符材料是幾個紅寶石
+[08:00:11]: [Say] (KU_g0ecL7wy) 崎三: 我的頭盔快要爆掉
+[08:01:17]: [Say] (KU_6DFSm74k) Nalant: 我丟進去
+[08:02:10]: [Say] (KU_6DFSm74k) Nalant: 兩邊在完石頭
+[08:02:14]: [Say] (KU_6DFSm74k) Nalant: 玩XD
+[08:02:14]: [Say] (KU_g0ecL7wy) 崎三: www
+[08:02:15]: [Say] (KU_3aPAZWmD) ルビー: XD
+[08:02:41]: [Say] (KU_6DFSm74k) Nalant: 沒有耶
+[08:02:56]: [Say] (KU_TtsjKcrU) AierLuosen: 有
+[08:03:03]: [Say] (KU_6DFSm74k) Nalant: 我被主教偷襲XD
+[08:03:18]: [Say] (KU_TtsjKcrU) AierLuosen: 好像沒有
+[08:03:23]: [Say] (KU_g0ecL7wy) 崎三: LOL
+[08:03:29]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[08:03:37]: [Say] (KU_TtsjKcrU) AierLuosen: 你們沒打過
+[08:03:46]: [Say] (KU_3aPAZWmD) ルビー: 這世界還沒打過 三人眾
+[08:04:07]: [Say] (KU_TtsjKcrU) AierLuosen: 剛過滿月
+[08:04:51]: [Say] (KU_TtsjKcrU) AierLuosen: 這次克勞斯出哪?
+[08:05:10]: [Say] (KU_6DFSm74k) Nalant: 衝得過來嗎XD
+[08:07:49]: [Say] (KU_TtsjKcrU) AierLuosen: 理智低於影怪攻擊你的程度
+[08:07:59]: [Say] (KU_TtsjKcrU) AierLuosen: 女戰是15
+[08:08:24]: [Say] (KU_TtsjKcrU) AierLuosen: 200理智的是30
+[08:09:56]: [Say] (KU_6DFSm74k) Nalant: 我偷渡包包進來了XD
+[08:10:35]: [Say] (KU_TtsjKcrU) AierLuosen: 克勞斯在哪
+[08:10:45]: [Say] (KU_3aPAZWmD) ルビー: 隕石區入口
+[08:10:52]: [Say] (KU_6DFSm74k) Nalant: ruby我護符丟入口
+[08:10:52]: [Say] (KU_TtsjKcrU) AierLuosen: 好

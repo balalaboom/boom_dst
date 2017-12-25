@@ -1873,3 +1873,79 @@
 [07:42:30]: Serializing user: session/5C44BECFFFC07A2A/A7L818J58VLS/0000000410
 [07:42:30]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000410
 [07:42:31]: Serializing world: session/5C44BECFFFC07A2A/0000000410
+[07:47:12]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_gonext("atrium_key")) @(-542.55, -19.25)
+[07:47:12]: Finding a 	atrium_key	
+[07:47:12]: Found 107486 (1/1)	
+[07:48:14]: Could not find anim [death] in bank [ghost]
+[07:48:14]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000411
+[07:50:31]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000411
+[07:50:31]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000411
+[07:50:31]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000411
+[07:50:31]: Serializing user: session/5C44BECFFFC07A2A/A7GOQFEC0S9E/0000000411
+[07:50:31]: Serializing user: session/5C44BECFFFC07A2A/A7L818J58VLS/0000000411
+[07:50:31]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000411
+[07:50:31]: Serializing world: session/5C44BECFFFC07A2A/0000000411
+[07:50:42]: Could not find anim [idle_loop] in bank [ghost]
+[07:50:45]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000412
+[07:52:57]: KU_g0ecL7wy	running text command:	dance	true	
+[07:53:09]: KU_g0ecL7wy	running text command:	dance	true	
+[07:53:22]: KU_g0ecL7wy	running text command:	dance	true	
+[07:55:06]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_give("rock",2)) @(347.06, -121.51)
+[07:55:06]: Could not preload undefined prefab (rock)
+[07:55:06]: Could not preload undefined prefab (rock)
+[07:57:06]: [Steam] SendUserDisconnect for '76561198099860495'
+[07:57:06]: Connection lost to 18.69.188.153|1 <7455762199882048798>
+[07:57:07]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000412
+[07:57:09]: [Steam] SendUserDisconnect for '76561198354843262'
+[07:57:09]: Connection lost to 18.69.188.152|1 <9123736108800609245>
+[07:57:09]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000412
+[07:58:32]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000412
+[07:58:32]: Serializing user: session/5C44BECFFFC07A2A/A7GOQFEC0S9E/0000000412
+[07:58:32]: Serializing user: session/5C44BECFFFC07A2A/A7L818J58VLS/0000000412
+[07:58:32]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000412
+[07:58:32]: Serializing world: session/5C44BECFFFC07A2A/0000000412
+[07:58:38]: Could not find anim [death] in bank [ghost]
+[07:58:38]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000413
+[07:58:47]: [Shard] Received forward request #47 for (KU_MitzUqYv)
+[07:58:53]: [P2P] Received from 18.69.188.153|1 '76561198099860495'
+[07:58:53]: [P2P] Sent to 18.69.188.153|1 '76561198099860495'
+[07:58:53]: New incoming connection 18.69.188.153|1 <1590635218823490222>
+[07:58:53]: Client connected from 18.69.188.153|1 <1590635218823490222>
+[07:58:53]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^2UIlUOAX5BPa8r7AHSQTh22UFZh1mMgfPOvvoW8TJbY= for <1590635218823490222>
+[07:58:54]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[07:58:54]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[07:58:54]: [Steam] Authenticated client '76561198099860495'
+[07:58:57]: [Shard] Completed incoming migration #47 for (KU_MitzUqYv)
+[07:59:06]: [Shard] Received forward request #48 for (KU_uGVY9zVB)
+[07:59:09]: Could not find anim [idle_loop] in bank [ghost]
+[07:59:12]: Resuming user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000412
+[07:59:12]: Spawning player at: [Load] (-307.82, 0.00, -337.63)	
+[07:59:12]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000413
+[07:59:13]: [P2P] Received from 18.69.188.152|1 '76561198354843262'
+[07:59:13]: [P2P] Sent to 18.69.188.152|1 '76561198354843262'
+[07:59:13]: New incoming connection 18.69.188.152|1 <6254136492220781528>
+[07:59:13]: Client connected from 18.69.188.152|1 <6254136492220781528>
+[07:59:13]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^zgmeQu0KZqGKSk1zlR1OYq03MKIvIQPK+We/E8DZmbk= for <6254136492220781528>
+[07:59:14]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[07:59:14]: [Steam] Authenticated host '76561198354843262'
+[07:59:16]: [Shard] Completed incoming migration #48 for (KU_uGVY9zVB)
+[07:59:24]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000412
+[07:59:24]: Spawning player at: [Load] (315.92, -0.00, -163.47)	
+[07:59:54]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_give("rocks",2)) @(319.64, -175.02)
+[07:59:54]: giving 	134409 - rocks	
+[07:59:54]: giving 	134411 - rocks	
+[08:00:07]: [200] Account Communication Success (6)
+[08:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[08:06:32]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000413
+[08:06:32]: Serializing user: session/5C44BECFFFC07A2A/A7GOQFEC0S9E/0000000413
+[08:06:32]: Serializing user: session/5C44BECFFFC07A2A/A7L818J58VLS/0000000413
+[08:06:32]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000413
+[08:06:32]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000413
+[08:06:32]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000413
+[08:06:33]: Serializing world: session/5C44BECFFFC07A2A/0000000413
+[08:09:01]: Activating portal[1] to 1	
+[08:09:02]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000414
+[08:09:02]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[08:09:02]: [Shard] #49 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000414
+[08:09:02]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[08:09:02]: [Steam] SendUserDisconnect for '76561198354843262'
