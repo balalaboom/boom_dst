@@ -451,3 +451,92 @@
 [00:42:56]: Serializing world: session/537C5C69FFB19629/0000000339
 [00:50:57]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000340
 [00:50:57]: Serializing world: session/537C5C69FFB19629/0000000340
+[00:58:57]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000341
+[00:58:58]: Serializing world: session/537C5C69FFB19629/0000000341
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:06:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000342
+[01:06:58]: Serializing world: session/537C5C69FFB19629/0000000342
+[01:14:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000343
+[01:14:59]: Serializing world: session/537C5C69FFB19629/0000000343
+[01:19:22]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_give("rope",80)) @(-91.94, 396.01)
+[01:19:22]: giving 	136038 - rope	
+[01:19:22]: giving 	136040 - rope	
+[01:19:22]: giving 	136042 - rope	
+[01:19:22]: giving 	136044 - rope	
+[01:19:22]: giving 	136046 - rope	
+[01:19:22]: giving 	136048 - rope	
+[01:19:22]: giving 	136050 - rope	
+[01:19:22]: giving 	136052 - rope	
+[01:19:22]: giving 	136054 - rope	
+[01:19:22]: giving 	136056 - rope	
+[01:19:22]: giving 	136058 - rope	
+[01:19:22]: giving 	136060 - rope	
+[01:19:22]: giving 	136062 - rope	
+[01:19:22]: giving 	136064 - rope	
+[01:19:22]: giving 	136066 - rope	
+[01:19:22]: giving 	136068 - rope	
+[01:19:22]: giving 	136070 - rope	
+[01:19:22]: giving 	136072 - rope	
+[01:19:22]: giving 	136074 - rope	
+[01:19:22]: giving 	136076 - rope	
+[01:19:22]: giving 	136078 - rope	
+[01:19:22]: giving 	136080 - rope	
+[01:19:22]: giving 	136082 - rope	
+[01:19:22]: giving 	136084 - rope	
+[01:19:22]: giving 	136086 - rope	
+[01:19:22]: giving 	136088 - rope	
+[01:19:22]: giving 	136090 - rope	
+[01:19:22]: giving 	136092 - rope	
+[01:19:22]: giving 	136094 - rope	
+[01:19:22]: giving 	136096 - rope	
+[01:19:22]: giving 	136098 - rope	
+[01:19:22]: giving 	136100 - rope	
+[01:19:22]: giving 	136102 - rope	
+[01:19:22]: giving 	136104 - rope	
+[01:19:22]: giving 	136106 - rope	
+[01:19:22]: giving 	136108 - rope	
+[01:19:22]: giving 	136110 - rope	
+[01:19:22]: giving 	136112 - rope	
+[01:19:22]: giving 	136114 - rope	
+[01:19:22]: giving 	136116 - rope	
+[01:19:22]: giving 	136118 - rope	
+[01:19:22]: giving 	136120 - rope	
+[01:19:22]: giving 	136122 - rope	
+[01:19:22]: giving 	136124 - rope	
+[01:19:22]: giving 	136126 - rope	
+[01:19:22]: giving 	136128 - rope	
+[01:19:22]: giving 	136130 - rope	
+[01:19:22]: giving 	136132 - rope	
+[01:19:22]: giving 	136134 - rope	
+[01:19:22]: giving 	136136 - rope	
+[01:19:22]: giving 	136138 - rope	
+[01:19:22]: giving 	136140 - rope	
+[01:19:22]: giving 	136142 - rope	
+[01:19:22]: giving 	136144 - rope	
+[01:19:22]: giving 	136146 - rope	
+[01:19:22]: giving 	136148 - rope	
+[01:19:22]: giving 	136150 - rope	
+[01:19:22]: giving 	136152 - rope	
+[01:19:22]: giving 	136154 - rope	
+[01:19:22]: giving 	136156 - rope	
+[01:19:22]: giving 	136158 - rope	
+[01:19:22]: giving 	136160 - rope	
+[01:19:22]: giving 	136162 - rope	
+[01:19:22]: giving 	136164 - rope	
+[01:19:22]: giving 	136166 - rope	
+[01:19:22]: giving 	136168 - rope	
+[01:19:22]: giving 	136170 - rope	
+[01:19:22]: giving 	136172 - rope	
+[01:19:22]: giving 	136174 - rope	
+[01:19:22]: giving 	136176 - rope	
+[01:19:22]: giving 	136178 - rope	
+[01:19:22]: giving 	136180 - rope	
+[01:19:22]: giving 	136182 - rope	
+[01:19:22]: giving 	136184 - rope	
+[01:19:22]: giving 	136186 - rope	
+[01:19:22]: giving 	136188 - rope	
+[01:19:22]: giving 	136190 - rope	
+[01:19:22]: giving 	136192 - rope	
+[01:19:22]: giving 	136194 - rope	
+[01:19:22]: giving 	136196 - rope	
