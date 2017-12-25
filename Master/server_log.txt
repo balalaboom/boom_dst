@@ -1037,3 +1037,23 @@
 [02:06:23]: Serializing world: session/537C5C69FFB19629/0000000369
 [02:08:07]: [P2P] Session timed out for '76561198354843262'
 [02:08:07]: [P2P] Remove session: 18.67.183.181|1 '76561198354843262'
+[02:12:48]: RemoteCommandInput: "c_announce(c_countprefabs("lightninggoat")~=0 and "有 ╰(??ω??)╯" or "沒有 ╰(??????)╯")"
+[02:12:48]: There are 	6	lightninggoats in the world.	
+[02:14:23]: [P2P] Create session: 18.67.183.184|1 '76561198354843262'
+[02:14:23]: [P2P] Received from 18.67.183.184|1 '76561198354843262'
+[02:14:23]: [P2P] Sent to 18.67.183.184|1 '76561198354843262'
+[02:14:23]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000370
+[02:14:23]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000370
+[02:14:24]: Serializing world: session/537C5C69FFB19629/0000000370
+[02:14:24]: New incoming connection 18.67.183.184|1 <8520550201254762>
+[02:14:24]: Client connected from 18.67.183.184|1 <8520550201254762>
+[02:14:24]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^hGTPl2Xr6tqXrQzhrNPTGPQyU2MkuAZSDgWqriENxK8= for <8520550201254762>
+[02:14:24]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:14:24]: [Steam] Authenticated host '76561198354843262'
+[02:14:27]: [Shard] Read save location file for (KU_uGVY9zVB)
+[02:14:35]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000368
+[02:14:36]: Spawning player at: [Load] (-136.49, -0.00, 549.62)	
+[02:22:24]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000371
+[02:22:24]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000371
+[02:22:24]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000371
+[02:22:25]: Serializing world: session/537C5C69FFB19629/0000000371

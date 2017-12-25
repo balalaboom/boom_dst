@@ -141,3 +141,6 @@
 [01:42:29]: [Join Announcement] ルビー
 [01:58:07]: [Leave Announcement] balalaboom
 [02:05:05]: [Say] (KU_vIIO9TCg) adai1198:  I have 118 螢光果s.
+[02:12:10]: [Announcement] 沒有 ╰(??????)╯
+[02:12:48]: [Announcement] 有 ╰(??ω??)╯
+[02:14:34]: [Join Announcement] balalaboom
