@@ -144,3 +144,9 @@
 [02:12:10]: [Announcement] 沒有 ╰(??????)╯
 [02:12:48]: [Announcement] 有 ╰(??ω??)╯
 [02:14:34]: [Join Announcement] balalaboom
+[02:24:43]: [Death Announcement] adai1198 死亡，死因： 豬人。他變成了一個令人毛骨悚然的鬼！
+[02:25:15]: [Resurrect Announcement] adai1198 復活自 重生護符.
+[02:33:51]: [Death Announcement] balalaboom 死亡，死因： 龍蠅。她變成了一個令人毛骨悚然的鬼！
+[02:41:36]: [Say] (KU_vIIO9TCg) adai1198:  I have a 龍蠅雕像的素描.
+[02:41:55]: [Say] (KU_vIIO9TCg) adai1198:  I have a 華麗裝飾.
+[02:43:51]: [Say] (KU_vIIO9TCg) adai1198:  We have 3 圓石s in this 箱子.
