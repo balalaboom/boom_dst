@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 247691
-[00:00:00]: Current time: Fri Dec 22 02:20:42 2017
+[00:00:00]: Current time: Mon Dec 25 05:03:30 2017
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: dst
@@ -15,15 +15,15 @@
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (4131265344)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
-[00:00:00]: THREAD - started 'GAClient' (4130642752)
-[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:4.17
+[00:00:00]: ProfileIndex:4.33
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
@@ -33,2353 +33,411 @@
 [00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
 [00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
 [00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: THREAD - started 'StreamInput' (4124048192)
 [00:00:00]: Renderer initialize: Okay
 [00:00:00]: AnimManager initialize: Okay
 [00:00:00]: Buffers initialize: Okay
 [00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
 [00:00:00]: GameSpecific initialize: Okay
 [00:00:00]: cGame::StartPlaying
-[00:00:00]: THREAD - started 'StreamInput' (4124048192)
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:01]:   taskgrouplist:	default	Together	
-[00:00:01]:   taskgrouplist:	classic	Classic	
-[00:00:01]:   taskgrouplist:	cave_default	Underground	
-[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:01]: running main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]: running main.lua
 	
-[00:00:01]: loaded modindex	
-[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:01]: DownloadMods(0)
-[00:00:01]: modoverrides.lua enabling workshop-1111711682	
-[00:00:01]: modoverrides.lua enabling workshop-378160973	
-[00:00:01]: modoverrides.lua enabling workshop-362175979	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[00:00:01]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
-[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[00:00:01]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
-[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
-[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
-[00:00:01]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
-[00:00:01]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:01]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
-[00:00:01]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
-[00:00:01]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
-[00:00:01]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
-[00:00:01]: [adai] 強制伺服器開啟中文化 mod	
-[00:00:01]: [adai] 中文化修復完成。	
-[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[00:00:03]: LOADING LUA SUCCESS
-[00:00:03]: Registering mod namespace "workshop-378160973"
-[00:00:03]: PlayerDeaths could not load morgue	
-[00:00:03]: PlayerHistory could not load player_history	
-[00:00:03]: bloom_enabled	false	
-[00:00:03]: loaded saveindex	
-[00:00:03]: OnFilesLoaded()	
-[00:00:03]: OnUpdatePurchaseStateComplete	
-[00:00:04]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[00:00:04]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
-[00:00:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:04]: 	Load FE	
-[00:00:05]: 	Load FE: done	
-[00:00:05]: ModIndex: Load sequence finished successfully.	
-[00:00:05]: Reset() returning
-[00:00:05]: THREAD - started 'FilesExistAsyncThread' (4060085056)
-[00:00:05]: FilesExistAsyncThread started (12982 files)...
-[00:00:05]: ... FilesExistAsyncThread complete
-[00:00:05]: [200] Account Communication Success (6)
-[00:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
-[00:00:05]: Starting Dedicated Server Game	
-[00:00:05]: Network tick rate: U=15(2), D=0
-[00:00:05]: About to start a server with the following settings:
-[00:00:05]:   Dedicated: true
-[00:00:05]:   Online: true
-[00:00:05]:   Passworded: true
-[00:00:05]:   ServerPort: 11000
-[00:00:05]:   SteamAuthPort: 8768
-[00:00:05]:   SteamMasterServerPort: 27018
-[00:00:05]:   ClanID: false
-[00:00:05]:   ClanOnly: false
-[00:00:05]:   ClanAdmin: false
-[00:00:05]:   LanOnly: false
-[00:00:05]:   FriendsOnly: false
-[00:00:05]:   EnableAutosaver: true
-[00:00:05]:   EncodeUserPath: true
-[00:00:05]:   PVP: false
-[00:00:05]:   MaxPlayers: 12
-[00:00:05]:   GameMode: endless
-[00:00:05]:   OverridenDNS: 
-[00:00:05]:   PauseWhenEmpty: true
-[00:00:05]:   IdleTimeout: 1800s
-[00:00:05]:   VoteEnabled: true
-[00:00:05]:   InternetBroadcasting: true
-[00:00:05]:   Intent: cooperative
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[00:00:05]: Online Server Started on port: 11000
-[00:00:05]: unloading prefabs for mod MOD_workshop-362175979	
-[00:00:05]: unloading prefabs for mod MOD_workshop-1111711682	
-[00:00:05]: unloading prefabs for mod MOD_workshop-378160973	
-[00:00:05]: Collecting garbage...
-[00:00:05]: lua_gc took 0.05 seconds
+[00:00:00]: DownloadMods(0)
+[00:00:00]: modoverrides.lua enabling workshop-1111711682	
+[00:00:00]: modoverrides.lua enabling workshop-378160973	
+[00:00:00]: modoverrides.lua enabling workshop-362175979	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:00]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:00]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:00]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:00]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:00]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:00]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:00]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:00]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:00]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:00]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:00]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:00]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:00]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:00]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:00]: [adai] 強制伺服器開啟中文化 mod	
+[00:00:00]: [adai] 中文化修復完成。	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: Registering mod namespace "workshop-378160973"
+[00:00:02]: PlayerDeaths could not load morgue	
+[00:00:02]: PlayerHistory could not load player_history	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:03]: 	Load FE: done	
+[00:00:03]: ModIndex: Load sequence finished successfully.	
+[00:00:03]: Reset() returning
+[00:00:03]: THREAD - started 'FilesExistAsyncThread' (4061297472)
+[00:00:03]: FilesExistAsyncThread started (12982 files)...
+[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:04]: [200] Account Communication Success (6)
+[00:00:04]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:00:04]: Starting Dedicated Server Game	
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: About to start a server with the following settings:
+[00:00:04]:   Dedicated: true
+[00:00:04]:   Online: true
+[00:00:04]:   Passworded: true
+[00:00:04]:   ServerPort: 11000
+[00:00:04]:   SteamAuthPort: 8768
+[00:00:04]:   SteamMasterServerPort: 27018
+[00:00:04]:   ClanID: false
+[00:00:04]:   ClanOnly: false
+[00:00:04]:   ClanAdmin: false
+[00:00:04]:   LanOnly: false
+[00:00:04]:   FriendsOnly: false
+[00:00:04]:   EnableAutosaver: true
+[00:00:04]:   EncodeUserPath: true
+[00:00:04]:   PVP: false
+[00:00:04]:   MaxPlayers: 12
+[00:00:04]:   GameMode: endless
+[00:00:04]:   OverridenDNS: 
+[00:00:04]:   PauseWhenEmpty: true
+[00:00:04]:   IdleTimeout: 1800s
+[00:00:04]:   VoteEnabled: true
+[00:00:04]:   InternetBroadcasting: true
+[00:00:04]:   Intent: cooperative
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:04]: Online Server Started on port: 11000
+[00:00:04]: unloading prefabs for mod MOD_workshop-362175979	
+[00:00:04]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:00:04]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:04]: Collecting garbage...
+[00:00:05]: lua_gc took 0.04 seconds
 [00:00:05]: ~ShardLuaProxy()
 [00:00:05]: ~ItemServerLuaProxy()
 [00:00:05]: ~InventoryLuaProxy()
 [00:00:05]: ~NetworkLuaProxy()
 [00:00:05]: ~SimLuaProxy()
-[00:00:06]: lua_close took 0.05 seconds
-[00:00:06]: ReleaseAll
-[00:00:06]: ReleaseAll Finished
-[00:00:06]: cGame::StartPlaying
-[00:00:06]: LOADING LUA
-[00:00:06]: DoLuaFile scripts/main.lua
-[00:00:06]: DoLuaFile loading buffer scripts/main.lua
-[00:00:06]:   taskgrouplist:	default	Together	
-[00:00:06]:   taskgrouplist:	classic	Classic	
-[00:00:06]:   taskgrouplist:	cave_default	Underground	
-[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:06]: running main.lua
+[00:00:05]: lua_close took 0.05 seconds
+[00:00:05]: ReleaseAll
+[00:00:05]: ReleaseAll Finished
+[00:00:05]: cGame::StartPlaying
+[00:00:05]: LOADING LUA
+[00:00:05]: DoLuaFile scripts/main.lua
+[00:00:05]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]:   taskgrouplist:	default	Together	
+[00:00:05]:   taskgrouplist:	classic	Classic	
+[00:00:05]:   taskgrouplist:	cave_default	Underground	
+[00:00:05]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:05]: running main.lua
 	
-[00:00:06]: loaded modindex	
-[00:00:06]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:06]: modoverrides.lua enabling workshop-1111711682	
-[00:00:06]: modoverrides.lua enabling workshop-378160973	
-[00:00:06]: modoverrides.lua enabling workshop-362175979	
-[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:06]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:06]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[00:00:06]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[00:00:06]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:06]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:06]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[00:00:06]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[00:00:06]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[00:00:06]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[00:00:06]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[00:00:06]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[00:00:06]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[00:00:06]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[00:00:06]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[00:00:06]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
-[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
-[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
-[00:00:06]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
-[00:00:06]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:06]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
-[00:00:06]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
-[00:00:06]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
-[00:00:06]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
-[00:00:06]: [adai] 中文化修復完成。	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[00:00:06]: LOADING LUA SUCCESS
-[00:00:06]: Registering mod namespace "workshop-378160973"
-[00:00:06]: PlayerDeaths could not load morgue	
-[00:00:06]: PlayerHistory could not load player_history	
-[00:00:06]: bloom_enabled	false	
-[00:00:06]: loaded saveindex	
-[00:00:06]: OnFilesLoaded()	
-[00:00:06]: OnUpdatePurchaseStateComplete	
-[00:00:07]: Loading world: session/537C5C69FFB19629/0000000285	
-[00:00:07]: Save file is at version 4.77	
-[00:00:07]: 	Unload FE	
-[00:00:07]: 	Unload FE done	
-[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
-[00:00:07]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:07]: 	LOAD BE	
-[00:00:11]: 	LOAD BE: done	
-[00:00:11]: Begin Session: 537C5C69FFB19629
-[00:00:11]: saving to server_temp/server_save	
-[00:00:11]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[00:00:11]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:12]: Loading Nav Grid	
-[00:00:12]: setting 	summerlength	15	
-[00:00:12]: setting 	isnightmaredawn	false	
-[00:00:12]: setting 	elapseddaysinseason	6	
-[00:00:12]: setting 	isfullmoon	false	
-[00:00:12]: setting 	moisture	877.53729248047	
-[00:00:12]: setting 	springlength	20	
-[00:00:12]: setting 	isnightmarewild	false	
-[00:00:12]: setting 	moonphase	half	
-[00:00:12]: setting 	precipitationrate	0	
-[00:00:12]: setting 	iswet	false	
-[00:00:12]: setting 	isnewmoon	false	
-[00:00:12]: setting 	iswinter	true	
-[00:00:12]: setting 	israining	false	
-[00:00:12]: setting 	isnightmarewarn	false	
-[00:00:12]: setting 	precipitation	none	
-[00:00:12]: setting 	cavephase	night	
-[00:00:12]: setting 	moistureceil	1492.0318603516	
-[00:00:12]: setting 	isday	false	
-[00:00:12]: setting 	iscaveday	false	
-[00:00:12]: setting 	season	winter	
-[00:00:12]: setting 	timeinphase	0.27642695109049	
-[00:00:12]: setting 	temperature	-27.036314849987	
-[00:00:12]: setting 	isnightmarecalm	false	
-[00:00:12]: setting 	isnight	true	
-[00:00:12]: setting 	isdusk	false	
-[00:00:12]: setting 	iscavedusk	false	
-[00:00:12]: setting 	isautumn	false	
-[00:00:12]: setting 	issnowing	false	
-[00:00:12]: setting 	iswaxingmoon	false	
-[00:00:12]: setting 	pop	0.26242390724715	
-[00:00:12]: setting 	snowlevel	1	
-[00:00:12]: setting 	issnowcovered	true	
-[00:00:12]: setting 	autumnlength	20	
-[00:00:12]: setting 	phase	night	
-[00:00:12]: setting 	nightmaretime	0	
-[00:00:12]: setting 	winterlength	15	
-[00:00:12]: setting 	isspring	false	
-[00:00:12]: setting 	nightmarephase	none	
-[00:00:12]: setting 	remainingdaysinseason	9	
-[00:00:12]: setting 	cycles	236	
-[00:00:12]: setting 	iscavenight	true	
-[00:00:12]: setting 	nightmaretimeinphase	0	
-[00:00:12]: setting 	wetness	0	
-[00:00:12]: setting 	time	0.72866010665894	
-[00:00:12]: setting 	issummer	false	
-[00:00:22]: Reconstructing topology	
-[00:00:22]: 	...Sorting points	
-[00:00:22]: 	...Sorting edges	
-[00:00:22]: 	...Connecting nodes	
-[00:00:22]: 	...Validating connections	
-[00:00:22]: 	...Housekeeping	
-[00:00:22]: 	...Done!	
-[00:00:22]: 1 uploads added to server. From server_temp
-[00:00:22]: About to start a shard with these settings:
-[00:00:22]:   ShardName: [SHDMASTER]
-[00:00:22]:   ShardID: 1
-[00:00:22]:   ShardRole: MASTER
-[00:00:22]:   MasterHost: (null)
-[00:00:22]:   MasterBind: 127.0.0.1
-[00:00:22]:   MasterPort: 10889
-[00:00:22]: [Shard] Starting master server
-[00:00:22]: [Shard] Shard server started on port: 10889
-[00:00:22]: Telling Client our new session identifier: 537C5C69FFB19629
-[00:00:22]: ModIndex: Load sequence finished successfully.	
-[00:00:23]: Reset() returning
-[00:00:23]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
-[00:00:23]: [Steam] SteamGameServer_Init success
-[00:00:24]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[00:00:24]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[00:00:24]: Validating portal[8] <-> 2560562348[8] (inactive)	
-[00:00:24]: Validating portal[2] <-> 2560562348[2] (inactive)	
-[00:00:24]: Validating portal[4] <-> 2560562348[4] (inactive)	
-[00:00:24]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[00:00:24]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[00:00:24]: Validating portal[6] <-> 2560562348[6] (inactive)	
-[00:00:24]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[00:00:24]: Validating portal[9] <-> 2560562348[9] (inactive)	
-[00:00:24]: Sim paused
-[00:00:25]: [Shard] Slave Caves(2560562348) connected: [LAN] 127.0.0.1
-[00:00:26]: [Shard] Slave Caves(2560562348) ready!
-[00:00:26]: World 2560562348 is now connected	
-[00:00:26]: Validating portal[5] <-> 2560562348[5] (active)	
-[00:00:26]: Validating portal[7] <-> 2560562348[7] (active)	
-[00:00:26]: Validating portal[8] <-> 2560562348[8] (active)	
-[00:00:26]: Validating portal[2] <-> 2560562348[2] (active)	
-[00:00:26]: Validating portal[4] <-> 2560562348[4] (active)	
-[00:00:26]: Validating portal[3] <-> 2560562348[3] (active)	
-[00:00:26]: Validating portal[1] <-> 2560562348[1] (active)	
-[00:00:26]: Validating portal[6] <-> 2560562348[6] (disabled)	
-[00:00:26]: Validating portal[10] <-> 2560562348[10] (disabled)	
-[00:00:26]: Validating portal[9] <-> 2560562348[9] (active)	
-[00:04:45]: [P2P] Session request for '76561198354843262'
-[00:04:49]: [P2P] Create session: 118.241.205.245|1 '76561198354843262'
-[00:04:49]: [P2P] Received from 118.241.205.245|1 '76561198354843262'
-[00:04:49]: [P2P] Sent to 118.241.205.245|1 '76561198354843262'
-[00:04:49]: New incoming connection 118.241.205.245|1 <2428120602713962450>
-[00:04:49]: Client connected from 118.241.205.245|1 <2428120602713962450>
-[00:04:49]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^ohX8qLlLkeoJ42Z54pSA+AASiNUaDBLep+CpTq+zZLs= for <2428120602713962450>
-[00:04:50]: Client authenticated: (KU_uGVY9zVB) balalaboom
-[00:04:50]: [Steam] Authenticated host '76561198354843262'
-[00:04:52]: [Shard] Read save location file for (KU_uGVY9zVB)
-[00:05:22]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000284
-[00:05:22]: Spawning player at: [Load] (-113.02, 0.00, 519.63)	
-[00:05:22]: Sim unpaused
-[00:07:36]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000286
-[00:07:36]: Serializing world: session/537C5C69FFB19629/0000000286
-[00:08:02]: [P2P] Session request for '76561198189824466'
-[00:08:07]: [P2P] Create session: 118.241.205.246|1 '76561198189824466'
-[00:08:07]: [P2P] Received from 118.241.205.246|1 '76561198189824466'
-[00:08:07]: [P2P] Sent to 118.241.205.246|1 '76561198189824466'
-[00:08:07]: New incoming connection 118.241.205.246|1 <1943028747246230455>
-[00:08:07]: Client connected from 118.241.205.246|1 <1943028747246230455>
-[00:08:07]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^+McE00E4Ew/P2coVQibdQ+p3lLUKfbwo1JanA5LT6oE= for <1943028747246230455>
-[00:08:08]: Client authenticated: (KU_3aPAZWmD) ルビー
-[00:08:08]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
-[00:08:08]: [Steam] Authenticated client '76561198189824466'
-[00:08:11]: [Shard] Read save location file for (KU_3aPAZWmD)
-[00:08:27]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000284
-[00:08:27]: Spawning player at: [Load] (-130.59, 0.00, 535.63)	
-[00:10:13]: [P2P] Session request for '76561198099860495'
-[00:10:16]: [P2P] Create session: 118.241.205.247|1 '76561198099860495'
-[00:10:16]: [P2P] Received from 118.241.205.247|1 '76561198099860495'
-[00:10:16]: [P2P] Sent to 118.241.205.247|1 '76561198099860495'
-[00:10:25]: New incoming connection 118.241.205.247|1 <5495918621223941705>
-[00:10:25]: Client connected from 118.241.205.247|1 <5495918621223941705>
-[00:10:25]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^HFv2TIVUjps2xcBMbXquPU0tgxQF9uyeapmQ0DHjESs= for <5495918621223941705>
-[00:10:26]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
-[00:10:26]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
-[00:10:26]: [Steam] Authenticated client '76561198099860495'
-[00:10:29]: [Shard] Read save location file for (KU_MitzUqYv)
-[00:10:42]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P
-[00:11:33]: Spawn request: winona from 讓子彈飛一會兒
-[00:11:33]: Skin request: (winona_gladiator) (body_winona_gladiator) (hand_winona_gladiator) (legs_winona_gladiator) (feet_winona_gladiator)
-[00:11:33]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
-[00:11:33]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000287
-[00:15:37]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000287
-[00:15:37]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000287
-[00:15:37]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000287
-[00:15:38]: Serializing world: session/537C5C69FFB19629/0000000287
-[00:20:47]: [P2P] Session request for '76561198145254895'
-[00:20:52]: [P2P] Create session: 118.241.205.248|1 '76561198145254895'
-[00:20:52]: [P2P] Received from 118.241.205.248|1 '76561198145254895'
-[00:20:52]: [P2P] Sent to 118.241.205.248|1 '76561198145254895'
-[00:21:53]: KU_MitzUqYv	running text command:	carol	true	
-[00:23:06]: [P2P] Received from 118.241.205.248|1 '76561198145254895'
-[00:23:06]: [P2P] Sent to 118.241.205.248|1 '76561198145254895'
-[00:23:06]: New incoming connection 118.241.205.248|1 <6861005078835344268>
-[00:23:06]: Client connected from 118.241.205.248|1 <6861005078835344268>
-[00:23:06]: ValidateGameSessionToken pgs-sing^KU_1uTCSDWL^DontStarveTogether^QTqlcX1Cn5pZWjlJHw/CPdG1FJ763dlGj0ySpAdQ+Ts= for <6861005078835344268>
-[00:23:07]: Client authenticated: (KU_1uTCSDWL) (tw)Liu
-[00:23:07]: [Steam] SendUserConnectAndAuthenticate for '76561198145254895'
-[00:23:07]: [Steam] Authenticated client '76561198145254895'
-[00:23:10]: [Shard] Read save location file for (KU_1uTCSDWL)
-[00:23:24]: Resuming user: session/537C5C69FFB19629/A7G7GT671M0L
-[00:23:38]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000288
-[00:23:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000288
-[00:23:38]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000288
-[00:23:38]: Serializing world: session/537C5C69FFB19629/0000000288
-[00:23:40]: Spawn request: wendy from (tw)Liu
-[00:23:40]: Skin request: (wendy_ice) (body_wendy_ice) (hand_wendy_ice) () (feet_wendy_ice)
-[00:23:40]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
-[00:23:40]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000289
-[00:30:06]: [200] Account Communication Success (6)
-[00:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
-[00:30:37]: KU_1uTCSDWL	running text command:	carol	true	
-[00:30:50]: KU_1uTCSDWL	running text command:	carol	true	
-[00:30:50]: KU_MitzUqYv	running text command:	sit	true	
-[00:30:51]: KU_1uTCSDWL	running text command:	squat	true	
-[00:30:53]: KU_1uTCSDWL	running text command:	squat	true	
-[00:30:55]: KU_1uTCSDWL	running text command:	sit	true	
-[00:31:03]: KU_1uTCSDWL	running text command:	laugh	true	
-[00:31:05]: KU_1uTCSDWL	running text command:	shrug	true	
-[00:31:05]: KU_MitzUqYv	running text command:	laugh	true	
-[00:31:06]: KU_1uTCSDWL	running text command:	slowclap	true	
-[00:31:08]: KU_1uTCSDWL	running text command:	carol	true	
-[00:31:08]: KU_MitzUqYv	running text command:	bonesaw	true	
-[00:31:13]: KU_MitzUqYv	running text command:	angry	true	
-[00:31:15]: KU_MitzUqYv	running text command:	dance	true	
-[00:31:23]: KU_3aPAZWmD	running text command:	carol	true	
-[00:31:34]: KU_1uTCSDWL	running text command:	chicken	true	
-[00:31:39]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000289
-[00:31:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000289
-[00:31:39]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000289
-[00:31:39]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000289
-[00:31:39]: Serializing world: session/537C5C69FFB19629/0000000289
-[00:34:09]: KU_1uTCSDWL	running text command:	carol	true	
-[00:35:37]: KU_MitzUqYv	running text command:	sit	true	
-[00:35:44]: KU_MitzUqYv	running text command:	kiss	true	
-[00:36:52]: KU_MitzUqYv	running text command:	sit	true	
-[00:36:59]: KU_MitzUqYv	running text command:	squat	true	
-[00:37:03]: KU_MitzUqYv	running text command:	squat	true	
-[00:37:14]: KU_MitzUqYv	running text command:	joy	true	
-[00:37:16]: KU_MitzUqYv	running text command:	joy	true	
-[00:37:19]: KU_MitzUqYv	running text command:	joy	true	
-[00:37:22]: KU_MitzUqYv	running text command:	joy	true	
-[00:37:26]: KU_MitzUqYv	running text command:	fistshake	true	
-[00:37:30]: KU_MitzUqYv	running text command:	fistshake	true	
-[00:37:33]: KU_MitzUqYv	running text command:	flex	true	
-[00:37:37]: KU_MitzUqYv	running text command:	chicken	true	
-[00:39:31]: Could not find anim [death] in bank [ghost]
-[00:39:31]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000290
-[00:39:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000290
-[00:39:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000290
-[00:39:40]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000290
-[00:39:40]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000290
-[00:39:40]: Serializing world: session/537C5C69FFB19629/0000000290
-[00:39:59]: KU_MitzUqYv	running text command:	laugh	true	
-[00:40:04]: KU_MitzUqYv	running text command:	laugh	true	
-[00:40:07]: KU_MitzUqYv	running text command:	laugh	true	
-[00:40:07]: Could not find anim [idle_loop] in bank [ghost]
-[00:40:10]: Could not find anim [transform] in bank [wilson]
-[00:40:11]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000291
-[00:40:17]: KU_MitzUqYv	running text command:	laugh	true	
-[00:47:07]: KU_MitzUqYv	running text command:	squat	true	
-[00:47:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000291
-[00:47:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000291
-[00:47:41]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000291
-[00:47:41]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000291
-[00:47:41]: Serializing world: session/537C5C69FFB19629/0000000291
-[00:48:52]: [P2P] Session request for '76561198286499269'
-[00:48:56]: [P2P] Create session: 118.241.205.249|1 '76561198286499269'
-[00:48:56]: [P2P] Received from 118.241.205.249|1 '76561198286499269'
-[00:48:56]: [P2P] Sent to 118.241.205.249|1 '76561198286499269'
-[00:48:56]: New incoming connection 118.241.205.249|1 <3860794656865821789>
-[00:48:56]: Client connected from 118.241.205.249|1 <3860794656865821789>
-[00:48:56]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^hEk32l/v/L+UfY4FVGLozvK/W1Vi1zZkhNSWnWgc5Qw= for <3860794656865821789>
-[00:48:56]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
-[00:48:56]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
-[00:48:57]: [Steam] Authenticated client '76561198286499269'
-[00:48:59]: [Shard] Read save location file for (KU_BIj2U1ZB)
-[00:49:11]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000279
-[00:49:11]: Spawning player at: [Load] (-128.38, -0.00, 536.70)	
-[00:49:34]: [Steam] SendUserDisconnect for '76561198145254895'
-[00:49:34]: Connection lost to 118.241.205.248|1 <6861005078835344268>
-[00:49:34]: [Shard] (KU_1uTCSDWL) disconnected from [SHDMASTER](1)
-[00:49:35]: Serializing user: session/537C5C69FFB19629/A7G7GT671M0L/0000000292
-[00:55:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000292
-[00:55:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000292
-[00:55:42]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000292
-[00:55:42]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000292
-[00:55:42]: Serializing world: session/537C5C69FFB19629/0000000292
-[00:58:33]: KU_MitzUqYv	running text command:	sit	true	
-[00:59:34]: [P2P] Session timed out for '76561198145254895'
-[00:59:34]: [P2P] Remove session: 118.241.205.248|1 '76561198145254895'
-[01:00:06]: [200] Account Communication Success (6)
-[01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
-[01:03:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000293
-[01:03:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000293
-[01:03:42]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000293
-[01:03:42]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000293
-[01:03:43]: Serializing world: session/537C5C69FFB19629/0000000293
-[01:05:11]: [P2P] Session request for '76561198310003934'
-[01:05:16]: [P2P] Create session: 118.241.205.250|1 '76561198310003934'
-[01:05:16]: [P2P] Received from 118.241.205.250|1 '76561198310003934'
-[01:05:16]: [P2P] Sent to 118.241.205.250|1 '76561198310003934'
-[01:05:16]: New incoming connection 118.241.205.250|1 <3195359896186774152>
-[01:05:16]: Client connected from 118.241.205.250|1 <3195359896186774152>
-[01:05:16]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^/jm7JnEP2NOM5KZGdeN2gN8K4dyWX5+2hi/bhE26r3Y= for <3195359896186774152>
-[01:05:17]: Client authenticated: (KU_d2kn6_6v) chunen
-[01:05:17]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
-[01:05:17]: [Steam] Authenticated client '76561198310003934'
-[01:05:20]: [Shard] Read save location file for (KU_d2kn6_6v)
-[01:05:30]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000284
-[01:05:30]: Spawning player at: [Load] (-123.89, -0.00, 530.74)	
-[01:09:35]: Could not find anim [death] in bank [ghost]
-[01:09:35]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
-[01:11:16]: Could not find anim [idle_loop] in bank [ghost]
-[01:11:19]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
-[01:11:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
-[01:11:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000294
-[01:11:43]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000294
-[01:11:43]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000294
-[01:11:43]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000294
-[01:11:44]: Serializing world: session/537C5C69FFB19629/0000000294
-[01:14:35]: [P2P] Session request for '76561198165400477'
-[01:14:39]: [P2P] Create session: 118.241.205.251|1 '76561198165400477'
-[01:14:39]: [P2P] Received from 118.241.205.251|1 '76561198165400477'
-[01:14:39]: [P2P] Sent to 118.241.205.251|1 '76561198165400477'
-[01:14:39]: New incoming connection 118.241.205.251|1 <3175361789180932549>
-[01:14:39]: Client connected from 118.241.205.251|1 <3175361789180932549>
-[01:14:39]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^yOq4zzfbmC5iURAlclem9QUrNU0w4oJFeBKr4dwl924= for <3175361789180932549>
-[01:14:40]: Client authenticated: (KU_6DFSm74k) Nalant
-[01:14:40]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
-[01:14:40]: [Steam] Authenticated client '76561198165400477'
-[01:14:43]: [Shard] Read save location file for (KU_6DFSm74k)
-[01:14:52]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E
-[01:16:01]: Spawn request: waxwell from Nalant
-[01:16:01]: Skin request: (waxwell_gladiator) (body_cardigan_black_jet) (hand_wilson_gladiator) (legs_skirt_plaid_blue_cornflower) (feet_formal_stiletto_black_scribble)
-[01:16:01]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
-[01:16:01]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000295
-[01:17:01]: Could not find anim [death] in bank [ghost]
-[01:17:01]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
-[01:17:14]: Could not find anim [idle_loop] in bank [ghost]
-[01:17:17]: Could not find anim [transform] in bank [wilson]
-[01:17:18]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
-[01:19:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000295
-[01:19:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000295
-[01:19:44]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
-[01:19:44]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000295
-[01:19:44]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000295
-[01:19:44]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000295
-[01:19:45]: Serializing world: session/537C5C69FFB19629/0000000295
-[01:27:45]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000296
-[01:27:45]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000296
-[01:27:45]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000296
-[01:27:45]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000296
-[01:27:45]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000296
-[01:27:45]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000296
-[01:27:46]: Serializing world: session/537C5C69FFB19629/0000000296
-[01:29:56]: [P2P] Session request for '76561198159209988'
-[01:30:00]: [P2P] Create session: 118.241.205.252|1 '76561198159209988'
-[01:30:00]: [P2P] Received from 118.241.205.252|1 '76561198159209988'
-[01:30:00]: [P2P] Sent to 118.241.205.252|1 '76561198159209988'
-[01:30:06]: [200] Account Communication Success (6)
-[01:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
-[01:30:07]: New incoming connection 118.241.205.252|1 <24241799469645214>
-[01:30:07]: Client connected from 118.241.205.252|1 <24241799469645214>
-[01:30:07]: ValidateGameSessionToken pgs-sing^KU_aIEojigU^DontStarveTogether^3aAGRr7joYrvZ9gr7iCXENihdfFD9zXbfAEcjEP8JFc= for <24241799469645214>
-[01:30:08]: Client authenticated: (KU_aIEojigU) 小坤
-[01:30:08]: [Steam] SendUserConnectAndAuthenticate for '76561198159209988'
-[01:30:08]: [Steam] Authenticated client '76561198159209988'
-[01:30:11]: [Shard] Read save location file for (KU_aIEojigU)
-[01:30:17]: Resuming user: session/537C5C69FFB19629/A7KH4EPBDIKU
-[01:32:34]: Spawn request: wathgrithr from 小坤
-[01:32:34]: Skin request: (wathgrithr_none) (body_willow_gladiator) (hand_willow_gladiator) (legs_willow_gladiator) (feet_wathgrithr_gladiator)
-[01:32:34]: Spawning player at: [Fixed] (-54.00, 0.00, 14.00)	
-[01:32:34]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000297
-[01:33:33]: Activating portal[1] to 2560562348	
-[01:33:34]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000297
-[01:33:34]: [Shard] Migration request: (KU_d2kn6_6v) to Caves(2560562348)
-[01:33:34]: [Shard] Begin migration #1 for (KU_d2kn6_6v)
-[01:33:34]: [Shard] #1 [SHDMASTER](1) -> Caves(2560562348)
-[01:33:34]: [Shard] #1 <- session/537C5C69FFB19629/A7KS5EOHNSDP/0000000297
-[01:33:34]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
-[01:33:34]: [Steam] SendUserDisconnect for '76561198310003934'
-[01:33:34]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
-[01:33:43]: [Shard] Completed migration #1 for player (KU_d2kn6_6v)
-[01:33:43]: [Shard] Writing save location file for (KU_d2kn6_6v)
-[01:35:46]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000297
-[01:35:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000297
-[01:35:46]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000297
-[01:35:46]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000297
-[01:35:46]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000297
-[01:35:46]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000297
-[01:35:47]: Serializing world: session/537C5C69FFB19629/0000000297
-[01:37:03]: [P2P] Connection failed for '76561198286499269'
-[01:37:07]: [Steam] SendUserDisconnect for '76561198286499269'
-[01:37:07]: Connection lost to 118.241.205.249|1 <3860794656865821789>
-[01:37:07]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
-[01:37:07]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000298
-[01:42:15]: KU_3aPAZWmD	running text command:	carol	true	
-[01:43:38]: [P2P] Session timed out for '76561198310003934'
-[01:43:38]: [P2P] Remove session: 118.241.205.250|1 '76561198310003934'
-[01:43:49]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000298
-[01:43:49]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000298
-[01:43:49]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000298
-[01:43:49]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000298
-[01:43:49]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000298
-[01:43:49]: Serializing world: session/537C5C69FFB19629/0000000298
-[01:45:30]: Remote left click out of range	
-[01:45:33]: Remote left click out of range	
-[01:45:33]: Remote left click out of range	
-[01:45:33]: Remote left click out of range	
-[01:45:34]: Remote left click out of range	
-[01:45:34]: Remote left click out of range	
-[01:45:34]: Remote left click out of range	
-[01:45:34]: Remote left click out of range	
-[01:45:34]: Remote left click out of range	
-[01:45:34]: Remote left click out of range	
-[01:45:35]: Remote left click out of range	
-[01:45:35]: Remote left click out of range	
-[01:45:35]: Remote left click out of range	
-[01:45:49]: [Steam] SendUserDisconnect for '76561198165400477'
-[01:45:49]: Connection lost to 118.241.205.251|1 <3175361789180932549>
-[01:45:49]: [Shard] (KU_6DFSm74k) disconnected from [SHDMASTER](1)
-[01:45:50]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000299
-[01:46:41]: KU_MitzUqYv	running text command:	sit	true	
-[01:47:06]: [P2P] Session timed out for '76561198286499269'
-[01:47:06]: [P2P] Remove session: 118.241.205.249|1 '76561198286499269'
-[01:47:38]: KU_MitzUqYv	running text command:	pose	true	
-[01:47:41]: KU_MitzUqYv	running text command:	kiss	true	
-[01:47:44]: KU_MitzUqYv	running text command:	wave	true	
-[01:48:47]: [Shard] Begin migration #2 for (KU_d2kn6_6v)
-[01:48:47]: [Shard] #2 Caves(2560562348) -> [SHDMASTER](1)
-[01:48:47]: [Shard] #2 -> session/537C5C69FFB19629/A7KS5EOHNSDP/0000000299
-[01:48:47]: [Shard] Received migration #2 data for (KU_d2kn6_6v)
-[01:48:47]: [Shard] (KU_d2kn6_6v) disconnected from Caves(2560562348)
-[01:48:57]: [P2P] Create session: 118.241.205.253|1 '76561198310003934'
-[01:48:57]: [P2P] Received from 118.241.205.253|1 '76561198310003934'
-[01:48:57]: [P2P] Sent to 118.241.205.253|1 '76561198310003934'
-[01:48:58]: New incoming connection 118.241.205.253|1 <6051258493264301391>
-[01:48:58]: Client connected from 118.241.205.253|1 <6051258493264301391>
-[01:48:58]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^8ZFkNVQjGNVQMhxU5rgRrj6Vt+iiXFH7l3Nebr7/no4= for <6051258493264301391>
-[01:48:58]: KU_MitzUqYv	running text command:	sit	true	
-[01:48:59]: Client authenticated: (KU_d2kn6_6v) chunen
-[01:48:59]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
-[01:48:59]: [Steam] Authenticated client '76561198310003934'
-[01:48:59]: [Shard] Completed incoming migration #2 for (KU_d2kn6_6v)
-[01:48:59]: [Shard] Completed migration #2 for player (KU_d2kn6_6v)
-[01:48:59]: [Shard] Writing save location file for (KU_d2kn6_6v)
-[01:49:01]: KU_MitzUqYv	running text command:	laugh	true	
-[01:49:08]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000299
-[01:49:08]: Could not find anim [idle_loop] in bank [ghost]
-[01:49:08]: Player will spawn close to portal #1	
-[01:49:08]: Spawning player at: [Load] (-7.24, 0.00, 466.83)	
-[01:50:02]: KU_MitzUqYv	running text command:	dance	true	
-[01:50:06]: KU_uGVY9zVB	running text command:	step	true	
-[01:50:11]: KU_aIEojigU	running text command:	dance	true	
-[01:50:12]: KU_3aPAZWmD	running text command:	carol	true	
-[01:50:24]: KU_MitzUqYv	running text command:	joy	true	
-[01:51:50]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000299
-[01:51:50]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000299
-[01:51:50]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000299
-[01:51:50]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000299
-[01:51:50]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000299
-[01:51:50]: Serializing world: session/537C5C69FFB19629/0000000299
-[01:52:28]: [Steam] SendUserDisconnect for '76561198310003934'
-[01:52:28]: Connection lost to 118.241.205.253|1 <6051258493264301391>
-[01:52:28]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
-[01:52:29]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000300
-[01:52:34]: Could not find anim [death] in bank [ghost]
-[01:52:34]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000300
-[01:52:35]: [Steam] SendUserDisconnect for '76561198159209988'
-[01:52:35]: Connection lost to 118.241.205.252|1 <24241799469645214>
-[01:52:35]: [Shard] (KU_aIEojigU) disconnected from [SHDMASTER](1)
-[01:52:35]: Serializing user: session/537C5C69FFB19629/A7KH4EPBDIKU/0000000300
-[01:52:38]: [Steam] SendUserDisconnect for '76561198099860495'
-[01:52:38]: Connection lost to 118.241.205.247|1 <5495918621223941705>
-[01:52:38]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
-[01:52:39]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000300
-[01:55:49]: [P2P] Session timed out for '76561198165400477'
-[01:55:49]: [P2P] Remove session: 118.241.205.251|1 '76561198165400477'
-[01:56:49]: [P2P] Received from 118.241.205.247|1 '76561198099860495'
-[01:56:49]: [P2P] Sent to 118.241.205.247|1 '76561198099860495'
-[01:57:08]: [P2P] Received from 118.241.205.247|1 '76561198099860495'
-[01:57:08]: [P2P] Sent to 118.241.205.247|1 '76561198099860495'
-[01:57:08]: New incoming connection 118.241.205.247|1 <4925309899484209345>
-[01:57:08]: Client connected from 118.241.205.247|1 <4925309899484209345>
-[01:57:08]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^lzY4gzMNnVlOWHz2Wya1XrR9QC3+JHdqfkvRKtV3v94= for <4925309899484209345>
-[01:57:08]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
-[01:57:09]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
-[01:57:09]: [Steam] Authenticated client '76561198099860495'
-[01:57:11]: [Shard] Read save location file for (KU_MitzUqYv)
-[01:57:25]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000300
-[01:57:25]: Could not find anim [idle_loop] in bank [ghost]
-[01:57:25]: Spawning player at: [Load] (-107.52, 0.00, 408.03)	
-[01:58:49]: Could not find anim [idle_loop] in bank [ghost]
-[01:58:51]: Could not find anim [transform] in bank [wilson]
-[01:58:53]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000300
-[01:59:13]: [P2P] Session request for '76561198211986697'
-[01:59:19]: [P2P] Create session: 118.241.205.254|1 '76561198211986697'
-[01:59:19]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[01:59:19]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[01:59:22]: Could not find anim [death] in bank [ghost]
-[01:59:22]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000300
-[01:59:51]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000300
-[01:59:51]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000300
-[01:59:51]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000300
-[01:59:51]: Serializing world: session/537C5C69FFB19629/0000000300
-[02:00:06]: [200] Account Communication Success (6)
-[02:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
-[02:00:07]: Could not find anim [idle_loop] in bank [ghost]
-[02:00:10]: Could not find anim [transform] in bank [wilson]
-[02:00:11]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000301
-[02:00:27]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[02:00:27]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[02:00:27]: New incoming connection 118.241.205.254|1 <3619345868036512349>
-[02:00:27]: Client connected from 118.241.205.254|1 <3619345868036512349>
-[02:00:27]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^FHDx1XFh72BG1EPrrov1vdCePIQg/bg10I8zSs9tN2s= for <3619345868036512349>
-[02:00:28]: Client authenticated: (KU_M673WWQo) 夜月夏目
-[02:00:28]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
-[02:00:28]: [Steam] Authenticated client '76561198211986697'
-[02:00:30]: [Shard] Read save location file for (KU_M673WWQo)
-[02:01:24]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000284
-[02:01:24]: Spawning player at: [Load] (-136.45, -0.00, 549.46)	
-[02:01:48]: [P2P] Create session: 118.241.205.255|1 '76561198165400477'
-[02:01:48]: [P2P] Received from 118.241.205.255|1 '76561198165400477'
-[02:01:48]: [P2P] Sent to 118.241.205.255|1 '76561198165400477'
-[02:01:48]: New incoming connection 118.241.205.255|1 <8327210812519835537>
-[02:01:48]: Client connected from 118.241.205.255|1 <8327210812519835537>
-[02:01:48]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^yoNgISh7rPVHjW/dC/ECgrUxvolqartd0DiXt/GJmi8= for <8327210812519835537>
-[02:01:49]: Client authenticated: (KU_6DFSm74k) Nalant
-[02:01:49]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
-[02:01:49]: [Steam] Authenticated client '76561198165400477'
-[02:01:52]: [Shard] Read save location file for (KU_6DFSm74k)
-[02:02:00]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000299
-[02:02:00]: Spawning player at: [Load] (-145.86, -0.00, 461.08)	
-[02:02:28]: [P2P] Session timed out for '76561198310003934'
-[02:02:28]: [P2P] Remove session: 118.241.205.253|1 '76561198310003934'
-[02:02:35]: [P2P] Session timed out for '76561198159209988'
-[02:02:35]: [P2P] Remove session: 118.241.205.252|1 '76561198159209988'
-[02:04:08]: [Steam] SendUserDisconnect for '76561198099860495'
-[02:04:08]: Connection lost to 118.241.205.247|1 <4925309899484209345>
-[02:04:08]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
-[02:04:08]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000301
-[02:05:55]: [P2P] Received from 118.241.205.247|1 '76561198099860495'
-[02:05:55]: [P2P] Sent to 118.241.205.247|1 '76561198099860495'
-[02:06:02]: New incoming connection 118.241.205.247|1 <1261903580008303453>
-[02:06:02]: Client connected from 118.241.205.247|1 <1261903580008303453>
-[02:06:02]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^wHcdJ3x4hx0EDMtkdIvN9CsAmTSV/ChCbs0sYfABdjA= for <1261903580008303453>
-[02:06:02]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
-[02:06:02]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
-[02:06:03]: [Steam] Authenticated client '76561198099860495'
-[02:06:05]: [Shard] Read save location file for (KU_MitzUqYv)
-[02:06:17]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000301
-[02:06:17]: Spawning player at: [Load] (-83.95, 0.00, 389.09)	
-[02:07:52]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000301
-[02:07:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000301
-[02:07:52]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000301
-[02:07:52]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000301
-[02:07:52]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000301
-[02:07:52]: Serializing world: session/537C5C69FFB19629/0000000301
-[02:08:53]: [Steam] SendUserDisconnect for '76561198099860495'
-[02:08:53]: Connection lost to 118.241.205.247|1 <1261903580008303453>
-[02:08:53]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
-[02:08:53]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000302
-[02:15:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000302
-[02:15:54]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000302
-[02:15:54]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000302
-[02:15:54]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000302
-[02:15:55]: Serializing world: session/537C5C69FFB19629/0000000302
-[02:18:53]: [P2P] Session timed out for '76561198099860495'
-[02:18:53]: [P2P] Remove session: 118.241.205.247|1 '76561198099860495'
-[02:22:44]: Could not find anim [death] in bank [ghost]
-[02:22:44]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000303
-[02:23:07]: Could not find anim [idle_loop] in bank [ghost]
-[02:23:10]: Could not find anim [transform] in bank [wilson]
-[02:23:11]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000303
-[02:23:41]: KU_3aPAZWmD	running text command:	carol	true	
-[02:23:57]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000303
-[02:23:57]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000303
-[02:23:57]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000303
-[02:23:57]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000303
-[02:23:57]: Serializing world: session/537C5C69FFB19629/0000000303
-[02:26:42]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute() @(-128.14, 535.15)
-[02:27:02]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute() @(-133.01, 547.19)
-[02:27:20]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(findnext("klaus_sack")) @(-133.02, 547.14)
-[02:27:20]: [string "findnext("klaus_sack")"]:1: variable 'findnext' is not declared
-[02:29:34]: [Steam] SendUserDisconnect for '76561198211986697'
-[02:29:34]: Connection lost to 118.241.205.254|1 <3619345868036512349>
-[02:29:34]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
-[02:29:35]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000304
-[02:29:55]: KU_3aPAZWmD	running text command:	carol	true	
-[02:30:06]: [200] Account Communication Success (6)
-[02:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
-[02:31:04]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[02:31:04]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[02:31:05]: New incoming connection 118.241.205.254|1 <3774714522064902471>
-[02:31:05]: Client connected from 118.241.205.254|1 <3774714522064902471>
-[02:31:05]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^kKsLC8b587cHRI1anxXyPXBgpaDHf37PEJAuUTLqP0w= for <3774714522064902471>
-[02:31:05]: Client authenticated: (KU_M673WWQo) 夜月夏目
-[02:31:05]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
-[02:31:06]: [Steam] Authenticated client '76561198211986697'
-[02:31:08]: [Shard] Read save location file for (KU_M673WWQo)
-[02:31:23]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000304
-[02:31:23]: Spawning player at: [Load] (-219.17, -0.00, 273.49)	
-[02:31:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000304
-[02:31:58]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000304
-[02:31:58]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000304
-[02:31:58]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000304
-[02:31:58]: Serializing world: session/537C5C69FFB19629/0000000304
-[02:38:17]: Activating portal[1] to 2560562348	
-[02:38:17]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000305
-[02:38:17]: [Shard] Migration request: (KU_6DFSm74k) to Caves(2560562348)
-[02:38:17]: [Shard] Begin migration #3 for (KU_6DFSm74k)
-[02:38:17]: [Shard] #3 [SHDMASTER](1) -> Caves(2560562348)
-[02:38:17]: [Shard] #3 <- session/537C5C69FFB19629/A7GOQFEC0S9E/0000000305
-[02:38:17]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
-[02:38:17]: [Steam] SendUserDisconnect for '76561198165400477'
-[02:38:17]: [Shard] (KU_6DFSm74k) disconnected from [SHDMASTER](1)
-[02:38:28]: [Shard] Completed migration #3 for player (KU_6DFSm74k)
-[02:38:28]: [Shard] Writing save location file for (KU_6DFSm74k)
-[02:39:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000305
-[02:39:58]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000305
-[02:39:58]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000305
-[02:39:59]: Serializing world: session/537C5C69FFB19629/0000000305
-[02:43:15]: [Shard] Begin migration #4 for (KU_6DFSm74k)
-[02:43:15]: [Shard] #4 Caves(2560562348) -> [SHDMASTER](1)
-[02:43:15]: [Shard] #4 -> session/537C5C69FFB19629/A7GOQFEC0S9E/0000000306
-[02:43:15]: [Shard] Received migration #4 data for (KU_6DFSm74k)
-[02:43:15]: [Shard] (KU_6DFSm74k) disconnected from Caves(2560562348)
-[02:43:23]: [P2P] Received from 118.241.205.255|1 '76561198165400477'
-[02:43:23]: [P2P] Sent to 118.241.205.255|1 '76561198165400477'
-[02:43:24]: New incoming connection 118.241.205.255|1 <6223824614104969337>
-[02:43:24]: Client connected from 118.241.205.255|1 <6223824614104969337>
-[02:43:24]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^EmTT3r8y2ZusmJSg3FbEIElxyOk4YKSl3qlkDlmOyNY= for <6223824614104969337>
-[02:43:25]: Client authenticated: (KU_6DFSm74k) Nalant
-[02:43:25]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
-[02:43:25]: [Steam] Authenticated client '76561198165400477'
-[02:43:25]: [Shard] Completed incoming migration #4 for (KU_6DFSm74k)
-[02:43:25]: [Shard] Completed migration #4 for player (KU_6DFSm74k)
-[02:43:25]: [Shard] Writing save location file for (KU_6DFSm74k)
-[02:43:33]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000306
-[02:43:33]: Player will spawn close to portal #1	
-[02:43:33]: Spawning player at: [Load] (-6.64, 0.00, 469.53)	
-[02:46:40]: Could not find anim [death] in bank [ghost]
-[02:46:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000306
-[02:47:04]: Could not find anim [idle_loop] in bank [ghost]
-[02:47:07]: Could not find anim [transform] in bank [wilson]
-[02:47:08]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000306
-[02:47:59]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000306
-[02:47:59]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000306
-[02:47:59]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000306
-[02:47:59]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000306
-[02:48:00]: Serializing world: session/537C5C69FFB19629/0000000306
-[02:55:18]: [P2P] Session request for '76561198141723389'
-[02:55:19]: [P2P] Create session: 118.241.206.0|1 '76561198141723389'
-[02:55:19]: [P2P] Received from 118.241.206.0|1 '76561198141723389'
-[02:55:19]: [P2P] Sent to 118.241.206.0|1 '76561198141723389'
-[02:55:30]: [P2P] Connection failed for '76561198141723389'
-[02:56:00]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000307
-[02:56:00]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000307
-[02:56:00]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000307
-[02:56:00]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000307
-[02:56:01]: Serializing world: session/537C5C69FFB19629/0000000307
-[02:58:13]: RemoteCommandInput: "c_announce(c_countprefabs("klaus_sack")~=0 and "有 ╰(󰀅ω󰀅)╯" or "沒有 ╰(󰀅󰀆󰀅)╯")"
-[02:58:13]: There are 	1	klaus_sacks in the world.	
-[03:00:06]: [200] Account Communication Success (6)
-[03:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
-[03:04:01]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000308
-[03:04:01]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000308
-[03:04:01]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000308
-[03:04:01]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000308
-[03:04:02]: Serializing world: session/537C5C69FFB19629/0000000308
-[03:05:29]: [P2P] Session timed out for '76561198141723389'
-[03:05:29]: [P2P] Remove session: 118.241.206.0|1 '76561198141723389'
-[03:07:50]: [Steam] SendUserDisconnect for '76561198211986697'
-[03:07:50]: Connection lost to 118.241.205.254|1 <3774714522064902471>
-[03:07:50]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
-[03:07:51]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000309
-[03:08:03]: [P2P] Connection failed for '76561198211986697'
-[03:10:12]: Could not find anim [death] in bank [ghost]
-[03:10:12]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000309
-[03:10:44]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[03:10:44]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[03:10:52]: Could not find anim [death] in bank [ghost]
-[03:10:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000309
-[03:11:11]: Received world rollback request: count=1	
-[03:11:11]: Truncating to snapshot #308...
-[03:11:11]:  - session/537C5C69FFB19629/0000000281
-[03:11:11]:  - session/537C5C69FFB19629/0000000288
-[03:11:11]:  - session/537C5C69FFB19629/0000000290
-[03:11:11]:  - session/537C5C69FFB19629/0000000293
-[03:11:11]:  - session/537C5C69FFB19629/0000000284
-[03:11:11]:  - session/537C5C69FFB19629/0000000300
-[03:11:11]:  - session/537C5C69FFB19629/0000000287
-[03:11:11]:  - session/537C5C69FFB19629/0000000291
-[03:11:11]:  - session/537C5C69FFB19629/0000000302
-[03:11:11]:  - session/537C5C69FFB19629/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/0000000282
-[03:11:11]:  - session/537C5C69FFB19629/0000000283
-[03:11:11]:  - session/537C5C69FFB19629/0000000301
-[03:11:11]:  - session/537C5C69FFB19629/0000000285
-[03:11:11]:  - session/537C5C69FFB19629/0000000280
-[03:11:11]:  - session/537C5C69FFB19629/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/0000000286
-[03:11:11]:  - session/537C5C69FFB19629/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/0000000292
-[03:11:11]:  - session/537C5C69FFB19629/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/0000000294
-[03:11:11]:  - session/537C5C69FFB19629/0000000289
-[03:11:11]:  - session/537C5C69FFB19629/0000000298
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000294
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000293
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000292
-[03:11:11]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000279
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000301
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000300
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000298
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000294
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000293
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000292
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000291
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000290
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000289
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000288
-[03:11:11]:  - session/537C5C69FFB19629/A7IQPNUNMI5P/0000000287
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000309
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000302
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000301
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000284
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000283
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000282
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000281
-[03:11:11]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000280
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000302
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000301
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000298
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000309
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000302
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000301
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000300
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000298
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000294
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000293
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000292
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000291
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000290
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000289
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000288
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000287
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000284
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000283
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000282
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000281
-[03:11:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000280
-[03:11:11]:  - session/537C5C69FFB19629/A7KH4EPBDIKU/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/A7KH4EPBDIKU/0000000298
-[03:11:11]:  - session/537C5C69FFB19629/A7KH4EPBDIKU/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000309
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000302
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000301
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000300
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000298
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000294
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000293
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000292
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000291
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000290
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000289
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000288
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000287
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000286
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000284
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000283
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000282
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000281
-[03:11:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000280
-[03:11:11]:  - session/537C5C69FFB19629/A7G7GT671M0L/0000000291
-[03:11:11]:  - session/537C5C69FFB19629/A7G7GT671M0L/0000000290
-[03:11:11]:  - session/537C5C69FFB19629/A7G7GT671M0L/0000000289
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000299
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000297
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000296
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000295
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000294
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000284
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000283
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000282
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000281
-[03:11:11]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000280
-[03:11:11]:    121 file(s) removed
-[03:11:11]:  > session/537C5C69FFB19629/A7KS5EOHNSDP/savelocation
-[03:11:11]:    1 file(s) updated
-[03:11:11]: unloading prefabs for mod MOD_workshop-362175979	
-[03:11:11]: unloading prefabs for mod MOD_workshop-1111711682	
-[03:11:11]: unloading prefabs for mod MOD_workshop-378160973	
-[03:11:12]: Collecting garbage...
-[03:11:13]: lua_gc took 0.41 seconds
-[03:11:13]: ~ShardLuaProxy()
-[03:11:13]: ~ItemServerLuaProxy()
-[03:11:13]: ~InventoryLuaProxy()
-[03:11:13]: ~NetworkLuaProxy()
-[03:11:13]: ~SimLuaProxy()
-[03:11:14]: lua_close took 1.01 seconds
-[03:11:14]: ReleaseAll
-[03:11:14]: ReleaseAll Finished
-[03:11:14]: cGame::StartPlaying
-[03:11:14]: LOADING LUA
-[03:11:14]: DoLuaFile scripts/main.lua
-[03:11:14]: DoLuaFile loading buffer scripts/main.lua
-[03:11:14]:   taskgrouplist:	default	Together	
-[03:11:14]:   taskgrouplist:	classic	Classic	
-[03:11:14]:   taskgrouplist:	cave_default	Underground	
-[03:11:14]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[03:11:14]: running main.lua
-	
-[03:11:14]: loaded modindex	
-[03:11:14]: ModIndex: Beginning normal load sequence for dedicated server.
-	
-[03:11:14]: modoverrides.lua enabling workshop-1111711682	
-[03:11:14]: modoverrides.lua enabling workshop-378160973	
-[03:11:14]: modoverrides.lua enabling workshop-362175979	
-[03:11:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[03:11:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[03:11:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[03:11:14]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[03:11:14]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[03:11:14]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[03:11:14]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[03:11:14]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
-[03:11:14]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[03:11:14]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[03:11:14]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[03:11:14]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[03:11:14]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[03:11:14]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[03:11:14]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[03:11:14]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[03:11:14]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[03:11:14]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[03:11:14]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[03:11:14]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[03:11:14]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
-[03:11:14]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
-[03:11:14]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[03:11:14]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
-[03:11:14]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
-[03:11:14]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
-[03:11:14]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
-[03:11:14]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
-[03:11:14]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
-[03:11:14]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
-[03:11:14]: [adai] 中文化修復完成。	
-[03:11:14]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[03:11:14]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[03:11:14]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[03:11:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[03:11:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[03:11:14]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[03:11:15]: LOADING LUA SUCCESS
-[03:11:15]: Registering mod namespace "workshop-378160973"
-[03:11:15]: PlayerDeaths could not load morgue	
-[03:11:15]: PlayerHistory could not load player_history	
-[03:11:15]: bloom_enabled	false	
-[03:11:15]: loaded saveindex	
-[03:11:15]: OnFilesLoaded()	
-[03:11:15]: OnUpdatePurchaseStateComplete	
-[03:11:15]: Loading world: session/537C5C69FFB19629/0000000308	
-[03:11:15]: Save file is at version 4.77	
-[03:11:15]: 	BE assets already loaded	
-[03:11:15]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[03:11:15]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[03:11:15]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
-[03:11:15]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[03:11:15]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[03:11:16]: Begin Session: 537C5C69FFB19629
-[03:11:16]: Stomping previously assigned session identifier, two loads issued.
-[03:11:16]: saving to server_temp/server_save	
-[03:11:16]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[03:11:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[03:11:16]: Loading Nav Grid	
-[03:11:16]: setting 	summerlength	15	
-[03:11:16]: setting 	isnightmaredawn	false	
-[03:11:16]: setting 	elapseddaysinseason	14	
-[03:11:16]: setting 	isfullmoon	false	
-[03:11:16]: setting 	moisture	1539.4705810547	
-[03:11:16]: setting 	springlength	20	
-[03:11:16]: setting 	isnightmarewild	false	
-[03:11:16]: setting 	moonphase	quarter	
-[03:11:16]: setting 	precipitationrate	0	
-[03:11:16]: setting 	iswet	true	
-[03:11:16]: setting 	isnewmoon	false	
-[03:11:16]: setting 	iswinter	false	
-[03:11:16]: setting 	israining	false	
-[03:11:16]: setting 	isnightmarewarn	false	
-[03:11:16]: setting 	precipitation	none	
-[03:11:16]: setting 	cavephase	day	
-[03:11:16]: setting 	moistureceil	4424.3647460938	
-[03:11:16]: setting 	isday	true	
-[03:11:16]: setting 	iscaveday	true	
-[03:11:16]: setting 	season	spring	
-[03:11:16]: setting 	timeinphase	0.0054779052734375	
-[03:11:16]: setting 	temperature	38.608221423292	
-[03:11:16]: setting 	isnightmarecalm	false	
-[03:11:16]: setting 	isnight	false	
-[03:11:16]: setting 	isdusk	false	
-[03:11:16]: setting 	iscavedusk	false	
-[03:11:16]: setting 	isautumn	false	
-[03:11:16]: setting 	issnowing	false	
-[03:11:16]: setting 	iswaxingmoon	false	
-[03:11:16]: setting 	pop	0.2132542705528	
-[03:11:16]: setting 	snowlevel	0	
-[03:11:16]: setting 	issnowcovered	false	
-[03:11:16]: setting 	autumnlength	20	
-[03:11:16]: setting 	phase	day	
-[03:11:16]: setting 	nightmaretime	0	
-[03:11:16]: setting 	winterlength	15	
-[03:11:16]: setting 	isspring	true	
-[03:11:16]: setting 	nightmarephase	none	
-[03:11:16]: setting 	remainingdaysinseason	6	
-[03:11:16]: setting 	cycles	259	
-[03:11:16]: setting 	iscavenight	false	
-[03:11:16]: setting 	nightmaretimeinphase	0	
-[03:11:16]: setting 	wetness	33.123180389404	
-[03:11:16]: setting 	time	0.0020542144775391	
-[03:11:16]: setting 	issummer	false	
-[03:11:26]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[03:11:26]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[03:11:33]: Reconstructing topology	
-[03:11:33]: 	...Sorting points	
-[03:11:33]: 	...Sorting edges	
-[03:11:33]: 	...Connecting nodes	
-[03:11:33]: 	...Validating connections	
-[03:11:33]: 	...Housekeeping	
-[03:11:33]: 	...Done!	
-[03:11:33]: Restoring user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000308	
-[03:11:33]: Restoring user: session/537C5C69FFB19629/A7GE8P58S30D/0000000308	
-[03:11:33]: Restoring user: session/537C5C69FFB19629/A7IOC71O41LI/0000000308	
-[03:11:33]: Restoring user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000308	
-[03:11:34]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000309
-[03:11:34]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000309
-[03:11:34]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000309
-[03:11:34]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000309
-[03:11:34]: 1 uploads added to server. From server_temp
-[03:11:34]: World 2560562348 is now connected	
-[03:11:34]: Telling Client our new session identifier: 537C5C69FFB19629
-[03:11:34]: ModIndex: Load sequence finished successfully.	
-[03:11:35]: Reset() returning
-[03:11:35]: Error decoding lua RPC sender
-[03:11:35]: Error decoding lua RPC sender
-[03:11:35]: Received resync request from client with no player
-[03:11:35]: New incoming connection 118.241.205.254|1 <3716322398457167466>
-[03:11:35]: Client connected from 118.241.205.254|1 <3716322398457167466>
-[03:11:35]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^Rro3GROHhr2IREUwbWmFygXRA9olOsDc5geHfYNnKUg= for <3716322398457167466>
-[03:11:35]: [Shard] Slave 'Caves(2560562348)' restarting...
-[03:11:35]: World 2560562348 is now disconnected	
-[03:11:36]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[03:11:36]: Validating portal[6] <-> 2560562348[6] (inactive)	
-[03:11:36]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[03:11:36]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[03:11:36]: Validating portal[8] <-> 2560562348[8] (inactive)	
-[03:11:36]: Validating portal[4] <-> 2560562348[4] (inactive)	
-[03:11:36]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[03:11:36]: Validating portal[9] <-> 2560562348[9] (inactive)	
-[03:11:36]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[03:11:36]: Validating portal[2] <-> 2560562348[2] (inactive)	
-[03:11:36]: Client authenticated: (KU_M673WWQo) 夜月夏目
-[03:11:36]: Sim paused
-[03:11:37]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
-[03:11:37]: [Steam] Authenticated client '76561198211986697'
-[03:11:40]: Restarting player migration on master server
-[03:11:40]: [Shard] Read save location file for (KU_6DFSm74k)
-[03:11:40]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000309
-[03:11:40]: Spawning player at: [Load] (-135.19, -0.00, 537.11)	
-[03:11:40]: Sim unpaused
-[03:11:42]: [Shard] Slave Caves(2560562348) ready!
-[03:11:42]: World 2560562348 is now connected	
-[03:11:42]: Validating portal[7] <-> 2560562348[7] (active)	
-[03:11:42]: Validating portal[6] <-> 2560562348[6] (disabled)	
-[03:11:42]: Validating portal[3] <-> 2560562348[3] (active)	
-[03:11:42]: Validating portal[1] <-> 2560562348[1] (active)	
-[03:11:42]: Validating portal[8] <-> 2560562348[8] (active)	
-[03:11:42]: Validating portal[4] <-> 2560562348[4] (active)	
-[03:11:42]: Validating portal[10] <-> 2560562348[10] (disabled)	
-[03:11:42]: Validating portal[9] <-> 2560562348[9] (active)	
-[03:11:42]: Validating portal[5] <-> 2560562348[5] (active)	
-[03:11:42]: Validating portal[2] <-> 2560562348[2] (active)	
-[03:11:43]: Restarting player migration on master server
-[03:11:43]: [Shard] Read save location file for (KU_uGVY9zVB)
-[03:11:43]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000309
-[03:11:43]: Spawning player at: [Load] (-402.55, 0.00, 656.27)	
-[03:11:45]: [Shard] Read save location file for (KU_M673WWQo)
-[03:12:33]: Restarting player migration on master server
-[03:12:33]: [Shard] Read save location file for (KU_3aPAZWmD)
-[03:12:33]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000309
-[03:12:33]: Spawning player at: [Load] (-182.76, -0.00, 297.02)	
-[03:14:07]: [Steam] SendUserDisconnect for '76561198211986697'
-[03:14:07]: Connection lost to 118.241.205.254|1 <3716322398457167466>
-[03:14:07]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
-[03:14:19]: [P2P] Connection failed for '76561198211986697'
-[03:15:41]: [Steam] SendUserDisconnect for '76561198165400477'
-[03:15:41]: Connection lost to 118.241.205.255|1 <6223824614104969337>
-[03:15:41]: [Shard] (KU_6DFSm74k) disconnected from [SHDMASTER](1)
-[03:15:42]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000309
-[03:17:38]: [P2P] Received from 118.241.205.255|1 '76561198165400477'
-[03:17:38]: [P2P] Sent to 118.241.205.255|1 '76561198165400477'
-[03:17:39]: New incoming connection 118.241.205.255|1 <1679922504366606175>
-[03:17:39]: Client connected from 118.241.205.255|1 <1679922504366606175>
-[03:17:39]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^/wUn9pvodsqWfuEAPTX28P0/wmfWkN5O+lZJWpoqHB0= for <1679922504366606175>
-[03:17:39]: Client authenticated: (KU_6DFSm74k) Nalant
-[03:17:39]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
-[03:17:40]: [Steam] Authenticated client '76561198165400477'
-[03:17:42]: [Shard] Read save location file for (KU_6DFSm74k)
-[03:17:50]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000309
-[03:17:50]: Spawning player at: [Load] (-95.53, -0.00, 380.16)	
-[03:19:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000309
-[03:19:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000309
-[03:19:40]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000309
-[03:19:41]: Serializing world: session/537C5C69FFB19629/0000000309
-[03:20:19]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[03:20:19]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[03:20:19]: New incoming connection 118.241.205.254|1 <2061045783235417799>
-[03:20:19]: Client connected from 118.241.205.254|1 <2061045783235417799>
-[03:20:19]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^uL1fSOWpaN5/Z3i31oVGQLMK+B9TCI4vZmT1lRtv56o= for <2061045783235417799>
-[03:20:20]: Client authenticated: (KU_M673WWQo) 夜月夏目
-[03:20:20]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
-[03:20:20]: [Steam] Authenticated client '76561198211986697'
-[03:20:22]: [Shard] Read save location file for (KU_M673WWQo)
-[03:20:47]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000309
-[03:20:47]: Spawning player at: [Load] (-136.45, -0.00, 532.11)	
-[03:27:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000310
-[03:27:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000310
-[03:27:41]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000310
-[03:27:41]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000310
-[03:27:42]: Serializing world: session/537C5C69FFB19629/0000000310
-[03:30:07]: [200] Account Communication Success (6)
-[03:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
-[03:35:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000311
-[03:35:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000311
-[03:35:42]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000311
-[03:35:42]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000311
-[03:35:43]: Serializing world: session/537C5C69FFB19629/0000000311
-[03:41:56]: [Steam] SendUserDisconnect for '76561198354843262'
-[03:41:56]: Connection lost to 118.241.205.245|1 <2428120602713962450>
-[03:41:56]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
-[03:41:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000312
-[03:43:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000312
-[03:43:43]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000312
-[03:43:43]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000312
-[03:43:44]: Serializing world: session/537C5C69FFB19629/0000000312
-[03:48:24]: [P2P] Received from 118.241.205.245|1 '76561198354843262'
-[03:48:24]: [P2P] Sent to 118.241.205.245|1 '76561198354843262'
-[03:48:24]: New incoming connection 118.241.205.245|1 <6226579460615766589>
-[03:48:24]: Client connected from 118.241.205.245|1 <6226579460615766589>
-[03:48:24]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^ql5NdfbUgXKd56eqog8F7KXvnHLHLxDiIIJwAzJAkc0= for <6226579460615766589>
-[03:48:25]: Client authenticated: (KU_uGVY9zVB) balalaboom
-[03:48:25]: [Steam] Authenticated host '76561198354843262'
-[03:48:27]: [Shard] Read save location file for (KU_uGVY9zVB)
-[03:48:37]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000312
-[03:48:37]: Spawning player at: [Load] (-124.53, -0.00, 527.06)	
-[03:51:45]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000313
-[03:51:45]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000313
-[03:51:45]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000313
-[03:51:45]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000313
-[03:51:46]: Serializing world: session/537C5C69FFB19629/0000000313
-[03:55:50]: Received world rollback request: count=1	
-[03:55:50]: Truncating to snapshot #313...
-[03:55:50]:  - session/537C5C69FFB19629/0000000306
-[03:55:50]:  - session/537C5C69FFB19629/0000000304
-[03:55:50]:  - session/537C5C69FFB19629/0000000305
-[03:55:50]:  - session/537C5C69FFB19629/0000000303
-[03:55:50]:  - session/537C5C69FFB19629/0000000307
-[03:55:50]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000307
-[03:55:50]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000306
-[03:55:50]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000305
-[03:55:50]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000304
-[03:55:50]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000303
-[03:55:50]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000307
-[03:55:50]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000306
-[03:55:50]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000305
-[03:55:50]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000304
-[03:55:50]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000303
-[03:55:50]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000307
-[03:55:50]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000306
-[03:55:50]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000305
-[03:55:50]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000304
-[03:55:50]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000303
-[03:55:50]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000307
-[03:55:50]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000306
-[03:55:50]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000305
-[03:55:50]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000304
-[03:55:50]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000303
-[03:55:50]:    25 file(s) removed
-[03:55:50]:  > session/537C5C69FFB19629/A7GOQFEC0S9E/savelocation
-[03:55:50]:    1 file(s) updated
-[03:55:50]: unloading prefabs for mod MOD_workshop-362175979	
-[03:55:50]: unloading prefabs for mod MOD_workshop-1111711682	
-[03:55:50]: unloading prefabs for mod MOD_workshop-378160973	
-[03:55:51]: Collecting garbage...
-[03:55:52]: lua_gc took 0.60 seconds
-[03:55:52]: ~ShardLuaProxy()
-[03:55:52]: ~ItemServerLuaProxy()
-[03:55:52]: ~InventoryLuaProxy()
-[03:55:52]: ~NetworkLuaProxy()
-[03:55:52]: ~SimLuaProxy()
-[03:55:53]: lua_close took 1.06 seconds
-[03:55:53]: ReleaseAll
-[03:55:53]: ReleaseAll Finished
-[03:55:53]: cGame::StartPlaying
-[03:55:53]: LOADING LUA
-[03:55:53]: DoLuaFile scripts/main.lua
-[03:55:53]: DoLuaFile loading buffer scripts/main.lua
-[03:55:53]:   taskgrouplist:	default	Together	
-[03:55:53]:   taskgrouplist:	classic	Classic	
-[03:55:53]:   taskgrouplist:	cave_default	Underground	
-[03:55:53]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[03:55:53]: running main.lua
-	
-[03:55:53]: loaded modindex	
-[03:55:53]: ModIndex: Beginning normal load sequence for dedicated server.
-	
-[03:55:53]: modoverrides.lua enabling workshop-1111711682	
-[03:55:53]: modoverrides.lua enabling workshop-378160973	
-[03:55:53]: modoverrides.lua enabling workshop-362175979	
-[03:55:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[03:55:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[03:55:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[03:55:53]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[03:55:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[03:55:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[03:55:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[03:55:53]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
-[03:55:53]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[03:55:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[03:55:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[03:55:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[03:55:53]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[03:55:53]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[03:55:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[03:55:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[03:55:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[03:55:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[03:55:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[03:55:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[03:55:53]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
-[03:55:53]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
-[03:55:53]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[03:55:53]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
-[03:55:53]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
-[03:55:53]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
-[03:55:53]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
-[03:55:53]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
-[03:55:53]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
-[03:55:53]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
-[03:55:53]: [adai] 中文化修復完成。	
-[03:55:53]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[03:55:53]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[03:55:53]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[03:55:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[03:55:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[03:55:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[03:55:54]: LOADING LUA SUCCESS
-[03:55:54]: Registering mod namespace "workshop-378160973"
-[03:55:54]: PlayerDeaths could not load morgue	
-[03:55:54]: PlayerHistory could not load player_history	
-[03:55:54]: bloom_enabled	false	
-[03:55:54]: loaded saveindex	
-[03:55:54]: OnFilesLoaded()	
-[03:55:54]: OnUpdatePurchaseStateComplete	
-[03:55:54]: Loading world: session/537C5C69FFB19629/0000000313	
-[03:55:54]: Save file is at version 4.77	
-[03:55:54]: 	BE assets already loaded	
-[03:55:54]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[03:55:54]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[03:55:54]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
-[03:55:54]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[03:55:54]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[03:55:54]: Begin Session: 537C5C69FFB19629
-[03:55:54]: Stomping previously assigned session identifier, two loads issued.
-[03:55:55]: saving to server_temp/server_save	
-[03:55:55]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[03:55:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[03:55:55]: Loading Nav Grid	
-[03:55:55]: setting 	summerlength	15	
-[03:55:55]: setting 	isnightmaredawn	false	
-[03:55:55]: setting 	elapseddaysinseason	19	
-[03:55:55]: setting 	isfullmoon	false	
-[03:55:55]: setting 	moisture	2931.7709960938	
-[03:55:55]: setting 	springlength	20	
-[03:55:55]: setting 	isnightmarewild	false	
-[03:55:55]: setting 	moonphase	half	
-[03:55:55]: setting 	precipitationrate	0	
-[03:55:55]: setting 	iswet	false	
-[03:55:55]: setting 	isnewmoon	false	
-[03:55:55]: setting 	iswinter	false	
-[03:55:55]: setting 	israining	false	
-[03:55:55]: setting 	isnightmarewarn	false	
-[03:55:55]: setting 	precipitation	none	
-[03:55:55]: setting 	cavephase	day	
-[03:55:55]: setting 	moistureceil	5168.8334960938	
-[03:55:55]: setting 	isday	true	
-[03:55:55]: setting 	iscaveday	true	
-[03:55:55]: setting 	season	spring	
-[03:55:55]: setting 	timeinphase	0.004060427347819	
-[03:55:55]: setting 	temperature	56.017246379067	
-[03:55:55]: setting 	isnightmarecalm	false	
-[03:55:55]: setting 	isnight	false	
-[03:55:55]: setting 	isdusk	false	
-[03:55:55]: setting 	iscavedusk	false	
-[03:55:55]: setting 	isautumn	false	
-[03:55:55]: setting 	issnowing	false	
-[03:55:55]: setting 	iswaxingmoon	true	
-[03:55:55]: setting 	pop	0.51818166557165	
-[03:55:55]: setting 	snowlevel	0	
-[03:55:55]: setting 	issnowcovered	false	
-[03:55:55]: setting 	autumnlength	20	
-[03:55:55]: setting 	phase	day	
-[03:55:55]: setting 	nightmaretime	0	
-[03:55:55]: setting 	winterlength	15	
-[03:55:55]: setting 	isspring	true	
-[03:55:55]: setting 	nightmarephase	none	
-[03:55:55]: setting 	remainingdaysinseason	1	
-[03:55:55]: setting 	cycles	264	
-[03:55:55]: setting 	iscavenight	false	
-[03:55:55]: setting 	nightmaretimeinphase	0	
-[03:55:55]: setting 	wetness	0	
-[03:55:55]: setting 	time	0.0020302136739095	
-[03:55:55]: setting 	issummer	false	
-[03:56:14]: Reconstructing topology	
-[03:56:14]: 	...Sorting points	
-[03:56:14]: 	...Sorting edges	
-[03:56:14]: 	...Connecting nodes	
-[03:56:14]: 	...Validating connections	
-[03:56:14]: 	...Housekeeping	
-[03:56:14]: 	...Done!	
-[03:56:14]: Restoring user: session/537C5C69FFB19629/A7GE8P58S30D/0000000313	
-[03:56:14]: Restoring user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000313	
-[03:56:14]: Restoring user: session/537C5C69FFB19629/A7IOC71O41LI/0000000313	
-[03:56:14]: Restoring user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000313	
-[03:56:14]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[03:56:14]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[03:56:14]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[03:56:14]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[03:56:14]: 1 uploads added to server. From server_temp
-[03:56:14]: World 2560562348 is now connected	
-[03:56:14]: Telling Client our new session identifier: 537C5C69FFB19629
-[03:56:14]: ModIndex: Load sequence finished successfully.	
-[03:56:15]: Reset() returning
-[03:56:15]: [Shard] Slave 'Caves(2560562348)' restarting...
-[03:56:15]: World 2560562348 is now disconnected	
-[03:56:16]: Validating portal[4] <-> 2560562348[4] (inactive)	
-[03:56:16]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[03:56:16]: Validating portal[9] <-> 2560562348[9] (inactive)	
-[03:56:16]: Validating portal[8] <-> 2560562348[8] (inactive)	
-[03:56:16]: Validating portal[2] <-> 2560562348[2] (inactive)	
-[03:56:16]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[03:56:16]: Validating portal[6] <-> 2560562348[6] (inactive)	
-[03:56:16]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[03:56:17]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[03:56:17]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[03:56:17]: Sim paused
-[03:56:20]: Restarting player migration on master server
-[03:56:20]: [Shard] Read save location file for (KU_6DFSm74k)
-[03:56:20]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[03:56:20]: Spawning player at: [Load] (-351.85, -0.00, 338.83)	
-[03:56:20]: Sim unpaused
-[03:56:21]: Restarting player migration on master server
-[03:56:21]: [Shard] Read save location file for (KU_uGVY9zVB)
-[03:56:21]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[03:56:21]: Spawning player at: [Load] (-322.24, -0.00, 328.22)	
-[03:56:22]: [Shard] Slave Caves(2560562348) ready!
-[03:56:22]: World 2560562348 is now connected	
-[03:56:22]: Validating portal[4] <-> 2560562348[4] (active)	
-[03:56:22]: Validating portal[5] <-> 2560562348[5] (active)	
-[03:56:22]: Validating portal[9] <-> 2560562348[9] (active)	
-[03:56:22]: Validating portal[8] <-> 2560562348[8] (active)	
-[03:56:22]: Validating portal[2] <-> 2560562348[2] (active)	
-[03:56:22]: Validating portal[1] <-> 2560562348[1] (active)	
-[03:56:22]: Validating portal[6] <-> 2560562348[6] (disabled)	
-[03:56:22]: Validating portal[7] <-> 2560562348[7] (active)	
-[03:56:22]: Validating portal[10] <-> 2560562348[10] (disabled)	
-[03:56:22]: Validating portal[3] <-> 2560562348[3] (active)	
-[03:56:22]: Restarting player migration on master server
-[03:56:22]: [Shard] Read save location file for (KU_3aPAZWmD)
-[03:56:22]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[03:56:22]: Spawning player at: [Load] (-76.36, -0.00, 513.22)	
-[03:56:40]: Restarting player migration on master server
-[03:56:40]: [Shard] Read save location file for (KU_M673WWQo)
-[03:56:40]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[03:56:40]: Spawning player at: [Load] (-163.99, -0.00, 223.34)	
-[04:00:01]: Could not find anim [death] in bank [ghost]
-[04:00:01]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[04:00:07]: [200] Account Communication Success (6)
-[04:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
-[04:00:15]: Could not find anim [idle_loop] in bank [ghost]
-[04:00:18]: Could not find anim [transform] in bank [wilson]
-[04:00:19]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[04:00:25]: Could not find anim [death] in bank [ghost]
-[04:00:25]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[04:00:39]: RemoteCommandInput: "c_rollback()"
-[04:00:39]: Received world rollback request: count=1	
-[04:00:39]: Truncating to snapshot #313...
-[04:00:39]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[04:00:39]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[04:00:39]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[04:00:39]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[04:00:39]:    4 file(s) removed
-[04:00:39]: unloading prefabs for mod MOD_workshop-362175979	
-[04:00:39]: unloading prefabs for mod MOD_workshop-1111711682	
-[04:00:39]: unloading prefabs for mod MOD_workshop-378160973	
-[04:00:40]: Collecting garbage...
-[04:00:41]: lua_gc took 0.52 seconds
-[04:00:41]: ~ShardLuaProxy()
-[04:00:41]: ~ItemServerLuaProxy()
-[04:00:41]: ~InventoryLuaProxy()
-[04:00:41]: ~NetworkLuaProxy()
-[04:00:41]: ~SimLuaProxy()
-[04:00:42]: lua_close took 1.05 seconds
-[04:00:42]: ReleaseAll
-[04:00:42]: ReleaseAll Finished
-[04:00:42]: cGame::StartPlaying
-[04:00:42]: LOADING LUA
-[04:00:42]: DoLuaFile scripts/main.lua
-[04:00:42]: DoLuaFile loading buffer scripts/main.lua
-[04:00:42]:   taskgrouplist:	default	Together	
-[04:00:42]:   taskgrouplist:	classic	Classic	
-[04:00:42]:   taskgrouplist:	cave_default	Underground	
-[04:00:42]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[04:00:42]: running main.lua
-	
-[04:00:42]: loaded modindex	
-[04:00:42]: ModIndex: Beginning normal load sequence for dedicated server.
-	
-[04:00:42]: modoverrides.lua enabling workshop-1111711682	
-[04:00:42]: modoverrides.lua enabling workshop-378160973	
-[04:00:42]: modoverrides.lua enabling workshop-362175979	
-[04:00:42]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[04:00:42]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[04:00:42]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[04:00:42]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[04:00:42]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[04:00:42]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[04:00:42]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[04:00:42]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
-[04:00:42]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[04:00:42]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[04:00:42]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[04:00:42]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[04:00:42]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
-[04:00:42]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
-[04:00:42]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
-[04:00:42]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
-[04:00:42]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
-[04:00:42]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
-[04:00:42]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
-[04:00:42]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
-[04:00:42]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
-[04:00:42]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
-[04:00:42]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
-[04:00:42]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
-[04:00:42]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
-[04:00:42]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
-[04:00:42]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
-[04:00:42]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
-[04:00:43]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
-[04:00:43]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
-[04:00:43]: [adai] 中文化修復完成。	
-[04:00:43]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[04:00:43]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[04:00:43]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[04:00:43]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[04:00:43]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[04:00:43]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
-[04:00:43]: LOADING LUA SUCCESS
-[04:00:43]: Registering mod namespace "workshop-378160973"
-[04:00:43]: PlayerDeaths could not load morgue	
-[04:00:43]: PlayerHistory could not load player_history	
-[04:00:43]: bloom_enabled	false	
-[04:00:43]: loaded saveindex	
-[04:00:43]: OnFilesLoaded()	
-[04:00:43]: OnUpdatePurchaseStateComplete	
-[04:00:43]: Loading world: session/537C5C69FFB19629/0000000313	
-[04:00:43]: Save file is at version 4.77	
-[04:00:43]: 	BE assets already loaded	
-[04:00:44]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[04:00:44]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[04:00:44]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
-[04:00:44]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[04:00:44]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[04:00:44]: Begin Session: 537C5C69FFB19629
-[04:00:44]: Stomping previously assigned session identifier, two loads issued.
-[04:00:44]: saving to server_temp/server_save	
-[04:00:44]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
-[04:00:44]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[04:00:44]: Loading Nav Grid	
-[04:00:44]: setting 	summerlength	15	
-[04:00:44]: setting 	isnightmaredawn	false	
-[04:00:44]: setting 	elapseddaysinseason	19	
-[04:00:44]: setting 	isfullmoon	false	
-[04:00:44]: setting 	moisture	2931.7709960938	
-[04:00:44]: setting 	springlength	20	
-[04:00:44]: setting 	isnightmarewild	false	
-[04:00:44]: setting 	moonphase	half	
-[04:00:44]: setting 	precipitationrate	0	
-[04:00:44]: setting 	iswet	false	
-[04:00:44]: setting 	isnewmoon	false	
-[04:00:44]: setting 	iswinter	false	
-[04:00:44]: setting 	israining	false	
-[04:00:44]: setting 	isnightmarewarn	false	
-[04:00:44]: setting 	precipitation	none	
-[04:00:44]: setting 	cavephase	day	
-[04:00:44]: setting 	moistureceil	5168.8334960938	
-[04:00:44]: setting 	isday	true	
-[04:00:44]: setting 	iscaveday	true	
-[04:00:44]: setting 	season	spring	
-[04:00:44]: setting 	timeinphase	0.004060427347819	
-[04:00:44]: setting 	temperature	56.017246379067	
-[04:00:44]: setting 	isnightmarecalm	false	
-[04:00:44]: setting 	isnight	false	
-[04:00:44]: setting 	isdusk	false	
-[04:00:44]: setting 	iscavedusk	false	
-[04:00:44]: setting 	isautumn	false	
-[04:00:44]: setting 	issnowing	false	
-[04:00:44]: setting 	iswaxingmoon	true	
-[04:00:44]: setting 	pop	0.51818166557165	
-[04:00:44]: setting 	snowlevel	0	
-[04:00:44]: setting 	issnowcovered	false	
-[04:00:44]: setting 	autumnlength	20	
-[04:00:44]: setting 	phase	day	
-[04:00:44]: setting 	nightmaretime	0	
-[04:00:44]: setting 	winterlength	15	
-[04:00:44]: setting 	isspring	true	
-[04:00:44]: setting 	nightmarephase	none	
-[04:00:44]: setting 	remainingdaysinseason	1	
-[04:00:44]: setting 	cycles	264	
-[04:00:44]: setting 	iscavenight	false	
-[04:00:44]: setting 	nightmaretimeinphase	0	
-[04:00:44]: setting 	wetness	0	
-[04:00:44]: setting 	time	0.0020302136739095	
-[04:00:44]: setting 	issummer	false	
-[04:01:02]: Reconstructing topology	
-[04:01:02]: 	...Sorting points	
-[04:01:02]: 	...Sorting edges	
-[04:01:02]: 	...Connecting nodes	
-[04:01:02]: 	...Validating connections	
-[04:01:02]: 	...Housekeeping	
-[04:01:02]: 	...Done!	
-[04:01:02]: Restoring user: session/537C5C69FFB19629/A7GE8P58S30D/0000000313	
-[04:01:02]: Restoring user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000313	
-[04:01:02]: Restoring user: session/537C5C69FFB19629/A7IOC71O41LI/0000000313	
-[04:01:02]: Restoring user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000313	
-[04:01:02]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[04:01:02]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[04:01:02]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[04:01:02]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[04:01:02]: 1 uploads added to server. From server_temp
-[04:01:02]: World 2560562348 is now connected	
-[04:01:02]: Telling Client our new session identifier: 537C5C69FFB19629
-[04:01:02]: ModIndex: Load sequence finished successfully.	
-[04:01:03]: Reset() returning
-[04:01:03]: Error decoding lua RPC sender
-[04:01:03]: Error decoding lua RPC sender
-[04:01:03]: Error decoding lua RPC sender
-[04:01:03]: Received resync request from client with no player
-[04:01:03]: [Shard] Slave 'Caves(2560562348)' restarting...
-[04:01:03]: World 2560562348 is now disconnected	
-[04:01:05]: Validating portal[4] <-> 2560562348[4] (inactive)	
-[04:01:05]: Validating portal[8] <-> 2560562348[8] (inactive)	
-[04:01:05]: Validating portal[9] <-> 2560562348[9] (inactive)	
-[04:01:05]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[04:01:05]: Validating portal[2] <-> 2560562348[2] (inactive)	
-[04:01:05]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[04:01:05]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[04:01:05]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[04:01:05]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[04:01:05]: Validating portal[6] <-> 2560562348[6] (inactive)	
-[04:01:05]: Sim paused
-[04:01:08]: Restarting player migration on master server
-[04:01:08]: [Shard] Read save location file for (KU_6DFSm74k)
-[04:01:08]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[04:01:08]: Spawning player at: [Load] (-351.85, -0.00, 338.83)	
-[04:01:08]: Sim unpaused
-[04:01:09]: Restarting player migration on master server
-[04:01:09]: [Shard] Read save location file for (KU_uGVY9zVB)
-[04:01:09]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[04:01:09]: Spawning player at: [Load] (-322.24, -0.00, 328.22)	
-[04:01:10]: [Shard] Slave Caves(2560562348) ready!
-[04:01:10]: World 2560562348 is now connected	
-[04:01:10]: Validating portal[4] <-> 2560562348[4] (active)	
-[04:01:10]: Validating portal[8] <-> 2560562348[8] (active)	
-[04:01:10]: Validating portal[9] <-> 2560562348[9] (active)	
-[04:01:10]: Validating portal[10] <-> 2560562348[10] (disabled)	
-[04:01:10]: Validating portal[2] <-> 2560562348[2] (active)	
-[04:01:10]: Validating portal[1] <-> 2560562348[1] (active)	
-[04:01:10]: Validating portal[5] <-> 2560562348[5] (active)	
-[04:01:10]: Validating portal[7] <-> 2560562348[7] (active)	
-[04:01:10]: Validating portal[3] <-> 2560562348[3] (active)	
-[04:01:10]: Validating portal[6] <-> 2560562348[6] (disabled)	
-[04:01:11]: Restarting player migration on master server
-[04:01:11]: [Shard] Read save location file for (KU_3aPAZWmD)
-[04:01:11]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[04:01:11]: Spawning player at: [Load] (-76.36, -0.00, 513.22)	
-[04:01:15]: Restarting player migration on master server
-[04:01:15]: [Shard] Read save location file for (KU_M673WWQo)
-[04:01:15]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[04:01:15]: Spawning player at: [Load] (-163.99, -0.00, 223.34)	
-[04:03:22]: RemoteCommandInput: "c_save()"
-[04:03:23]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[04:03:23]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[04:03:23]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[04:03:23]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[04:03:24]: Serializing world: session/537C5C69FFB19629/0000000314
-[04:09:10]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000315
-[04:09:10]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000315
-[04:09:10]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000315
-[04:09:10]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000315
-[04:09:11]: Serializing world: session/537C5C69FFB19629/0000000315
-[04:17:08]: [Steam] SendUserDisconnect for '76561198165400477'
-[04:17:08]: Connection lost to 118.241.205.255|1 <1679922504366606175>
-[04:17:08]: [Shard] (KU_6DFSm74k) disconnected from [SHDMASTER](1)
-[04:17:08]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000316
-[04:17:11]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000316
-[04:17:11]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000316
-[04:17:11]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000316
-[04:17:12]: Serializing world: session/537C5C69FFB19629/0000000316
-[04:17:30]: [P2P] Received from 118.241.205.255|1 '76561198165400477'
-[04:17:30]: [P2P] Sent to 118.241.205.255|1 '76561198165400477'
-[04:17:30]: New incoming connection 118.241.205.255|1 <7232556625779303288>
-[04:17:30]: Client connected from 118.241.205.255|1 <7232556625779303288>
-[04:17:30]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^DmGUfTx76wKi4cX92G16ehBCtHjfghfMFeQDXZzfUns= for <7232556625779303288>
-[04:17:31]: Client authenticated: (KU_6DFSm74k) Nalant
-[04:17:31]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
-[04:17:31]: [Steam] Authenticated client '76561198165400477'
-[04:17:34]: [Shard] Read save location file for (KU_6DFSm74k)
-[04:17:42]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000316
-[04:17:42]: Spawning player at: [Load] (-249.68, 0.00, -458.99)	
-[04:17:44]: Could not find anim [death] in bank [ghost]
-[04:17:44]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000317
-[04:19:06]: Could not find anim [idle_loop] in bank [ghost]
-[04:19:09]: Could not find anim [transform] in bank [wilson]
-[04:19:10]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000317
-[04:25:12]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000317
-[04:25:12]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000317
-[04:25:12]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000317
-[04:25:12]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000317
-[04:25:13]: Serializing world: session/537C5C69FFB19629/0000000317
-[04:30:07]: [200] Account Communication Success (6)
-[04:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
-[04:33:13]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000318
-[04:33:13]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000318
-[04:33:13]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000318
-[04:33:13]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000318
-[04:33:14]: Serializing world: session/537C5C69FFB19629/0000000318
-[04:37:29]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute() @(177.16, -72.81)
-[04:41:14]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000319
-[04:41:14]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000319
-[04:41:14]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000319
-[04:41:14]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000319
-[04:41:15]: Serializing world: session/537C5C69FFB19629/0000000319
-[04:43:02]: Remote left click out of range	
-[04:43:03]: Remote left click out of range	
-[04:43:03]: Remote left click out of range	
-[04:43:03]: Remote left click out of range	
-[04:43:03]: Remote left click out of range	
-[04:43:03]: Remote left click out of range	
-[04:43:07]: Remote left click out of range	
-[04:43:07]: Remote left click out of range	
-[04:43:07]: Remote left click out of range	
-[04:43:08]: Remote left click out of range	
-[04:43:08]: Remote left click out of range	
-[04:43:35]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000320
-[04:43:35]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000320
-[04:43:35]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000320
-[04:43:35]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000320
-[04:43:35]: Serializing world: session/537C5C69FFB19629/0000000320
-[04:43:35]: [Steam] SendUserDisconnect for '76561198165400477'
-[04:43:35]: Connection lost to 118.241.205.255|1 <7232556625779303288>
-[04:43:35]: [Shard] (KU_6DFSm74k) disconnected from [SHDMASTER](1)
-[04:43:35]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000321
-[04:43:46]: [Steam] SendUserDisconnect for '76561198189824466'
-[04:43:46]: Connection lost to 118.241.205.246|1 <1943028747246230455>
-[04:43:46]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
-[04:43:47]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000321
-[04:43:48]: [Steam] SendUserDisconnect for '76561198354843262'
-[04:43:48]: Connection lost to 118.241.205.245|1 <6226579460615766589>
-[04:43:48]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
-[04:43:49]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000321
-[04:44:22]: [P2P] Received from 118.241.205.245|1 '76561198354843262'
-[04:44:22]: [P2P] Sent to 118.241.205.245|1 '76561198354843262'
-[04:44:23]: New incoming connection 118.241.205.245|1 <6441859004006715173>
-[04:44:23]: Client connected from 118.241.205.245|1 <6441859004006715173>
-[04:44:23]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^T3KEwWGwiHM+XRWaYfnFcqcJuUcYSI3iNv+Xms2BE+o= for <6441859004006715173>
-[04:44:23]: Client authenticated: (KU_uGVY9zVB) balalaboom
-[04:44:23]: [Steam] Authenticated host '76561198354843262'
-[04:44:26]: [Shard] Read save location file for (KU_uGVY9zVB)
-[04:44:30]: [P2P] Received from 118.241.205.255|1 '76561198165400477'
-[04:44:30]: [P2P] Sent to 118.241.205.255|1 '76561198165400477'
-[04:44:31]: New incoming connection 118.241.205.255|1 <8251249834405936>
-[04:44:31]: Client connected from 118.241.205.255|1 <8251249834405936>
-[04:44:31]: ValidateGameSessionToken pgs-sing^KU_6DFSm74k^DontStarveTogether^nrQAWxdpzHeQXyCkkGpKkf0OoDxx4EpCuD7yiiswd3Q= for <8251249834405936>
-[04:44:31]: Client authenticated: (KU_6DFSm74k) Nalant
-[04:44:31]: [Steam] SendUserConnectAndAuthenticate for '76561198165400477'
-[04:44:31]: [Steam] Authenticated client '76561198165400477'
-[04:44:34]: [Shard] Read save location file for (KU_6DFSm74k)
-[04:44:35]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000321
-[04:44:35]: Spawning player at: [Load] (34.05, -0.00, -250.00)	
-[04:44:42]: Resuming user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000321
-[04:44:42]: Spawning player at: [Load] (33.55, 0.00, -253.54)	
-[04:45:19]: [P2P] Received from 118.241.205.246|1 '76561198189824466'
-[04:45:19]: [P2P] Sent to 118.241.205.246|1 '76561198189824466'
-[04:45:19]: New incoming connection 118.241.205.246|1 <8208667636914700318>
-[04:45:19]: Client connected from 118.241.205.246|1 <8208667636914700318>
-[04:45:19]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^JDu/D8/72nggbOwbjEWyk17FiFvum33ZUox2UgO0iVc= for <8208667636914700318>
-[04:45:19]: Client authenticated: (KU_3aPAZWmD) ルビー
-[04:45:19]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
-[04:45:20]: [Steam] Authenticated client '76561198189824466'
-[04:45:22]: [Shard] Read save location file for (KU_3aPAZWmD)
-[04:45:50]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000321
-[04:45:50]: Spawning player at: [Load] (35.36, -0.00, -253.82)	
-[04:48:56]: [Steam] SendUserDisconnect for '76561198354843262'
-[04:48:56]: Connection lost to 118.241.205.245|1 <6441859004006715173>
-[04:48:56]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
-[04:48:57]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000321
-[04:48:58]: [Steam] SendUserDisconnect for '76561198189824466'
-[04:48:58]: Connection lost to 118.241.205.246|1 <8208667636914700318>
-[04:48:58]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
-[04:48:58]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000321
-[04:49:18]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000321
-[04:49:18]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000321
-[04:49:19]: Serializing world: session/537C5C69FFB19629/0000000321
-[04:49:59]: [P2P] Received from 118.241.205.245|1 '76561198354843262'
-[04:49:59]: [P2P] Sent to 118.241.205.245|1 '76561198354843262'
-[04:49:59]: New incoming connection 118.241.205.245|1 <7314141899530885639>
-[04:49:59]: Client connected from 118.241.205.245|1 <7314141899530885639>
-[04:49:59]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^drGVw+Y1J8Ru7A0Hjr4sEHK3t42gfWl0sYuGfmqA08Y= for <7314141899530885639>
-[04:49:59]: Client authenticated: (KU_uGVY9zVB) balalaboom
-[04:50:00]: [Steam] Authenticated host '76561198354843262'
-[04:50:02]: [Shard] Read save location file for (KU_uGVY9zVB)
-[04:50:10]: [P2P] Received from 118.241.205.246|1 '76561198189824466'
-[04:50:10]: [P2P] Sent to 118.241.205.246|1 '76561198189824466'
-[04:50:10]: New incoming connection 118.241.205.246|1 <2170874965702245951>
-[04:50:10]: Client connected from 118.241.205.246|1 <2170874965702245951>
-[04:50:10]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^649/MRQrlgS03HxvvIxaKky33CXZ1oUnKud3D4srtSI= for <2170874965702245951>
-[04:50:10]: Client authenticated: (KU_3aPAZWmD) ルビー
-[04:50:10]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
-[04:50:11]: [Steam] Authenticated client '76561198189824466'
-[04:50:11]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000321
-[04:50:11]: Spawning player at: [Load] (39.75, -0.00, -115.86)	
-[04:50:13]: [Shard] Read save location file for (KU_3aPAZWmD)
-[04:50:24]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000321
-[04:50:24]: Spawning player at: [Load] (38.57, -0.00, -110.51)	
-[04:57:20]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000322
-[04:57:20]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000322
-[04:57:20]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000322
-[04:57:20]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000322
-[04:57:21]: Serializing world: session/537C5C69FFB19629/0000000322
-[05:00:07]: [200] Account Communication Success (6)
-[05:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
-[05:00:27]: [Steam] SendUserDisconnect for '76561198165400477'
-[05:00:27]: Connection lost to 118.241.205.255|1 <8251249834405936>
-[05:00:27]: [Shard] (KU_6DFSm74k) disconnected from [SHDMASTER](1)
-[05:00:27]: Serializing user: session/537C5C69FFB19629/A7GOQFEC0S9E/0000000323
-[05:05:21]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000323
-[05:05:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000323
-[05:05:21]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000323
-[05:05:22]: Serializing world: session/537C5C69FFB19629/0000000323
-[05:10:27]: [P2P] Session timed out for '76561198165400477'
-[05:10:27]: [P2P] Remove session: 118.241.205.255|1 '76561198165400477'
-[05:13:22]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000324
-[05:13:22]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000324
-[05:13:22]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000324
-[05:13:22]: Serializing world: session/537C5C69FFB19629/0000000324
-[05:21:23]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000325
-[05:21:23]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000325
-[05:21:23]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000325
-[05:21:23]: Serializing world: session/537C5C69FFB19629/0000000325
-[05:22:11]: [Steam] SendUserDisconnect for '76561198354843262'
-[05:22:11]: Connection lost to 118.241.205.245|1 <7314141899530885639>
-[05:22:11]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
-[05:22:11]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000326
-[05:22:36]: [P2P] Connection failed for '76561198354843262'
-[05:22:42]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000326
-[05:22:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000326
-[05:22:43]: Serializing world: session/537C5C69FFB19629/0000000326
-[05:24:28]: [Steam] SendUserDisconnect for '76561198211986697'
-[05:24:28]: Connection lost to 118.241.205.254|1 <2061045783235417799>
-[05:24:28]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
-[05:24:28]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000327
-[05:25:19]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[05:25:19]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[05:25:19]: New incoming connection 118.241.205.254|1 <9118944926831691541>
-[05:25:19]: Client connected from 118.241.205.254|1 <9118944926831691541>
-[05:25:19]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^rYMMNi207ItLLZfE5OqWfDoDLmDmAGdfr0ptrH0IkUs= for <9118944926831691541>
-[05:25:20]: Client authenticated: (KU_M673WWQo) 夜月夏目
-[05:25:20]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
-[05:25:20]: [Steam] Authenticated client '76561198211986697'
-[05:25:23]: [Shard] Read save location file for (KU_M673WWQo)
-[05:25:34]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000327
-[05:25:34]: Spawning player at: [Load] (181.65, -0.00, -81.19)	
-[05:29:25]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000327
-[05:29:25]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000327
-[05:29:26]: Serializing world: session/537C5C69FFB19629/0000000327
-[05:30:07]: [200] Account Communication Success (6)
-[05:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
-[05:32:11]: [P2P] Session timed out for '76561198354843262'
-[05:32:11]: [P2P] Remove session: 118.241.205.245|1 '76561198354843262'
-[05:37:26]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000328
-[05:37:26]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000328
-[05:37:26]: Serializing world: session/537C5C69FFB19629/0000000328
-[05:45:27]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000329
-[05:45:27]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000329
-[05:45:27]: Serializing world: session/537C5C69FFB19629/0000000329
-[05:53:17]: [Steam] SendUserDisconnect for '76561198211986697'
-[05:53:17]: Connection lost to 118.241.205.254|1 <9118944926831691541>
-[05:53:17]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
-[05:53:18]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000330
-[05:53:28]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000330
-[05:53:28]: Serializing world: session/537C5C69FFB19629/0000000330
-[05:54:13]: [P2P] Received from 118.241.205.254|1 '76561198211986697'
-[05:54:13]: [P2P] Sent to 118.241.205.254|1 '76561198211986697'
-[05:54:13]: New incoming connection 118.241.205.254|1 <4396663795420260194>
-[05:54:13]: Client connected from 118.241.205.254|1 <4396663795420260194>
-[05:54:13]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^lrKAKTKZeyPp+zt8Dj879VlMZRvPVHXBxY6C1iWjC+I= for <4396663795420260194>
-[05:54:13]: Client authenticated: (KU_M673WWQo) 夜月夏目
-[05:54:14]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
-[05:54:14]: [Steam] Authenticated client '76561198211986697'
-[05:54:16]: [Shard] Read save location file for (KU_M673WWQo)
-[05:54:25]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000330
-[05:54:26]: Spawning player at: [Load] (180.78, -0.00, -82.03)	
-[05:59:29]: [P2P] Create session: 118.241.206.1|1 '76561198354843262'
-[05:59:29]: [P2P] Received from 118.241.206.1|1 '76561198354843262'
-[05:59:29]: [P2P] Sent to 118.241.206.1|1 '76561198354843262'
-[06:00:07]: [200] Account Communication Success (6)
-[06:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
-[06:01:29]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000331
-[06:01:29]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000331
-[06:01:30]: Serializing world: session/537C5C69FFB19629/0000000331
-[06:02:17]: [Steam] SendUserDisconnect for '76561198211986697'
-[06:02:17]: Connection lost to 118.241.205.254|1 <4396663795420260194>
-[06:02:17]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
-[06:02:17]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000332
-[06:02:52]: [Steam] SendUserDisconnect for '76561198189824466'
-[06:02:52]: Connection lost to 118.241.205.246|1 <2170874965702245951>
-[06:02:52]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
-[06:02:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000332
-[06:02:52]: Sim paused
-[06:03:20]: RemoteCommandInput: "c_save()"
-[06:03:20]: Sim unpaused
-[06:03:22]: Serializing world: session/537C5C69FFB19629/0000000332
-[06:03:22]: Truncating to snapshot #332...
-[06:03:22]:  - session/537C5C69FFB19629/0000000326
-[06:03:22]:  - session/537C5C69FFB19629/0000000312
-[06:03:22]:  - session/537C5C69FFB19629/0000000323
-[06:03:22]:  - session/537C5C69FFB19629/0000000316
-[06:03:22]:  - session/537C5C69FFB19629/0000000318
-[06:03:22]:  - session/537C5C69FFB19629/0000000320
-[06:03:22]:  - session/537C5C69FFB19629/0000000322
-[06:03:22]:  - session/537C5C69FFB19629/0000000324
-[06:03:22]:  - session/537C5C69FFB19629/0000000319
-[06:03:22]:  - session/537C5C69FFB19629/0000000315
-[06:03:22]:  - session/537C5C69FFB19629/0000000314
-[06:03:22]:  - session/537C5C69FFB19629/0000000313
-[06:03:22]:  - session/537C5C69FFB19629/0000000308
-[06:03:22]:  - session/537C5C69FFB19629/0000000317
-[06:03:22]:  - session/537C5C69FFB19629/0000000311
-[06:03:22]:  - session/537C5C69FFB19629/0000000321
-[06:03:22]:  - session/537C5C69FFB19629/0000000325
-[06:03:22]:  - session/537C5C69FFB19629/0000000310
-[06:03:22]:  - session/537C5C69FFB19629/0000000309
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000326
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000325
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000324
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000323
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000322
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000321
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000320
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000319
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000318
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000317
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000316
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000315
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000314
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000313
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000312
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000311
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000310
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000309
-[06:03:22]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000308
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000322
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000321
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000320
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000319
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000318
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000317
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000316
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000315
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000314
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000313
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000312
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000311
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000310
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000309
-[06:03:22]:  - session/537C5C69FFB19629/A7GOQFEC0S9E/0000000308
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000326
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000325
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000324
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000323
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000322
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000321
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000320
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000319
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000318
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000317
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000316
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000315
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000314
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000313
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000312
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000311
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000310
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000309
-[06:03:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000308
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000325
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000324
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000323
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000322
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000321
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000320
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000319
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000318
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000317
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000316
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000315
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000314
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000313
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000312
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000311
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000310
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000309
-[06:03:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000308
-[06:03:22]:    90 file(s) removed
-[06:03:22]: Sim paused
-[06:03:33]: World 2560562348 is now disconnected	
-[06:03:33]: Validating portal[4] <-> 2560562348[4] (inactive)	
-[06:03:33]: Validating portal[8] <-> 2560562348[8] (inactive)	
-[06:03:33]: Validating portal[9] <-> 2560562348[9] (inactive)	
-[06:03:33]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[06:03:33]: Validating portal[2] <-> 2560562348[2] (inactive)	
-[06:03:33]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[06:03:33]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[06:03:33]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[06:03:33]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[06:03:33]: Validating portal[6] <-> 2560562348[6] (inactive)	
-[06:03:33]: [Shard] A slave has disconnected: 'Caves(2560562348)'
-[06:04:36]: RemoteCommandInput: "c_shutdown()"
-[06:04:36]: c_shutdown	nil	
-[06:04:37]: Serializing world: session/537C5C69FFB19629/0000000333
-[06:04:37]: Truncating to snapshot #333...
-[06:04:37]:  - session/537C5C69FFB19629/0000000327
-[06:04:37]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000327
-[06:04:37]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000327
-[06:04:37]:    3 file(s) removed
-[06:04:37]: unloading prefabs for mod MOD_workshop-362175979	
-[06:04:37]: unloading prefabs for mod MOD_workshop-1111711682	
-[06:04:37]: unloading prefabs for mod MOD_workshop-378160973	
-[06:04:37]: unloading prefabs for mod MOD_workshop-362175979	
-[06:04:37]: unloading prefabs for mod MOD_workshop-1111711682	
-[06:04:37]: unloading prefabs for mod MOD_workshop-378160973	
-[06:04:38]: Serializing world: session/537C5C69FFB19629/0000000334
-[06:04:38]: Truncating to snapshot #334...
-[06:04:38]:  - session/537C5C69FFB19629/0000000328
-[06:04:38]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000328
-[06:04:38]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000328
-[06:04:38]:    3 file(s) removed
-[06:04:38]: unloading prefabs for mod MOD_workshop-362175979	
-[06:04:38]: unloading prefabs for mod MOD_workshop-1111711682	
-[06:04:38]: unloading prefabs for mod MOD_workshop-378160973	
-[06:04:39]: [Shard] Stopping shard mode
-[06:04:40]: Collecting garbage...
-[06:04:41]: lua_gc took 0.80 seconds
-[06:04:41]: ~ShardLuaProxy()
-[06:04:41]: ~ItemServerLuaProxy()
-[06:04:41]: ~InventoryLuaProxy()
-[06:04:41]: ~NetworkLuaProxy()
-[06:04:41]: ~SimLuaProxy()
-[06:04:42]: lua_close took 1.39 seconds
-[06:04:42]:  Manager - ORPHANED UNKNOWN RESOURCES:
-[06:04:42]: shaders/ui_yuv.ksh - 1
-[06:04:43]: CurlRequestManager::ClientThread::Main() complete
-[06:04:43]: HttpClient2 discarded 0 callbacks.
-[06:04:43]: Shutting down
+[00:00:05]: modoverrides.lua enabling workshop-1111711682	
+[00:00:05]: modoverrides.lua enabling workshop-378160973	
+[00:00:05]: modoverrides.lua enabling workshop-362175979	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:05]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:05]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:05]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:05]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:05]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:05]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:05]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:05]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:05]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:05]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:05]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:05]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:05]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:05]: [adai] 中文化修復完成。	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering mod namespace "workshop-378160973"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Loading world: session/537C5C69FFB19629/0000000334	
+[00:00:06]: Save file is at version 4.77	
+[00:00:06]: 	Unload FE	
+[00:00:06]: 	Unload FE done	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:06]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:06]: 	LOAD BE	
+[00:00:10]: 	LOAD BE: done	
+[00:00:10]: Begin Session: 537C5C69FFB19629
+[00:00:10]: saving to server_temp/server_save	
+[00:00:10]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:10]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:11]: Loading Nav Grid	
+[00:00:11]: setting 	summerlength	15	
+[00:00:11]: setting 	isnightmaredawn	false	
+[00:00:11]: setting 	elapseddaysinseason	14	
+[00:00:11]: setting 	isfullmoon	false	
+[00:00:11]: setting 	moisture	2872.8430175781	
+[00:00:11]: setting 	springlength	20	
+[00:00:11]: setting 	isnightmarewild	false	
+[00:00:11]: setting 	moonphase	quarter	
+[00:00:11]: setting 	precipitationrate	0	
+[00:00:11]: setting 	iswet	false	
+[00:00:11]: setting 	isnewmoon	false	
+[00:00:11]: setting 	iswinter	false	
+[00:00:11]: setting 	israining	false	
+[00:00:11]: setting 	isnightmarewarn	false	
+[00:00:11]: setting 	precipitation	none	
+[00:00:11]: setting 	cavephase	day	
+[00:00:11]: setting 	moistureceil	7566.2709960938	
+[00:00:11]: setting 	isday	true	
+[00:00:11]: setting 	iscaveday	true	
+[00:00:11]: setting 	season	summer	
+[00:00:11]: setting 	timeinphase	0.28138819376628	
+[00:00:11]: setting 	temperature	69.305495598588	
+[00:00:11]: setting 	isnightmarecalm	false	
+[00:00:11]: setting 	isnight	false	
+[00:00:11]: setting 	isdusk	false	
+[00:00:11]: setting 	iscavedusk	false	
+[00:00:11]: setting 	isautumn	false	
+[00:00:11]: setting 	issnowing	false	
+[00:00:11]: setting 	iswaxingmoon	false	
+[00:00:11]: setting 	pop	0.16236097204706	
+[00:00:11]: setting 	snowlevel	0	
+[00:00:11]: setting 	issnowcovered	false	
+[00:00:11]: setting 	autumnlength	20	
+[00:00:11]: setting 	phase	day	
+[00:00:11]: setting 	nightmaretime	0	
+[00:00:11]: setting 	winterlength	15	
+[00:00:11]: setting 	isspring	false	
+[00:00:11]: setting 	nightmarephase	none	
+[00:00:11]: setting 	remainingdaysinseason	1	
+[00:00:11]: setting 	cycles	279	
+[00:00:11]: setting 	iscavenight	false	
+[00:00:11]: setting 	nightmaretimeinphase	0	
+[00:00:11]: setting 	wetness	0	
+[00:00:11]: setting 	time	0.17586762110392	
+[00:00:11]: setting 	issummer	true	
+[00:00:20]: Reconstructing topology	
+[00:00:20]: 	...Sorting points	
+[00:00:20]: 	...Sorting edges	
+[00:00:20]: 	...Connecting nodes	
+[00:00:20]: 	...Validating connections	
+[00:00:20]: 	...Housekeeping	
+[00:00:20]: 	...Done!	
+[00:00:20]: 1 uploads added to server. From server_temp
+[00:00:20]: About to start a shard with these settings:
+[00:00:20]:   ShardName: [SHDMASTER]
+[00:00:20]:   ShardID: 1
+[00:00:20]:   ShardRole: MASTER
+[00:00:20]:   MasterHost: (null)
+[00:00:20]:   MasterBind: 127.0.0.1
+[00:00:20]:   MasterPort: 10889
+[00:00:20]: [Shard] Starting master server
+[00:00:20]: [Shard] Shard server started on port: 10889
+[00:00:20]: Telling Client our new session identifier: 537C5C69FFB19629
+[00:00:20]: ModIndex: Load sequence finished successfully.	
+[00:00:21]: Reset() returning
+[00:00:21]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
+[00:00:21]: [Steam] SteamGameServer_Init success
+[00:00:21]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[00:00:21]: Validating portal[1] <-> 2560562348[1] (inactive)	
+[00:00:21]: Validating portal[5] <-> 2560562348[5] (inactive)	
+[00:00:21]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[00:00:21]: Validating portal[10] <-> 2560562348[10] (inactive)	
+[00:00:21]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[00:00:21]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[00:00:21]: Validating portal[4] <-> 2560562348[4] (inactive)	
+[00:00:21]: Validating portal[2] <-> 2560562348[2] (inactive)	
+[00:00:22]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[00:00:22]: Sim paused
+[00:00:23]: [Shard] Slave Caves(2560562348) connected: [LAN] 127.0.0.1
+[00:00:24]: [Shard] Slave Caves(2560562348) ready!
+[00:00:24]: World 2560562348 is now connected	
+[00:00:24]: Validating portal[8] <-> 2560562348[8] (active)	
+[00:00:24]: Validating portal[1] <-> 2560562348[1] (active)	
+[00:00:24]: Validating portal[5] <-> 2560562348[5] (active)	
+[00:00:24]: Validating portal[6] <-> 2560562348[6] (disabled)	
+[00:00:24]: Validating portal[10] <-> 2560562348[10] (disabled)	
+[00:00:24]: Validating portal[7] <-> 2560562348[7] (active)	
+[00:00:24]: Validating portal[9] <-> 2560562348[9] (active)	
+[00:00:24]: Validating portal[4] <-> 2560562348[4] (active)	
+[00:00:24]: Validating portal[2] <-> 2560562348[2] (active)	
+[00:00:24]: Validating portal[3] <-> 2560562348[3] (active)	
+[00:03:39]: [P2P] Session request for '76561198354843262'
+[00:03:43]: [P2P] Create session: 22.161.85.152|1 '76561198354843262'
+[00:03:43]: [P2P] Received from 22.161.85.152|1 '76561198354843262'
+[00:03:43]: [P2P] Sent to 22.161.85.152|1 '76561198354843262'
+[00:03:43]: New incoming connection 22.161.85.152|1 <1599064637251353865>
+[00:03:43]: Client connected from 22.161.85.152|1 <1599064637251353865>
+[00:03:43]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^yZCurWkclZJTUZE6d8rZv6N6T9CbRw2o2rrpN0Fk3Xc= for <1599064637251353865>
+[00:03:44]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[00:03:44]: [Steam] Authenticated host '76561198354843262'
+[00:03:46]: [Shard] Read save location file for (KU_uGVY9zVB)
+[00:04:15]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000326
+[00:04:16]: Spawning player at: [Load] (-126.36, -0.00, 535.14)	
+[00:04:16]: Sim unpaused
+[00:10:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000335
+[00:10:54]: Serializing world: session/537C5C69FFB19629/0000000335
+[00:18:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000336
+[00:18:55]: Serializing world: session/537C5C69FFB19629/0000000336
