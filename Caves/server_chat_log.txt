@@ -27,3 +27,59 @@
 [00:20:54]: [Say] (KU_TtsjKcrU) AierLuosen: 克勞斯QQ
 [00:22:37]: [Say] (KU_TtsjKcrU) AierLuosen: 我到5點半就不能玩了/
 [00:22:51]: [Say] (KU_TtsjKcrU) AierLuosen: 要打蟾蜍了嗎
+[00:23:16]: [Say] (KU_TtsjKcrU) AierLuosen: 雷克下方聊天室/
+[00:23:26]: [Join Announcement] 小坤
+[00:23:31]: [Say] (KU_UEtQ29K_) 雷克: OK
+[00:23:59]: [Say] (KU_aIEojigU) 小坤: 我記得我上次被青蛙咬
+[00:25:30]: [Say] (KU_aIEojigU) 小坤: 有飾品阿
+[00:25:50]: [Say] (KU_UEtQ29K_) 雷克: ...
+[00:25:54]: [Say] (KU_UEtQ29K_) 雷克: ...................
+[00:26:00]: [Say] (KU_UEtQ29K_) 雷克: 它好可憐額QAQ
+[00:26:14]: [Say] (KU_UEtQ29K_) 雷克: 好壞QAQ
+[00:26:28]: [Say] (KU_TtsjKcrU) AierLuosen: 壞~
+[00:26:31]: [Say] (KU_UEtQ29K_) 雷克: XD
+[00:26:47]: [Say] (KU_aIEojigU) 小坤: 混吃等死中 (?
+[00:26:47]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我要帶啥武器
+[00:27:18]: [Say] (KU_UEtQ29K_) 雷克: 好多人
+[00:27:18]: [Say] (KU_UEtQ29K_) 雷克: .
+[00:27:29]: [Say] (KU_UEtQ29K_) 雷克: 怕
+[00:28:22]: [Say] (KU_aIEojigU) 小坤: 我開始想裝原地放東西的模組了ww
+[00:28:32]: [Say] (KU_UEtQ29K_) 雷克: 原來那是模組!
+[00:28:54]: [Say] (KU_UEtQ29K_) 雷克:  (脑残值: 15/100) 我们上一次有午睡吗？！
+[00:28:58]: [Say] (KU_UEtQ29K_) 雷克:  (饥饿值: 7/175) 我们的胃是空的！
+[00:29:01]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 21/120) I long for a feast!
+[00:29:09]: [Say] (KU_TtsjKcrU) AierLuosen:  (Hunger: 33/150) I'm running low on fuel, boss.
+[00:29:14]: [Say] (KU_TtsjKcrU) AierLuosen:  (Health: 109/150) I can't give up yet.
+[00:29:30]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: $刀在哪裡
+[00:29:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 影刀
+[00:30:15]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 需要我做木假嗎
+[00:30:39]: [Say] (KU_TtsjKcrU) AierLuosen: 打蟾蜍/
+[00:30:54]: [Say] (KU_UEtQ29K_) 雷克:  (生命值: 81/175) 我们的身体剧痛...
+[00:31:28]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 需要我做護甲嗎?
+[00:31:39]: [Say] (KU_aIEojigU) 小坤: 我在這裡找什麼都找不到，剛剛差點黑死XD
+[00:33:33]: [Say] (KU_aIEojigU) 小坤: 555 是火龍果派Q
+[00:33:52]: [Say] (KU_aIEojigU) 小坤: 對阿，我看冰箱沒啥東西可以吃
+[00:34:17]: [Say] (KU_aIEojigU) 小坤: 等我飢餓度真的零就會吃烤怪物肉了
+[00:36:32]: [Say] (KU_TtsjKcrU) AierLuosen: 耶 對到XD
+[00:36:38]: [Say] (KU_UEtQ29K_) 雷克: yyXD
+[00:36:42]: [Say] (KU_UEtQ29K_) 雷克: XD
+[00:39:57]: [Say] (KU_UEtQ29K_) 雷克: 蛤 你們都下去了?!
+[00:40:02]: [Say] (KU_UEtQ29K_) 雷克: 乾
+[00:40:05]: [Say] (KU_UEtQ29K_) 雷克: 我還在地面
+[00:40:12]: [Say] (KU_UEtQ29K_) 雷克: (呆)
+[00:40:29]: [Say] (KU_UEtQ29K_) 雷克: 入口是在家下面?
+[00:40:34]: [Say] (KU_TtsjKcrU) AierLuosen: 對喔
+[00:40:43]: [Say] (KU_TtsjKcrU) AierLuosen: 有海像的地方
+[00:40:45]: [Say] (KU_UEtQ29K_) 雷克: 好
+[00:42:25]: [Say] (KU_aIEojigU) 小坤: 我需要，我連繩子都做不出來www
+[00:43:20]: [Say] (KU_UEtQ29K_) 雷克:  (饥饿值: 21/175) 我们的胃是空的！
+[00:43:33]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你就安心的去吧
+[00:43:37]: [Say] (KU_UEtQ29K_) 雷克: ...
+[00:44:09]: [Say] (KU_aIEojigU) 小坤: 我只是來確認我會不會打到一半餓死
+[00:44:11]: [Say] (KU_UEtQ29K_) 雷克:  我需要 1 燧石 来制造 長矛。
+[00:44:33]: [Say] (KU_UEtQ29K_) 雷克: 兩根矛夠嗎?
+[00:44:50]: [Say] (KU_UEtQ29K_) 雷克: 喔 對 還有斧頭
+[00:44:57]: [Say] (KU_aIEojigU) 小坤: 用影刀打?
+[00:45:10]: [Say] (KU_UEtQ29K_) 雷克:  我需要 1 燧石 来制造 斧頭。
+[00:45:47]: [Say] (KU_aIEojigU) 小坤: 我沒斧頭，就抽機會攻擊ww
+[00:45:56]: [Say] (KU_UEtQ29K_) 雷克: 好了 做出來了
