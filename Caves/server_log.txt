@@ -1326,3 +1326,57 @@
 [05:46:57]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000396
 [05:46:57]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000396
 [05:46:57]: Serializing world: session/5C44BECFFFC07A2A/0000000396
+[05:49:20]: [P2P] Session timed out for '76561198165400477'
+[05:49:20]: [P2P] Remove session: 18.69.188.147|1 '76561198165400477'
+[05:49:23]: [Shard] #32 -> session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000397
+[05:49:23]: [Shard] Received migration #32 data for (KU_M673WWQo)
+[05:49:39]: [P2P] Create session: 18.69.188.150|1 '76561198211986697'
+[05:49:39]: [P2P] Received from 18.69.188.150|1 '76561198211986697'
+[05:49:39]: [P2P] Sent to 18.69.188.150|1 '76561198211986697'
+[05:49:40]: New incoming connection 18.69.188.150|1 <8644985765298591941>
+[05:49:40]: Client connected from 18.69.188.150|1 <8644985765298591941>
+[05:49:40]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^hsbDHU1t5cRxbwof5QuAJudI4pRsqrQLu9vN1Tdemd4= for <8644985765298591941>
+[05:49:40]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[05:49:40]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[05:49:40]: [Steam] Authenticated client '76561198211986697'
+[05:49:40]: [Shard] Completed incoming migration #32 for (KU_M673WWQo)
+[05:50:01]: Resuming user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000397
+[05:50:01]: Player will spawn close to portal #1	
+[05:50:01]: Spawning player at: [Load] (362.86, 0.00, -262.46)	
+[05:54:58]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000397
+[05:54:58]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000397
+[05:54:58]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000397
+[05:54:58]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000397
+[05:54:58]: Serializing world: session/5C44BECFFFC07A2A/0000000397
+[06:00:07]: [200] Account Communication Success (6)
+[06:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:02:59]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000398
+[06:02:59]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000398
+[06:02:59]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000398
+[06:02:59]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000398
+[06:02:59]: Serializing world: session/5C44BECFFFC07A2A/0000000398
+[06:06:58]: [Steam] SendUserDisconnect for '76561198211986697'
+[06:06:58]: Connection lost to 18.69.188.150|1 <8644985765298591941>
+[06:06:59]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000399
+[06:09:12]: Could not find anim [death] in bank [ghost]
+[06:09:12]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000399
+[06:09:17]: Could not find anim [idle_loop] in bank [ghost]
+[06:09:20]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000399
+[06:09:41]: [Shard] Received forward request #33 for (KU_M673WWQo)
+[06:09:50]: [P2P] Received from 18.69.188.150|1 '76561198211986697'
+[06:09:50]: [P2P] Sent to 18.69.188.150|1 '76561198211986697'
+[06:09:51]: New incoming connection 18.69.188.150|1 <1292844434520377027>
+[06:09:51]: Client connected from 18.69.188.150|1 <1292844434520377027>
+[06:09:51]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^Vv6nMIVXuD1q7P31DtCKvAMwGdMLeQuLRDAWB+F7nrk= for <1292844434520377027>
+[06:09:51]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[06:09:52]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[06:09:52]: [Steam] Authenticated client '76561198211986697'
+[06:09:55]: [Shard] Completed incoming migration #33 for (KU_M673WWQo)
+[06:10:04]: Resuming user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000399
+[06:10:04]: Spawning player at: [Load] (-196.40, -0.00, -312.08)	
+[06:10:52]: [Kick] (KU_uGVY9zVB) balalaboom kicked (KU_UEtQ29K_) 雷克
+[06:10:59]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000399
+[06:10:59]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000399
+[06:10:59]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000399
+[06:10:59]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000399
+[06:11:00]: Serializing world: session/5C44BECFFFC07A2A/0000000399

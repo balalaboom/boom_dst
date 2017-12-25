@@ -250,3 +250,35 @@
 [05:45:20]: [Leave Announcement] 雷克
 [05:45:24]: [Say] (KU_uGVY9zVB) balalaboom: 這跳過QQ
 [05:46:05]: [Say] (KU_6DFSm74k) Nalant: 可以在深淵上行走 直接走到中庭XD
+[05:48:48]: [Say] (KU_vIIO9TCg) adai1198: 雪球機都開ㄌㄇ
+[05:52:24]: [Say] (KU_vIIO9TCg) adai1198:  I need 1 more 南瓜 to make a 友善的稻草人.
+[05:52:40]: [Say] (KU_vIIO9TCg) adai1198: 鹿比我需要南瓜
+[05:53:11]: [Death Announcement] Nalant 死亡，死因： 黑暗。他變成了一個令人毛骨悚然的鬼！
+[05:53:16]: [Say] (KU_vIIO9TCg) adai1198: !新手
+[05:53:24]: [Say] (KU_6DFSm74k) Nalant: 忘記開燈XD
+[05:53:27]: [Say] (KU_6DFSm74k) Nalant: 剛剛去裝水
+[05:53:37]: [Join Announcement] 雷克
+[05:53:55]: [Say] (KU_UEtQ29K_) 雷克: 來輸贏ㄚ
+[05:54:17]: [Resurrect Announcement] Nalant 復活自 雷克.
+[05:54:31]: [Say] (KU_UEtQ29K_) 雷克: 會LAG正常ㄇ
+[05:54:37]: [Say] (KU_UEtQ29K_) 雷克: 好吧 稍微一點點而已
+[05:59:09]: [Say] (KU_UEtQ29K_) 雷克: 是窩還放不下
+[05:59:14]: [Say] (KU_UEtQ29K_) 雷克: 你許給窩ㄉ天堂~
+[06:01:45]: [Say] (KU_UEtQ29K_) 雷克: 看來是該點ㄎㄧㄤ割了
+[06:04:01]: [Say] (KU_UEtQ29K_) 雷克: 各種寶藏庫
+[06:04:11]: [Say] (KU_6DFSm74k) Nalant: 那是因為下地底採就一堆了
+[06:04:24]: [Say] (KU_6DFSm74k) Nalant: 有時間準備就不會吃藍蘑菇
+[06:05:12]: [Say] (KU_UEtQ29K_) 雷克: 圈圈好像太小了
+[06:05:12]: [Say] (KU_vIIO9TCg) adai1198: 歪了
+[06:05:14]: [Say] (KU_vIIO9TCg) adai1198: 慘
+[06:06:51]: [Say] (KU_UEtQ29K_) 雷克: 感覺沒人點歌
+[06:06:54]: [Say] (KU_UEtQ29K_) 雷克: 那我點好點滿
+[06:06:58]: [Leave Announcement] 夜月夏目
+[06:08:43]: [Skin Announcement] 阿薩謝爾 mysterybox_classic_4
+[06:09:12]: [Death Announcement] balalaboom 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
+[06:09:17]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[06:09:36]: [Say] (KU_vIIO9TCg) adai1198: 鹿比~種南瓜~
+[06:09:44]: [Say] (KU_3aPAZWmD) ルビー: 好喔
+[06:10:03]: [Join Announcement] 夜月夏目
+[06:10:32]: [Say] (KU_VOig0Obi) 阿薩謝爾:  (Health: 163/175) We're going to need a band-aid.
+[06:10:52]: [Kick Announcement] 雷克
