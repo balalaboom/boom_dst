@@ -457,3 +457,32 @@
 [08:43:14]: [Say] (KU_6DFSm74k) Nalant: 我也先離開囉 掰掰
 [08:43:27]: [Leave Announcement] Nalant
 [08:46:53]: [Leave Announcement] 提爾詩
+[08:48:02]: [Join Announcement] 提爾詩
+[08:50:09]: [Say] (KU_g0ecL7wy) 崎三: 我的宵夜
+[08:50:12]: [Say] (KU_g0ecL7wy) 崎三: 謝謝
+[08:50:42]: [Say] (KU_g0ecL7wy) 崎三: A_A
+[08:51:13]: [Say] (KU_g0ecL7wy) 崎三: ok
+[08:53:46]: [Say] (KU_g0ecL7wy) 崎三: 課長
+[08:53:56]: [Say] (KU_g0ecL7wy) 崎三: 的職責
+[08:56:53]: [Say] (KU_g0ecL7wy) 崎三: 88
+[08:56:57]: [Say] (KU_g0ecL7wy) 崎三: 88
+[08:57:07]: [Leave Announcement] 讓子彈飛一會兒
+[08:57:36]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 0/120) I'll starve without some meat!
+[08:57:38]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Health: 69/200) Without aid, I will be in Valhalla soon...
+[08:59:44]: [Say] (KU_g0ecL7wy) 崎三: 打密風女王?
+[09:00:04]: [Say] (KU_g0ecL7wy) 崎三: 我想學包裝紙 :S
+[09:01:34]: [Say] (KU_g0ecL7wy) 崎三: 有風帽?
+[09:01:54]: [Say] (KU_g0ecL7wy) 崎三: ok
+[09:02:37]: [Say] (KU_g0ecL7wy) 崎三: 我要
+[09:02:52]: [Say] (KU_g0ecL7wy) 崎三: 缺紅寶石
+[09:03:08]: [Say] (KU_g0ecL7wy) 崎三: 用光了
+[09:03:52]: [Say] (KU_g0ecL7wy) 崎三: 打龍嬴?
+[09:04:27]: [Say] (KU_g0ecL7wy) 崎三: aeeeeeeee
+[09:05:20]: [Say] (KU_g0ecL7wy) 崎三: 好
+[09:05:43]: [Say] (KU_g0ecL7wy) 崎三: i'm ready
+[09:07:39]: [Say] (KU_g0ecL7wy) 崎三: 是厚
+[09:08:42]: [Say] (KU_g0ecL7wy) 崎三: not my 年代
+[09:10:08]: [Death Announcement] 提爾詩 死亡，死因： 龍蠅。她變成了一個令人毛骨悚然的鬼！
+[09:10:09]: [Death Announcement] ルビー 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[09:10:11]: [Death Announcement] balalaboom 死亡，死因： 龍蠅。她變成了一個令人毛骨悚然的鬼！
+[09:10:11]: [Say] (KU_g0ecL7wy) 崎三: 回
