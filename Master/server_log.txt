@@ -1407,3 +1407,24 @@
 [02:42:39]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000373
 [02:42:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000373
 [02:42:39]: Serializing world: session/537C5C69FFB19629/0000000373
+[02:48:42]: KU_vIIO9TCg	running text command:	carol	true	
+[02:48:54]: KU_vIIO9TCg	running text command:	carol	true	
+[02:50:40]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000374
+[02:50:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000374
+[02:50:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000374
+[02:50:40]: Serializing world: session/537C5C69FFB19629/0000000374
+[02:58:40]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000375
+[02:58:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000375
+[02:58:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000375
+[02:58:41]: Serializing world: session/537C5C69FFB19629/0000000375
+[03:00:06]: [200] Account Communication Success (6)
+[03:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:04:47]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(ConsoleWorldEntityUnderMouse().Transform:SetPosition(ThePlayer.Transform:GetWorldPosition())) @(-101.61, 561.25)
+[03:04:47]: [string "ConsoleWorldEntityUnderMouse().Transform:Se..."]:1: attempt to index a nil value
+[03:05:07]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(ConsoleWorldEntityUnderMouse().Transform:SetPosition(ThePlayer.Transform:GetWorldPosition())) @(-101.39, 560.54)
+[03:05:07]: [string "ConsoleWorldEntityUnderMouse().Transform:Se..."]:1: attempt to index a nil value
+[03:05:25]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(ConsoleWorldEntityUnderMouse().Transform:SetPosition(ThePlayer.Transform:GetWorldPosition())) @(-99.69, 563.73)
+[03:06:41]: Serializing user: session/537C5C69FFB19629/A7N54IC2BKPA/0000000376
+[03:06:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000376
+[03:06:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000376
+[03:06:41]: Serializing world: session/537C5C69FFB19629/0000000376

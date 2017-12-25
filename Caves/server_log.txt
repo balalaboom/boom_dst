@@ -1045,3 +1045,18 @@
 [02:42:39]:  - session/5C44BECFFFC07A2A/0000000367
 [02:42:39]:  - session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000367
 [02:42:39]:    2 file(s) removed
+[02:50:40]: Serializing world: session/5C44BECFFFC07A2A/0000000374
+[02:50:40]: Truncating to snapshot #374...
+[02:50:40]:  - session/5C44BECFFFC07A2A/0000000368
+[02:50:40]:  - session/5C44BECFFFC07A2A/A7N54IC2BKPA/0000000368
+[02:50:40]:    2 file(s) removed
+[02:58:40]: Serializing world: session/5C44BECFFFC07A2A/0000000375
+[02:58:40]: Truncating to snapshot #375...
+[02:58:40]:  - session/5C44BECFFFC07A2A/0000000369
+[02:58:40]:    1 file(s) removed
+[03:00:06]: [200] Account Communication Success (6)
+[03:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:06:41]: Serializing world: session/5C44BECFFFC07A2A/0000000376
+[03:06:41]: Truncating to snapshot #376...
+[03:06:41]:  - session/5C44BECFFFC07A2A/0000000370
+[03:06:41]:    1 file(s) removed
