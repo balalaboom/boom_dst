@@ -407,3 +407,11 @@
 [08:10:45]: [Say] (KU_3aPAZWmD) ルビー: 隕石區入口
 [08:10:52]: [Say] (KU_6DFSm74k) Nalant: ruby我護符丟入口
 [08:10:52]: [Say] (KU_TtsjKcrU) AierLuosen: 好
+[08:11:11]: [Say] (KU_3aPAZWmD) ルビー: 我在降理智 030
+[08:11:14]: [Say] (KU_6DFSm74k) Nalant: 這邊還要護符XD
+[08:14:39]: [Say] (KU_TtsjKcrU) AierLuosen: 那邊熊有撞壞
+[08:14:50]: [Say] (KU_TtsjKcrU) AierLuosen: 我不了一下
+[08:15:00]: [Say] (KU_TtsjKcrU) AierLuosen: 它出現在農田
+[08:18:03]: [Say] (KU_6DFSm74k) Nalant: 我的
+[08:19:44]: [Death Announcement] ルビー 死亡，死因： 穴居懸掛蜘蛛。他變成了一個令人毛骨悚然的鬼！
+[08:20:58]: [Resurrect Announcement] ルビー 復活自 重生護符.
