@@ -290,3 +290,19 @@
 [06:21:21]: [Say] (KU_6DFSm74k) Nalant: 災情兩朵花
 [06:21:52]: [Leave Announcement] adai1198
 [06:22:58]: [Say] (KU_uGVY9zVB) balalaboom: 我換耳機
+[06:23:03]: [Say] (KU_uGVY9zVB) balalaboom: 雜音是我的嗎?
+[06:23:05]: [Say] (KU_6DFSm74k) Nalant: 靜音了
+[06:23:22]: [Join Announcement] adai1198
+[06:25:02]: [Say] (KU_6DFSm74k) Nalant: 正常
+[06:26:43]: [Say] (KU_6DFSm74k) Nalant: !AZ喝水
+[06:27:42]: [Say] (KU_6DFSm74k) Nalant: 阿呆快餓死惹(X
+[06:33:42]: [Leave Announcement] 阿薩謝爾
+[06:36:34]: [Join Announcement] 阿薩謝爾
+[06:38:11]: [Say] (KU_6DFSm74k) Nalant: 愛慕者
+[06:39:08]: [Say] (KU_VOig0Obi) 阿薩謝爾: Why me?
+[06:39:13]: [Say] (KU_6DFSm74k) Nalant: 樹人來襲
+[06:40:07]: [Say] (KU_6DFSm74k) Nalant: 第一次看到地裂耶
+[06:40:10]: [Say] (KU_6DFSm74k) Nalant: 原來是這樣
+[06:40:14]: [Say] (KU_6DFSm74k) Nalant: 對啊
+[06:40:28]: [Say] (KU_6DFSm74k) Nalant: 被震到會受傷嗎
+[06:46:28]: [Say] (KU_VOig0Obi) 阿薩謝爾: 修啦幹!
