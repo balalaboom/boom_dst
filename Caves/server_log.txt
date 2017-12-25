@@ -2839,3 +2839,12 @@
 [09:10:43]: Validating portal[9] <-> 1[9] (active)	
 [09:10:43]: Validating portal[7] <-> 1[7] (active)	
 [09:10:43]: Validating portal[10] <-> 1[10] (active)	
+[09:18:42]: Serializing world: session/5C44BECFFFC07A2A/0000000420
+[09:18:42]: Truncating to snapshot #420...
+[09:18:42]:  - session/5C44BECFFFC07A2A/0000000414
+[09:18:42]:  - session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000414
+[09:18:42]:  - session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000414
+[09:18:42]:  - session/5C44BECFFFC07A2A/A7GOQFEC0S9E/0000000414
+[09:18:42]:  - session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000414
+[09:18:42]:  - session/5C44BECFFFC07A2A/A7L818J58VLS/0000000414
+[09:18:42]:    6 file(s) removed

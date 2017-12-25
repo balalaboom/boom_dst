@@ -4184,3 +4184,9 @@
 [09:10:44]: [Shard] Read save location file for (KU_g0ecL7wy)
 [09:10:44]: Resuming user: session/537C5C69FFB19629/A7L818J58VLS/0000000420
 [09:10:44]: Spawning player at: [Load] (-135.54, 0.00, 539.65)	
+[09:16:47]: KU_g0ecL7wy	running text command:	dance	true	
+[09:18:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000420
+[09:18:42]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000420
+[09:18:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000420
+[09:18:42]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000420
+[09:18:43]: Serializing world: session/537C5C69FFB19629/0000000420
