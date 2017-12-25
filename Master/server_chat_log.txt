@@ -209,3 +209,44 @@
 [05:20:49]: [Say] (KU_6DFSm74k) Nalant: 禁錮有傷害嗎
 [05:21:19]: [Say] (KU_vIIO9TCg) adai1198:  We have 2 圓石s in this 箱子.
 [05:22:21]: [Leave Announcement] ルビー
+[05:26:00]: [Join Announcement] ルビー
+[05:28:51]: [Join Announcement] 雷克
+[05:29:12]: [Say] (KU_UEtQ29K_) 雷克: 來ㄚ 輸贏
+[05:30:02]: [Say] (KU_UEtQ29K_) 雷克: az出乃面對owo
+[05:30:07]: [Say] (KU_VOig0Obi) 阿薩謝爾: 乃阿
+[05:30:13]: [Say] (KU_UEtQ29K_) 雷克: 乃!
+[05:31:49]: [Say] (KU_UEtQ29K_) 雷克: 我有沒有救到你XD
+[05:32:48]: [Say] (KU_UEtQ29K_) 雷克: 我上去瞜
+[05:34:31]: [Say] (KU_UEtQ29K_) 雷克: 輸贏!!!
+[05:35:05]: [Say] (KU_6DFSm74k) Nalant: 誰的屍體
+[05:35:25]: [Say] (KU_uGVY9zVB) balalaboom: 最慢XD
+[05:35:27]: [Say] (KU_UEtQ29K_) 雷克: 輸贏
+[05:36:14]: [Say] (KU_UEtQ29K_) 雷克: 你看我會超能力
+[05:36:27]: [Say] (KU_UEtQ29K_) 雷克: 你不會 因為你是黑蜘蛛
+[05:37:32]: [Say] (KU_UEtQ29K_) 雷克: 我很厲害ㄅ 鹿比(X
+[05:37:33]: [Say] (KU_3aPAZWmD) ルビー: 3Q
+[05:37:36]: [Say] (KU_3aPAZWmD) ルビー: XD
+[05:37:40]: [Say] (KU_UEtQ29K_) 雷克: 白蜘蛛的超能力
+[05:37:51]: [Say] (KU_3aPAZWmD) ルビー: 明明是吃光果 XD
+[05:37:53]: [Say] (KU_UEtQ29K_) 雷克: XD
+[05:38:01]: [Say] (KU_uGVY9zVB) balalaboom: 有
+[05:38:14]: [Say] (KU_6DFSm74k) Nalant: 地底地圖都嘆玩了嗎
+[05:38:22]: [Say] (KU_6DFSm74k) Nalant: 探完
+[05:38:24]: [Say] (KU_uGVY9zVB) balalaboom: 幾乎
+[05:38:31]: [Say] (KU_UEtQ29K_) 雷克: 沒有海象牙了嗎? :doge:
+[05:38:55]: [Say] (KU_uGVY9zVB) balalaboom: 剩這
+[05:38:59]: [Say] (KU_uGVY9zVB) balalaboom: 有
+[05:39:19]: [Say] (KU_UEtQ29K_) 雷克: 喔喔
+[05:40:03]: [Say] (KU_uGVY9zVB) balalaboom: 啥?
+[05:40:05]: [Say] (KU_UEtQ29K_) 雷克: 沒找到QQ
+[05:41:25]: [Say] (KU_UEtQ29K_) 雷克: AZ跑去地底輸贏了TAT
+[05:41:33]: [Say] (KU_uGVY9zVB) balalaboom: 有
+[05:42:01]: [Say] (KU_uGVY9zVB) balalaboom: go
+[05:42:23]: [Say] (KU_uGVY9zVB) balalaboom: 有
+[05:44:51]: [Say] (KU_UEtQ29K_) 雷克: 好 我先下陷一下
+[05:44:52]: [Say] (KU_6DFSm74k) Nalant: 衣櫃這樣看起來好詭異哦
+[05:44:54]: [Say] (KU_UEtQ29K_) 雷克: 洗個衣服
+[05:45:02]: [Say] (KU_UEtQ29K_) 雷克: 等等再上來輸贏
+[05:45:20]: [Leave Announcement] 雷克
+[05:45:24]: [Say] (KU_uGVY9zVB) balalaboom: 這跳過QQ
+[05:46:05]: [Say] (KU_6DFSm74k) Nalant: 可以在深淵上行走 直接走到中庭XD
