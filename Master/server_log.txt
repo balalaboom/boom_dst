@@ -4190,3 +4190,61 @@
 [09:18:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000420
 [09:18:42]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000420
 [09:18:43]: Serializing world: session/537C5C69FFB19629/0000000420
+[09:26:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000421
+[09:26:43]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000421
+[09:26:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000421
+[09:26:43]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000421
+[09:26:43]: Serializing world: session/537C5C69FFB19629/0000000421
+[09:29:42]: [P2P] Create session: 18.67.183.210|1 '76561198211986697'
+[09:29:42]: [P2P] Received from 18.67.183.210|1 '76561198211986697'
+[09:29:42]: [P2P] Sent to 18.67.183.210|1 '76561198211986697'
+[09:29:42]: New incoming connection 18.67.183.210|1 <7199955366551682763>
+[09:29:42]: Client connected from 18.67.183.210|1 <7199955366551682763>
+[09:29:42]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^p7HFmpIgtexsuzW1ajPSp35eF9SuSYmWPnLwIrzbQgs= for <7199955366551682763>
+[09:29:43]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[09:29:43]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[09:29:44]: [Steam] Authenticated client '76561198211986697'
+[09:29:46]: [Shard] Read save location file for (KU_M673WWQo)
+[09:29:46]: [Shard] Forwarding player to Caves(2560562348)
+[09:29:46]: [Shard] Begin migration #59 for (KU_M673WWQo)
+[09:29:46]: [Shard] #59 [SHDMASTER](1) -> Caves(2560562348)
+[09:29:46]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[09:29:46]: [Steam] SendUserDisconnect for '76561198211986697'
+[09:29:46]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[09:30:06]: [Shard] Completed migration #59 for player (KU_M673WWQo)
+[09:30:06]: [Shard] Writing save location file for (KU_M673WWQo)
+[09:30:08]: [200] Account Communication Success (6)
+[09:30:08]: Received (KU_uGVY9zVB) from TokenPurpose
+[09:31:16]: [Shard] Begin migration #60 for (KU_M673WWQo)
+[09:31:16]: [Shard] #60 Caves(2560562348) -> [SHDMASTER](1)
+[09:31:16]: [Shard] #60 -> session/537C5C69FFB19629/A7IOC71O41LI/0000000422
+[09:31:16]: [Shard] Received migration #60 data for (KU_M673WWQo)
+[09:31:16]: [Shard] (KU_M673WWQo) disconnected from Caves(2560562348)
+[09:31:28]: [P2P] Received from 18.67.183.210|1 '76561198211986697'
+[09:31:28]: [P2P] Sent to 18.67.183.210|1 '76561198211986697'
+[09:31:29]: New incoming connection 18.67.183.210|1 <5554745944968714894>
+[09:31:29]: Client connected from 18.67.183.210|1 <5554745944968714894>
+[09:31:29]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^lMbh1UmKpJkQc8x36vZ8cufDqFtvlbeJ9JWb6cEIdrI= for <5554745944968714894>
+[09:31:30]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[09:31:30]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[09:31:30]: [Steam] Authenticated client '76561198211986697'
+[09:31:30]: [Shard] Completed incoming migration #60 for (KU_M673WWQo)
+[09:31:30]: [Shard] Completed migration #60 for player (KU_M673WWQo)
+[09:31:30]: [Shard] Writing save location file for (KU_M673WWQo)
+[09:31:55]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000422
+[09:31:55]: Player will spawn close to portal #1	
+[09:31:55]: Spawning player at: [Load] (-6.19, 0.00, 467.58)	
+[09:34:34]: KU_g0ecL7wy	running text command:	dance	true	
+[09:34:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000422
+[09:34:43]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000422
+[09:34:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000422
+[09:34:43]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000422
+[09:34:44]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000422
+[09:34:44]: Serializing world: session/537C5C69FFB19629/0000000422
+[09:36:35]: KU_g0ecL7wy	running text command:	dance	true	
+[09:42:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000423
+[09:42:44]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000423
+[09:42:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000423
+[09:42:44]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000423
+[09:42:44]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000423
+[09:42:45]: Serializing world: session/537C5C69FFB19629/0000000423
