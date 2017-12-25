@@ -199,3 +199,13 @@
 [05:09:47]: [Say] (KU_6DFSm74k) Nalant: <-新手
 [05:09:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我自己打他都沒看到血量 還打了兩次www
 [05:09:53]: [Say] (KU_vIIO9TCg) adai1198: !新手
+[05:11:42]: [Join Announcement] balalaboom
+[05:16:44]: [Say] (KU_6DFSm74k) Nalant: 嗯
+[05:17:07]: [Say] (KU_6DFSm74k) Nalant: 這世界有女戰嗎
+[05:17:18]: [Say] (KU_3aPAZWmD) ルビー: 克勞斯包包
+[05:20:24]: [Say] (KU_6DFSm74k) Nalant: 紅骨應該都單體傷害吧
+[05:20:39]: [Say] (KU_6DFSm74k) Nalant: 禁錮
+[05:20:48]: [Say] (KU_vIIO9TCg) adai1198: AZ問你
+[05:20:49]: [Say] (KU_6DFSm74k) Nalant: 禁錮有傷害嗎
+[05:21:19]: [Say] (KU_vIIO9TCg) adai1198:  We have 2 圓石s in this 箱子.
+[05:22:21]: [Leave Announcement] ルビー

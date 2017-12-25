@@ -1173,3 +1173,37 @@
 [05:06:53]:  - session/5C44BECFFFC07A2A/0000000385
 [05:06:53]:  - session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000385
 [05:06:53]:    2 file(s) removed
+[05:14:54]: Serializing world: session/5C44BECFFFC07A2A/0000000392
+[05:14:54]: Truncating to snapshot #392...
+[05:14:54]:  - session/5C44BECFFFC07A2A/0000000386
+[05:14:54]:  - session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000386
+[05:14:54]:    2 file(s) removed
+[05:21:32]: [Shard] #21 -> session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000393
+[05:21:32]: [Shard] Received migration #21 data for (KU_uGVY9zVB)
+[05:21:41]: [P2P] Create session: 18.69.188.144|1 '76561198354843262'
+[05:21:41]: [P2P] Received from 18.69.188.144|1 '76561198354843262'
+[05:21:41]: [P2P] Sent to 18.69.188.144|1 '76561198354843262'
+[05:21:42]: New incoming connection 18.69.188.144|1 <5257694903561399772>
+[05:21:42]: Client connected from 18.69.188.144|1 <5257694903561399772>
+[05:21:42]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^O6NlA4N9F2SNj+Xw46TWOv6CSVkZnaadCq0jkZXKG+o= for <5257694903561399772>
+[05:21:42]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[05:21:42]: [Steam] Authenticated host '76561198354843262'
+[05:21:42]: [Shard] Completed incoming migration #21 for (KU_uGVY9zVB)
+[05:21:51]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000393
+[05:21:51]: Player will spawn close to portal #1	
+[05:21:51]: Spawning player at: [Load] (366.18, 0.00, -262.84)	
+[05:22:38]: [Shard] #22 -> session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000393
+[05:22:38]: [Shard] Received migration #22 data for (KU_M673WWQo)
+[05:22:52]: [P2P] Session request for '76561198211986697'
+[05:22:54]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000393
+[05:22:54]: Serializing world: session/5C44BECFFFC07A2A/0000000393
+[05:22:57]: [P2P] Create session: 18.69.188.145|1 '76561198211986697'
+[05:22:57]: [P2P] Received from 18.69.188.145|1 '76561198211986697'
+[05:22:57]: [P2P] Sent to 18.69.188.145|1 '76561198211986697'
+[05:22:58]: New incoming connection 18.69.188.145|1 <825119555936257393>
+[05:22:58]: Client connected from 18.69.188.145|1 <825119555936257393>
+[05:22:58]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^iGTqiYl8H8f6B6A4eG4/0bGk4ehcYjmVl7Ze/ED9r0M= for <825119555936257393>
+[05:22:58]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[05:22:59]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[05:22:59]: [Steam] Authenticated client '76561198211986697'
+[05:22:59]: [Shard] Completed incoming migration #22 for (KU_M673WWQo)
