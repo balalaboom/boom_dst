@@ -1656,3 +1656,42 @@
 [00:18:40]: Validating portal[3] <-> 1[3] (active)	
 [00:21:36]: Serializing world: session/5C44BECFFFC07A2A/0000000445
 [00:29:37]: Serializing world: session/5C44BECFFFC07A2A/0000000446
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:31:54]: Sim paused
+[00:33:46]: RemoteCommandInput: "c_shutdown()"
+[00:33:46]: c_shutdown	nil	
+[00:33:47]: Serializing world: session/5C44BECFFFC07A2A/0000000447
+[00:33:47]: Truncating to snapshot #447...
+[00:33:47]:  - session/5C44BECFFFC07A2A/0000000441
+[00:33:47]:    1 file(s) removed
+[00:33:47]: unloading prefabs for mod MOD_workshop-362175979	
+[00:33:47]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:33:47]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:33:47]: unloading prefabs for mod MOD_workshop-378160973	
+[00:33:47]: unloading prefabs for mod MOD_workshop-362175979	
+[00:33:47]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:33:47]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:33:47]: unloading prefabs for mod MOD_workshop-378160973	
+[00:33:47]: Serializing world: session/5C44BECFFFC07A2A/0000000448
+[00:33:47]: Truncating to snapshot #448...
+[00:33:47]:  - session/5C44BECFFFC07A2A/0000000442
+[00:33:47]:    1 file(s) removed
+[00:33:47]: unloading prefabs for mod MOD_workshop-362175979	
+[00:33:47]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:33:47]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:33:47]: unloading prefabs for mod MOD_workshop-378160973	
+[00:33:48]: [Shard] Stopping shard mode
+[00:33:48]: Collecting garbage...
+[00:33:49]: lua_gc took 0.23 seconds
+[00:33:49]: ~ShardLuaProxy()
+[00:33:49]: ~ItemServerLuaProxy()
+[00:33:49]: ~InventoryLuaProxy()
+[00:33:49]: ~NetworkLuaProxy()
+[00:33:49]: ~SimLuaProxy()
+[00:33:49]: lua_close took 0.34 seconds
+[00:33:49]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:33:49]: shaders/ui_yuv.ksh - 1
+[00:33:49]: CurlRequestManager::ClientThread::Main() complete
+[00:33:49]: HttpClient2 discarded 0 callbacks.
+[00:33:49]: Shutting down
