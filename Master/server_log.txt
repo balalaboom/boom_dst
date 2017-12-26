@@ -493,3 +493,312 @@
 [00:06:40]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000425
 [00:06:40]: Spawning player at: [Load] (-131.89, -0.00, 543.28)	
 [00:06:40]: Sim unpaused
+[00:08:19]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000434
+[00:08:20]: Serializing world: session/537C5C69FFB19629/0000000434
+[00:14:16]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_give("rope",80)) @(-85.78, 404.89)
+[00:14:16]: giving 	125216 - rope	
+[00:14:16]: giving 	125218 - rope	
+[00:14:16]: giving 	125220 - rope	
+[00:14:16]: giving 	125222 - rope	
+[00:14:16]: giving 	125224 - rope	
+[00:14:16]: giving 	125226 - rope	
+[00:14:16]: giving 	125228 - rope	
+[00:14:16]: giving 	125230 - rope	
+[00:14:16]: giving 	125232 - rope	
+[00:14:16]: giving 	125234 - rope	
+[00:14:16]: giving 	125236 - rope	
+[00:14:16]: giving 	125238 - rope	
+[00:14:16]: giving 	125240 - rope	
+[00:14:16]: giving 	125242 - rope	
+[00:14:16]: giving 	125244 - rope	
+[00:14:16]: giving 	125246 - rope	
+[00:14:16]: giving 	125248 - rope	
+[00:14:16]: giving 	125250 - rope	
+[00:14:16]: giving 	125252 - rope	
+[00:14:16]: giving 	125254 - rope	
+[00:14:16]: giving 	125256 - rope	
+[00:14:16]: giving 	125258 - rope	
+[00:14:16]: giving 	125260 - rope	
+[00:14:16]: giving 	125262 - rope	
+[00:14:16]: giving 	125264 - rope	
+[00:14:16]: giving 	125266 - rope	
+[00:14:16]: giving 	125268 - rope	
+[00:14:16]: giving 	125270 - rope	
+[00:14:16]: giving 	125272 - rope	
+[00:14:16]: giving 	125274 - rope	
+[00:14:16]: giving 	125276 - rope	
+[00:14:16]: giving 	125278 - rope	
+[00:14:16]: giving 	125280 - rope	
+[00:14:16]: giving 	125282 - rope	
+[00:14:16]: giving 	125284 - rope	
+[00:14:16]: giving 	125286 - rope	
+[00:14:16]: giving 	125288 - rope	
+[00:14:16]: giving 	125290 - rope	
+[00:14:16]: giving 	125292 - rope	
+[00:14:16]: giving 	125294 - rope	
+[00:14:16]: giving 	125296 - rope	
+[00:14:16]: giving 	125298 - rope	
+[00:14:16]: giving 	125300 - rope	
+[00:14:16]: giving 	125302 - rope	
+[00:14:16]: giving 	125304 - rope	
+[00:14:16]: giving 	125306 - rope	
+[00:14:16]: giving 	125308 - rope	
+[00:14:16]: giving 	125310 - rope	
+[00:14:16]: giving 	125312 - rope	
+[00:14:16]: giving 	125314 - rope	
+[00:14:16]: giving 	125316 - rope	
+[00:14:16]: giving 	125318 - rope	
+[00:14:16]: giving 	125320 - rope	
+[00:14:16]: giving 	125322 - rope	
+[00:14:16]: giving 	125324 - rope	
+[00:14:16]: giving 	125326 - rope	
+[00:14:16]: giving 	125328 - rope	
+[00:14:16]: giving 	125330 - rope	
+[00:14:16]: giving 	125332 - rope	
+[00:14:16]: giving 	125334 - rope	
+[00:14:16]: giving 	125336 - rope	
+[00:14:16]: giving 	125338 - rope	
+[00:14:16]: giving 	125340 - rope	
+[00:14:16]: giving 	125342 - rope	
+[00:14:16]: giving 	125344 - rope	
+[00:14:16]: giving 	125346 - rope	
+[00:14:16]: giving 	125348 - rope	
+[00:14:16]: giving 	125350 - rope	
+[00:14:16]: giving 	125352 - rope	
+[00:14:16]: giving 	125354 - rope	
+[00:14:16]: giving 	125356 - rope	
+[00:14:16]: giving 	125358 - rope	
+[00:14:16]: giving 	125360 - rope	
+[00:14:16]: giving 	125362 - rope	
+[00:14:16]: giving 	125364 - rope	
+[00:14:16]: giving 	125366 - rope	
+[00:14:16]: giving 	125368 - rope	
+[00:14:16]: giving 	125370 - rope	
+[00:14:16]: giving 	125372 - rope	
+[00:14:16]: giving 	125374 - rope	
+[00:14:37]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_give("logs",80)) @(-93.11, 404.07)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:37]: Could not preload undefined prefab (logs)
+[00:14:51]: [(KU_uGVY9zVB) balalaboom] ReceiveRemoteExecute(c_give("log",80)) @(-88.75, 404.88)
+[00:14:51]: giving 	125449 - log	
+[00:14:51]: giving 	125451 - log	
+[00:14:51]: giving 	125453 - log	
+[00:14:51]: giving 	125455 - log	
+[00:14:51]: giving 	125457 - log	
+[00:14:51]: giving 	125459 - log	
+[00:14:51]: giving 	125461 - log	
+[00:14:51]: giving 	125463 - log	
+[00:14:51]: giving 	125465 - log	
+[00:14:51]: giving 	125467 - log	
+[00:14:51]: giving 	125469 - log	
+[00:14:51]: giving 	125471 - log	
+[00:14:51]: giving 	125473 - log	
+[00:14:51]: giving 	125475 - log	
+[00:14:51]: giving 	125477 - log	
+[00:14:51]: giving 	125479 - log	
+[00:14:51]: giving 	125481 - log	
+[00:14:51]: giving 	125483 - log	
+[00:14:51]: giving 	125485 - log	
+[00:14:51]: giving 	125487 - log	
+[00:14:51]: giving 	125489 - log	
+[00:14:51]: giving 	125491 - log	
+[00:14:51]: giving 	125493 - log	
+[00:14:51]: giving 	125495 - log	
+[00:14:51]: giving 	125497 - log	
+[00:14:51]: giving 	125499 - log	
+[00:14:51]: giving 	125501 - log	
+[00:14:51]: giving 	125503 - log	
+[00:14:51]: giving 	125505 - log	
+[00:14:51]: giving 	125507 - log	
+[00:14:51]: giving 	125509 - log	
+[00:14:51]: giving 	125511 - log	
+[00:14:51]: giving 	125513 - log	
+[00:14:51]: giving 	125515 - log	
+[00:14:51]: giving 	125517 - log	
+[00:14:51]: giving 	125519 - log	
+[00:14:51]: giving 	125521 - log	
+[00:14:51]: giving 	125523 - log	
+[00:14:51]: giving 	125525 - log	
+[00:14:51]: giving 	125527 - log	
+[00:14:51]: giving 	125529 - log	
+[00:14:51]: giving 	125531 - log	
+[00:14:51]: giving 	125533 - log	
+[00:14:51]: giving 	125535 - log	
+[00:14:51]: giving 	125537 - log	
+[00:14:51]: giving 	125539 - log	
+[00:14:51]: giving 	125541 - log	
+[00:14:51]: giving 	125543 - log	
+[00:14:51]: giving 	125545 - log	
+[00:14:51]: giving 	125547 - log	
+[00:14:51]: giving 	125549 - log	
+[00:14:51]: giving 	125551 - log	
+[00:14:51]: giving 	125553 - log	
+[00:14:51]: giving 	125555 - log	
+[00:14:51]: giving 	125557 - log	
+[00:14:51]: giving 	125559 - log	
+[00:14:51]: giving 	125561 - log	
+[00:14:51]: giving 	125563 - log	
+[00:14:51]: giving 	125565 - log	
+[00:14:51]: giving 	125567 - log	
+[00:14:51]: giving 	125569 - log	
+[00:14:51]: giving 	125571 - log	
+[00:14:51]: giving 	125573 - log	
+[00:14:51]: giving 	125575 - log	
+[00:14:51]: giving 	125577 - log	
+[00:14:51]: giving 	125579 - log	
+[00:14:51]: giving 	125581 - log	
+[00:14:51]: giving 	125583 - log	
+[00:14:51]: giving 	125585 - log	
+[00:14:51]: giving 	125587 - log	
+[00:14:51]: giving 	125589 - log	
+[00:14:51]: giving 	125591 - log	
+[00:14:51]: giving 	125593 - log	
+[00:14:51]: giving 	125595 - log	
+[00:14:51]: giving 	125597 - log	
+[00:14:51]: giving 	125599 - log	
+[00:14:51]: giving 	125601 - log	
+[00:14:51]: giving 	125603 - log	
+[00:14:51]: giving 	125605 - log	
+[00:14:51]: giving 	125607 - log	
+[00:16:20]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000435
+[00:16:20]: Serializing world: session/537C5C69FFB19629/0000000435
+[00:22:05]: [P2P] Session request for '76561198189824466'
+[00:22:08]: [P2P] Create session: 232.132.201.157|1 '76561198189824466'
+[00:22:08]: [P2P] Received from 232.132.201.157|1 '76561198189824466'
+[00:22:08]: [P2P] Sent to 232.132.201.157|1 '76561198189824466'
+[00:22:09]: New incoming connection 232.132.201.157|1 <8364609723311334592>
+[00:22:09]: Client connected from 232.132.201.157|1 <8364609723311334592>
+[00:22:09]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^LdgZ+XsPIEMQ2kDU3532/oC4G1ncB955CRu90FVRuEQ= for <8364609723311334592>
+[00:22:09]: Client authenticated: (KU_3aPAZWmD) ルビー
+[00:22:10]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[00:22:10]: [Steam] Authenticated client '76561198189824466'
+[00:22:13]: [Shard] Read save location file for (KU_3aPAZWmD)
+[00:22:56]: [Steam] SendUserDisconnect for '76561198354843262'
+[00:22:56]: Connection lost to 232.132.201.156|1 <7561660943599452011>
+[00:22:56]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[00:22:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000436
+[00:22:56]: Sim paused
+[00:23:33]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000425
+[00:23:33]: Spawning player at: [Load] (-131.62, 0.00, 548.07)	
+[00:23:33]: Sim unpaused
+[00:24:35]: [Steam] SendUserDisconnect for '76561198189824466'
+[00:24:35]: Connection lost to 232.132.201.157|1 <8364609723311334592>
+[00:24:35]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[00:24:36]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000436
+[00:24:36]: Sim paused
+[00:28:12]: RemoteCommandInput: "c_shutdown()"
+[00:28:12]: c_shutdown	nil	
+[00:28:12]: Serializing world: session/537C5C69FFB19629/0000000436
+[00:28:12]: Truncating to snapshot #436...
+[00:28:12]:  - session/537C5C69FFB19629/0000000430
+[00:28:12]:  - session/537C5C69FFB19629/0000000429
+[00:28:12]:  - session/537C5C69FFB19629/0000000428
+[00:28:12]:    3 file(s) removed
+[00:28:12]: unloading prefabs for mod MOD_workshop-362175979	
+[00:28:12]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:28:12]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:28:12]: unloading prefabs for mod MOD_workshop-378160973	
+[00:28:12]: unloading prefabs for mod MOD_workshop-362175979	
+[00:28:12]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:28:12]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:28:12]: unloading prefabs for mod MOD_workshop-378160973	
+[00:28:13]: Serializing world: session/537C5C69FFB19629/0000000437
+[00:28:13]: Truncating to snapshot #437...
+[00:28:13]:  - session/537C5C69FFB19629/0000000431
+[00:28:13]:    1 file(s) removed
+[00:28:13]: unloading prefabs for mod MOD_workshop-362175979	
+[00:28:13]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:28:13]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:28:13]: unloading prefabs for mod MOD_workshop-378160973	
+[00:28:14]: [Shard] Stopping shard mode
+[00:28:14]: Collecting garbage...
+[00:28:15]: lua_gc took 0.37 seconds
+[00:28:15]: ~ShardLuaProxy()
+[00:28:15]: ~ItemServerLuaProxy()
+[00:28:15]: ~InventoryLuaProxy()
+[00:28:15]: ~NetworkLuaProxy()
+[00:28:15]: ~SimLuaProxy()
+[00:28:15]: lua_close took 0.66 seconds
+[00:28:16]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:28:16]: shaders/ui_yuv.ksh - 1
+[00:28:16]: CurlRequestManager::ClientThread::Main() complete
+[00:28:16]: HttpClient2 discarded 0 callbacks.
+[00:28:16]: Shutting down
