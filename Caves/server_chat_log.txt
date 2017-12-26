@@ -1,5 +1,1 @@
-[02:17:47]: [Join Announcement] balalaboom
-[02:34:04]: [Leave Announcement] balalaboom
-[02:34:38]: [Join Announcement] ルビー
-[02:35:06]: [Say] (KU_3aPAZWmD) ルビー: 安安 OWO/
-[02:35:43]: [Leave Announcement] ルビー
+[00:03:26]: [Join Announcement] balalaboom
