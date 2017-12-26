@@ -490,3 +490,9 @@
 [09:19:10]: [Say] (KU_g0ecL7wy) 崎三: 0.0
 [09:25:55]: [Say] (KU_g0ecL7wy) 崎三: p
 [09:30:49]: [Join Announcement] 夜月夏目
+[09:47:28]: [Say] (KU_g0ecL7wy) 崎三: 我OK了
+[09:48:33]: [Leave Announcement] balalaboom
+[09:48:48]: [Leave Announcement] 崎三
+[09:48:52]: [Leave Announcement] 提爾詩
+[09:49:03]: [Leave Announcement] 夜月夏目
+[09:49:04]: [Leave Announcement] ルビー

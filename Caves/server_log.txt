@@ -2890,3 +2890,86 @@
 [09:42:44]: Truncating to snapshot #423...
 [09:42:44]:  - session/5C44BECFFFC07A2A/0000000417
 [09:42:44]:    1 file(s) removed
+[09:47:40]: RemoteCommandInput: "c_save()"
+[09:47:42]: Serializing world: session/5C44BECFFFC07A2A/0000000424
+[09:47:42]: Truncating to snapshot #424...
+[09:47:42]:  - session/5C44BECFFFC07A2A/0000000418
+[09:47:42]:    1 file(s) removed
+[09:49:05]: Sim paused
+[09:51:06]: RemoteCommandInput: "c_save()"
+[09:51:06]: Sim unpaused
+[09:51:08]: Serializing world: session/5C44BECFFFC07A2A/0000000425
+[09:51:08]: Truncating to snapshot #425...
+[09:51:08]:  - session/5C44BECFFFC07A2A/0000000419
+[09:51:08]:    1 file(s) removed
+[09:51:08]: Sim paused
+[09:51:21]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[09:51:26]: About to start a shard with these settings:
+[09:51:26]:   ShardName: Caves
+[09:51:26]:   ShardID: 2560562348
+[09:51:26]:   ShardRole: SLAVE
+[09:51:26]:   MasterHost: 127.0.0.1
+[09:51:26]:   MasterBind: (null)
+[09:51:26]:   MasterPort: 10889
+[09:51:26]: [Shard] Connecting to master...
+[09:51:36]: [Shard] Connection to master failed. Waiting to reconnect...
+[09:51:41]: About to start a shard with these settings:
+[09:51:41]:   ShardName: Caves
+[09:51:41]:   ShardID: 2560562348
+[09:51:41]:   ShardRole: SLAVE
+[09:51:41]:   MasterHost: 127.0.0.1
+[09:51:41]:   MasterBind: (null)
+[09:51:41]:   MasterPort: 10889
+[09:51:41]: [Shard] Connecting to master...
+[09:51:51]: [Shard] Connection to master failed. Waiting to reconnect...
+[09:51:56]: About to start a shard with these settings:
+[09:51:56]:   ShardName: Caves
+[09:51:56]:   ShardID: 2560562348
+[09:51:56]:   ShardRole: SLAVE
+[09:51:56]:   MasterHost: 127.0.0.1
+[09:51:56]:   MasterBind: (null)
+[09:51:56]:   MasterPort: 10889
+[09:51:56]: [Shard] Connecting to master...
+[09:52:06]: [Shard] Connection to master failed. Waiting to reconnect...
+[09:52:11]: About to start a shard with these settings:
+[09:52:11]:   ShardName: Caves
+[09:52:11]:   ShardID: 2560562348
+[09:52:11]:   ShardRole: SLAVE
+[09:52:11]:   MasterHost: 127.0.0.1
+[09:52:11]:   MasterBind: (null)
+[09:52:11]:   MasterPort: 10889
+[09:52:11]: [Shard] Connecting to master...
+[09:52:17]: RemoteCommandInput: "c_shutdown()"
+[09:52:17]: c_shutdown	nil	
+[09:52:17]: Serializing world: session/5C44BECFFFC07A2A/0000000426
+[09:52:17]: Truncating to snapshot #426...
+[09:52:17]:  - session/5C44BECFFFC07A2A/0000000420
+[09:52:17]:    1 file(s) removed
+[09:52:17]: unloading prefabs for mod MOD_workshop-362175979	
+[09:52:17]: unloading prefabs for mod MOD_workshop-1111711682	
+[09:52:17]: unloading prefabs for mod MOD_workshop-378160973	
+[09:52:17]: unloading prefabs for mod MOD_workshop-362175979	
+[09:52:17]: unloading prefabs for mod MOD_workshop-1111711682	
+[09:52:17]: unloading prefabs for mod MOD_workshop-378160973	
+[09:52:17]: Serializing world: session/5C44BECFFFC07A2A/0000000427
+[09:52:17]: Truncating to snapshot #427...
+[09:52:17]:  - session/5C44BECFFFC07A2A/0000000421
+[09:52:17]:  - session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000400
+[09:52:17]:    2 file(s) removed
+[09:52:17]: unloading prefabs for mod MOD_workshop-362175979	
+[09:52:17]: unloading prefabs for mod MOD_workshop-1111711682	
+[09:52:17]: unloading prefabs for mod MOD_workshop-378160973	
+[09:52:18]: [Shard] Stopping shard mode
+[09:52:19]: Collecting garbage...
+[09:52:19]: lua_gc took 0.27 seconds
+[09:52:19]: ~ShardLuaProxy()
+[09:52:19]: ~ItemServerLuaProxy()
+[09:52:19]: ~InventoryLuaProxy()
+[09:52:19]: ~NetworkLuaProxy()
+[09:52:19]: ~SimLuaProxy()
+[09:52:19]: lua_close took 0.32 seconds
+[09:52:19]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[09:52:19]: shaders/ui_yuv.ksh - 1
+[09:52:19]: CurlRequestManager::ClientThread::Main() complete
+[09:52:19]: HttpClient2 discarded 0 callbacks.
+[09:52:19]: Shutting down
