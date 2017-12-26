@@ -4326,3 +4326,13 @@
 [01:54:05]:   MasterBind: (null)
 [01:54:05]:   MasterPort: 10889
 [01:54:05]: [Shard] Connecting to master...
+[01:54:15]: [Shard] Connection to master failed. Waiting to reconnect...
+[01:54:20]: About to start a shard with these settings:
+[01:54:20]:   ShardName: Caves
+[01:54:20]:   ShardID: 2560562348
+[01:54:20]:   ShardRole: SLAVE
+[01:54:20]:   MasterHost: 127.0.0.1
+[01:54:20]:   MasterBind: (null)
+[01:54:20]:   MasterPort: 10889
+[01:54:20]: [Shard] Connecting to master...
+[01:54:30]: [Shard] Connection to master failed. Waiting to reconnect...
