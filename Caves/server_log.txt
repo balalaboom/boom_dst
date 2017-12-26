@@ -499,3 +499,10 @@
 [00:00:38]: [Shard] Slave LUA is now ready!
 [00:00:38]: Sim paused
 [00:03:27]: Sim unpaused
+[00:08:08]: Sim paused
+[00:08:12]: RemoteCommandInput: "c_save()"
+[00:08:12]: Sim unpaused
+[00:08:13]: Serializing world: session/5C44BECFFFC07A2A/0000000438
+[00:08:14]: Sim paused
+[00:30:10]: [200] Account Communication Success (6)
+[00:30:10]: Received (KU_uGVY9zVB) from TokenPurpose

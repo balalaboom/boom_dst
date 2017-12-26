@@ -494,3 +494,18 @@
 [00:03:27]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000436
 [00:03:27]: Spawning player at: [Load] (-108.82, -0.00, 551.93)	
 [00:03:27]: Sim unpaused
+[00:08:08]: [Steam] SendUserDisconnect for '76561198354843262'
+[00:08:08]: Connection lost to 107.250.150.237|1 <1187611671319355210>
+[00:08:08]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[00:08:08]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000438
+[00:08:08]: Sim paused
+[00:08:12]: Sim unpaused
+[00:08:14]: Serializing world: session/537C5C69FFB19629/0000000438
+[00:08:14]: Truncating to snapshot #438...
+[00:08:14]:  - session/537C5C69FFB19629/0000000432
+[00:08:14]:    1 file(s) removed
+[00:08:14]: Sim paused
+[00:18:08]: [P2P] Session timed out for '76561198354843262'
+[00:18:08]: [P2P] Remove session: 107.250.150.237|1 '76561198354843262'
+[00:30:10]: [200] Account Communication Success (6)
+[00:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
