@@ -1,7 +1,7 @@
 [00:00:00]: PersistRootStorage is now /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 247691
-[00:00:00]: Current time: Tue Dec 26 05:29:56 2017
+[00:00:00]: Current time: Tue Dec 26 05:53:14 2017
 
 [00:00:00]: System Name: Linux
 [00:00:00]: Host Name: dst
@@ -15,7 +15,7 @@
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (4131416896)
+[00:00:00]: THREAD - started 'GAClient' (4131519296)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
@@ -23,16 +23,16 @@
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:4.56
+[00:00:00]: ProfileIndex:5.29
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: OnLoadPermissionList: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
 [00:00:00]: THREAD - started 'StreamInput' (4124048192)
-[00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
-[00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
 [00:00:00]: cGame::InitializeOnMainThread
 [00:00:00]: Renderer initialize: Okay
 [00:00:00]: AnimManager initialize: Okay
@@ -105,16 +105,16 @@
 [00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
 [00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
 [00:00:00]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
-[00:00:01]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
-[00:00:01]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
-[00:00:01]: [adai] 強制伺服器開啟中文化 mod	
-[00:00:01]: [adai] 中文化修復完成。	
-[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
-[00:00:01]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:01]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
-[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:00]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:00]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:00]: [adai] 強制伺服器開啟中文化 mod	
+[00:00:00]: [adai] 中文化修復完成。	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
 [00:00:03]: LOADING LUA SUCCESS
 [00:00:03]: Registering mod namespace "workshop-378160973"
 [00:00:03]: PlayerDeaths could not load morgue	
@@ -123,33 +123,33 @@
 [00:00:03]: loaded saveindex	
 [00:00:03]: OnFilesLoaded()	
 [00:00:03]: OnUpdatePurchaseStateComplete	
-[00:00:04]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[00:00:04]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
-[00:00:04]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:04]: 	Load FE	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
 [00:00:04]: 	Load FE: done	
 [00:00:04]: ModIndex: Load sequence finished successfully.	
 [00:00:04]: Reset() returning
 [00:00:04]: THREAD - started 'FilesExistAsyncThread' (4062346048)
 [00:00:04]: FilesExistAsyncThread started (12982 files)...
-[00:00:04]: ... FilesExistAsyncThread complete
+[00:00:05]: ... FilesExistAsyncThread complete
 [00:00:05]: [200] Account Communication Success (6)
 [00:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
 [00:00:05]: Starting Dedicated Server Game	
@@ -184,13 +184,13 @@
 [00:00:05]: unloading prefabs for mod MOD_workshop-1111711682	
 [00:00:05]: unloading prefabs for mod MOD_workshop-378160973	
 [00:00:05]: Collecting garbage...
-[00:00:05]: lua_gc took 0.06 seconds
+[00:00:05]: lua_gc took 0.04 seconds
 [00:00:05]: ~ShardLuaProxy()
 [00:00:05]: ~ItemServerLuaProxy()
 [00:00:05]: ~InventoryLuaProxy()
 [00:00:05]: ~NetworkLuaProxy()
 [00:00:05]: ~SimLuaProxy()
-[00:00:05]: lua_close took 0.06 seconds
+[00:00:05]: lua_close took 0.05 seconds
 [00:00:05]: ReleaseAll
 [00:00:05]: ReleaseAll Finished
 [00:00:05]: cGame::StartPlaying
@@ -275,7 +275,7 @@
 [00:00:06]: loaded saveindex	
 [00:00:06]: OnFilesLoaded()	
 [00:00:06]: OnUpdatePurchaseStateComplete	
-[00:00:06]: Loading world: session/537C5C69FFB19629/0000000427	
+[00:00:06]: Loading world: session/537C5C69FFB19629/0000000429	
 [00:00:06]: Save file is at version 4.77	
 [00:00:06]: 	Unload FE	
 [00:00:06]: 	Unload FE done	
@@ -337,7 +337,7 @@
 [00:00:12]: setting 	isnightmaredawn	false	
 [00:00:12]: setting 	elapseddaysinseason	13	
 [00:00:12]: setting 	isfullmoon	false	
-[00:00:12]: setting 	moisture	4277.0375976562	
+[00:00:12]: setting 	moisture	4277.0712890625	
 [00:00:12]: setting 	springlength	20	
 [00:00:12]: setting 	isnightmarewild	false	
 [00:00:12]: setting 	moonphase	quarter	
@@ -353,8 +353,8 @@
 [00:00:12]: setting 	isday	false	
 [00:00:12]: setting 	iscaveday	false	
 [00:00:12]: setting 	season	autumn	
-[00:00:12]: setting 	timeinphase	0.78846689860026	
-[00:00:12]: setting 	temperature	24.395049659523	
+[00:00:12]: setting 	timeinphase	0.78902244567871	
+[00:00:12]: setting 	temperature	24.40535206985	
 [00:00:12]: setting 	isnightmarecalm	false	
 [00:00:12]: setting 	isnight	false	
 [00:00:12]: setting 	isdusk	true	
@@ -362,7 +362,7 @@
 [00:00:12]: setting 	isautumn	true	
 [00:00:12]: setting 	issnowing	false	
 [00:00:12]: setting 	iswaxingmoon	true	
-[00:00:12]: setting 	pop	0.47631423376544	
+[00:00:12]: setting 	pop	0.47632206231743	
 [00:00:12]: setting 	snowlevel	0	
 [00:00:12]: setting 	issnowcovered	false	
 [00:00:12]: setting 	autumnlength	20	
@@ -376,7 +376,7 @@
 [00:00:12]: setting 	iscavenight	false	
 [00:00:12]: setting 	nightmaretimeinphase	0	
 [00:00:12]: setting 	wetness	0	
-[00:00:12]: setting 	time	0.7956750869751	
+[00:00:12]: setting 	time	0.79588341712952	
 [00:00:12]: setting 	issummer	false	
 [00:00:21]: Reconstructing topology	
 [00:00:21]: 	...Sorting points	
@@ -400,82 +400,65 @@
 [00:00:22]: Reset() returning
 [00:00:22]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
 [00:00:22]: [Steam] SteamGameServer_Init success
-[00:00:23]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[00:00:23]: Validating portal[9] <-> 2560562348[9] (inactive)	
 [00:00:23]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[00:00:23]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[00:00:23]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[00:00:23]: Validating portal[8] <-> 2560562348[8] (inactive)	
 [00:00:23]: Validating portal[2] <-> 2560562348[2] (inactive)	
 [00:00:23]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[00:00:23]: Validating portal[4] <-> 2560562348[4] (inactive)	
 [00:00:23]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[00:00:23]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[00:00:23]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[00:00:23]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[00:00:23]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[00:00:23]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[00:00:23]: Validating portal[4] <-> 2560562348[4] (inactive)	
 [00:00:23]: Sim paused
 [00:00:24]: [Shard] Slave Caves(2560562348) connected: [LAN] 127.0.0.1
 [00:00:25]: [Shard] Slave Caves(2560562348) ready!
 [00:00:25]: World 2560562348 is now connected	
-[00:00:25]: Validating portal[7] <-> 2560562348[7] (active)	
-[00:00:25]: Validating portal[9] <-> 2560562348[9] (active)	
 [00:00:25]: Validating portal[10] <-> 2560562348[10] (active)	
-[00:00:25]: Validating portal[3] <-> 2560562348[3] (active)	
-[00:00:25]: Validating portal[6] <-> 2560562348[6] (disabled)	
+[00:00:25]: Validating portal[8] <-> 2560562348[8] (active)	
 [00:00:25]: Validating portal[2] <-> 2560562348[2] (active)	
 [00:00:25]: Validating portal[1] <-> 2560562348[1] (active)	
-[00:00:25]: Validating portal[4] <-> 2560562348[4] (active)	
 [00:00:25]: Validating portal[5] <-> 2560562348[5] (active)	
-[00:00:25]: Validating portal[8] <-> 2560562348[8] (active)	
-[00:01:28]: World 2560562348 is now disconnected	
-[00:01:28]: Validating portal[7] <-> 2560562348[7] (inactive)	
-[00:01:28]: Validating portal[9] <-> 2560562348[9] (inactive)	
-[00:01:28]: Validating portal[10] <-> 2560562348[10] (inactive)	
-[00:01:28]: Validating portal[3] <-> 2560562348[3] (inactive)	
-[00:01:28]: Validating portal[6] <-> 2560562348[6] (inactive)	
-[00:01:28]: Validating portal[2] <-> 2560562348[2] (inactive)	
-[00:01:28]: Validating portal[1] <-> 2560562348[1] (inactive)	
-[00:01:28]: Validating portal[4] <-> 2560562348[4] (inactive)	
-[00:01:28]: Validating portal[5] <-> 2560562348[5] (inactive)	
-[00:01:28]: Validating portal[8] <-> 2560562348[8] (inactive)	
-[00:01:28]: [Shard] A slave has disconnected: 'Caves(2560562348)'
-[00:01:45]: RemoteCommandInput: "c_shutdown()"
-[00:01:45]: c_shutdown	nil	
-[00:01:46]: Serializing world: session/537C5C69FFB19629/0000000428
-[00:01:46]: Truncating to snapshot #428...
-[00:01:46]:  - session/537C5C69FFB19629/0000000422
-[00:01:46]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000422
-[00:01:46]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000422
-[00:01:46]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000422
-[00:01:46]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000422
-[00:01:46]:  - session/537C5C69FFB19629/A7L818J58VLS/0000000422
-[00:01:46]:    6 file(s) removed
-[00:01:46]: unloading prefabs for mod MOD_workshop-362175979	
-[00:01:46]: unloading prefabs for mod MOD_workshop-1111711682	
-[00:01:46]: unloading prefabs for mod MOD_workshop-378160973	
-[00:01:46]: unloading prefabs for mod MOD_workshop-362175979	
-[00:01:46]: unloading prefabs for mod MOD_workshop-1111711682	
-[00:01:46]: unloading prefabs for mod MOD_workshop-378160973	
-[00:01:46]: Serializing world: session/537C5C69FFB19629/0000000429
-[00:01:46]: Truncating to snapshot #429...
-[00:01:46]:  - session/537C5C69FFB19629/0000000423
-[00:01:46]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000423
-[00:01:46]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000423
-[00:01:46]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000423
-[00:01:46]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000423
-[00:01:46]:  - session/537C5C69FFB19629/A7L818J58VLS/0000000423
-[00:01:46]:    6 file(s) removed
-[00:01:46]: unloading prefabs for mod MOD_workshop-362175979	
-[00:01:46]: unloading prefabs for mod MOD_workshop-1111711682	
-[00:01:46]: unloading prefabs for mod MOD_workshop-378160973	
-[00:01:47]: [Shard] Stopping shard mode
-[00:01:48]: Collecting garbage...
-[00:01:48]: lua_gc took 0.41 seconds
-[00:01:48]: ~ShardLuaProxy()
-[00:01:48]: ~ItemServerLuaProxy()
-[00:01:48]: ~InventoryLuaProxy()
-[00:01:48]: ~NetworkLuaProxy()
-[00:01:48]: ~SimLuaProxy()
-[00:01:49]: lua_close took 0.61 seconds
-[00:01:49]:  Manager - ORPHANED UNKNOWN RESOURCES:
-[00:01:49]: shaders/ui_yuv.ksh - 1
-[00:01:49]: CurlRequestManager::ClientThread::Main() complete
-[00:01:49]: HttpClient2 discarded 1 callbacks.
-[00:01:49]: Shutting down
+[00:00:25]: Validating portal[6] <-> 2560562348[6] (disabled)	
+[00:00:25]: Validating portal[7] <-> 2560562348[7] (active)	
+[00:00:25]: Validating portal[9] <-> 2560562348[9] (active)	
+[00:00:25]: Validating portal[3] <-> 2560562348[3] (active)	
+[00:00:25]: Validating portal[4] <-> 2560562348[4] (active)	
+[00:01:53]: RemoteCommandInput: "c_shutdown()"
+[00:01:53]: c_shutdown	nil	
+[00:01:54]: Serializing world: session/537C5C69FFB19629/0000000430
+[00:01:54]: Truncating to snapshot #430...
+[00:01:54]:  - session/537C5C69FFB19629/0000000424
+[00:01:54]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000424
+[00:01:54]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000424
+[00:01:54]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000424
+[00:01:54]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000424
+[00:01:54]:  - session/537C5C69FFB19629/A7L818J58VLS/0000000424
+[00:01:54]:    6 file(s) removed
+[00:01:54]: unloading prefabs for mod MOD_workshop-362175979	
+[00:01:54]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:01:54]: unloading prefabs for mod MOD_workshop-378160973	
+[00:01:54]: unloading prefabs for mod MOD_workshop-362175979	
+[00:01:54]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:01:54]: unloading prefabs for mod MOD_workshop-378160973	
+[00:01:55]: Serializing world: session/537C5C69FFB19629/0000000431
+[00:01:55]: Truncating to snapshot #431...
+[00:01:55]:  - session/537C5C69FFB19629/0000000425
+[00:01:55]:    1 file(s) removed
+[00:01:55]: unloading prefabs for mod MOD_workshop-362175979	
+[00:01:55]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:01:55]: unloading prefabs for mod MOD_workshop-378160973	
+[00:01:56]: [Shard] Stopping shard mode
+[00:01:56]: Collecting garbage...
+[00:01:57]: lua_gc took 0.50 seconds
+[00:01:57]: ~ShardLuaProxy()
+[00:01:57]: ~ItemServerLuaProxy()
+[00:01:57]: ~InventoryLuaProxy()
+[00:01:57]: ~NetworkLuaProxy()
+[00:01:57]: ~SimLuaProxy()
+[00:01:57]: lua_close took 0.61 seconds
+[00:01:57]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:01:57]: shaders/ui_yuv.ksh - 1
+[00:01:57]: CurlRequestManager::ClientThread::Main() complete
+[00:01:57]: HttpClient2 discarded 1 callbacks.
+[00:01:57]: Shutting down
