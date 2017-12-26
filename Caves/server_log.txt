@@ -496,3 +496,42 @@
 [00:05:40]: Truncating to snapshot #441...
 [00:05:40]:  - session/5C44BECFFFC07A2A/0000000435
 [00:05:40]:    1 file(s) removed
+[00:13:41]: Serializing world: session/5C44BECFFFC07A2A/0000000442
+[00:18:45]: Sim paused
+[00:19:41]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[00:19:44]: RemoteCommandInput: "c_shutdown()"
+[00:19:44]: c_shutdown	nil	
+[00:19:44]: Serializing world: session/5C44BECFFFC07A2A/0000000443
+[00:19:44]: Truncating to snapshot #443...
+[00:19:44]:  - session/5C44BECFFFC07A2A/0000000437
+[00:19:44]:    1 file(s) removed
+[00:19:44]: unloading prefabs for mod MOD_workshop-362175979	
+[00:19:44]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:19:44]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:19:44]: unloading prefabs for mod MOD_workshop-378160973	
+[00:19:44]: unloading prefabs for mod MOD_workshop-362175979	
+[00:19:44]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:19:44]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:19:44]: unloading prefabs for mod MOD_workshop-378160973	
+[00:19:44]: Serializing world: session/5C44BECFFFC07A2A/0000000444
+[00:19:44]: Truncating to snapshot #444...
+[00:19:44]:  - session/5C44BECFFFC07A2A/0000000438
+[00:19:44]:    1 file(s) removed
+[00:19:44]: unloading prefabs for mod MOD_workshop-362175979	
+[00:19:44]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:19:44]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:19:44]: unloading prefabs for mod MOD_workshop-378160973	
+[00:19:45]: [Shard] Stopping shard mode
+[00:19:46]: Collecting garbage...
+[00:19:46]: lua_gc took 0.27 seconds
+[00:19:46]: ~ShardLuaProxy()
+[00:19:46]: ~ItemServerLuaProxy()
+[00:19:46]: ~InventoryLuaProxy()
+[00:19:46]: ~NetworkLuaProxy()
+[00:19:46]: ~SimLuaProxy()
+[00:19:46]: lua_close took 0.32 seconds
+[00:19:46]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:19:46]: shaders/ui_yuv.ksh - 1
+[00:19:46]: CurlRequestManager::ClientThread::Main() complete
+[00:19:46]: HttpClient2 discarded 0 callbacks.
+[00:19:46]: Shutting down
