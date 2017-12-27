@@ -1662,3 +1662,9 @@
 [00:53:23]: Validating portal[8] <-> 1[8] (active)	
 [00:53:23]: Validating portal[2] <-> 1[2] (active)	
 [00:53:23]: Validating portal[6] <-> 1[6] (active)	
+[01:00:11]: [200] Account Communication Success (6)
+[01:00:11]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:01:23]: Serializing world: session/5C44BECFFFC07A2A/0000000453
+[01:01:23]: Truncating to snapshot #453...
+[01:01:23]:  - session/5C44BECFFFC07A2A/0000000447
+[01:01:23]:    1 file(s) removed

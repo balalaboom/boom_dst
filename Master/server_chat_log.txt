@@ -34,3 +34,5 @@
 [00:49:48]: [Say] (KU_3aPAZWmD) ルビー: =W=
 [00:50:14]: [Say] (KU_3RvV9UB5) 玉米貓: food~
 [00:52:23]: [Death Announcement] balalaboom 死亡，死因： 獨眼巨鹿。她變成了一個令人毛骨悚然的鬼！
+[00:56:04]: [Say] (KU_3RvV9UB5) 玉米貓: 我先往左邊跑喔
+[00:58:19]: [Say] (KU_3RvV9UB5) 玉米貓: 要去boom那邊嗎?
