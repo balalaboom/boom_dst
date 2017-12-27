@@ -77,3 +77,27 @@
 [01:54:16]: [Say] (KU_TtsjKcrU) AierLuosen: 超怪聲音
 [01:54:21]: [Say] (KU_3aPAZWmD) ルビー: XD
 [01:54:24]: [Say] (KU_TtsjKcrU) AierLuosen: 壞掉的聲音
+[01:54:33]: [Say] (KU_3aPAZWmD) ルビー: 壞掉 (X
+[01:54:39]: [Say] (KU_TtsjKcrU) AierLuosen: 阿斯
+[01:54:41]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:54:42]: [Say] (KU_TtsjKcrU) AierLuosen: (?
+[01:54:44]: [Say] (KU_3aPAZWmD) ルビー: www
+[01:55:13]: [Say] (KU_3RvV9UB5) 玉米貓: XDD
+[01:55:49]: [Say] (KU_TtsjKcrU) AierLuosen: 今晚不睡了
+[01:55:52]: [Say] (KU_3RvV9UB5) 玉米貓: 我自首~我先推的
+[01:55:52]: [Say] (KU_TtsjKcrU) AierLuosen: 次機
+[01:55:55]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[01:55:57]: [Say] (KU_3aPAZWmD) ルビー: OAO
+[01:56:46]: [Death Announcement] AierLuosen 死亡，死因： 暗影城堡。她變成了一個令人毛骨悚然的鬼！
+[01:56:51]: [Say] (KU_TtsjKcrU) AierLuosen: 被主叫殺了
+[01:57:55]: [Say] (KU_TtsjKcrU) AierLuosen: 我剛剛在放登 結果被丁上
+[01:57:59]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[01:58:10]: [Say] (KU_TtsjKcrU) AierLuosen: 犀牛最後/
+[02:00:42]: [Say] (KU_3aPAZWmD) ルビー: 大力士班雕像 竟然說 對鍛鍊肌肉很好 明天會肌肉痠痛 XD
+[02:00:46]: [Say] (KU_3RvV9UB5) 玉米貓: for fun ><
+[02:01:02]: [Say] (KU_3RvV9UB5) 玉米貓: 沒有阿
+[02:01:17]: [Say] (KU_TtsjKcrU) AierLuosen: 放了
+[02:02:53]: [Say] (KU_3RvV9UB5) 玉米貓: 我只是想站火堆旁XDD
+[02:05:46]: [Death Announcement] ルビー 死亡，死因： 爬行恐懼。他變成了一個令人毛骨悚然的鬼！
+[02:06:00]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[02:06:05]: [Death Announcement] 夜月夏目 死亡，死因： 暗影主教。他變成了一個令人毛骨悚然的鬼！
