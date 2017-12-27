@@ -2613,3 +2613,37 @@
 [03:29:11]:    1 file(s) removed
 [03:30:12]: [200] Account Communication Success (6)
 [03:30:12]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:34:33]: [Shard] #3 -> session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000470
+[03:34:33]: [Shard] Received migration #3 data for (KU_M673WWQo)
+[03:34:47]: [P2P] Create session: 186.119.19.118|1 '76561198211986697'
+[03:34:47]: [P2P] Received from 186.119.19.118|1 '76561198211986697'
+[03:34:47]: [P2P] Sent to 186.119.19.118|1 '76561198211986697'
+[03:34:47]: New incoming connection 186.119.19.118|1 <2033707623716431695>
+[03:34:47]: Client connected from 186.119.19.118|1 <2033707623716431695>
+[03:34:47]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^Oe5TcBKClSiqpWpBJ4cDfggReYzfGACbLgoy8aTBjCE= for <2033707623716431695>
+[03:34:48]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[03:34:48]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[03:34:48]: [Steam] Authenticated client '76561198211986697'
+[03:34:48]: [Shard] Completed incoming migration #3 for (KU_M673WWQo)
+[03:35:05]: Resuming user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000470
+[03:35:05]: Player will spawn close to portal #5	
+[03:35:05]: Spawning player at: [Load] (245.56, 0.00, -76.83)	
+[03:37:12]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000470
+[03:37:13]: Serializing world: session/5C44BECFFFC07A2A/0000000470
+[03:41:21]: Activating portal[1] to 1	
+[03:41:22]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000471
+[03:41:22]: [Shard] Migration request: (KU_M673WWQo) to [SHDMASTER](1)
+[03:41:22]: [Shard] #4 <- session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000471
+[03:41:22]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:41:22]: [Steam] SendUserDisconnect for '76561198211986697'
+[03:45:13]: Serializing world: session/5C44BECFFFC07A2A/0000000471
+[03:45:13]: Truncating to snapshot #471...
+[03:45:13]:  - session/5C44BECFFFC07A2A/0000000465
+[03:45:13]:  - session/5C44BECFFFC07A2A/0000000464
+[03:45:13]:    2 file(s) removed
+[03:51:30]: [P2P] Session timed out for '76561198211986697'
+[03:51:30]: [P2P] Remove session: 186.119.19.118|1 '76561198211986697'
+[03:53:14]: Serializing world: session/5C44BECFFFC07A2A/0000000472
+[03:53:14]: Truncating to snapshot #472...
+[03:53:14]:  - session/5C44BECFFFC07A2A/0000000466
+[03:53:14]:    1 file(s) removed

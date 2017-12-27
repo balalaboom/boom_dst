@@ -188,3 +188,6 @@
 [03:20:12]: [Say] (KU_BIj2U1ZB) 提爾詩: 好喔
 [03:20:24]: [Say] (KU_3RvV9UB5) 玉米貓: 玩得有點久 還沒要睡www
 [03:20:41]: [Leave Announcement] 玉米貓
+[03:31:16]: [Leave Announcement] 夜月夏目
+[03:32:23]: [Join Announcement] 夜月夏目
+[03:48:24]: [Leave Announcement] 提爾詩
