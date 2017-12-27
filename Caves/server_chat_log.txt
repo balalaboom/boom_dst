@@ -1,2 +1,4 @@
-[00:02:34]: [Join Announcement] balalaboom
-[00:31:54]: [Leave Announcement] balalaboom
+[00:02:13]: [Join Announcement] balalaboom
+[00:04:52]: [Join Announcement] ルビー
+[00:06:08]: [Say] (KU_uGVY9zVB) balalaboom: 不.......
+[00:06:11]: [Say] (KU_uGVY9zVB) balalaboom: 回溯
