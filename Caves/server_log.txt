@@ -2567,3 +2567,23 @@
 [02:26:23]: Spawning player at: [Load] (362.02, 0.00, -263.49)	
 [02:30:11]: [200] Account Communication Success (6)
 [02:30:11]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:33:05]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000462
+[02:33:05]: Serializing world: session/5C44BECFFFC07A2A/0000000462
+[02:34:25]: Activating portal[1] to 1	
+[02:34:25]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000463
+[02:34:25]: [Shard] Migration request: (KU_M673WWQo) to [SHDMASTER](1)
+[02:34:26]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000463
+[02:34:26]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:34:26]: Ignored request to resume during migration
+[02:34:26]: [Steam] SendUserDisconnect for '76561198211986697'
+[02:41:06]: Serializing world: session/5C44BECFFFC07A2A/0000000463
+[02:41:06]: Truncating to snapshot #463...
+[02:41:06]:  - session/5C44BECFFFC07A2A/0000000457
+[02:41:06]:  - session/5C44BECFFFC07A2A/0000000456
+[02:41:06]:    2 file(s) removed
+[02:44:34]: [P2P] Session timed out for '76561198211986697'
+[02:44:34]: [P2P] Remove session: 186.119.19.117|1 '76561198211986697'
+[02:49:07]: Serializing world: session/5C44BECFFFC07A2A/0000000464
+[02:49:07]: Truncating to snapshot #464...
+[02:49:07]:  - session/5C44BECFFFC07A2A/0000000458
+[02:49:07]:    1 file(s) removed

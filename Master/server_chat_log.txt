@@ -158,3 +158,26 @@
 [02:27:47]: [Say] (KU_TtsjKcrU) AierLuosen: 要趕東西XD
 [02:27:59]: [Leave Announcement] AierLuosen
 [02:30:19]: [Announcement] 有 ╰(??ω??)╯
+[02:32:18]: [Join Announcement] AierLuosen
+[02:32:32]: [Say] (KU_TtsjKcrU) AierLuosen: 它在哪/
+[02:32:41]: [Say] (KU_3aPAZWmD) ルビー: 還沒找/
+[02:32:46]: [Say] (KU_TtsjKcrU) AierLuosen: 龍蠅盧
+[02:33:34]: [Say] (KU_TtsjKcrU) AierLuosen: 看到了
+[02:33:46]: [Say] (KU_TtsjKcrU) AierLuosen: 樺樹門口
+[02:35:10]: [Death Announcement] 夜月夏目 死亡，死因： 冰凍。他變成了一個令人毛骨悚然的鬼！
+[02:36:31]: [Resurrect Announcement] 夜月夏目 復活自 balalaboom.
+[02:37:25]: [Leave Announcement] 玉米貓
+[02:37:28]: [Leave Announcement] ルビー
+[02:39:09]: [Join Announcement] 玉米貓
+[02:39:40]: [Join Announcement] ルビー
+[02:43:35]: [Say] (KU_3aPAZWmD) ルビー: 笨鵝降落啦~ OAO
+[02:44:35]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 6 禮物s.
+[02:44:45]: [Say] (KU_TtsjKcrU) AierLuosen: 誰要來幫我拿
+[02:44:50]: [Say] (KU_TtsjKcrU) AierLuosen: 拿不起來
+[02:45:24]: [Join Announcement] 提爾詩
+[02:46:51]: [Say] (KU_TtsjKcrU) AierLuosen: 坎普斯
+[02:49:00]: [Say] (KU_TtsjKcrU) AierLuosen: 下/
+[02:49:11]: [Leave Announcement] AierLuosen
+[02:49:14]: [Say] (KU_3aPAZWmD) ルビー: 感謝艾爾/
+[02:49:43]: [Say] (KU_3RvV9UB5) 玉米貓: 我帶回了3組冰塊，夠嗎?
+[02:50:31]: [Say] (KU_3RvV9UB5) 玉米貓: 我拿眼球做傘喔?
