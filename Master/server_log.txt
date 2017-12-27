@@ -3199,3 +3199,11 @@
 [03:53:14]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000472
 [03:53:14]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000472
 [03:53:14]: Serializing world: session/537C5C69FFB19629/0000000472
+[03:58:24]: [P2P] Session timed out for '76561198286499269'
+[03:58:24]: [P2P] Remove session: 186.120.176.71|1 '76561198286499269'
+[04:00:12]: [200] Account Communication Success (6)
+[04:00:12]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:01:15]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000473
+[04:01:15]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000473
+[04:01:15]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000473
+[04:01:15]: Serializing world: session/537C5C69FFB19629/0000000473

@@ -192,3 +192,4 @@
 [03:31:16]: [Leave Announcement] 夜月夏目
 [03:32:23]: [Join Announcement] 夜月夏目
 [03:48:24]: [Leave Announcement] 提爾詩
+[03:56:10]: [Say] (KU_3aPAZWmD) ルビー: www
