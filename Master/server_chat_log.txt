@@ -102,3 +102,59 @@
 [02:05:46]: [Death Announcement] ルビー 死亡，死因： 爬行恐懼。他變成了一個令人毛骨悚然的鬼！
 [02:06:00]: [Resurrect Announcement] ルビー 復活自 重生護符.
 [02:06:05]: [Death Announcement] 夜月夏目 死亡，死因： 暗影主教。他變成了一個令人毛骨悚然的鬼！
+[02:06:40]: [Death Announcement] AierLuosen 死亡，死因： 暗影城堡。她變成了一個令人毛骨悚然的鬼！
+[02:06:43]: [Say] (KU_TtsjKcrU) AierLuosen: 被雕像卡住
+[02:06:45]: [Death Announcement] balalaboom 死亡，死因： 暗影城堡。她變成了一個令人毛骨悚然的鬼！
+[02:06:45]: [Resurrect Announcement] 夜月夏目 復活自 玉米貓.
+[02:06:50]: [Death Announcement] ルビー 死亡，死因： 暗影城堡。他變成了一個令人毛骨悚然的鬼！
+[02:07:17]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[02:07:39]: [Resurrect Announcement] AierLuosen 復活自 重生護符.
+[02:08:22]: [Say] (KU_TtsjKcrU) AierLuosen: 沒人找它 它會不見
+[02:12:10]: [Say] (KU_TtsjKcrU) AierLuosen: 牛角不要放這邊
+[02:12:22]: [Say] (KU_TtsjKcrU) AierLuosen: 剛剛卡住我
+[02:12:35]: [Say] (KU_TtsjKcrU) AierLuosen: 壤ˋ我被咬死
+[02:12:46]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[02:14:18]: [Say] (KU_TtsjKcrU) AierLuosen: 那邊太亮了
+[02:15:04]: [Say] (KU_TtsjKcrU) AierLuosen: 自殺
+[02:15:08]: [Say] (KU_TtsjKcrU) AierLuosen: 去消它
+[02:15:14]: [Say] (KU_TtsjKcrU) AierLuosen: 用幽靈\
+[02:16:35]: [Say] (KU_TtsjKcrU) AierLuosen: 麥斯威爾就能自殺快了
+[02:16:44]: [Say] (KU_3aPAZWmD) ルビー: www
+[02:16:47]: [Say] (KU_TtsjKcrU) AierLuosen: 跟光有關
+[02:16:51]: [Say] (KU_TtsjKcrU) AierLuosen: 不是睡覺
+[02:16:58]: [Say] (KU_TtsjKcrU) AierLuosen: 我去自殺吧
+[02:17:47]: [Death Announcement] AierLuosen 死亡，死因： 蜘蛛。她變成了一個令人毛骨悚然的鬼！
+[02:18:06]: [Say] (KU_TtsjKcrU) AierLuosen: 來了
+[02:18:10]: [Say] (KU_TtsjKcrU) AierLuosen: 來看
+[02:18:22]: [Say] (KU_TtsjKcrU) AierLuosen: 用幽靈才行
+[02:18:23]: [Resurrect Announcement] AierLuosen 復活自 玉米貓.
+[02:18:36]: [Say] (KU_TtsjKcrU) AierLuosen: 蜘蛛
+[02:19:32]: [Say] (KU_TtsjKcrU) AierLuosen: 跑
+[02:19:35]: [Say] (KU_TtsjKcrU) AierLuosen: 兔人
+[02:19:38]: [Death Announcement] balalaboom 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
+[02:19:41]: [Say] (KU_TtsjKcrU) AierLuosen: QQ
+[02:20:21]: [Resurrect Announcement] balalaboom 復活自 ルビー.
+[02:20:54]: [Say] (KU_TtsjKcrU) AierLuosen: 武器
+[02:21:16]: [Say] (KU_TtsjKcrU) AierLuosen: 因為早期火腿棒能吃
+[02:21:21]: [Say] (KU_3RvV9UB5) 玉米貓: XDD
+[02:21:47]: [Say] (KU_TtsjKcrU) AierLuosen: 我戴的
+[02:21:51]: [Death Announcement] balalaboom 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
+[02:21:55]: [Say] (KU_TtsjKcrU) AierLuosen: 我幫他戴的XD
+[02:22:34]: [Say] (KU_TtsjKcrU) AierLuosen: 蜘蛛帽我都會送給兔人
+[02:22:53]: [Resurrect Announcement] balalaboom 復活自 ルビー.
+[02:24:06]: [Say] (KU_3RvV9UB5) 玉米貓: 順便螢光果?
+[02:24:50]: [Skin Announcement] 玉米貓 mysterybox_classic_4
+[02:25:02]: [Say] (KU_TtsjKcrU) AierLuosen: 紅箱
+[02:25:22]: [Say] (KU_TtsjKcrU) AierLuosen: ......
+[02:25:59]: [Say] (KU_TtsjKcrU) AierLuosen: 它看格子 跟包裹一樣
+[02:26:36]: [Say] (KU_TtsjKcrU) AierLuosen: ????
+[02:26:46]: [Say] (KU_TtsjKcrU) AierLuosen: 喔 沒事
+[02:26:54]: [Say] (KU_TtsjKcrU) AierLuosen: 紫色被疊在下方
+[02:27:04]: [Say] (KU_TtsjKcrU) AierLuosen: 黃色在最上面
+[02:27:31]: [Say] (KU_TtsjKcrU) AierLuosen: 先這樣/
+[02:27:35]: [Say] (KU_TtsjKcrU) AierLuosen: 8888
+[02:27:41]: [Say] (KU_3aPAZWmD) ルビー: 感謝艾爾
+[02:27:43]: [Say] (KU_TtsjKcrU) AierLuosen: 我不睡
+[02:27:47]: [Say] (KU_TtsjKcrU) AierLuosen: 要趕東西XD
+[02:27:59]: [Leave Announcement] AierLuosen
+[02:30:19]: [Announcement] 有 ╰(??ω??)╯
