@@ -54,3 +54,26 @@
 [01:25:16]: [Death Announcement] balalaboom 死亡，死因： 蜘蛛戰士。她變成了一個令人毛骨悚然的鬼！
 [01:27:56]: [Death Announcement] 玉米貓 死亡，死因： 蜘蛛戰士。他變成了一個令人毛骨悚然的鬼！
 [01:30:23]: [Say] (KU_3RvV9UB5) 玉米貓: 我重登一下
+[01:30:40]: [Leave Announcement] 玉米貓
+[01:33:27]: [Resurrect Announcement] balalaboom 復活自 提爾詩.
+[01:34:13]: [Join Announcement] 玉米貓
+[01:34:34]: [Say] (KU_3RvV9UB5) 玉米貓: 995
+[01:34:51]: [Resurrect Announcement] 玉米貓 復活自 balalaboom.
+[01:35:00]: [Say] (KU_3RvV9UB5) 玉米貓: thx
+[01:41:03]: [Say] (KU_3RvV9UB5) 玉米貓: 蜘蛛巢放哪?
+[01:42:53]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Health: 200/200) My skin is impenetrable!
+[01:44:25]: [Leave Announcement] 提爾詩
+[01:44:39]: [Join Announcement] AierLuosen
+[01:45:19]: [Say] (KU_TtsjKcrU) AierLuosen: doge
+[01:45:23]: [Say] (KU_TtsjKcrU) AierLuosen: 居然是今天
+[01:45:26]: [Say] (KU_TtsjKcrU) AierLuosen: 怕
+[01:45:43]: [Say] (KU_TtsjKcrU) AierLuosen: mod
+[01:46:46]: [Say] (KU_TtsjKcrU) AierLuosen: 在哪
+[01:47:48]: [Death Announcement] balalaboom 死亡，死因： 暗影騎士。她變成了一個令人毛骨悚然的鬼！
+[01:48:53]: [Death Announcement] 夜月夏目 死亡，死因： 暗影城堡。他變成了一個令人毛骨悚然的鬼！
+[01:49:04]: [Say] (KU_TtsjKcrU) AierLuosen: 好
+[01:49:05]: [Death Announcement] ルビー 死亡，死因： 暗影城堡。他變成了一個令人毛骨悚然的鬼！
+[01:49:05]: [Death Announcement] 玉米貓 死亡，死因： 暗影城堡。他變成了一個令人毛骨悚然的鬼！
+[01:54:16]: [Say] (KU_TtsjKcrU) AierLuosen: 超怪聲音
+[01:54:21]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:54:24]: [Say] (KU_TtsjKcrU) AierLuosen: 壞掉的聲音
