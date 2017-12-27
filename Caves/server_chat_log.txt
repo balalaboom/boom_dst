@@ -20,3 +20,17 @@
 [00:15:19]: [Death Announcement] balalaboom 死亡，死因： 蜘蛛。她變成了一個令人毛骨悚然的鬼！
 [00:19:33]: [Say] (KU_3RvV9UB5) 玉米貓: 我可以拿象牙做快速手杖嗎??
 [00:25:57]: [Join Announcement] 提爾詩
+[00:33:23]: [Say] (KU_uGVY9zVB) balalaboom: 都到了嗎?
+[00:33:41]: [Say] (KU_uGVY9zVB) balalaboom: 喚星法杖幫我放一下
+[00:34:20]: [Say] (KU_uGVY9zVB) balalaboom: 有人幫我拿喚星嗎?
+[00:34:34]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[00:36:31]: [Say] (KU_uGVY9zVB) balalaboom: 不會有狗狗吧?
+[00:36:39]: [Say] (KU_3RvV9UB5) 玉米貓: ??!
+[00:36:44]: [Say] (KU_uGVY9zVB) balalaboom: !!!
+[00:36:52]: [Say] (KU_uGVY9zVB) balalaboom: 怕
+[00:42:57]: [Say] (KU_3RvV9UB5) 玉米貓: 藍圖先給誰學?
+[00:43:42]: [Say] (KU_3RvV9UB5) 玉米貓: 提爾詩要先學包裹嗎?
+[00:49:43]: [Say] (KU_3RvV9UB5) 玉米貓: no\
+[00:49:49]: [Say] (KU_3aPAZWmD) ルビー: =W=
+[00:50:14]: [Say] (KU_3RvV9UB5) 玉米貓: food~
+[00:52:23]: [Death Announcement] balalaboom 死亡，死因： 獨眼巨鹿。她變成了一個令人毛骨悚然的鬼！
