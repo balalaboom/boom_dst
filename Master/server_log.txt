@@ -523,3 +523,23 @@
 [00:05:11]: Serializing world: session/537C5C69FFB19629/0000000481
 [00:13:11]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000482
 [00:13:12]: Serializing world: session/537C5C69FFB19629/0000000482
+[00:21:12]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000483
+[00:21:12]: Serializing world: session/537C5C69FFB19629/0000000483
+[00:29:13]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000484
+[00:29:13]: Serializing world: session/537C5C69FFB19629/0000000484
+[00:30:09]: [200] Account Communication Success (6)
+[00:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:37:13]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000485
+[00:37:14]: Serializing world: session/537C5C69FFB19629/0000000485
+[00:40:22]: [P2P] Session request for '76561198354843262'
+[00:40:27]: [P2P] Create session: 11.208.30.147|1 '76561198354843262'
+[00:40:27]: [P2P] Received from 11.208.30.147|1 '76561198354843262'
+[00:40:27]: [P2P] Sent to 11.208.30.147|1 '76561198354843262'
+[00:40:27]: New incoming connection 11.208.30.147|1 <2638034512881623745>
+[00:40:27]: Client connected from 11.208.30.147|1 <2638034512881623745>
+[00:40:27]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^YfEKNlyqKpI93YO9RCjqh4sl+jnzigGf6HIuVXF5/Nk= for <2638034512881623745>
+[00:40:28]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[00:40:28]: [Steam] Authenticated host '76561198354843262'
+[00:40:30]: [Shard] Read save location file for (KU_uGVY9zVB)
+[00:40:37]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000475
+[00:40:37]: Spawning player at: [Load] (-136.09, 0.00, 548.76)	
