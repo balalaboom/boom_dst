@@ -22,3 +22,4 @@
 [02:32:49]: [Say] (KU_TtsjKcrU) AierLuosen:  We have a 觸手皮 in this 箱子.
 [02:33:29]: [Death Announcement] balalaboom 死亡，死因： 爬行恐懼。她變成了一個令人毛骨悚然的鬼！
 [02:33:47]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[02:49:44]: [Leave Announcement] 提爾詩
