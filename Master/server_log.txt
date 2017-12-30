@@ -909,3 +909,107 @@
 [03:17:29]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000507
 [03:17:29]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000507
 [03:17:29]: Serializing world: session/537C5C69FFB19629/0000000507
+[03:25:30]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000508
+[03:25:30]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000508
+[03:25:30]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000508
+[03:25:30]: Serializing world: session/537C5C69FFB19629/0000000508
+[03:25:32]: [Steam] SendUserDisconnect for '76561198251790870'
+[03:25:32]: Connection lost to 11.208.30.151|1 <3128732158358852055>
+[03:25:32]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[03:25:33]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000509
+[03:25:33]: KU_3aPAZWmD	running text command:	kiss	true	
+[03:25:43]: [Steam] SendUserDisconnect for '76561198354843262'
+[03:25:43]: Connection lost to 11.208.30.153|1 <2095678386996658303>
+[03:25:43]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[03:25:43]: RemoteCommandInput: "c_save()"
+[03:25:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000509
+[03:25:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000509
+[03:25:45]: Serializing world: session/537C5C69FFB19629/0000000509
+[03:25:48]: [Steam] SendUserDisconnect for '76561198189824466'
+[03:25:48]: Connection lost to 11.208.30.154|1 <9024662205444195202>
+[03:25:48]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[03:25:48]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000510
+[03:25:48]: Sim paused
+[03:25:53]: Sim unpaused
+[03:25:55]: Serializing world: session/537C5C69FFB19629/0000000510
+[03:25:55]: Truncating to snapshot #510...
+[03:25:55]:  - session/537C5C69FFB19629/0000000496
+[03:25:55]:  - session/537C5C69FFB19629/0000000499
+[03:25:55]:  - session/537C5C69FFB19629/0000000500
+[03:25:55]:  - session/537C5C69FFB19629/0000000495
+[03:25:55]:  - session/537C5C69FFB19629/0000000503
+[03:25:55]:  - session/537C5C69FFB19629/0000000498
+[03:25:55]:  - session/537C5C69FFB19629/0000000497
+[03:25:55]:  - session/537C5C69FFB19629/0000000502
+[03:25:55]:  - session/537C5C69FFB19629/0000000504
+[03:25:55]:  - session/537C5C69FFB19629/0000000501
+[03:25:55]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000503
+[03:25:55]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000502
+[03:25:55]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000501
+[03:25:55]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000491
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000504
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000503
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000502
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000501
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000500
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000499
+[03:25:55]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000491
+[03:25:55]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000504
+[03:25:55]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000503
+[03:25:55]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000502
+[03:25:55]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000501
+[03:25:55]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000492
+[03:25:55]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000504
+[03:25:55]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000503
+[03:25:55]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000502
+[03:25:55]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000501
+[03:25:55]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000491
+[03:25:55]:    31 file(s) removed
+[03:25:55]:  > session/537C5C69FFB19629/A7HD5D17G66B/savelocation
+[03:25:55]:  > session/537C5C69FFB19629/A7JNFMML4RAU/savelocation
+[03:25:55]:  > session/537C5C69FFB19629/A7GE8P58S30D/savelocation
+[03:25:55]:  > session/537C5C69FFB19629/A7N10VH2FLUB/savelocation
+[03:25:55]:    4 file(s) updated
+[03:25:55]: Sim paused
+[03:26:10]: RemoteCommandInput: "c_shutdown()"
+[03:26:10]: c_shutdown	nil	
+[03:26:11]: Serializing world: session/537C5C69FFB19629/0000000511
+[03:26:11]: Truncating to snapshot #511...
+[03:26:11]:  - session/537C5C69FFB19629/0000000505
+[03:26:11]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000505
+[03:26:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000505
+[03:26:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000505
+[03:26:11]:    4 file(s) removed
+[03:26:11]: unloading prefabs for mod MOD_workshop-362175979	
+[03:26:11]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:26:11]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:26:11]: unloading prefabs for mod MOD_workshop-378160973	
+[03:26:11]: unloading prefabs for mod MOD_workshop-362175979	
+[03:26:11]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:26:11]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:26:11]: unloading prefabs for mod MOD_workshop-378160973	
+[03:26:11]: Serializing world: session/537C5C69FFB19629/0000000512
+[03:26:11]: Truncating to snapshot #512...
+[03:26:11]:  - session/537C5C69FFB19629/0000000506
+[03:26:11]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000506
+[03:26:11]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000506
+[03:26:11]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000506
+[03:26:11]:    4 file(s) removed
+[03:26:11]: unloading prefabs for mod MOD_workshop-362175979	
+[03:26:11]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:26:11]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:26:11]: unloading prefabs for mod MOD_workshop-378160973	
+[03:26:13]: [Shard] Stopping shard mode
+[03:26:13]: Collecting garbage...
+[03:26:14]: lua_gc took 0.49 seconds
+[03:26:14]: ~ShardLuaProxy()
+[03:26:14]: ~ItemServerLuaProxy()
+[03:26:14]: ~InventoryLuaProxy()
+[03:26:14]: ~NetworkLuaProxy()
+[03:26:14]: ~SimLuaProxy()
+[03:26:14]: lua_close took 0.75 seconds
+[03:26:14]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:26:14]: shaders/ui_yuv.ksh - 1
+[03:26:14]: CurlRequestManager::ClientThread::Main() complete
+[03:26:14]: HttpClient2 discarded 1 callbacks.
+[03:26:14]: Shutting down

@@ -859,3 +859,64 @@
 [03:17:29]: Truncating to snapshot #507...
 [03:17:29]:  - session/5C44BECFFFC07A2A/0000000501
 [03:17:29]:    1 file(s) removed
+[03:25:30]: Serializing world: session/5C44BECFFFC07A2A/0000000508
+[03:25:30]: Truncating to snapshot #508...
+[03:25:30]:  - session/5C44BECFFFC07A2A/0000000502
+[03:25:30]:    1 file(s) removed
+[03:25:45]: Serializing world: session/5C44BECFFFC07A2A/0000000509
+[03:25:45]: Truncating to snapshot #509...
+[03:25:45]:  - session/5C44BECFFFC07A2A/0000000503
+[03:25:45]:    1 file(s) removed
+[03:25:48]: Sim paused
+[03:25:53]: RemoteCommandInput: "c_save()"
+[03:25:53]: Sim unpaused
+[03:25:55]: Serializing world: session/5C44BECFFFC07A2A/0000000510
+[03:25:55]: Truncating to snapshot #510...
+[03:25:55]:  - session/5C44BECFFFC07A2A/0000000504
+[03:25:55]:    1 file(s) removed
+[03:25:55]: Sim paused
+[03:26:13]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[03:26:18]: About to start a shard with these settings:
+[03:26:18]:   ShardName: Caves
+[03:26:18]:   ShardID: 2560562348
+[03:26:18]:   ShardRole: SLAVE
+[03:26:18]:   MasterHost: 127.0.0.1
+[03:26:18]:   MasterBind: (null)
+[03:26:18]:   MasterPort: 10889
+[03:26:18]: [Shard] Connecting to master...
+[03:26:26]: RemoteCommandInput: "c_shutdown()"
+[03:26:26]: c_shutdown	nil	
+[03:26:27]: Serializing world: session/5C44BECFFFC07A2A/0000000511
+[03:26:27]: Truncating to snapshot #511...
+[03:26:27]:  - session/5C44BECFFFC07A2A/0000000505
+[03:26:27]:    1 file(s) removed
+[03:26:27]: unloading prefabs for mod MOD_workshop-362175979	
+[03:26:27]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:26:27]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:26:27]: unloading prefabs for mod MOD_workshop-378160973	
+[03:26:27]: unloading prefabs for mod MOD_workshop-362175979	
+[03:26:27]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:26:27]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:26:27]: unloading prefabs for mod MOD_workshop-378160973	
+[03:26:27]: Serializing world: session/5C44BECFFFC07A2A/0000000512
+[03:26:27]: Truncating to snapshot #512...
+[03:26:27]:  - session/5C44BECFFFC07A2A/0000000506
+[03:26:27]:    1 file(s) removed
+[03:26:27]: unloading prefabs for mod MOD_workshop-362175979	
+[03:26:27]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:26:27]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:26:27]: unloading prefabs for mod MOD_workshop-378160973	
+[03:26:28]: [Shard] Stopping shard mode
+[03:26:28]: Collecting garbage...
+[03:26:29]: lua_gc took 0.36 seconds
+[03:26:29]: ~ShardLuaProxy()
+[03:26:29]: ~ItemServerLuaProxy()
+[03:26:29]: ~InventoryLuaProxy()
+[03:26:29]: ~NetworkLuaProxy()
+[03:26:29]: ~SimLuaProxy()
+[03:26:29]: lua_close took 0.41 seconds
+[03:26:29]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:26:29]: shaders/ui_yuv.ksh - 1
+[03:26:29]: CurlRequestManager::ClientThread::Main() complete
+[03:26:29]: HttpClient2 discarded 0 callbacks.
+[03:26:29]: Shutting down
