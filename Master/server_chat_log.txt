@@ -16,3 +16,9 @@
 [01:53:44]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 19 火龍果派s.
 [02:01:35]: [Death Announcement] AierLuosen 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
 [02:01:42]: [Resurrect Announcement] AierLuosen 復活自 重生護符.
+[02:25:53]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 24 圓石s.
+[02:25:58]: [Say] (KU_BIj2U1ZB) 提爾詩:  I have 62 圓石s.
+[02:32:20]: [Say] (KU_3aPAZWmD) ルビー: 到家惹 來互相傷害R
+[02:32:49]: [Say] (KU_TtsjKcrU) AierLuosen:  We have a 觸手皮 in this 箱子.
+[02:33:29]: [Death Announcement] balalaboom 死亡，死因： 爬行恐懼。她變成了一個令人毛骨悚然的鬼！
+[02:33:47]: [Resurrect Announcement] balalaboom 復活自 重生護符.
