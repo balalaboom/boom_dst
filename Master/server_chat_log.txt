@@ -11,3 +11,4 @@
 [01:07:08]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 55 青蛙腿s.
 [01:10:07]: [Say] (KU_TtsjKcrU) AierLuosen:  I have a 暗影心臟.
 [01:18:29]: [Skin Announcement] balalaboom mysterybox_classic_4
+[01:39:56]: [Death Announcement] balalaboom 死亡，死因： 深淵蠕蟲。她變成了一個令人毛骨悚然的鬼！

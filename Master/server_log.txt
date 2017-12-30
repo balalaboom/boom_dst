@@ -602,3 +602,100 @@
 [01:17:17]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000490
 [01:17:17]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000490
 [01:17:18]: Serializing world: session/537C5C69FFB19629/0000000490
+[01:22:17]: Activating portal[1] to 2560562348	
+[01:22:18]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000491
+[01:22:18]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(2560562348)
+[01:22:18]: [Shard] Begin migration #1 for (KU_TtsjKcrU)
+[01:22:18]: [Shard] #1 [SHDMASTER](1) -> Caves(2560562348)
+[01:22:18]: [Shard] #1 <- session/537C5C69FFB19629/A7JNFMML4RAU/0000000491
+[01:22:18]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:22:18]: [Steam] SendUserDisconnect for '76561198251790870'
+[01:22:18]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[01:22:30]: [Shard] Completed migration #1 for player (KU_TtsjKcrU)
+[01:22:30]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[01:22:43]: Activating portal[1] to 2560562348	
+[01:22:44]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000491
+[01:22:44]: [Shard] Migration request: (KU_BIj2U1ZB) to Caves(2560562348)
+[01:22:44]: [Shard] Begin migration #2 for (KU_BIj2U1ZB)
+[01:22:44]: [Shard] #2 [SHDMASTER](1) -> Caves(2560562348)
+[01:22:44]: [Shard] #2 <- session/537C5C69FFB19629/A7HD5D17G66B/0000000491
+[01:22:44]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:22:44]: [Steam] SendUserDisconnect for '76561198286499269'
+[01:22:44]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[01:22:45]: Activating portal[1] to 2560562348	
+[01:22:45]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000491
+[01:22:45]: [Shard] Migration request: (KU_uGVY9zVB) to Caves(2560562348)
+[01:22:45]: [Shard] Begin migration #3 for (KU_uGVY9zVB)
+[01:22:45]: [Shard] #3 [SHDMASTER](1) -> Caves(2560562348)
+[01:22:45]: [Shard] #3 <- session/537C5C69FFB19629/A7N10VH2FLUB/0000000491
+[01:22:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:22:45]: [Steam] SendUserDisconnect for '76561198354843262'
+[01:22:45]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[01:22:54]: [Shard] Completed migration #2 for player (KU_BIj2U1ZB)
+[01:22:54]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[01:22:55]: [Shard] Completed migration #3 for player (KU_uGVY9zVB)
+[01:22:55]: [Shard] Writing save location file for (KU_uGVY9zVB)
+[01:25:18]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000491
+[01:25:19]: Serializing world: session/537C5C69FFB19629/0000000491
+[01:28:29]: Activating portal[1] to 2560562348	
+[01:28:29]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000492
+[01:28:29]: [Shard] Migration request: (KU_3aPAZWmD) to Caves(2560562348)
+[01:28:29]: [Shard] Begin migration #4 for (KU_3aPAZWmD)
+[01:28:29]: [Shard] #4 [SHDMASTER](1) -> Caves(2560562348)
+[01:28:29]: [Shard] #4 <- session/537C5C69FFB19629/A7GE8P58S30D/0000000492
+[01:28:29]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:28:29]: [Steam] SendUserDisconnect for '76561198189824466'
+[01:28:29]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[01:28:43]: [Shard] Completed migration #4 for player (KU_3aPAZWmD)
+[01:28:43]: [Shard] Writing save location file for (KU_3aPAZWmD)
+[01:30:09]: [200] Account Communication Success (6)
+[01:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:32:23]: [P2P] Session timed out for '76561198251790870'
+[01:32:23]: [P2P] Remove session: 11.208.30.149|1 '76561198251790870'
+[01:32:48]: [P2P] Session timed out for '76561198286499269'
+[01:32:48]: [P2P] Remove session: 11.208.30.148|1 '76561198286499269'
+[01:32:48]: [P2P] Session timed out for '76561198354843262'
+[01:32:48]: [P2P] Remove session: 11.208.30.147|1 '76561198354843262'
+[01:33:19]: Serializing world: session/537C5C69FFB19629/0000000492
+[01:33:19]: Truncating to snapshot #492...
+[01:33:19]:  - session/537C5C69FFB19629/0000000478
+[01:33:19]:  - session/537C5C69FFB19629/0000000481
+[01:33:19]:  - session/537C5C69FFB19629/0000000486
+[01:33:19]:  - session/537C5C69FFB19629/0000000485
+[01:33:19]:  - session/537C5C69FFB19629/0000000477
+[01:33:19]:  - session/537C5C69FFB19629/0000000482
+[01:33:19]:  - session/537C5C69FFB19629/0000000480
+[01:33:19]:  - session/537C5C69FFB19629/0000000484
+[01:33:19]:  - session/537C5C69FFB19629/0000000479
+[01:33:19]:  - session/537C5C69FFB19629/0000000476
+[01:33:19]:  - session/537C5C69FFB19629/0000000483
+[01:33:19]:  - session/537C5C69FFB19629/0000000475
+[01:33:19]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000472
+[01:33:19]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000465
+[01:33:19]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000477
+[01:33:19]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000476
+[01:33:19]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000475
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000486
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000485
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000484
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000483
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000482
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000481
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000479
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000478
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000477
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000476
+[01:33:19]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000475
+[01:33:19]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000486
+[01:33:19]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000475
+[01:33:19]:    30 file(s) removed
+[01:38:35]: [P2P] Session timed out for '76561198189824466'
+[01:38:35]: [P2P] Remove session: 11.208.30.146|1 '76561198189824466'
+[01:41:20]: Serializing world: session/537C5C69FFB19629/0000000493
+[01:41:20]: Truncating to snapshot #493...
+[01:41:20]:  - session/537C5C69FFB19629/0000000487
+[01:41:20]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000487
+[01:41:20]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000487
+[01:41:20]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000487
+[01:41:20]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000487
+[01:41:20]:    5 file(s) removed
