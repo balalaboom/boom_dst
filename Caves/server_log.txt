@@ -651,3 +651,20 @@
 [01:41:20]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000493
 [01:41:20]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000493
 [01:41:20]: Serializing world: session/5C44BECFFFC07A2A/0000000493
+[01:47:26]: Could not find anim [idle_loop] in bank [ghost]
+[01:47:29]: Could not find anim [transform] in bank [wilson]
+[01:47:30]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000494
+[01:49:20]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000494
+[01:49:20]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000494
+[01:49:20]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000494
+[01:49:20]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000494
+[01:49:21]: Serializing world: session/5C44BECFFFC07A2A/0000000494
+[01:52:36]: KU_TtsjKcrU	running text command:	flex	true	
+[01:53:37]: KU_TtsjKcrU	running text command:	flex	true	
+[01:54:22]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000495
+[01:54:22]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000495
+[01:54:22]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000495
+[01:54:22]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000495
+[01:54:22]: Serializing world: session/5C44BECFFFC07A2A/0000000495
+[01:54:51]: KU_TtsjKcrU	running text command:	swoon	true	
+[01:54:54]: KU_TtsjKcrU	running text command:	carol	true	
