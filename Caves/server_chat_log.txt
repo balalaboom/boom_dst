@@ -2,3 +2,12 @@
 [00:40:36]: [Join Announcement] balalaboom
 [00:50:45]: [Join Announcement] 提爾詩
 [00:50:47]: [Join Announcement] AierLuosen
+[00:57:18]: [Say] (KU_3aPAZWmD) ルビー:  I have 42 青蛙腿s.
+[00:58:30]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 32 繩子s.
+[01:00:09]: [Say] (KU_3aPAZWmD) ルビー:  I have 74 青蛙腿s.
+[01:00:12]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 47 青蛙腿s.
+[01:04:29]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:04:31]: [Say] (KU_3aPAZWmD) ルビー:  I have 164 青蛙腿s.
+[01:07:08]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 55 青蛙腿s.
+[01:10:07]: [Say] (KU_TtsjKcrU) AierLuosen:  I have a 暗影心臟.
+[01:18:29]: [Skin Announcement] balalaboom mysterybox_classic_4

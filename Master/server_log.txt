@@ -579,3 +579,26 @@
 [00:53:15]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000487
 [00:53:15]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000487
 [00:53:16]: Serializing world: session/537C5C69FFB19629/0000000487
+[01:00:09]: [200] Account Communication Success (6)
+[01:00:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:01:16]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000488
+[01:01:16]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000488
+[01:01:16]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000488
+[01:01:16]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000488
+[01:01:16]: Serializing world: session/537C5C69FFB19629/0000000488
+[01:08:21]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:09:01]: KU_TtsjKcrU	running text command:	carol	true	
+[01:09:15]: KU_TtsjKcrU	running text command:	carol	true	
+[01:09:15]: KU_uGVY9zVB	running text command:	step	true	
+[01:09:17]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000489
+[01:09:17]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000489
+[01:09:17]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000489
+[01:09:17]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000489
+[01:09:17]: Serializing world: session/537C5C69FFB19629/0000000489
+[01:09:49]: KU_TtsjKcrU	running text command:	flex	true	
+[01:16:59]: KU_TtsjKcrU	running text command:	carol	true	
+[01:17:17]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000490
+[01:17:17]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000490
+[01:17:17]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000490
+[01:17:17]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000490
+[01:17:18]: Serializing world: session/537C5C69FFB19629/0000000490
