@@ -14,3 +14,5 @@
 [01:39:56]: [Death Announcement] balalaboom 死亡，死因： 深淵蠕蟲。她變成了一個令人毛骨悚然的鬼！
 [01:47:26]: [Resurrect Announcement] balalaboom 復活自 ルビー.
 [01:53:44]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 19 火龍果派s.
+[02:01:35]: [Death Announcement] AierLuosen 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
+[02:01:42]: [Resurrect Announcement] AierLuosen 復活自 重生護符.

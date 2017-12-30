@@ -716,3 +716,55 @@
 [01:54:23]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000489
 [01:54:23]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000489
 [01:54:23]:    5 file(s) removed
+[01:57:22]: Serializing world: session/537C5C69FFB19629/0000000496
+[01:57:22]: Truncating to snapshot #496...
+[01:57:22]:  - session/537C5C69FFB19629/0000000490
+[01:57:22]:  - session/537C5C69FFB19629/A7HD5D17G66B/0000000490
+[01:57:22]:  - session/537C5C69FFB19629/A7JNFMML4RAU/0000000490
+[01:57:22]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000490
+[01:57:22]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000490
+[01:57:22]:    5 file(s) removed
+[01:58:24]: Serializing world: session/537C5C69FFB19629/0000000497
+[01:58:24]: Truncating to snapshot #497...
+[01:58:24]:  - session/537C5C69FFB19629/0000000491
+[01:58:24]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000491
+[01:58:24]:    2 file(s) removed
+[02:00:09]: [200] Account Communication Success (6)
+[02:00:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:05:23]: Serializing world: session/537C5C69FFB19629/0000000498
+[02:05:23]: Truncating to snapshot #498...
+[02:05:23]:  - session/537C5C69FFB19629/0000000492
+[02:05:23]:    1 file(s) removed
+[02:09:43]: [Shard] Begin migration #5 for (KU_TtsjKcrU)
+[02:09:43]: [Shard] #5 Caves(2560562348) -> [SHDMASTER](1)
+[02:09:43]: [Shard] #5 -> session/537C5C69FFB19629/A7JNFMML4RAU/0000000499
+[02:09:43]: [Shard] Received migration #5 data for (KU_TtsjKcrU)
+[02:09:44]: [Shard] (KU_TtsjKcrU) disconnected from Caves(2560562348)
+[02:09:53]: [P2P] Create session: 11.208.30.150|1 '76561198251790870'
+[02:09:53]: [P2P] Received from 11.208.30.150|1 '76561198251790870'
+[02:09:53]: [P2P] Sent to 11.208.30.150|1 '76561198251790870'
+[02:09:54]: New incoming connection 11.208.30.150|1 <6344555583428545644>
+[02:09:54]: Client connected from 11.208.30.150|1 <6344555583428545644>
+[02:09:54]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^lhW/1G4TLYIk2nfJ5LMsnaUVGO/1YatFnkhcwcoVQUk= for <6344555583428545644>
+[02:09:55]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[02:09:55]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[02:09:55]: [Steam] Authenticated client '76561198251790870'
+[02:09:55]: [Shard] Completed incoming migration #5 for (KU_TtsjKcrU)
+[02:09:55]: [Shard] Completed migration #5 for player (KU_TtsjKcrU)
+[02:09:55]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[02:10:08]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000499
+[02:10:08]: Player will spawn close to portal #1	
+[02:10:08]: Spawning player at: [Load] (-6.57, 0.00, 469.48)	
+[02:13:24]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000499
+[02:13:24]: Serializing world: session/537C5C69FFB19629/0000000499
+[02:13:33]: Activating portal[1] to 2560562348	
+[02:13:33]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000500
+[02:13:33]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(2560562348)
+[02:13:33]: [Shard] Begin migration #6 for (KU_TtsjKcrU)
+[02:13:33]: [Shard] #6 [SHDMASTER](1) -> Caves(2560562348)
+[02:13:33]: [Shard] #6 <- session/537C5C69FFB19629/A7JNFMML4RAU/0000000500
+[02:13:33]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:13:33]: [Steam] SendUserDisconnect for '76561198251790870'
+[02:13:33]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[02:13:45]: [Shard] Completed migration #6 for player (KU_TtsjKcrU)
+[02:13:45]: [Shard] Writing save location file for (KU_TtsjKcrU)

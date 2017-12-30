@@ -668,3 +668,67 @@
 [01:54:22]: Serializing world: session/5C44BECFFFC07A2A/0000000495
 [01:54:51]: KU_TtsjKcrU	running text command:	swoon	true	
 [01:54:54]: KU_TtsjKcrU	running text command:	carol	true	
+[01:55:06]: KU_3aPAZWmD	running text command:	carol	true	
+[01:55:32]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:55:43]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:55:50]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:55:52]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:55:55]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:55:57]: KU_BIj2U1ZB	running text command:	carol	true	
+[01:57:22]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000496
+[01:57:22]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000496
+[01:57:22]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000496
+[01:57:22]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000496
+[01:57:22]: Serializing world: session/5C44BECFFFC07A2A/0000000496
+[01:58:23]: RemoteCommandInput: "c_save()"
+[01:58:24]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000497
+[01:58:24]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000497
+[01:58:24]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000497
+[01:58:24]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000497
+[01:58:24]: Serializing world: session/5C44BECFFFC07A2A/0000000497
+[02:00:09]: [200] Account Communication Success (6)
+[02:00:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:01:35]: Could not find anim [death] in bank [ghost]
+[02:01:35]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000498
+[02:01:42]: Could not find anim [idle_loop] in bank [ghost]
+[02:01:45]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000498
+[02:05:23]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000498
+[02:05:23]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000498
+[02:05:23]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000498
+[02:05:23]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000498
+[02:05:23]: Serializing world: session/5C44BECFFFC07A2A/0000000498
+[02:09:43]: Activating portal[1] to 1	
+[02:09:43]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000499
+[02:09:43]: [Shard] Migration request: (KU_TtsjKcrU) to [SHDMASTER](1)
+[02:09:43]: [Shard] #5 <- session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000499
+[02:09:43]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:09:44]: [Steam] SendUserDisconnect for '76561198251790870'
+[02:11:21]: KU_BIj2U1ZB	running text command:	step	true	
+[02:13:24]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000499
+[02:13:24]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000499
+[02:13:24]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000499
+[02:13:24]: Serializing world: session/5C44BECFFFC07A2A/0000000499
+[02:13:33]: [Shard] #6 -> session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000500
+[02:13:33]: [Shard] Received migration #6 data for (KU_TtsjKcrU)
+[02:13:43]: [P2P] Received from 11.208.112.71|1 '76561198251790870'
+[02:13:43]: [P2P] Sent to 11.208.112.71|1 '76561198251790870'
+[02:13:44]: New incoming connection 11.208.112.71|1 <1175746386328089218>
+[02:13:44]: Client connected from 11.208.112.71|1 <1175746386328089218>
+[02:13:44]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^zIcX6cJ9XhBB8V06oRSPD2CPLmofcSz+/CZnJGED3rw= for <1175746386328089218>
+[02:13:44]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[02:13:45]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[02:13:45]: [Steam] Authenticated client '76561198251790870'
+[02:13:45]: [Shard] Completed incoming migration #6 for (KU_TtsjKcrU)
+[02:13:58]: Resuming user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000500
+[02:13:58]: Player will spawn close to portal #1	
+[02:13:58]: Spawning player at: [Load] (361.93, 0.00, -265.26)	
+[02:14:18]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:14:20]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:14:21]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:14:24]: KU_BIj2U1ZB	running text command:	fistshake	true	
+[02:14:37]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:16:48]: KU_BIj2U1ZB	running text command:	rude	true	
+[02:16:51]: KU_BIj2U1ZB	running text command:	shrug	true	
+[02:16:55]: KU_BIj2U1ZB	running text command:	joy	true	
+[02:16:58]: KU_BIj2U1ZB	running text command:	dance	true	
+[02:18:49]: KU_BIj2U1ZB	running text command:	squat	true	
