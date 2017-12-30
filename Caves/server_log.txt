@@ -536,3 +536,11 @@
 [00:37:13]: Truncating to snapshot #485...
 [00:37:13]:  - session/5C44BECFFFC07A2A/0000000479
 [00:37:13]:    1 file(s) removed
+[00:45:14]: Serializing world: session/5C44BECFFFC07A2A/0000000486
+[00:45:14]: Truncating to snapshot #486...
+[00:45:14]:  - session/5C44BECFFFC07A2A/0000000480
+[00:45:14]:    1 file(s) removed
+[00:53:15]: Serializing world: session/5C44BECFFFC07A2A/0000000487
+[00:53:15]: Truncating to snapshot #487...
+[00:53:15]:  - session/5C44BECFFFC07A2A/0000000481
+[00:53:15]:    1 file(s) removed

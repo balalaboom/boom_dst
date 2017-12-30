@@ -543,3 +543,39 @@
 [00:40:30]: [Shard] Read save location file for (KU_uGVY9zVB)
 [00:40:37]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000475
 [00:40:37]: Spawning player at: [Load] (-136.09, 0.00, 548.76)	
+[00:45:14]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000486
+[00:45:14]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000486
+[00:45:15]: Serializing world: session/537C5C69FFB19629/0000000486
+[00:50:27]: [P2P] Session request for '76561198251790870'
+[00:50:31]: [P2P] Session request for '76561198286499269'
+[00:50:32]: [P2P] Create session: 11.208.30.148|1 '76561198286499269'
+[00:50:32]: [P2P] Received from 11.208.30.148|1 '76561198286499269'
+[00:50:32]: [P2P] Sent to 11.208.30.148|1 '76561198286499269'
+[00:50:32]: New incoming connection 11.208.30.148|1 <7451239045479934936>
+[00:50:32]: Client connected from 11.208.30.148|1 <7451239045479934936>
+[00:50:32]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^xa1Uy7gNXwz1axWzN3yJUevX2Ley1gi+5e9jp7UnduM= for <7451239045479934936>
+[00:50:33]: [P2P] Create session: 11.208.30.149|1 '76561198251790870'
+[00:50:33]: [P2P] Received from 11.208.30.149|1 '76561198251790870'
+[00:50:33]: [P2P] Sent to 11.208.30.149|1 '76561198251790870'
+[00:50:33]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[00:50:33]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[00:50:33]: New incoming connection 11.208.30.149|1 <313302698901109701>
+[00:50:33]: Client connected from 11.208.30.149|1 <313302698901109701>
+[00:50:33]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^R3kbkZ1ur5jBmvf4FHNYlnY2K4cZJX4g1r9qfKcLe9A= for <313302698901109701>
+[00:50:33]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:50:33]: [Steam] Authenticated client '76561198286499269'
+[00:50:33]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:50:34]: [Steam] Authenticated client '76561198251790870'
+[00:50:36]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[00:50:36]: [Shard] Read save location file for (KU_TtsjKcrU)
+[00:50:47]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000472
+[00:50:47]: Spawning player at: [Load] (-131.33, -0.00, 546.85)	
+[00:50:49]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000465
+[00:50:49]: Spawning player at: [Load] (-111.94, -0.00, 521.04)	
+[00:51:12]: KU_TtsjKcrU	running text command:	flex	true	
+[00:51:52]: KU_TtsjKcrU	running text command:	flex	true	
+[00:53:15]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000487
+[00:53:15]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000487
+[00:53:15]: Serializing user: session/537C5C69FFB19629/A7HD5D17G66B/0000000487
+[00:53:15]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000487
+[00:53:16]: Serializing world: session/537C5C69FFB19629/0000000487
