@@ -533,3 +533,42 @@
 [00:09:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000513
 [00:09:21]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000513
 [00:09:22]: Serializing world: session/537C5C69FFB19629/0000000513
+[00:17:22]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000514
+[00:17:22]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000514
+[00:17:22]: Serializing world: session/537C5C69FFB19629/0000000514
+[00:21:06]: Could not find anim [death] in bank [ghost]
+[00:21:06]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000515
+[00:25:01]: Could not find anim [idle_loop] in bank [ghost]
+[00:25:03]: Could not find anim [transform] in bank [wilson]
+[00:25:05]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000515
+[00:25:23]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000515
+[00:25:23]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000515
+[00:25:23]: Serializing world: session/537C5C69FFB19629/0000000515
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:31:29]: RemoteCommandInput: "c_save()"
+[00:31:30]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000516
+[00:31:30]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000516
+[00:31:30]: Serializing world: session/537C5C69FFB19629/0000000516
+[00:32:06]: [Steam] SendUserDisconnect for '76561198354843262'
+[00:32:06]: Connection lost to 132.236.169.254|1 <2660313195120373051>
+[00:32:06]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[00:32:06]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000517
+[00:32:19]: [Steam] SendUserDisconnect for '76561198189824466'
+[00:32:19]: Connection lost to 132.236.169.255|1 <4188129418798625525>
+[00:32:19]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[00:32:20]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000517
+[00:32:20]: Sim paused
+[00:32:28]: World 2560562348 is now disconnected	
+[00:32:28]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[00:32:28]: Validating portal[4] <-> 2560562348[4] (inactive)	
+[00:32:28]: Validating portal[5] <-> 2560562348[5] (inactive)	
+[00:32:28]: Validating portal[2] <-> 2560562348[2] (inactive)	
+[00:32:28]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[00:32:28]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[00:32:28]: Validating portal[10] <-> 2560562348[10] (inactive)	
+[00:32:28]: Validating portal[1] <-> 2560562348[1] (inactive)	
+[00:32:28]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[00:32:28]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[00:32:28]: [Shard] A slave has disconnected: 'Caves(2560562348)'
+[00:32:57]: [P2P] Connection failed for '76561198354843262'
