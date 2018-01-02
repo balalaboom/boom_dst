@@ -1187,3 +1187,56 @@
 [03:44:09]: Truncating to snapshot #546...
 [03:44:09]:  - session/5C44BECFFFC07A2A/0000000540
 [03:44:09]:    1 file(s) removed
+[03:52:10]: Serializing world: session/5C44BECFFFC07A2A/0000000547
+[03:52:10]: Truncating to snapshot #547...
+[03:52:10]:  - session/5C44BECFFFC07A2A/0000000541
+[03:52:10]:    1 file(s) removed
+[03:58:00]: RemoteCommandInput: "c_announce"伺服器我先關10分鐘.用一下網路""
+[03:58:21]: RemoteCommandInput: "c_save()"
+[03:58:22]: Serializing world: session/5C44BECFFFC07A2A/0000000548
+[03:58:22]: Truncating to snapshot #548...
+[03:58:22]:  - session/5C44BECFFFC07A2A/0000000542
+[03:58:22]:    1 file(s) removed
+[03:58:35]: Sim paused
+[03:58:41]: Sim unpaused
+[03:58:43]: Serializing world: session/5C44BECFFFC07A2A/0000000549
+[03:58:43]: Truncating to snapshot #549...
+[03:58:43]:  - session/5C44BECFFFC07A2A/0000000543
+[03:58:43]:    1 file(s) removed
+[03:58:43]: Sim paused
+[03:58:55]: RemoteCommandInput: "c_shutdown()"
+[03:58:55]: c_shutdown	nil	
+[03:58:55]: Serializing world: session/5C44BECFFFC07A2A/0000000550
+[03:58:55]: Truncating to snapshot #550...
+[03:58:55]:  - session/5C44BECFFFC07A2A/0000000544
+[03:58:55]:    1 file(s) removed
+[03:58:55]: unloading prefabs for mod MOD_workshop-362175979	
+[03:58:55]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:58:55]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:58:55]: unloading prefabs for mod MOD_workshop-378160973	
+[03:58:55]: unloading prefabs for mod MOD_workshop-362175979	
+[03:58:55]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:58:55]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:58:55]: unloading prefabs for mod MOD_workshop-378160973	
+[03:58:56]: Serializing world: session/5C44BECFFFC07A2A/0000000551
+[03:58:56]: Truncating to snapshot #551...
+[03:58:56]:  - session/5C44BECFFFC07A2A/0000000545
+[03:58:56]:    1 file(s) removed
+[03:58:56]: unloading prefabs for mod MOD_workshop-362175979	
+[03:58:56]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:58:56]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:58:56]: unloading prefabs for mod MOD_workshop-378160973	
+[03:58:57]: [Shard] Stopping shard mode
+[03:58:57]: Collecting garbage...
+[03:58:58]: lua_gc took 0.37 seconds
+[03:58:58]: ~ShardLuaProxy()
+[03:58:58]: ~ItemServerLuaProxy()
+[03:58:58]: ~InventoryLuaProxy()
+[03:58:58]: ~NetworkLuaProxy()
+[03:58:58]: ~SimLuaProxy()
+[03:58:58]: lua_close took 0.41 seconds
+[03:58:58]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:58:58]: shaders/ui_yuv.ksh - 1
+[03:58:58]: CurlRequestManager::ClientThread::Main() complete
+[03:58:58]: HttpClient2 discarded 0 callbacks.
+[03:58:58]: Shutting down

@@ -78,3 +78,8 @@
 [03:37:48]: [Say] (KU_uGVY9zVB) balalaboom: 你們可以先下去清遺跡
 [03:38:01]: [Leave Announcement] balalaboom
 [03:45:51]: [Say] (KU_VOig0Obi) 阿薩謝爾:  I have 2 tam o' shanters, and this one has 100% durability.
+[03:56:27]: [Announcement] 有打克勞斯嗎?
+[03:58:00]: [Announcement] 伺服器我先關10分鐘.用一下網路
+[03:58:05]: [Say] (KU_3aPAZWmD) ルビー: OK
+[03:58:25]: [Leave Announcement] 阿薩謝爾
+[03:58:35]: [Leave Announcement] ルビー

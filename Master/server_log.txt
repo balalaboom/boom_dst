@@ -1284,3 +1284,121 @@
 [03:44:10]: Serializing world: session/537C5C69FFB19629/0000000546
 [03:48:01]: [P2P] Session timed out for '76561198354843262'
 [03:48:01]: [P2P] Remove session: 35.193.24.170|1 '76561198354843262'
+[03:52:10]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000547
+[03:52:10]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000547
+[03:52:11]: Serializing world: session/537C5C69FFB19629/0000000547
+[03:56:27]: RemoteCommandInput: "c_announce"有打克勞斯嗎?""
+[03:58:22]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000548
+[03:58:22]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000548
+[03:58:23]: Serializing world: session/537C5C69FFB19629/0000000548
+[03:58:25]: [Steam] SendUserDisconnect for '76561198196213781'
+[03:58:25]: Connection lost to 35.193.24.173|1 <6212734255548758581>
+[03:58:25]: [Shard] (KU_VOig0Obi) disconnected from [SHDMASTER](1)
+[03:58:25]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000549
+[03:58:35]: [Steam] SendUserDisconnect for '76561198189824466'
+[03:58:35]: Connection lost to 35.193.24.171|1 <8079867631919929129>
+[03:58:35]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[03:58:35]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000549
+[03:58:35]: Sim paused
+[03:58:41]: RemoteCommandInput: "c_save()"
+[03:58:41]: Sim unpaused
+[03:58:43]: Serializing world: session/537C5C69FFB19629/0000000549
+[03:58:43]: Truncating to snapshot #549...
+[03:58:43]:  - session/537C5C69FFB19629/0000000537
+[03:58:43]:  - session/537C5C69FFB19629/0000000530
+[03:58:43]:  - session/537C5C69FFB19629/0000000540
+[03:58:43]:  - session/537C5C69FFB19629/0000000535
+[03:58:43]:  - session/537C5C69FFB19629/0000000541
+[03:58:43]:  - session/537C5C69FFB19629/0000000531
+[03:58:43]:  - session/537C5C69FFB19629/0000000533
+[03:58:43]:  - session/537C5C69FFB19629/0000000539
+[03:58:43]:  - session/537C5C69FFB19629/0000000534
+[03:58:43]:  - session/537C5C69FFB19629/0000000542
+[03:58:43]:  - session/537C5C69FFB19629/0000000538
+[03:58:43]:  - session/537C5C69FFB19629/0000000543
+[03:58:43]:  - session/537C5C69FFB19629/0000000536
+[03:58:43]:  - session/537C5C69FFB19629/0000000532
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000543
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000542
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000541
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000540
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000539
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000538
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000537
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000536
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000535
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000534
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000533
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000532
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000531
+[03:58:43]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000517
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000543
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000542
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000541
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000540
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000539
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000538
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000537
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000536
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000535
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000534
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000533
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000532
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000531
+[03:58:43]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000530
+[03:58:43]:    42 file(s) removed
+[03:58:43]: Sim paused
+[03:58:57]: World 2560562348 is now disconnected	
+[03:58:57]: Validating portal[5] <-> 2560562348[5] (inactive)	
+[03:58:57]: Validating portal[10] <-> 2560562348[10] (inactive)	
+[03:58:57]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[03:58:57]: Validating portal[4] <-> 2560562348[4] (inactive)	
+[03:58:57]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[03:58:57]: Validating portal[1] <-> 2560562348[1] (inactive)	
+[03:58:57]: Validating portal[2] <-> 2560562348[2] (inactive)	
+[03:58:57]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[03:58:57]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[03:58:57]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[03:58:57]: [Shard] A slave has disconnected: 'Caves(2560562348)'
+[03:59:00]: RemoteCommandInput: "c_shutdown()"
+[03:59:00]: c_shutdown	nil	
+[03:59:00]: Serializing world: session/537C5C69FFB19629/0000000550
+[03:59:00]: Truncating to snapshot #550...
+[03:59:00]:  - session/537C5C69FFB19629/0000000544
+[03:59:00]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000544
+[03:59:00]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000407
+[03:59:00]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000544
+[03:59:00]:    4 file(s) removed
+[03:59:00]: unloading prefabs for mod MOD_workshop-362175979	
+[03:59:00]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:59:00]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:59:00]: unloading prefabs for mod MOD_workshop-378160973	
+[03:59:00]: unloading prefabs for mod MOD_workshop-362175979	
+[03:59:00]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:59:00]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:59:00]: unloading prefabs for mod MOD_workshop-378160973	
+[03:59:01]: Serializing world: session/537C5C69FFB19629/0000000551
+[03:59:01]: Truncating to snapshot #551...
+[03:59:01]:  - session/537C5C69FFB19629/0000000545
+[03:59:01]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000545
+[03:59:01]:  - session/537C5C69FFB19629/A7JTHCL032BC/0000000545
+[03:59:01]:  - session/537C5C69FFB19629/A7N10VH2FLUB/0000000545
+[03:59:01]:    4 file(s) removed
+[03:59:01]: unloading prefabs for mod MOD_workshop-362175979	
+[03:59:01]: unloading prefabs for mod MOD_workshop-1111711682	
+[03:59:01]: unloading prefabs for mod MOD_workshop-1242093526	
+[03:59:01]: unloading prefabs for mod MOD_workshop-378160973	
+[03:59:02]: [Shard] Stopping shard mode
+[03:59:03]: Collecting garbage...
+[03:59:04]: lua_gc took 0.79 seconds
+[03:59:04]: ~ShardLuaProxy()
+[03:59:04]: ~ItemServerLuaProxy()
+[03:59:04]: ~InventoryLuaProxy()
+[03:59:04]: ~NetworkLuaProxy()
+[03:59:04]: ~SimLuaProxy()
+[03:59:05]: lua_close took 0.99 seconds
+[03:59:05]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:59:05]: shaders/ui_yuv.ksh - 1
+[03:59:05]: CurlRequestManager::ClientThread::Main() complete
+[03:59:05]: HttpClient2 discarded 1 callbacks.
+[03:59:05]: Shutting down
