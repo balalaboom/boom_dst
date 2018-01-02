@@ -564,3 +564,39 @@
 [00:08:53]: Serializing world: session/537C5C69FFB19629/0000000517
 [00:16:53]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000518
 [00:16:53]: Serializing world: session/537C5C69FFB19629/0000000518
+[00:22:01]: [P2P] Session request for '76561198251790870'
+[00:22:05]: [P2P] Create session: 105.98.158.203|1 '76561198251790870'
+[00:22:05]: [P2P] Received from 105.98.158.203|1 '76561198251790870'
+[00:22:05]: [P2P] Sent to 105.98.158.203|1 '76561198251790870'
+[00:22:18]: New incoming connection 105.98.158.203|1 <1937806401580831377>
+[00:22:18]: Client connected from 105.98.158.203|1 <1937806401580831377>
+[00:22:18]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^sCSplQl5N2yB5QUqkFqdDh7lbGGPu9xXKMiJ4ViWcp0= for <1937806401580831377>
+[00:22:19]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:22:19]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:22:19]: [Steam] Authenticated client '76561198251790870'
+[00:22:22]: [Shard] Read save location file for (KU_TtsjKcrU)
+[00:22:34]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000509
+[00:22:34]: Spawning player at: [Load] (-123.53, -0.00, 530.67)	
+[00:22:44]: Could not find anim [death] in bank [ghost]
+[00:22:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000519
+[00:23:38]: Could not find anim [idle_loop] in bank [ghost]
+[00:23:41]: Could not find anim [transform] in bank [wilson]
+[00:23:42]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000519
+[00:24:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000519
+[00:24:54]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000519
+[00:24:55]: Serializing world: session/537C5C69FFB19629/0000000519
+[00:25:33]: KU_TtsjKcrU	running text command:	flex	true	
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:32:55]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000520
+[00:32:55]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000520
+[00:32:56]: Serializing world: session/537C5C69FFB19629/0000000520
+[00:39:21]: KU_TtsjKcrU	running text command:	flex	true	
+[00:39:27]: KU_uGVY9zVB	running text command:	flex	true	
+[00:39:29]: KU_TtsjKcrU	running text command:	flex	true	
+[00:40:51]: KU_TtsjKcrU	running text command:	flex	true	
+[00:40:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000521
+[00:40:56]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000521
+[00:40:56]: Serializing world: session/537C5C69FFB19629/0000000521
+[00:41:09]: KU_TtsjKcrU	running text command:	flex	true	
+[00:41:42]: KU_TtsjKcrU	running text command:	flex	true	
