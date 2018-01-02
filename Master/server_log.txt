@@ -829,3 +829,20 @@
 [00:14:02]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
 [00:14:03]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000526
 [00:14:03]: Sim paused
+[00:18:55]: [P2P] Received from 35.193.24.169|1 '76561198354843262'
+[00:18:55]: [P2P] Sent to 35.193.24.169|1 '76561198354843262'
+[00:18:55]: New incoming connection 35.193.24.169|1 <6205398625671768861>
+[00:18:55]: Client connected from 35.193.24.169|1 <6205398625671768861>
+[00:18:55]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^d0zeTkSMDpGeqsEJ7ePo57cQjh+UZLhABO1dfsRIyFk= for <6205398625671768861>
+[00:18:55]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[00:18:55]: [Steam] Authenticated host '76561198354843262'
+[00:18:58]: [Shard] Read save location file for (KU_uGVY9zVB)
+[00:19:08]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000526
+[00:19:08]: Spawning player at: [Load] (-116.46, -0.00, 526.96)	
+[00:19:08]: Sim unpaused
+[00:22:22]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000526
+[00:22:22]: Serializing world: session/537C5C69FFB19629/0000000526
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:30:23]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000527
+[00:30:23]: Serializing world: session/537C5C69FFB19629/0000000527

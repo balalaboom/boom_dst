@@ -800,3 +800,14 @@
 [00:09:17]: Validating portal[9] <-> 1[9] (active)	
 [00:09:17]: Validating portal[7] <-> 1[7] (active)	
 [00:14:03]: Sim paused
+[00:19:08]: Sim unpaused
+[00:22:22]: Serializing world: session/5C44BECFFFC07A2A/0000000526
+[00:22:22]: Truncating to snapshot #526...
+[00:22:22]:  - session/5C44BECFFFC07A2A/0000000520
+[00:22:22]:    1 file(s) removed
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:30:23]: Serializing world: session/5C44BECFFFC07A2A/0000000527
+[00:30:23]: Truncating to snapshot #527...
+[00:30:23]:  - session/5C44BECFFFC07A2A/0000000521
+[00:30:23]:    1 file(s) removed
