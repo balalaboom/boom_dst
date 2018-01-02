@@ -11,3 +11,13 @@
 [01:43:55]: [Say] (KU_uGVY9zVB) balalaboom: 剩2天進冬天
 [01:44:04]: [Say] (KU_3aPAZWmD) ルビー: OK
 [01:48:37]: [Say] (KU_uGVY9zVB) balalaboom: 狗
+[01:57:09]: [Skin Announcement] balalaboom mysterybox_classic_4
+[01:57:40]: [Say] (KU_uGVY9zVB) balalaboom: 我先去採一些蘆葦
+[01:57:46]: [Say] (KU_3aPAZWmD) ルビー: 好的
+[02:05:03]: [Say] (KU_uGVY9zVB) balalaboom: 新月!!!!
+[02:05:13]: [Say] (KU_uGVY9zVB) balalaboom: 做雕像
+[02:05:23]: [Say] (KU_3aPAZWmD) ルビー: 我一個人打不贏三人種 OAO
+[02:05:29]: [Say] (KU_uGVY9zVB) balalaboom: 我回去幫打
+[02:05:33]: [Say] (KU_uGVY9zVB) balalaboom: 先做
+[02:07:21]: [Say] (KU_uGVY9zVB) balalaboom: 再一次XD
+[02:07:26]: [Say] (KU_3aPAZWmD) ルビー: 好喔
