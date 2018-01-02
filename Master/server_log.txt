@@ -589,3 +589,29 @@
 [00:31:38]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000560
 [00:31:38]: Player will spawn close to portal #1	
 [00:31:38]: Spawning player at: [Load] (-8.36, 0.00, 467.08)	
+[00:37:37]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000560
+[00:37:37]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000560
+[00:37:37]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000560
+[00:37:38]: Serializing world: session/537C5C69FFB19629/0000000560
+[00:44:26]: Could not find anim [death] in bank [ghost]
+[00:44:26]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000561
+[00:45:27]: Could not find anim [idle_loop] in bank [ghost]
+[00:45:30]: Could not find anim [transform] in bank [wilson]
+[00:45:31]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000561
+[00:45:38]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000561
+[00:45:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000561
+[00:45:38]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000561
+[00:45:39]: Serializing world: session/537C5C69FFB19629/0000000561
+[00:48:33]: Could not find anim [death] in bank [ghost]
+[00:48:33]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000562
+[00:48:40]: Could not find anim [idle_loop] in bank [ghost]
+[00:48:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000562
+[00:49:09]: Could not find anim [death] in bank [ghost]
+[00:49:09]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000562
+[00:53:39]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000562
+[00:53:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000562
+[00:53:39]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000562
+[00:53:39]: Serializing world: session/537C5C69FFB19629/0000000562
+[00:58:21]: Could not find anim [idle_loop] in bank [ghost]
+[00:58:24]: Could not find anim [transform] in bank [wilson]
+[00:58:25]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000563

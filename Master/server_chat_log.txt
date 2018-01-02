@@ -23,3 +23,43 @@
 [00:23:38]: [Say] (KU_uGVY9zVB) balalaboom: OKOK
 [00:23:52]: [Say] (KU_d2kn6_6v) chunen: 女王也不會咬蜘蛛帽隊吧
 [00:23:55]: [Say] (KU_d2kn6_6v) chunen: 怕怕的
+[00:40:02]: [Say] (KU_uGVY9zVB) balalaboom: 可以打克勞斯
+[00:40:04]: [Say] (KU_3aPAZWmD) ルビー: 要找袋子嗎?
+[00:40:13]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
+[00:41:27]: [Say] (KU_uGVY9zVB) balalaboom: 我要把我的小羊換小企雞
+[00:41:30]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[00:41:33]: [Say] (KU_3aPAZWmD) ルビー: XD
+[00:41:47]: [Say] (KU_3aPAZWmD) ルビー: 小羊88 QWQ
+[00:41:48]: [Say] (KU_uGVY9zVB) balalaboom: 有人被兔人追殺lol
+[00:42:01]: [Say] (KU_uGVY9zVB) balalaboom: 先去看一下材料.好像要雞冠
+[00:44:26]: [Death Announcement] chunen 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
+[00:44:34]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[00:44:41]: [Say] (KU_d2kn6_6v) chunen: 可惡,趁黑偷打我
+[00:44:51]: [Say] (KU_d2kn6_6v) chunen: 看來我不適合玩女站
+[00:44:58]: [Say] (KU_uGVY9zVB) balalaboom: 此時不打.更待何時?
+[00:45:19]: [Say] (KU_d2kn6_6v) chunen: 而且還是大嘴.最機車
+[00:45:27]: [Resurrect Announcement] chunen 復活自 ルビー.
+[00:45:39]: [Say] (KU_uGVY9zVB) balalaboom: 要綜合堅果
+[00:48:33]: [Death Announcement] balalaboom 死亡，死因： 高腳鳥。她變成了一個令人毛骨悚然的鬼！
+[00:48:40]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[00:49:09]: [Death Announcement] balalaboom 死亡，死因： 高腳鳥。她變成了一個令人毛骨悚然的鬼！
+[00:49:13]: [Say] (KU_d2kn6_6v) chunen: @@
+[00:49:16]: [Say] (KU_uGVY9zVB) balalaboom: TAT
+[00:49:31]: [Say] (KU_uGVY9zVB) balalaboom: 東西在他們旁邊GG
+[00:49:39]: [Say] (KU_3aPAZWmD) ルビー: 你484想偷人家的蛋? =W=
+[00:49:48]: [Say] (KU_uGVY9zVB) balalaboom: (驚
+[00:50:03]: [Say] (KU_d2kn6_6v) chunen: 拿心臟還是蛋
+[00:50:03]: [Say] (KU_3aPAZWmD) ルビー: 我是說高腳鳥的 =W=
+[00:50:03]: [Say] (KU_uGVY9zVB) balalaboom: 是為了擷圖
+[00:50:10]: [Say] (KU_3aPAZWmD) ルビー: 喔喔
+[00:51:58]: [Say] (KU_uGVY9zVB) balalaboom: 有粽合堅果嗎?
+[00:52:06]: [Say] (KU_3aPAZWmD) ルビー: 沒
+[00:52:09]: [Say] (KU_d2kn6_6v) chunen: 沒有,要怎煮?
+[00:52:12]: [Say] (KU_uGVY9zVB) balalaboom: 幫我做一個來.拜託
+[00:52:19]: [Say] (KU_3aPAZWmD) ルビー: 沒砍樺樹 也沒漿果
+[00:52:32]: [Say] (KU_uGVY9zVB) balalaboom: 一個煮熟的樺樹果.加漿果
+[00:57:22]: [Say] (KU_3aPAZWmD) ルビー: 新月
+[00:57:29]: [Say] (KU_uGVY9zVB) balalaboom: >"<
+[00:57:35]: [Say] (KU_uGVY9zVB) balalaboom: 先打心臟
+[00:58:14]: [Say] (KU_3aPAZWmD) ルビー: 來不及
+[00:58:21]: [Resurrect Announcement] balalaboom 復活自 chunen.

@@ -322,3 +322,17 @@
 [01:01:02]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [01:01:02]: Ignored request to resume during migration
 [01:01:02]: [Steam] SendUserDisconnect for '76561198310003934'
+[01:07:22]: Serializing world: session/5C44BECFFFC07A2A/0000000560
+[01:07:22]: Truncating to snapshot #560...
+[01:07:22]:  - session/5C44BECFFFC07A2A/0000000553
+[01:07:22]:    1 file(s) removed
+[01:11:02]: [P2P] Session timed out for '76561198310003934'
+[01:11:02]: [P2P] Remove session: 34.92.168.52|1 '76561198310003934'
+[01:15:22]: Serializing world: session/5C44BECFFFC07A2A/0000000561
+[01:15:22]: Truncating to snapshot #561...
+[01:15:22]:  - session/5C44BECFFFC07A2A/0000000555
+[01:15:22]:    1 file(s) removed
+[01:23:23]: Serializing world: session/5C44BECFFFC07A2A/0000000562
+[01:23:23]: Truncating to snapshot #562...
+[01:23:23]:  - session/5C44BECFFFC07A2A/0000000556
+[01:23:23]:    1 file(s) removed
