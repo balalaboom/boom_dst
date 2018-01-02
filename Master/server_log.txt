@@ -675,3 +675,52 @@
 [01:33:43]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000567
 [01:33:43]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000567
 [01:33:43]: Serializing world: session/537C5C69FFB19629/0000000567
+[01:39:41]: [P2P] Session request for '76561198099860495'
+[01:39:45]: [P2P] Create session: 140.158.125.135|1 '76561198099860495'
+[01:39:45]: [P2P] Received from 140.158.125.135|1 '76561198099860495'
+[01:39:45]: [P2P] Sent to 140.158.125.135|1 '76561198099860495'
+[01:41:02]: Activating portal[1] to 2560562348	
+[01:41:03]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000568
+[01:41:03]: [Shard] Migration request: (KU_M673WWQo) to Caves(2560562348)
+[01:41:03]: [Shard] Begin migration #3 for (KU_M673WWQo)
+[01:41:03]: [Shard] #3 [SHDMASTER](1) -> Caves(2560562348)
+[01:41:03]: [Shard] #3 <- session/537C5C69FFB19629/A7IOC71O41LI/0000000568
+[01:41:03]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:41:03]: [Steam] SendUserDisconnect for '76561198211986697'
+[01:41:03]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[01:41:22]: [Shard] Completed migration #3 for player (KU_M673WWQo)
+[01:41:22]: [Shard] Writing save location file for (KU_M673WWQo)
+[01:41:43]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000568
+[01:41:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000568
+[01:41:43]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000568
+[01:41:44]: Serializing world: session/537C5C69FFB19629/0000000568
+[01:41:56]: KU_d2kn6_6v	running text command:	flex	true	
+[01:41:58]: KU_d2kn6_6v	running text command:	fistshake	true	
+[01:41:59]: KU_d2kn6_6v	running text command:	fistshake	true	
+[01:42:07]: KU_uGVY9zVB	running text command:	flex	true	
+[01:42:11]: KU_uGVY9zVB	running text command:	flex	true	
+[01:42:15]: [Steam] SendUserDisconnect for '76561198310003934'
+[01:42:15]: Connection lost to 140.158.125.133|1 <9104164007572338550>
+[01:42:15]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[01:42:15]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000569
+[01:42:27]: [Shard] (KU_M673WWQo) disconnected from Caves(2560562348)
+[01:42:28]: [Steam] SendUserDisconnect for '76561198354843262'
+[01:42:28]: Connection lost to 140.158.125.131|1 <7763427025203886209>
+[01:42:28]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[01:42:28]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000569
+[01:43:02]: [Steam] SendUserDisconnect for '76561198189824466'
+[01:43:02]: Connection lost to 140.158.125.132|1 <31317872972155666>
+[01:43:02]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[01:43:03]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000569
+[01:43:03]: Sim paused
+[01:43:42]: [P2P] Connection failed for '76561198310003934'
+[01:49:45]: [P2P] Session timed out for '76561198099860495'
+[01:49:45]: [P2P] Remove session: 140.158.125.135|1 '76561198099860495'
+[01:51:11]: [P2P] Session timed out for '76561198211986697'
+[01:51:11]: [P2P] Remove session: 140.158.125.134|1 '76561198211986697'
+[01:52:15]: [P2P] Session timed out for '76561198310003934'
+[01:52:15]: [P2P] Remove session: 140.158.125.133|1 '76561198310003934'
+[01:52:28]: [P2P] Session timed out for '76561198354843262'
+[01:52:28]: [P2P] Remove session: 140.158.125.131|1 '76561198354843262'
+[01:53:02]: [P2P] Session timed out for '76561198189824466'
+[01:53:02]: [P2P] Remove session: 140.158.125.132|1 '76561198189824466'

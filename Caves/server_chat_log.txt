@@ -143,3 +143,33 @@
 [02:00:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
 [02:01:59]: [Say] (KU_M673WWQo) 夜月夏目: 除了家上面 還有哪裡要砍?
 [02:02:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[02:04:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[02:05:00]: [Say] (KU_uGVY9zVB) balalaboom: 沒採的漿果
+[02:05:10]: [Say] (KU_uGVY9zVB) balalaboom: 在我面前變壞
+[02:05:24]: [Say] (KU_M673WWQo) 夜月夏目: ......
+[02:05:39]: [Say] (KU_uGVY9zVB) balalaboom: 都沒去碰它 >"<
+[02:06:02]: [Say] (KU_d2kn6_6v) chunen: 一秒變臭漿果
+[02:06:08]: [Say] (KU_uGVY9zVB) balalaboom: TAT
+[02:06:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[02:08:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[02:10:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[02:10:50]: [Say] (KU_uGVY9zVB) balalaboom: 2點了 lol
+[02:10:57]: [Say] (KU_uGVY9zVB) balalaboom: 我也要睡了
+[02:11:04]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[02:11:05]: [Say] (KU_d2kn6_6v) chunen: OK
+[02:11:05]: [Say] (KU_uGVY9zVB) balalaboom: 結果還是沒打到揪吉
+[02:11:12]: [Say] (KU_uGVY9zVB) balalaboom: 明天來打XD
+[02:11:14]: [Say] (KU_3aPAZWmD) ルビー: 人不夠
+[02:11:22]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[02:11:34]: [Say] (KU_d2kn6_6v) chunen: 那下囉
+[02:11:38]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
+[02:11:43]: [Say] (KU_uGVY9zVB) balalaboom: 大家晚安
+[02:11:47]: [Say] (KU_d2kn6_6v) chunen: 晚安
+[02:11:50]: [Say] (KU_M673WWQo) 夜月夏目: 喔
+[02:11:50]: [Say] (KU_3aPAZWmD) ルビー: 晚安
+[02:11:56]: [Say] (KU_M673WWQo) 夜月夏目: 晚安
+[02:11:59]: [Leave Announcement] chunen
+[02:12:11]: [Leave Announcement] 夜月夏目
+[02:12:12]: [Leave Announcement] balalaboom
+[02:12:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[02:12:46]: [Leave Announcement] ルビー

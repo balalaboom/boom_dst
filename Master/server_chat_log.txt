@@ -98,3 +98,28 @@
 [01:28:21]: [Join Announcement] 夜月夏目
 [01:30:21]: [Say] (KU_d2kn6_6v) chunen: 兔人被三階巢滅了orz滅,
 [01:32:15]: [Say] (KU_M673WWQo) 夜月夏目: 除了家上面 還有哪裡要砍?
+[01:35:16]: [Say] (KU_uGVY9zVB) balalaboom: 沒採的漿果
+[01:35:26]: [Say] (KU_uGVY9zVB) balalaboom: 在我面前變壞
+[01:35:40]: [Say] (KU_M673WWQo) 夜月夏目: ......
+[01:35:55]: [Say] (KU_uGVY9zVB) balalaboom: 都沒去碰它 >"<
+[01:36:18]: [Say] (KU_d2kn6_6v) chunen: 一秒變臭漿果
+[01:36:24]: [Say] (KU_uGVY9zVB) balalaboom: TAT
+[01:41:06]: [Say] (KU_uGVY9zVB) balalaboom: 2點了 lol
+[01:41:13]: [Say] (KU_uGVY9zVB) balalaboom: 我也要睡了
+[01:41:20]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[01:41:21]: [Say] (KU_d2kn6_6v) chunen: OK
+[01:41:21]: [Say] (KU_uGVY9zVB) balalaboom: 結果還是沒打到揪吉
+[01:41:28]: [Say] (KU_uGVY9zVB) balalaboom: 明天來打XD
+[01:41:30]: [Say] (KU_3aPAZWmD) ルビー: 人不夠
+[01:41:38]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[01:41:50]: [Say] (KU_d2kn6_6v) chunen: 那下囉
+[01:41:54]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
+[01:41:59]: [Say] (KU_uGVY9zVB) balalaboom: 大家晚安
+[01:42:03]: [Say] (KU_d2kn6_6v) chunen: 晚安
+[01:42:06]: [Say] (KU_M673WWQo) 夜月夏目: 喔
+[01:42:06]: [Say] (KU_3aPAZWmD) ルビー: 晚安
+[01:42:12]: [Say] (KU_M673WWQo) 夜月夏目: 晚安
+[01:42:15]: [Leave Announcement] chunen
+[01:42:27]: [Leave Announcement] 夜月夏目
+[01:42:28]: [Leave Announcement] balalaboom
+[01:43:02]: [Leave Announcement] ルビー
