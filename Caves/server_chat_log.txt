@@ -77,3 +77,4 @@
 [03:37:45]: [Say] (KU_3aPAZWmD) ルビー: 好窩
 [03:37:48]: [Say] (KU_uGVY9zVB) balalaboom: 你們可以先下去清遺跡
 [03:38:01]: [Leave Announcement] balalaboom
+[03:45:51]: [Say] (KU_VOig0Obi) 阿薩謝爾:  I have 2 tam o' shanters, and this one has 100% durability.
