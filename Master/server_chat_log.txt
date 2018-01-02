@@ -63,3 +63,31 @@
 [00:57:35]: [Say] (KU_uGVY9zVB) balalaboom: 先打心臟
 [00:58:14]: [Say] (KU_3aPAZWmD) ルビー: 來不及
 [00:58:21]: [Resurrect Announcement] balalaboom 復活自 chunen.
+[01:01:03]: [Say] (KU_d2kn6_6v) chunen: 沒木甲31寫0口0
+[01:02:49]: [Death Announcement] ルビー 死亡，死因： 暗影主教。他變成了一個令人毛骨悚然的鬼！
+[01:03:27]: [Say] (KU_d2kn6_6v) chunen: 13HP
+[01:03:30]: [Say] (KU_d2kn6_6v) chunen: 拉掉吧
+[01:03:36]: [Say] (KU_3aPAZWmD) ルビー: 消失了
+[01:03:51]: [Join Announcement] 夜月夏目
+[01:05:48]: [Resurrect Announcement] ルビー 復活自 夜月夏目.
+[01:05:56]: [Say] (KU_3aPAZWmD) ルビー: 3Q
+[01:06:47]: [Say] (KU_M673WWQo) 夜月夏目: 我有要幫什麼嗎?
+[01:06:55]: [Say] (KU_3aPAZWmD) ルビー: 砍樹
+[01:08:22]: [Say] (KU_M673WWQo) 夜月夏目: 雨傘要放哪?
+[01:08:32]: [Say] (KU_d2kn6_6v) chunen: 5k4
+[01:08:39]: [Say] (KU_uGVY9zVB) balalaboom: 下面農場的柵欄旁
+[01:08:46]: [Say] (KU_M673WWQo) 夜月夏目: 恩
+[01:12:25]: [Say] (KU_uGVY9zVB) balalaboom: 98
+[01:16:17]: [Say] (KU_d2kn6_6v) chunen: 樹枝生病
+[01:16:41]: [Say] (KU_uGVY9zVB) balalaboom: 狗
+[01:16:50]: [Say] (KU_3aPAZWmD) ルビー: 處理阿
+[01:17:02]: [Say] (KU_d2kn6_6v) chunen: 我要叫鏟子
+[01:17:11]: [Say] (KU_d2kn6_6v) chunen: 狗就來了orz
+[01:17:17]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[01:17:45]: [Say] (KU_M673WWQo) 夜月夏目: 為甚麼我的狗特別晚來?
+[01:18:00]: [Say] (KU_uGVY9zVB) balalaboom: 住比較遠?
+[01:19:28]: [Leave Announcement] 夜月夏目
+[01:20:33]: [Say] (KU_d2kn6_6v) chunen: 無眼鹿很靠背,我在挖就黏過來狂黨
+[01:20:49]: [Say] (KU_d2kn6_6v) chunen: 挖完全立刻跑光光
+[01:20:59]: [Say] (KU_d2kn6_6v) chunen: 專門跑過來擋我的
+[01:22:10]: [Say] (KU_d2kn6_6v) chunen: BOOM,高鳥蛋塞哪

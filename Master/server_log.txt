@@ -615,3 +615,41 @@
 [00:58:21]: Could not find anim [idle_loop] in bank [ghost]
 [00:58:24]: Could not find anim [transform] in bank [wilson]
 [00:58:25]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000563
+[01:00:04]: [200] Account Communication Success (6)
+[01:00:04]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:01:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000563
+[01:01:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000563
+[01:01:40]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000563
+[01:01:40]: Serializing world: session/537C5C69FFB19629/0000000563
+[01:02:49]: Could not find anim [death] in bank [ghost]
+[01:02:49]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000564
+[01:03:16]: [P2P] Session request for '76561198211986697'
+[01:03:21]: [P2P] Create session: 140.158.125.134|1 '76561198211986697'
+[01:03:21]: [P2P] Received from 140.158.125.134|1 '76561198211986697'
+[01:03:21]: [P2P] Sent to 140.158.125.134|1 '76561198211986697'
+[01:03:22]: New incoming connection 140.158.125.134|1 <3326755963601161971>
+[01:03:22]: Client connected from 140.158.125.134|1 <3326755963601161971>
+[01:03:22]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^8NKTWBIKBx6ZKImW4Z432aAHMhxFqwIZJ2dzyIaCPyM= for <3326755963601161971>
+[01:03:22]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[01:03:22]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[01:03:23]: [Steam] Authenticated client '76561198211986697'
+[01:03:25]: [Shard] Read save location file for (KU_M673WWQo)
+[01:03:52]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000478
+[01:03:52]: Spawning player at: [Load] (33.46, -0.00, 447.91)	
+[01:05:48]: Could not find anim [idle_loop] in bank [ghost]
+[01:05:51]: Could not find anim [transform] in bank [wilson]
+[01:05:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000564
+[01:09:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000564
+[01:09:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000564
+[01:09:41]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000564
+[01:09:41]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000564
+[01:09:41]: Serializing world: session/537C5C69FFB19629/0000000564
+[01:17:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000565
+[01:17:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000565
+[01:17:41]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000565
+[01:17:41]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000565
+[01:17:42]: Serializing world: session/537C5C69FFB19629/0000000565
+[01:19:28]: [Steam] SendUserDisconnect for '76561198211986697'
+[01:19:28]: Connection lost to 140.158.125.134|1 <3326755963601161971>
+[01:19:28]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[01:19:28]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000566

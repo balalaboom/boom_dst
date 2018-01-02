@@ -90,3 +90,43 @@
 [01:27:19]: [Say] (KU_uGVY9zVB) balalaboom: 先打心臟
 [01:27:58]: [Say] (KU_3aPAZWmD) ルビー: 來不及
 [01:28:05]: [Resurrect Announcement] balalaboom 復活自 chunen.
+[01:28:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:30:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:30:47]: [Say] (KU_d2kn6_6v) chunen: 沒木甲31寫0口0
+[01:32:33]: [Death Announcement] ルビー 死亡，死因： 暗影主教。他變成了一個令人毛骨悚然的鬼！
+[01:32:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:33:11]: [Say] (KU_d2kn6_6v) chunen: 13HP
+[01:33:14]: [Say] (KU_d2kn6_6v) chunen: 拉掉吧
+[01:33:20]: [Say] (KU_3aPAZWmD) ルビー: 消失了
+[01:33:35]: [Join Announcement] 夜月夏目
+[01:34:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:35:32]: [Resurrect Announcement] ルビー 復活自 夜月夏目.
+[01:35:40]: [Say] (KU_3aPAZWmD) ルビー: 3Q
+[01:36:31]: [Say] (KU_M673WWQo) 夜月夏目: 我有要幫什麼嗎?
+[01:36:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:36:39]: [Say] (KU_3aPAZWmD) ルビー: 砍樹
+[01:38:06]: [Say] (KU_M673WWQo) 夜月夏目: 雨傘要放哪?
+[01:38:16]: [Say] (KU_d2kn6_6v) chunen: 5k4
+[01:38:23]: [Say] (KU_uGVY9zVB) balalaboom: 下面農場的柵欄旁
+[01:38:30]: [Say] (KU_M673WWQo) 夜月夏目: 恩
+[01:38:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:40:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:42:09]: [Say] (KU_uGVY9zVB) balalaboom: 98
+[01:42:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:44:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:46:01]: [Say] (KU_d2kn6_6v) chunen: 樹枝生病
+[01:46:25]: [Say] (KU_uGVY9zVB) balalaboom: 狗
+[01:46:34]: [Say] (KU_3aPAZWmD) ルビー: 處理阿
+[01:46:35]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:46:46]: [Say] (KU_d2kn6_6v) chunen: 我要叫鏟子
+[01:46:55]: [Say] (KU_d2kn6_6v) chunen: 狗就來了orz
+[01:47:01]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[01:47:29]: [Say] (KU_M673WWQo) 夜月夏目: 為甚麼我的狗特別晚來?
+[01:47:44]: [Say] (KU_uGVY9zVB) balalaboom: 住比較遠?
+[01:48:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:49:12]: [Leave Announcement] 夜月夏目
+[01:50:17]: [Say] (KU_d2kn6_6v) chunen: 無眼鹿很靠背,我在挖就黏過來狂黨
+[01:50:33]: [Say] (KU_d2kn6_6v) chunen: 挖完全立刻跑光光
+[01:50:36]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:50:43]: [Say] (KU_d2kn6_6v) chunen: 專門跑過來擋我的
+[01:51:54]: [Say] (KU_d2kn6_6v) chunen: BOOM,高鳥蛋塞哪
