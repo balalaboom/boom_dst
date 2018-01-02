@@ -1,6 +1,1 @@
-[00:01:36]: [Join Announcement] balalaboom
-[00:02:58]: [Join Announcement] ルビー
-[00:21:06]: [Death Announcement] balalaboom 死亡，死因： 蜘蛛。她變成了一個令人毛骨悚然的鬼！
-[00:25:01]: [Resurrect Announcement] balalaboom 復活自 ルビー.
-[00:32:06]: [Leave Announcement] balalaboom
-[00:32:19]: [Leave Announcement] ルビー
+[00:06:55]: [Join Announcement] balalaboom
