@@ -28,3 +28,13 @@
 [00:51:08]: [Say] (KU_d2kn6_6v) chunen: 怕
 [00:51:16]: [Resurrect Announcement] chunen 復活自 ルビー.
 [00:51:25]: [Say] (KU_d2kn6_6v) chunen: 那邊應該有四個蜘蛛窩
+[00:52:34]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[00:53:18]: [Say] (KU_d2kn6_6v) chunen: 我帶蜘蛛茂下去檢屍體XD
+[00:53:22]: [Say] (KU_uGVY9zVB) balalaboom: OKOK
+[00:53:36]: [Say] (KU_d2kn6_6v) chunen: 女王也不會咬蜘蛛帽隊吧
+[00:53:39]: [Say] (KU_d2kn6_6v) chunen: 怕怕的
+[00:54:34]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[00:56:34]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[00:58:34]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:00:34]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
+[01:02:34]: [Mod Warning] Eternal Glowcaps & Mushlights is out of date and needs to be updated for new users to be able to join the server.
