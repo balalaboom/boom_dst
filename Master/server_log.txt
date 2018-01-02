@@ -859,3 +859,35 @@
 [01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
 [01:04:08]: [P2P] Session timed out for '76561198354843262'
 [01:04:08]: [P2P] Remove session: 35.193.24.169|1 '76561198354843262'
+[01:26:38]: [P2P] Create session: 35.193.24.170|1 '76561198354843262'
+[01:26:38]: [P2P] Received from 35.193.24.170|1 '76561198354843262'
+[01:26:38]: [P2P] Sent to 35.193.24.170|1 '76561198354843262'
+[01:26:39]: New incoming connection 35.193.24.170|1 <8160286343491570101>
+[01:26:39]: Client connected from 35.193.24.170|1 <8160286343491570101>
+[01:26:39]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^6eV/WNXCU6wAZ8HobSqDHm3Z2OF8KJKwqvVzoLFBflw= for <8160286343491570101>
+[01:26:39]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[01:26:39]: [Steam] Authenticated host '76561198354843262'
+[01:26:42]: [Shard] Read save location file for (KU_uGVY9zVB)
+[01:26:51]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000530
+[01:26:51]: Spawning player at: [Load] (-129.71, -0.00, 529.35)	
+[01:26:51]: Sim unpaused
+[01:27:07]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000530
+[01:27:08]: Serializing world: session/537C5C69FFB19629/0000000530
+[01:29:38]: [P2P] Session request for '76561198189824466'
+[01:29:40]: [P2P] Create session: 35.193.24.171|1 '76561198189824466'
+[01:29:40]: [P2P] Received from 35.193.24.171|1 '76561198189824466'
+[01:29:40]: [P2P] Sent to 35.193.24.171|1 '76561198189824466'
+[01:29:40]: New incoming connection 35.193.24.171|1 <8079867631919929129>
+[01:29:40]: Client connected from 35.193.24.171|1 <8079867631919929129>
+[01:29:40]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^1rzt6k0RKX0nlTYCHnDHyGpvhuecTQWVvAnK7uurUEw= for <8079867631919929129>
+[01:29:41]: Client authenticated: (KU_3aPAZWmD) ルビー
+[01:29:41]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[01:29:41]: [Steam] Authenticated client '76561198189824466'
+[01:29:44]: [Shard] Read save location file for (KU_3aPAZWmD)
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:30:26]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000517
+[01:30:26]: Spawning player at: [Load] (-128.62, 0.00, 533.15)	
+[01:35:08]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000531
+[01:35:08]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000531
+[01:35:08]: Serializing world: session/537C5C69FFB19629/0000000531
