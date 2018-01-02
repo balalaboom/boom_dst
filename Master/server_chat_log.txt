@@ -1,0 +1,21 @@
+[00:03:58]: [Join Announcement] balalaboom
+[00:15:57]: [Join Announcement] ルビー
+[00:19:23]: [Join Announcement] chunen
+[00:19:46]: [Say] (KU_d2kn6_6v) chunen: wwww
+[00:19:55]: [Say] (KU_uGVY9zVB) balalaboom: 0.0?
+[00:19:56]: [Say] (KU_d2kn6_6v) chunen: 住院前玩死掉的
+[00:20:01]: [Say] (KU_uGVY9zVB) balalaboom: lol
+[00:20:08]: [Say] (KU_uGVY9zVB) balalaboom: 沒人活你喔?
+[00:20:20]: [Say] (KU_3aPAZWmD) ルビー: 他死在地洞
+[00:20:30]: [Say] (KU_d2kn6_6v) chunen: 你們去打蜂媽的樣子
+[00:20:37]: [Say] (KU_d2kn6_6v) chunen: 但我不舒服就先下陷了
+[00:20:41]: [Say] (KU_uGVY9zVB) balalaboom: @@"
+[00:20:53]: [Say] (KU_d2kn6_6v) chunen: 然後就住院拉www
+[00:21:02]: [Say] (KU_uGVY9zVB) balalaboom: 最慘的那種
+[00:21:13]: [Say] (KU_d2kn6_6v) chunen: 哈哈哈,地底應該還沒收屍
+[00:21:14]: [Say] (KU_uGVY9zVB) balalaboom: 要去幫你立個牌子 (C
+[00:21:19]: [Say] (KU_uGVY9zVB) balalaboom: (X
+[00:21:22]: [Say] (KU_d2kn6_6v) chunen: 別
+[00:21:24]: [Say] (KU_d2kn6_6v) chunen: 怕
+[00:21:32]: [Resurrect Announcement] chunen 復活自 ルビー.
+[00:21:41]: [Say] (KU_d2kn6_6v) chunen: 那邊應該有四個蜘蛛窩
