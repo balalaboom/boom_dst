@@ -846,3 +846,7 @@
 [00:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
 [00:30:23]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000527
 [00:30:23]: Serializing world: session/537C5C69FFB19629/0000000527
+[00:38:24]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000528
+[00:38:24]: Serializing world: session/537C5C69FFB19629/0000000528
+[00:46:24]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000529
+[00:46:25]: Serializing world: session/537C5C69FFB19629/0000000529
