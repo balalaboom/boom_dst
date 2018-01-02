@@ -1,35 +1,3 @@
-[00:06:55]: [Join Announcement] balalaboom
-[00:22:33]: [Join Announcement] AierLuosen
-[00:22:44]: [Death Announcement] balalaboom 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
-[00:22:53]: [Say] (KU_uGVY9zVB) balalaboom: WutFace
-[00:22:59]: [Say] (KU_TtsjKcrU) AierLuosen: doge
-[00:23:11]: [Say] (KU_uGVY9zVB) balalaboom: 應該沒撿到肉丫...
-[00:23:18]: [Say] (KU_TtsjKcrU) AierLuosen: 蛋奶酒XD?
-[00:23:24]: [Say] (KU_uGVY9zVB) balalaboom: 0.0+
-[00:23:38]: [Resurrect Announcement] balalaboom 復活自 AierLuosen.
-[00:24:03]: [Say] (KU_uGVY9zVB) balalaboom: 可惡>"<
-[00:25:29]: [Say] (KU_TtsjKcrU) AierLuosen: 這邊
-[00:27:01]: [Say] (KU_TtsjKcrU) AierLuosen: 我來去找找/
-[00:27:06]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
-[00:28:04]: [Say] (KU_TtsjKcrU) AierLuosen: 找到了XD
-[00:28:14]: [Say] (KU_uGVY9zVB) balalaboom: 真快!!
-[00:38:27]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 22 乾草s.
-[00:38:28]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 6 禮物s.
-[00:38:40]: [Say] (KU_uGVY9zVB) balalaboom: 最快速XDD
-[00:39:08]: [Say] (KU_TtsjKcrU) AierLuosen: 拆拆拆~
-[00:39:35]: [Say] (KU_uGVY9zVB) balalaboom: !!
-[00:40:24]: [Say] (KU_TtsjKcrU) AierLuosen: 坎普斯~
-[00:40:33]: [Say] (KU_uGVY9zVB) balalaboom: 想要藍鹿QQ
-[00:40:37]: [Say] (KU_TtsjKcrU) AierLuosen: 你有多的礦工帽嗎/
-[00:40:46]: [Say] (KU_TtsjKcrU) AierLuosen: 只剩藍寶石鹿嗎QWQ
-[00:40:53]: [Say] (KU_uGVY9zVB) balalaboom: 對QQ
-[00:41:04]: [Say] (KU_TtsjKcrU) AierLuosen: 這次的東西都好爛w
-[00:41:18]: [Say] (KU_uGVY9zVB) balalaboom: 蜂王乳不錯XD
-[00:41:26]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯
-[00:42:01]: [Say] (KU_TtsjKcrU) AierLuosen: 先下囉/
-[00:42:10]: [Say] (KU_TtsjKcrU) AierLuosen: 88888
-[00:42:10]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
-[00:42:15]: [Say] (KU_uGVY9zVB) balalaboom: 謝謝XD
-[00:42:17]: [Say] (KU_uGVY9zVB) balalaboom: 8888
-[00:42:23]: [Leave Announcement] AierLuosen
-[00:43:50]: [Leave Announcement] balalaboom
+[00:01:17]: [Join Announcement] balalaboom
+[00:08:35]: [Death Announcement] balalaboom 死亡，死因： 紅色獵犬。她變成了一個令人毛骨悚然的鬼！
+[00:14:02]: [Leave Announcement] balalaboom
