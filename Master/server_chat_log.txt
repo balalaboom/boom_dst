@@ -2,3 +2,4 @@
 [00:08:35]: [Death Announcement] balalaboom 死亡，死因： 紅色獵犬。她變成了一個令人毛骨悚然的鬼！
 [00:14:02]: [Leave Announcement] balalaboom
 [00:19:07]: [Join Announcement] balalaboom
+[00:54:08]: [Leave Announcement] balalaboom

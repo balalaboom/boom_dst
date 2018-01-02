@@ -850,3 +850,12 @@
 [00:38:24]: Serializing world: session/537C5C69FFB19629/0000000528
 [00:46:24]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000529
 [00:46:25]: Serializing world: session/537C5C69FFB19629/0000000529
+[00:54:08]: [Steam] SendUserDisconnect for '76561198354843262'
+[00:54:08]: Connection lost to 35.193.24.169|1 <6205398625671768861>
+[00:54:08]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[00:54:09]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000530
+[00:54:09]: Sim paused
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:04:08]: [P2P] Session timed out for '76561198354843262'
+[01:04:08]: [P2P] Remove session: 35.193.24.169|1 '76561198354843262'
