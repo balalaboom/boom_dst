@@ -395,3 +395,8 @@
 [05:16:47]: [Leave Announcement] 夜月夏目
 [05:18:09]: [Join Announcement] chunen
 [05:18:40]: [Join Announcement] 夜月夏目
+[05:24:58]: [Say] (KU_d2kn6_6v) chunen: 夜月還有東西沒剪嗎
+[05:25:18]: [Say] (KU_M673WWQo) 夜月夏目: 重要的都撿玩了
+[05:25:36]: [Say] (KU_d2kn6_6v) chunen: OK,那我就塞一塞運回家囉
+[05:27:03]: [Say] (KU_d2kn6_6v) chunen: 靠,你都清空囉XD
+[05:27:20]: [Say] (KU_M673WWQo) 夜月夏目: 對
