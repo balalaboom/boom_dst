@@ -3745,3 +3745,52 @@
 [05:53:35]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000611
 [05:53:35]: Serializing world: session/537C5C69FFB19629/0000000611
 [05:54:48]: Could not find anim [transform_out] in bank [FROMNUM]
+[06:00:10]: [200] Account Communication Success (6)
+[06:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:01:36]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000612
+[06:01:36]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000612
+[06:01:36]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000612
+[06:01:36]: Serializing world: session/537C5C69FFB19629/0000000612
+[06:09:29]: [P2P] Connection failed for '76561198211986697'
+[06:09:32]: [Steam] SendUserDisconnect for '76561198211986697'
+[06:09:32]: Connection lost to 38.183.249.48|1 <237397275670903159>
+[06:09:32]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[06:09:32]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000613
+[06:09:36]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000613
+[06:09:36]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000613
+[06:09:37]: Serializing world: session/537C5C69FFB19629/0000000613
+[06:11:23]: Activating portal[1] to 2560562348	
+[06:11:24]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000614
+[06:11:24]: [Shard] Migration request: (KU_d2kn6_6v) to Caves(2560562348)
+[06:11:24]: [Shard] Begin migration #28 for (KU_d2kn6_6v)
+[06:11:24]: [Shard] #28 [SHDMASTER](1) -> Caves(2560562348)
+[06:11:24]: [Shard] #28 <- session/537C5C69FFB19629/A7KS5EOHNSDP/0000000614
+[06:11:24]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[06:11:24]: [Steam] SendUserDisconnect for '76561198310003934'
+[06:11:24]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[06:11:36]: [Shard] Completed migration #28 for player (KU_d2kn6_6v)
+[06:11:36]: [Shard] Writing save location file for (KU_d2kn6_6v)
+[06:13:58]: [Shard] Begin migration #29 for (KU_d2kn6_6v)
+[06:13:58]: [Shard] #29 Caves(2560562348) -> [SHDMASTER](1)
+[06:13:58]: [Shard] #29 -> session/537C5C69FFB19629/A7KS5EOHNSDP/0000000614
+[06:13:58]: [Shard] Received migration #29 data for (KU_d2kn6_6v)
+[06:13:58]: [Shard] (KU_d2kn6_6v) disconnected from Caves(2560562348)
+[06:14:08]: [P2P] Received from 38.183.249.53|1 '76561198310003934'
+[06:14:08]: [P2P] Sent to 38.183.249.53|1 '76561198310003934'
+[06:14:09]: New incoming connection 38.183.249.53|1 <7686595180051468283>
+[06:14:09]: Client connected from 38.183.249.53|1 <7686595180051468283>
+[06:14:09]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^MCjiHdTuZYXaG2AYyfsXuzvJujVHRXCSfMPtXioLxMk= for <7686595180051468283>
+[06:14:09]: Client authenticated: (KU_d2kn6_6v) chunen
+[06:14:09]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[06:14:10]: [Steam] Authenticated client '76561198310003934'
+[06:14:10]: [Shard] Completed incoming migration #29 for (KU_d2kn6_6v)
+[06:14:10]: [Shard] Completed migration #29 for player (KU_d2kn6_6v)
+[06:14:10]: [Shard] Writing save location file for (KU_d2kn6_6v)
+[06:14:19]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000614
+[06:14:19]: Player will spawn close to portal #1	
+[06:14:19]: Spawning player at: [Load] (-6.05, 0.00, 467.92)	
+[06:17:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000614
+[06:17:38]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000614
+[06:17:38]: Serializing world: session/537C5C69FFB19629/0000000614
+[06:19:32]: [P2P] Session timed out for '76561198211986697'
+[06:19:32]: [P2P] Remove session: 38.183.249.48|1 '76561198211986697'

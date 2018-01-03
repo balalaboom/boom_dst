@@ -2838,3 +2838,38 @@
 [05:53:35]: Truncating to snapshot #611...
 [05:53:35]:  - session/5C44BECFFFC07A2A/0000000605
 [05:53:35]:    1 file(s) removed
+[06:00:10]: [200] Account Communication Success (6)
+[06:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:01:36]: Serializing world: session/5C44BECFFFC07A2A/0000000612
+[06:01:36]: Truncating to snapshot #612...
+[06:01:36]:  - session/5C44BECFFFC07A2A/0000000606
+[06:01:36]:    1 file(s) removed
+[06:09:36]: Serializing world: session/5C44BECFFFC07A2A/0000000613
+[06:09:36]: Truncating to snapshot #613...
+[06:09:36]:  - session/5C44BECFFFC07A2A/0000000607
+[06:09:36]:    1 file(s) removed
+[06:11:24]: [Shard] #28 -> session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000614
+[06:11:24]: [Shard] Received migration #28 data for (KU_d2kn6_6v)
+[06:11:34]: [P2P] Create session: 38.182.210.194|1 '76561198310003934'
+[06:11:34]: [P2P] Received from 38.182.210.194|1 '76561198310003934'
+[06:11:34]: [P2P] Sent to 38.182.210.194|1 '76561198310003934'
+[06:11:35]: New incoming connection 38.182.210.194|1 <5813437222337714883>
+[06:11:35]: Client connected from 38.182.210.194|1 <5813437222337714883>
+[06:11:35]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^Ib2fZQlbqzIYCvQCxYOYGJ/MzgOZfXyFg7WYANvuQIs= for <5813437222337714883>
+[06:11:36]: Client authenticated: (KU_d2kn6_6v) chunen
+[06:11:36]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[06:11:36]: [Steam] Authenticated client '76561198310003934'
+[06:11:36]: [Shard] Completed incoming migration #28 for (KU_d2kn6_6v)
+[06:11:45]: Resuming user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000614
+[06:11:45]: Player will spawn close to portal #1	
+[06:11:45]: Spawning player at: [Load] (366.34, 0.00, -263.05)	
+[06:13:57]: Activating portal[1] to 1	
+[06:13:58]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000614
+[06:13:58]: [Shard] Migration request: (KU_d2kn6_6v) to [SHDMASTER](1)
+[06:13:58]: [Shard] #29 <- session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000614
+[06:13:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[06:13:58]: [Steam] SendUserDisconnect for '76561198310003934'
+[06:17:38]: Serializing world: session/5C44BECFFFC07A2A/0000000614
+[06:17:38]: Truncating to snapshot #614...
+[06:17:38]:  - session/5C44BECFFFC07A2A/0000000608
+[06:17:38]:    1 file(s) removed

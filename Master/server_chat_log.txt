@@ -407,3 +407,24 @@
 [05:48:21]: [Say] (KU_d2kn6_6v) chunen: 我打怪補救好,有頭燈輕鬆很多
 [05:48:32]: [Say] (KU_d2kn6_6v) chunen: 謝拉
 [05:51:16]: [Say] (KU_d2kn6_6v) chunen: dog
+[06:04:37]: [Say] (KU_d2kn6_6v) chunen: 工具要留剩下一次的嗎?
+[06:04:43]: [Say] (KU_3aPAZWmD) ルビー: 對
+[06:04:51]: [Say] (KU_3aPAZWmD) ルビー: 留著給麥叔用
+[06:04:55]: [Say] (KU_d2kn6_6v) chunen: 喔喔
+[06:05:15]: [Say] (KU_d2kn6_6v) chunen: 我以為是用過的放著共用,還把他用掉orz
+[06:05:26]: [Say] (KU_d2kn6_6v) chunen: 抱,抱歉
+[06:05:26]: [Say] (KU_3aPAZWmD) ルビー: =W=
+[06:07:59]: [Say] (KU_d2kn6_6v) chunen: 拐他打你閃掉回頭連打三下
+[06:09:09]: [Say] (KU_M673WWQo) 夜月夏目: 我先下了
+[06:09:15]: [Say] (KU_3aPAZWmD) ルビー: 恩 晚安/
+[06:09:17]: [Say] (KU_d2kn6_6v) chunen: OK,晚安
+[06:09:22]: [Say] (KU_d2kn6_6v) chunen: 辛苦囉
+[06:09:31]: [Leave Announcement] 夜月夏目
+[06:15:12]: [Say] (KU_d2kn6_6v) chunen: 光球,冰箱裡
+[06:15:18]: [Say] (KU_d2kn6_6v) chunen: 火龍果要洗種子嗎
+[06:15:19]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[06:20:07]: [Say] (KU_d2kn6_6v) chunen: 想說趕鹿撞樹,衝過去鹿完全不鳥我....
+[06:20:28]: [Say] (KU_3aPAZWmD) ルビー: 別讓他撞破柵欄
+[06:20:44]: [Say] (KU_d2kn6_6v) chunen: 好
+[06:20:52]: [Say] (KU_d2kn6_6v) chunen: 就算我想趕她也不鳥我030
+[06:20:59]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
