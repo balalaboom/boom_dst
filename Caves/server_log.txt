@@ -2885,3 +2885,4 @@
 [06:33:39]: Truncating to snapshot #616...
 [06:33:39]:  - session/5C44BECFFFC07A2A/0000000610
 [06:33:39]:    1 file(s) removed
+[06:35:38]: Sim paused

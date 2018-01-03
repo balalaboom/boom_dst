@@ -443,3 +443,4 @@
 [06:31:11]: [Say] (KU_3aPAZWmD) ルビー: OK
 [06:31:17]: [Say] (KU_3aPAZWmD) ルビー: 辛苦了 晚安/
 [06:31:23]: [Leave Announcement] chunen
+[06:35:37]: [Leave Announcement] ルビー

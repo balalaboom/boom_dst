@@ -3806,3 +3806,12 @@
 [06:31:52]: [P2P] Connection failed for '76561198310003934'
 [06:33:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000616
 [06:33:40]: Serializing world: session/537C5C69FFB19629/0000000616
+[06:35:38]: [Steam] SendUserDisconnect for '76561198189824466'
+[06:35:38]: Connection lost to 38.183.249.47|1 <3583181126565125412>
+[06:35:38]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[06:35:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000617
+[06:35:38]: Sim paused
+[06:41:24]: [P2P] Session timed out for '76561198310003934'
+[06:41:24]: [P2P] Remove session: 38.183.249.53|1 '76561198310003934'
+[06:45:38]: [P2P] Session timed out for '76561198189824466'
+[06:45:38]: [P2P] Remove session: 38.183.249.47|1 '76561198189824466'
