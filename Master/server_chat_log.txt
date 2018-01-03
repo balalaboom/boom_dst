@@ -428,3 +428,18 @@
 [06:20:44]: [Say] (KU_d2kn6_6v) chunen: 好
 [06:20:52]: [Say] (KU_d2kn6_6v) chunen: 就算我想趕她也不鳥我030
 [06:20:59]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[06:22:39]: [Say] (KU_d2kn6_6v) chunen: dog
+[06:23:17]: [Say] (KU_d2kn6_6v) chunen: 蘑菇要先收嗎
+[06:23:26]: [Say] (KU_3aPAZWmD) ルビー: 不用
+[06:23:54]: [Say] (KU_d2kn6_6v) chunen: K
+[06:24:06]: [Say] (KU_3aPAZWmD) ルビー: 沒有靈魂木 不能繼續
+[06:24:26]: [Say] (KU_d2kn6_6v) chunen: 我是想說冬天
+[06:24:39]: [Say] (KU_3aPAZWmD) ルビー: 我們秋天最後一天下陷
+[06:25:03]: [Say] (KU_d2kn6_6v) chunen: 好
+[06:30:25]: [Say] (KU_3aPAZWmD) ルビー: 這次不喜
+[06:30:41]: [Say] (KU_d2kn6_6v) chunen: 南瓜種子?
+[06:30:52]: [Say] (KU_3aPAZWmD) ルビー: 先不用 放著就好
+[06:31:06]: [Say] (KU_d2kn6_6v) chunen: OKOK,我先下陷,東西都放完了
+[06:31:11]: [Say] (KU_3aPAZWmD) ルビー: OK
+[06:31:17]: [Say] (KU_3aPAZWmD) ルビー: 辛苦了 晚安/
+[06:31:23]: [Leave Announcement] chunen

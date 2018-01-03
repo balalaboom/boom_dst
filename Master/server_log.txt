@@ -3794,3 +3794,15 @@
 [06:17:38]: Serializing world: session/537C5C69FFB19629/0000000614
 [06:19:32]: [P2P] Session timed out for '76561198211986697'
 [06:19:32]: [P2P] Remove session: 38.183.249.48|1 '76561198211986697'
+[06:25:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000615
+[06:25:39]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000615
+[06:25:39]: Serializing world: session/537C5C69FFB19629/0000000615
+[06:30:10]: [200] Account Communication Success (6)
+[06:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:31:24]: [Steam] SendUserDisconnect for '76561198310003934'
+[06:31:24]: Connection lost to 38.183.249.53|1 <7686595180051468283>
+[06:31:24]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[06:31:25]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000616
+[06:31:52]: [P2P] Connection failed for '76561198310003934'
+[06:33:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000616
+[06:33:40]: Serializing world: session/537C5C69FFB19629/0000000616
