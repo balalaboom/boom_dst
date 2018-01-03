@@ -161,3 +161,34 @@
 [01:52:33]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 處以火刑
 [01:53:08]: [Say] (KU_VOig0Obi) 阿薩謝爾: 吃了他的肉.喝了他的血.扒了他的皮
 [01:58:17]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 需要我去那邊擺盔甲嗎?
+[02:00:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我帶點
+[02:00:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 等
+[02:00:46]: [Say] (KU_TtsjKcrU) AierLuosen: 暗了
+[02:01:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ok
+[02:02:10]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 給我一點木頭
+[02:02:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 8個可以嗎>
+[02:02:59]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我可以打了
+[02:03:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不要汙辱我的ㄎㄧㄤ包
+[02:03:46]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他會被鳥掉
+[02:03:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 秒
+[02:04:56]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 鳥www
+[02:05:23]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 鹿比可以先接我回去嗎  我快餓死了
+[02:05:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: y
+[02:05:44]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 鹿比接我
+[02:05:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 995
+[02:06:20]: [Say] (KU_3aPAZWmD) ルビー: 機器在哪?
+[02:11:37]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ok
+[02:11:54]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 啥雕像
+[02:12:01]: [Say] (KU_TtsjKcrU) AierLuosen: 影魔
+[02:12:54]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 接我
+[02:13:09]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ?
+[02:15:41]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 沒了
+[02:17:03]: [Join Announcement] chunen
+[02:17:26]: [Leave Announcement] 提爾詩
+[02:17:35]: [Leave Announcement] chunen
+[02:19:10]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: lag
+[02:19:44]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 暗影城堡。她變成了一個令人毛骨悚然的鬼！
+[02:19:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你跑過來咬到我www
+[02:20:07]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 夜月夏目.
+[02:20:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3q
+[02:22:20]: [Say] (KU_TtsjKcrU) AierLuosen:  I have a 喚星者法杖 with 20% durability.
