@@ -192,3 +192,17 @@
 [02:20:07]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 夜月夏目.
 [02:20:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3q
 [02:22:20]: [Say] (KU_TtsjKcrU) AierLuosen:  I have a 喚星者法杖 with 20% durability.
+[02:22:47]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 做個月向盤就知道拉
+[02:23:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不要問 我會怕
+[02:27:12]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 吃掉r
+[02:27:24]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 吃下去! 吃下去!
+[02:28:02]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不要問 我會怕
+[02:28:13]: [Say] (KU_TtsjKcrU) AierLuosen:  (Health: 108/150) I can't give up yet.
+[02:28:18]: [Say] (KU_VOig0Obi) 阿薩謝爾: 沒人問你 你這天沙的小王八蛋
+[02:28:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 讚
+[02:29:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你可以變成大肉
+[02:29:33]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 狗狗應該快來了
+[02:30:33]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你哪食正常了(O
+[02:30:39]: [Join Announcement] 提爾詩
+[02:31:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他強迫你當邊緣人
+[02:32:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我去放點木甲

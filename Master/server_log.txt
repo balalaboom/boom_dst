@@ -1562,3 +1562,39 @@
 [02:20:08]: Could not find anim [idle_loop] in bank [ghost]
 [02:20:11]: Could not find anim [transform] in bank [wilson]
 [02:20:13]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000587
+[02:22:58]: KU_MitzUqYv	running text command:	flex	true	
+[02:23:27]: KU_MitzUqYv	running text command:	sit	true	
+[02:23:28]: KU_MitzUqYv	running text command:	sit	true	
+[02:25:06]: KU_MitzUqYv	running text command:	flex	true	
+[02:27:13]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000587
+[02:27:13]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000587
+[02:27:13]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000587
+[02:27:13]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000587
+[02:27:13]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000587
+[02:27:13]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000587
+[02:27:13]: Serializing world: session/537C5C69FFB19629/0000000587
+[02:27:27]: [P2P] Session timed out for '76561198286499269'
+[02:27:27]: [P2P] Remove session: 38.183.249.49|1 '76561198286499269'
+[02:27:36]: [P2P] Session timed out for '76561198310003934'
+[02:27:36]: [P2P] Remove session: 38.183.249.51|1 '76561198310003934'
+[02:28:30]: KU_MitzUqYv	running text command:	slowclap	true	
+[02:28:36]: KU_MitzUqYv	running text command:	slowclap	true	
+[02:28:38]: KU_MitzUqYv	running text command:	carol	true	
+[02:28:39]: KU_MitzUqYv	running text command:	slowclap	true	
+[02:28:42]: KU_MitzUqYv	running text command:	slowclap	true	
+[02:28:47]: KU_MitzUqYv	running text command:	flex	true	
+[02:28:51]: KU_TtsjKcrU	running text command:	flex	true	
+[02:30:09]: [200] Account Communication Success (6)
+[02:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:30:27]: [P2P] Create session: 38.183.249.52|1 '76561198286499269'
+[02:30:27]: [P2P] Received from 38.183.249.52|1 '76561198286499269'
+[02:30:27]: [P2P] Sent to 38.183.249.52|1 '76561198286499269'
+[02:30:27]: New incoming connection 38.183.249.52|1 <8609530665885631546>
+[02:30:27]: Client connected from 38.183.249.52|1 <8609530665885631546>
+[02:30:27]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^vKY4zbDS9ryfHUIEQSHikEA2B7A+iWMa24EtxqINpZE= for <8609530665885631546>
+[02:30:27]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[02:30:27]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[02:30:27]: [Steam] Authenticated client '76561198286499269'
+[02:30:30]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[02:30:42]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000586
+[02:30:42]: Spawning player at: [Load] (166.87, -0.00, -89.10)	
