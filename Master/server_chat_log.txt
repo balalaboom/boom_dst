@@ -376,3 +376,15 @@
 [04:24:35]: [Join Announcement] 夜月夏目
 [04:27:30]: [Resurrect Announcement] 夜月夏目 復活自 惡魔之門.
 [04:34:03]: [Say] (KU_d2kn6_6v) chunen: 殺掉了
+[04:34:43]: [Say] (KU_d2kn6_6v) chunen: here
+[04:37:15]: [Say] (KU_d2kn6_6v) chunen: NO
+[04:37:25]: [Say] (KU_d2kn6_6v) chunen: THX
+[04:39:03]: [Say] (KU_d2kn6_6v) chunen: 我先丟回家一趟
+[04:47:10]: [Say] (KU_d2kn6_6v) chunen: 我去弄點光球再去收地板,不然一直用火把還要顧理智我快腦抽了orz
+[04:51:15]: [Say] (KU_d2kn6_6v) chunen: 光球我放冰塊箱
+[04:51:54]: [Say] (KU_d2kn6_6v) chunen: 誰喜歡多做暖石把冰箱塞滿阿
+[04:52:01]: [Say] (KU_d2kn6_6v) chunen: 我這怎多一顆暖石
+[04:52:11]: [Say] (KU_3aPAZWmD) ルビー: 那是因為大家都把暖時代下陷
+[04:52:21]: [Say] (KU_d2kn6_6v) chunen: orz
+[04:52:23]: [Say] (KU_M673WWQo) 夜月夏目: 綠洲那裏有2個100%的 我拿回來的
+[04:52:46]: [Say] (KU_d2kn6_6v) chunen: 那我丟龍爐旁邊囉

@@ -2769,3 +2769,36 @@
 [04:33:27]: Truncating to snapshot #601...
 [04:33:27]:  - session/5C44BECFFFC07A2A/0000000595
 [04:33:27]:    1 file(s) removed
+[04:41:28]: Serializing world: session/5C44BECFFFC07A2A/0000000602
+[04:41:28]: Truncating to snapshot #602...
+[04:41:28]:  - session/5C44BECFFFC07A2A/0000000596
+[04:41:28]:    1 file(s) removed
+[04:47:48]: [Shard] #26 -> session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000603
+[04:47:48]: [Shard] Received migration #26 data for (KU_d2kn6_6v)
+[04:47:53]: [P2P] Session request for '76561198310003934'
+[04:47:59]: [P2P] Create session: 38.182.210.193|1 '76561198310003934'
+[04:47:59]: [P2P] Received from 38.182.210.193|1 '76561198310003934'
+[04:47:59]: [P2P] Sent to 38.182.210.193|1 '76561198310003934'
+[04:48:00]: New incoming connection 38.182.210.193|1 <2493433170448782139>
+[04:48:00]: Client connected from 38.182.210.193|1 <2493433170448782139>
+[04:48:00]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^vn4+IuHT9muGj6FTvyEKHa/W43BL/vkDqdj4v+3Q5xo= for <2493433170448782139>
+[04:48:00]: Client authenticated: (KU_d2kn6_6v) chunen
+[04:48:00]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[04:48:01]: [Steam] Authenticated client '76561198310003934'
+[04:48:01]: [Shard] Completed incoming migration #26 for (KU_d2kn6_6v)
+[04:48:10]: Resuming user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000603
+[04:48:10]: Player will spawn close to portal #1	
+[04:48:10]: Spawning player at: [Load] (365.47, 0.00, -266.71)	
+[04:49:28]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000603
+[04:49:29]: Serializing world: session/5C44BECFFFC07A2A/0000000603
+[04:49:58]: Activating portal[1] to 1	
+[04:49:59]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000604
+[04:49:59]: [Shard] Migration request: (KU_d2kn6_6v) to [SHDMASTER](1)
+[04:49:59]: [Shard] #27 <- session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000604
+[04:49:59]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:49:59]: [Steam] SendUserDisconnect for '76561198310003934'
+[04:57:29]: Serializing world: session/5C44BECFFFC07A2A/0000000604
+[04:57:29]: Truncating to snapshot #604...
+[04:57:29]:  - session/5C44BECFFFC07A2A/0000000597
+[04:57:29]:  - session/5C44BECFFFC07A2A/0000000598
+[04:57:29]:    2 file(s) removed
