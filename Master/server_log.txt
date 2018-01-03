@@ -1795,3 +1795,47 @@
 [03:15:18]: Serializing world: session/537C5C69FFB19629/0000000593
 [03:22:15]: [P2P] Session timed out for '76561198099860495'
 [03:22:15]: [P2P] Remove session: 38.183.249.43|1 '76561198099860495'
+[03:23:18]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000594
+[03:23:19]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000594
+[03:23:19]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000594
+[03:23:19]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000594
+[03:23:19]: Serializing world: session/537C5C69FFB19629/0000000594
+[03:23:28]: [P2P] Session timed out for '76561198286499269'
+[03:23:28]: [P2P] Remove session: 38.183.249.52|1 '76561198286499269'
+[03:25:56]: [P2P] Create session: 38.183.249.54|1 '76561198099860495'
+[03:25:56]: [P2P] Received from 38.183.249.54|1 '76561198099860495'
+[03:25:56]: [P2P] Sent to 38.183.249.54|1 '76561198099860495'
+[03:26:31]: [P2P] Received from 38.183.249.54|1 '76561198099860495'
+[03:26:31]: [P2P] Sent to 38.183.249.54|1 '76561198099860495'
+[03:26:36]: New incoming connection 38.183.249.54|1 <7720861056964565170>
+[03:26:36]: Client connected from 38.183.249.54|1 <7720861056964565170>
+[03:26:36]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^qULEVYZkIbdZu9tfdAB9REo9w+bDse0LMPYwCwkMK2w= for <7720861056964565170>
+[03:26:37]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[03:26:37]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[03:26:37]: [Steam] Authenticated client '76561198099860495'
+[03:26:40]: [Shard] Read save location file for (KU_MitzUqYv)
+[03:26:54]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000593
+[03:26:54]: Spawning player at: [Load] (-133.98, -0.00, 535.09)	
+[03:30:09]: [200] Account Communication Success (6)
+[03:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[03:31:19]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000595
+[03:31:19]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000595
+[03:31:19]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000595
+[03:31:19]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000595
+[03:31:19]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000595
+[03:31:20]: Serializing world: session/537C5C69FFB19629/0000000595
+[03:32:59]: [Steam] SendUserDisconnect for '76561198099860495'
+[03:32:59]: Connection lost to 38.183.249.54|1 <7720861056964565170>
+[03:32:59]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[03:33:00]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000596
+[03:34:07]: [P2P] Received from 38.183.249.54|1 '76561198099860495'
+[03:34:07]: [P2P] Sent to 38.183.249.54|1 '76561198099860495'
+[03:34:14]: New incoming connection 38.183.249.54|1 <8724131634047941657>
+[03:34:14]: Client connected from 38.183.249.54|1 <8724131634047941657>
+[03:34:14]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^vOG9wOB/8RbuVm2cCDcNB0wteUlOlnR/WPCOMqV6Uf4= for <8724131634047941657>
+[03:34:15]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[03:34:15]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[03:34:15]: [Steam] Authenticated client '76561198099860495'
+[03:34:17]: [Shard] Read save location file for (KU_MitzUqYv)
+[03:34:31]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000596
+[03:34:31]: Spawning player at: [Load] (-135.03, -0.00, 430.01)	

@@ -300,3 +300,16 @@
 [03:20:42]: [Say] (KU_d2kn6_6v) chunen: 三階了
 [03:20:52]: [Say] (KU_d2kn6_6v) chunen: 四巢其中一個
 [03:22:15]: [Say] (KU_d2kn6_6v) chunen: 需要幫拆w
+[03:23:31]: [Say] (KU_d2kn6_6v) chunen: 每年會有三個頭燈(單位大誤
+[03:24:13]: [Say] (KU_d2kn6_6v) chunen: 兩個三階了,我該蓋草陷阱來打嗎?
+[03:26:52]: [Join Announcement] 讓子彈飛一會兒
+[03:28:23]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 40個呢
+[03:28:31]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 刺激
+[03:29:55]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 繼續吹頭髮
+[03:32:00]: [Say] (KU_d2kn6_6v) chunen: 不砍樹嗎?
+[03:32:00]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 滿月
+[03:32:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我在
+[03:32:19]: [Say] (KU_d2kn6_6v) chunen: 他吹投
+[03:32:45]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我先下
+[03:32:58]: [Leave Announcement] 讓子彈飛一會兒
+[03:34:29]: [Join Announcement] 讓子彈飛一會兒
