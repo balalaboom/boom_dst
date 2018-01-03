@@ -555,3 +555,37 @@
 [00:27:31]: [Steam] SendUserDisconnect for '76561198099860495'
 [00:30:08]: [200] Account Communication Success (6)
 [00:30:08]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:34:40]: Serializing world: session/5C44BECFFFC07A2A/0000000573
+[00:34:40]: Truncating to snapshot #573...
+[00:34:40]:  - session/5C44BECFFFC07A2A/0000000566
+[00:34:40]:  - session/5C44BECFFFC07A2A/0000000567
+[00:34:40]:  - session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000471
+[00:34:40]:    3 file(s) removed
+[00:37:34]: [P2P] Session timed out for '76561198099860495'
+[00:37:34]: [P2P] Remove session: 38.182.210.182|1 '76561198099860495'
+[00:42:41]: Serializing world: session/5C44BECFFFC07A2A/0000000574
+[00:42:41]: Truncating to snapshot #574...
+[00:42:41]:  - session/5C44BECFFFC07A2A/0000000568
+[00:42:41]:  - session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000568
+[00:42:41]:    2 file(s) removed
+[00:50:41]: Serializing world: session/5C44BECFFFC07A2A/0000000575
+[00:56:27]: [Shard] Received forward request #3 for (KU_M673WWQo)
+[00:56:32]: [P2P] Session request for '76561198211986697'
+[00:56:37]: [P2P] Create session: 38.182.210.183|1 '76561198211986697'
+[00:56:37]: [P2P] Received from 38.182.210.183|1 '76561198211986697'
+[00:56:37]: [P2P] Sent to 38.182.210.183|1 '76561198211986697'
+[00:56:37]: New incoming connection 38.182.210.183|1 <8508818849878552830>
+[00:56:37]: Client connected from 38.182.210.183|1 <8508818849878552830>
+[00:56:37]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^KZKAaYqGX87QcfFWz6kWYlcOe00s8ehov/CnE3CbgwA= for <8508818849878552830>
+[00:56:38]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[00:56:38]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[00:56:38]: [Steam] Authenticated client '76561198211986697'
+[00:56:40]: [Shard] Completed incoming migration #3 for (KU_M673WWQo)
+[00:57:04]: Resuming user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000569
+[00:57:04]: Spawning player at: [Load] (371.80, 0.00, -259.97)	
+[00:57:46]: Activating portal[1] to 1	
+[00:57:47]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000576
+[00:57:47]: [Shard] Migration request: (KU_M673WWQo) to [SHDMASTER](1)
+[00:57:47]: [Shard] #4 <- session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000576
+[00:57:47]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:57:47]: [Steam] SendUserDisconnect for '76561198211986697'

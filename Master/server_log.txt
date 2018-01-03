@@ -581,3 +581,87 @@
 [00:30:08]: Received (KU_uGVY9zVB) from TokenPurpose
 [00:31:50]: KU_MitzUqYv	running text command:	flex	true	
 [00:32:58]: KU_MitzUqYv	running text command:	flex	true	
+[00:34:40]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000573
+[00:34:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000573
+[00:34:40]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000573
+[00:34:40]: Serializing world: session/537C5C69FFB19629/0000000573
+[00:41:01]: KU_MitzUqYv	running text command:	flex	true	
+[00:42:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000574
+[00:42:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000574
+[00:42:41]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000574
+[00:42:41]: Serializing world: session/537C5C69FFB19629/0000000574
+[00:43:14]: KU_MitzUqYv	running text command:	impatient	true	
+[00:43:15]: KU_MitzUqYv	running text command:	flex	true	
+[00:44:13]: KU_MitzUqYv	running text command:	flex	true	
+[00:50:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000575
+[00:50:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000575
+[00:50:41]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000575
+[00:50:42]: Serializing world: session/537C5C69FFB19629/0000000575
+[00:56:18]: [P2P] Session request for '76561198211986697'
+[00:56:24]: [P2P] Create session: 38.183.249.39|1 '76561198211986697'
+[00:56:24]: [P2P] Received from 38.183.249.39|1 '76561198211986697'
+[00:56:24]: [P2P] Sent to 38.183.249.39|1 '76561198211986697'
+[00:56:24]: New incoming connection 38.183.249.39|1 <4300722841667452146>
+[00:56:24]: Client connected from 38.183.249.39|1 <4300722841667452146>
+[00:56:24]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^JFDL+k/dtf1ce68DMOM2dfH90G3UVPhGX6GqbYTyGzs= for <4300722841667452146>
+[00:56:24]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[00:56:24]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[00:56:25]: [Steam] Authenticated client '76561198211986697'
+[00:56:27]: [Shard] Read save location file for (KU_M673WWQo)
+[00:56:27]: [Shard] Forwarding player to Caves(2560562348)
+[00:56:27]: [Shard] Begin migration #3 for (KU_M673WWQo)
+[00:56:27]: [Shard] #3 [SHDMASTER](1) -> Caves(2560562348)
+[00:56:27]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:56:27]: [Steam] SendUserDisconnect for '76561198211986697'
+[00:56:27]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[00:56:39]: [P2P] Session request for '76561198251790870'
+[00:56:40]: [Shard] Completed migration #3 for player (KU_M673WWQo)
+[00:56:40]: [Shard] Writing save location file for (KU_M673WWQo)
+[00:56:44]: [P2P] Create session: 38.183.249.40|1 '76561198251790870'
+[00:56:44]: [P2P] Received from 38.183.249.40|1 '76561198251790870'
+[00:56:44]: [P2P] Sent to 38.183.249.40|1 '76561198251790870'
+[00:56:56]: New incoming connection 38.183.249.40|1 <7137463880950162476>
+[00:56:56]: Client connected from 38.183.249.40|1 <7137463880950162476>
+[00:56:56]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^+MI5aSeqEOVayN/NdflXvhq50XV6I99oY63xcV7BnB8= for <7137463880950162476>
+[00:56:56]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:56:56]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:56:56]: [Steam] Authenticated client '76561198251790870'
+[00:56:58]: [Shard] Read save location file for (KU_TtsjKcrU)
+[00:57:13]: Resuming user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000522
+[00:57:13]: Spawning player at: [Load] (-122.56, -0.00, 533.09)	
+[00:57:47]: [Shard] Begin migration #4 for (KU_M673WWQo)
+[00:57:47]: [Shard] #4 Caves(2560562348) -> [SHDMASTER](1)
+[00:57:47]: [Shard] #4 -> session/537C5C69FFB19629/A7IOC71O41LI/0000000576
+[00:57:47]: [Shard] Received migration #4 data for (KU_M673WWQo)
+[00:57:47]: [Shard] (KU_M673WWQo) disconnected from Caves(2560562348)
+[00:57:58]: [P2P] Received from 38.183.249.39|1 '76561198211986697'
+[00:57:58]: [P2P] Sent to 38.183.249.39|1 '76561198211986697'
+[00:57:58]: KU_MitzUqYv	running text command:	flex	true	
+[00:57:59]: New incoming connection 38.183.249.39|1 <7385427880620382190>
+[00:57:59]: Client connected from 38.183.249.39|1 <7385427880620382190>
+[00:57:59]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^ZqgiARP7/vndl1Dgo+comPjDMvSgEWZTzpI/GUa2CKM= for <7385427880620382190>
+[00:57:59]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[00:57:59]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[00:58:00]: [Steam] Authenticated client '76561198211986697'
+[00:58:00]: [Shard] Completed incoming migration #4 for (KU_M673WWQo)
+[00:58:00]: [Shard] Completed migration #4 for player (KU_M673WWQo)
+[00:58:00]: [Shard] Writing save location file for (KU_M673WWQo)
+[00:58:05]: [P2P] Session request for '76561198286499269'
+[00:58:08]: [P2P] Create session: 38.183.249.41|1 '76561198286499269'
+[00:58:08]: [P2P] Received from 38.183.249.41|1 '76561198286499269'
+[00:58:08]: [P2P] Sent to 38.183.249.41|1 '76561198286499269'
+[00:58:09]: New incoming connection 38.183.249.41|1 <4371727888493057810>
+[00:58:09]: Client connected from 38.183.249.41|1 <4371727888493057810>
+[00:58:09]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^/oSrHPxiy/46WQM9M8/Q2I/g3lZ+yaOFMs+HysBUM4U= for <4371727888493057810>
+[00:58:09]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[00:58:09]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[00:58:09]: [Steam] Authenticated client '76561198286499269'
+[00:58:11]: KU_MitzUqYv	running text command:	flex	true	
+[00:58:12]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[00:58:15]: KU_TtsjKcrU	running text command:	flex	true	
+[00:58:22]: KU_TtsjKcrU	running text command:	flex	true	
+[00:58:24]: Resuming user: session/537C5C69FFB19629/A7HD5D17G66B/0000000504
+[00:58:24]: Spawning player at: [Load] (-124.44, 0.00, 536.21)	
+[00:58:24]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000576
+[00:58:24]: Player will spawn close to portal #1	
+[00:58:24]: Spawning player at: [Load] (-8.88, 0.00, 468.90)	

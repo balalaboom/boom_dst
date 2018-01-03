@@ -34,3 +34,41 @@
 [00:32:28]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 等等還有增援嗎
 [00:32:36]: [Say] (KU_uGVY9zVB) balalaboom: 要
 [00:32:49]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 壕
+[00:35:15]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有金裊裊了
+[00:35:25]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 鳥鳥
+[00:35:44]: [Say] (KU_uGVY9zVB) balalaboom: OKOK
+[00:39:21]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你殺了他們
+[00:39:31]: [Say] (KU_uGVY9zVB) balalaboom: 沒有
+[00:39:37]: [Say] (KU_uGVY9zVB) balalaboom: 我先放鳥籠裡呀
+[00:40:45]: [Say] (KU_uGVY9zVB) balalaboom: hunds
+[00:41:51]: [Say] (KU_uGVY9zVB) balalaboom: 幫我搓陷阱
+[00:42:28]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 沒牙齒了
+[00:42:33]: [Say] (KU_uGVY9zVB) balalaboom: 這
+[00:43:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 梅草了
+[00:44:00]: [Say] (KU_uGVY9zVB) balalaboom: 我也沒了XD
+[00:44:05]: [Say] (KU_uGVY9zVB) balalaboom: 在家裡
+[00:44:06]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 還要做嗎?
+[00:44:11]: [Say] (KU_uGVY9zVB) balalaboom: 要
+[00:45:50]: [Say] (KU_uGVY9zVB) balalaboom: 好
+[00:45:54]: [Say] (KU_uGVY9zVB) balalaboom: 謝謝
+[00:46:10]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 好惹
+[00:46:14]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 要做機帶嗎?
+[00:46:16]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 交代
+[00:46:21]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 膠帶
+[00:46:23]: [Say] (KU_uGVY9zVB) balalaboom: 要
+[00:49:16]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我搓一組了
+[00:49:26]: [Say] (KU_uGVY9zVB) balalaboom: 好.3Q
+[00:53:25]: [Say] (KU_uGVY9zVB) balalaboom: 還缺什麼嗎?
+[00:53:33]: [Say] (KU_3aPAZWmD) ルビー: 人
+[00:53:42]: [Say] (KU_uGVY9zVB) balalaboom: OK.我來揪
+[00:53:49]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 還有愛
+[00:54:05]: [Say] (KU_uGVY9zVB) balalaboom: 愛就比較難了
+[00:54:14]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: QAQ
+[00:56:01]: [Say] (KU_uGVY9zVB) balalaboom: WC
+[00:56:14]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: OK
+[00:57:02]: [Join Announcement] 夜月夏目
+[00:57:10]: [Join Announcement] AierLuosen
+[00:57:31]: [Say] (KU_M673WWQo) 夜月夏目: 你們是幾天後會打?
+[00:57:42]: [Say] (KU_3aPAZWmD) ルビー: 夏天
+[00:57:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 想打 便打
+[00:58:21]: [Join Announcement] 提爾詩
