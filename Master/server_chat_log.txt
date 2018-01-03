@@ -76,3 +76,48 @@
 [00:57:42]: [Say] (KU_3aPAZWmD) ルビー: 夏天
 [00:57:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 想打 便打
 [00:58:21]: [Join Announcement] 提爾詩
+[00:58:31]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你竟然不是威爾森
+[00:58:45]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 說錯 麥叔
+[00:58:51]: [Say] (KU_BIj2U1ZB) 提爾詩: ˊowoˋ
+[00:58:56]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 安安我好
+[00:59:02]: [Say] (KU_TtsjKcrU) AierLuosen: 我好我好
+[01:00:05]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 屁股很翹
+[01:00:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 地中海禿
+[01:00:35]: [Say] (KU_3aPAZWmD) ルビー: 多一隻
+[01:01:00]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 放在鳥籠
+[01:01:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 一到兩天
+[01:01:28]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 10 雷根糖s.
+[01:02:38]: [Say] (KU_BIj2U1ZB) 提爾詩: no
+[01:02:55]: [Say] (KU_BIj2U1ZB) 提爾詩: 我的女戰傻傻的.也不會
+[01:03:15]: [Say] (KU_3aPAZWmD) ルビー: 蘆葦在地圖箱子
+[01:03:31]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不愧事小精靈
+[01:03:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: Y
+[01:03:44]: [Say] (KU_BIj2U1ZB) 提爾詩: ˊowoˋ
+[01:03:54]: [Say] (KU_BIj2U1ZB) 提爾詩: 蜘蛛女王xN
+[01:04:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 給我材料
+[01:04:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我要種子
+[01:05:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我去蓋鳥籠
+[01:05:50]: [Say] (KU_BIj2U1ZB) 提爾詩: 我在地底ˊowoˋ需要上去嗎
+[01:09:29]: [Say] (KU_BIj2U1ZB) 提爾詩: 想說地底一下去就是沼澤旁.現採蘆葦
+[01:09:38]: [Say] (KU_BIj2U1ZB) 提爾詩: 結果蜘蛛女王xN
+[01:10:05]: [Say] (KU_BIj2U1ZB) 提爾詩: 3.5人好像輸出就夠了
+[01:10:32]: [Say] (KU_3aPAZWmD) ルビー: N
+[01:10:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 修喔
+[01:11:37]: [Say] (KU_3aPAZWmD) ルビー: 女戰優勢 XD
+[01:11:47]: [Say] (KU_BIj2U1ZB) 提爾詩: 沒關系.世界邊緣人
+[01:14:48]: [Say] (KU_BIj2U1ZB) 提爾詩: 紫寶石@@?
+[01:15:05]: [Say] (KU_BIj2U1ZB) 提爾詩: 3q
+[01:16:28]: [Say] (KU_BIj2U1ZB) 提爾詩: 武器u嗎?
+[01:16:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: N
+[01:16:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: N
+[01:16:50]: [Say] (KU_BIj2U1ZB) 提爾詩: 我剛剛拿枴杖打龍蠅w
+[01:16:56]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 狂
+[01:17:24]: [Say] (KU_BIj2U1ZB) 提爾詩: u池塘.沒問題的
+[01:17:31]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有補品嗎
+[01:17:41]: [Say] (KU_BIj2U1ZB) 提爾詩: 不用.食物舊型的
+[01:17:52]: [Say] (KU_BIj2U1ZB) 提爾詩: 補品什麼的不需要w
+[01:19:28]: [Leave Announcement] 讓子彈飛一會兒
+[01:19:50]: [Join Announcement] 阿薩謝爾
+[01:20:28]: [Join Announcement] 讓子彈飛一會兒
+[01:20:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: NOOOOOO~
+[01:21:19]: [Death Announcement] AierLuosen 死亡，死因： 深淵蠕蟲。她變成了一個令人毛骨悚然的鬼！
