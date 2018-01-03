@@ -322,3 +322,23 @@
 [03:32:45]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我先下
 [03:32:58]: [Leave Announcement] 讓子彈飛一會兒
 [03:34:29]: [Join Announcement] 讓子彈飛一會兒
+[03:36:32]: [Say] (KU_d2kn6_6v) chunen: NO
+[03:37:31]: [Say] (KU_d2kn6_6v) chunen: 怎走
+[03:38:25]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 熊獾。她變成了一個令人毛骨悚然的鬼！
+[03:42:58]: [Say] (KU_d2kn6_6v) chunen: 不是這吧
+[03:44:40]: [Death Announcement] balalaboom 死亡，死因： 熊獾。她變成了一個令人毛骨悚然的鬼！
+[03:44:49]: [Resurrect Announcement] balalaboom 復活自 夜月夏目.
+[03:48:19]: [Say] (KU_d2kn6_6v) chunen: 沒+1
+[03:48:22]: [Say] (KU_3aPAZWmD) ルビー: 沒聲音
+[03:48:37]: [Say] (KU_d2kn6_6v) chunen: www
+[03:50:22]: [Say] (KU_d2kn6_6v) chunen: 看要不要標記一下
+[03:50:58]: [Say] (KU_d2kn6_6v) chunen: 誰有稿子
+[03:51:09]: [Say] (KU_d2kn6_6v) chunen: OK先殺雕像
+[03:51:49]: [Say] (KU_d2kn6_6v) chunen: 月石雕像要敲掉不然會復活
+[03:51:57]: [Say] (KU_d2kn6_6v) chunen: 月石雕像拉XD,我剛敲的
+[03:52:54]: [Say] (KU_d2kn6_6v) chunen: 就插下去,然後就會噴怪
+[03:53:59]: [Say] (KU_d2kn6_6v) chunen: 失敗
+[03:54:43]: [Say] (KU_3aPAZWmD) ルビー: 對
+[03:54:50]: [Say] (KU_3aPAZWmD) ルビー: 沒人補雪球機
+[03:54:56]: [Say] (KU_d2kn6_6v) chunen: Y
+[03:55:45]: [Say] (KU_3aPAZWmD) ルビー: 珠人窩全燒了
