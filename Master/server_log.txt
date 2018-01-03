@@ -3815,3 +3815,5 @@
 [06:41:24]: [P2P] Remove session: 38.183.249.53|1 '76561198310003934'
 [06:45:38]: [P2P] Session timed out for '76561198189824466'
 [06:45:38]: [P2P] Remove session: 38.183.249.47|1 '76561198189824466'
+[07:00:10]: [200] Account Communication Success (6)
+[07:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
