@@ -767,3 +767,62 @@
 [01:21:46]: Resuming user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000579
 [01:21:47]: Player will spawn close to portal #1	
 [01:21:47]: Spawning player at: [Load] (363.31, 0.00, -266.79)	
+[01:22:44]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000579
+[01:22:44]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000579
+[01:22:44]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000579
+[01:22:44]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000579
+[01:22:44]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000579
+[01:22:44]: Serializing world: session/5C44BECFFFC07A2A/0000000579
+[01:23:12]: [Shard] #17 -> session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000580
+[01:23:12]: [Shard] Received migration #17 data for (KU_M673WWQo)
+[01:23:31]: [P2P] Create session: 38.182.210.191|1 '76561198211986697'
+[01:23:31]: [P2P] Received from 38.182.210.191|1 '76561198211986697'
+[01:23:31]: [P2P] Sent to 38.182.210.191|1 '76561198211986697'
+[01:23:32]: New incoming connection 38.182.210.191|1 <6947218965444335115>
+[01:23:32]: Client connected from 38.182.210.191|1 <6947218965444335115>
+[01:23:32]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^rmh7UARaGTi+NHyvg2jBcH49a++AAXjiWrrRM50yYJs= for <6947218965444335115>
+[01:23:33]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[01:23:33]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[01:23:33]: [Steam] Authenticated client '76561198211986697'
+[01:23:33]: [Shard] Completed incoming migration #17 for (KU_M673WWQo)
+[01:23:48]: Resuming user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000580
+[01:23:48]: Player will spawn close to portal #1	
+[01:23:48]: Spawning player at: [Load] (361.87, 0.00, -263.96)	
+[01:23:50]: Could not find anim [idle_loop] in bank [ghost]
+[01:23:53]: Could not find anim [transform] in bank [wilson]
+[01:23:54]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000580
+[01:29:25]: [Shard] #18 -> session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000580
+[01:29:25]: [Shard] Received migration #18 data for (KU_3aPAZWmD)
+[01:29:40]: [P2P] Session request for '76561198189824466'
+[01:29:45]: [P2P] Create session: 38.182.210.192|1 '76561198189824466'
+[01:29:45]: [P2P] Received from 38.182.210.192|1 '76561198189824466'
+[01:29:45]: [P2P] Sent to 38.182.210.192|1 '76561198189824466'
+[01:29:46]: New incoming connection 38.182.210.192|1 <6954782827137560919>
+[01:29:46]: Client connected from 38.182.210.192|1 <6954782827137560919>
+[01:29:46]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^Ey3Z7oB6ZR17HM7eoNx6bObSnyoQw9YH+JIpSKjorIM= for <6954782827137560919>
+[01:29:47]: Client authenticated: (KU_3aPAZWmD) ルビー
+[01:29:47]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[01:29:47]: [Steam] Authenticated client '76561198189824466'
+[01:29:47]: [Shard] Completed incoming migration #18 for (KU_3aPAZWmD)
+[01:30:08]: [200] Account Communication Success (6)
+[01:30:08]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:30:17]: KU_MitzUqYv	running text command:	flex	true	
+[01:30:22]: KU_MitzUqYv	running text command:	step	true	
+[01:30:34]: Resuming user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000580
+[01:30:34]: Player will spawn close to portal #1	
+[01:30:34]: Spawning player at: [Load] (362.54, 0.00, -266.27)	
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000580
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000580
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000580
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000580
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000580
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000580
+[01:30:45]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000580
+[01:30:45]: Serializing world: session/5C44BECFFFC07A2A/0000000580
+[01:30:59]: KU_MitzUqYv	running text command:	flex	true	
+[01:32:14]: KU_MitzUqYv	running text command:	joy	true	
+[01:32:16]: KU_MitzUqYv	running text command:	joy	true	
+[01:32:20]: KU_MitzUqYv	running text command:	flex	true	
+[01:33:20]: KU_MitzUqYv	running text command:	flex	true	
+[01:33:26]: KU_MitzUqYv	running text command:	flex	true	
+[01:34:23]: KU_MitzUqYv	running text command:	joy	true	

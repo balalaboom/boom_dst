@@ -121,3 +121,20 @@
 [01:20:28]: [Join Announcement] 讓子彈飛一會兒
 [01:20:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: NOOOOOO~
 [01:21:19]: [Death Announcement] AierLuosen 死亡，死因： 深淵蠕蟲。她變成了一個令人毛骨悚然的鬼！
+[01:23:14]: [Say] (KU_BIj2U1ZB) 提爾詩: 鹿鵝飛走就是他飛來的時候的倒帶(x)
+[01:23:49]: [Resurrect Announcement] AierLuosen 復活自 balalaboom.
+[01:23:55]: [Say] (KU_BIj2U1ZB) 提爾詩: 蟲都殺掉了嗎?
+[01:24:25]: [Say] (KU_BIj2U1ZB) 提爾詩: 2
+[01:24:28]: [Say] (KU_BIj2U1ZB) 提爾詩: 3
+[01:24:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3
+[01:25:11]: [Say] (KU_BIj2U1ZB) 提爾詩: 切錯武器而以ˊˇˋ
+[01:25:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 吃我的手杖拉
+[01:26:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3分鐘
+[01:26:42]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 動作快
+[01:26:47]: [Say] (KU_BIj2U1ZB) 提爾詩: 大家聽指令喔.不讓她攻擊
+[01:27:02]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 拿斧頭
+[01:27:16]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我好了
+[01:27:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: N
+[01:27:41]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我沒
+[01:31:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他很氣
+[01:33:41]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: Y
