@@ -1,125 +1,17 @@
-[00:03:58]: [Join Announcement] balalaboom
-[00:15:57]: [Join Announcement] ルビー
-[00:19:23]: [Join Announcement] chunen
-[00:19:46]: [Say] (KU_d2kn6_6v) chunen: wwww
-[00:19:55]: [Say] (KU_uGVY9zVB) balalaboom: 0.0?
-[00:19:56]: [Say] (KU_d2kn6_6v) chunen: 住院前玩死掉的
-[00:20:01]: [Say] (KU_uGVY9zVB) balalaboom: lol
-[00:20:08]: [Say] (KU_uGVY9zVB) balalaboom: 沒人活你喔?
-[00:20:20]: [Say] (KU_3aPAZWmD) ルビー: 他死在地洞
-[00:20:30]: [Say] (KU_d2kn6_6v) chunen: 你們去打蜂媽的樣子
-[00:20:37]: [Say] (KU_d2kn6_6v) chunen: 但我不舒服就先下陷了
-[00:20:41]: [Say] (KU_uGVY9zVB) balalaboom: @@"
-[00:20:53]: [Say] (KU_d2kn6_6v) chunen: 然後就住院拉www
-[00:21:02]: [Say] (KU_uGVY9zVB) balalaboom: 最慘的那種
-[00:21:13]: [Say] (KU_d2kn6_6v) chunen: 哈哈哈,地底應該還沒收屍
-[00:21:14]: [Say] (KU_uGVY9zVB) balalaboom: 要去幫你立個牌子 (C
-[00:21:19]: [Say] (KU_uGVY9zVB) balalaboom: (X
-[00:21:22]: [Say] (KU_d2kn6_6v) chunen: 別
-[00:21:24]: [Say] (KU_d2kn6_6v) chunen: 怕
-[00:21:32]: [Resurrect Announcement] chunen 復活自 ルビー.
-[00:21:41]: [Say] (KU_d2kn6_6v) chunen: 那邊應該有四個蜘蛛窩
-[00:23:34]: [Say] (KU_d2kn6_6v) chunen: 我帶蜘蛛茂下去檢屍體XD
-[00:23:38]: [Say] (KU_uGVY9zVB) balalaboom: OKOK
-[00:23:52]: [Say] (KU_d2kn6_6v) chunen: 女王也不會咬蜘蛛帽隊吧
-[00:23:55]: [Say] (KU_d2kn6_6v) chunen: 怕怕的
-[00:40:02]: [Say] (KU_uGVY9zVB) balalaboom: 可以打克勞斯
-[00:40:04]: [Say] (KU_3aPAZWmD) ルビー: 要找袋子嗎?
-[00:40:13]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
-[00:41:27]: [Say] (KU_uGVY9zVB) balalaboom: 我要把我的小羊換小企雞
-[00:41:30]: [Say] (KU_uGVY9zVB) balalaboom: XDD
-[00:41:33]: [Say] (KU_3aPAZWmD) ルビー: XD
-[00:41:47]: [Say] (KU_3aPAZWmD) ルビー: 小羊88 QWQ
-[00:41:48]: [Say] (KU_uGVY9zVB) balalaboom: 有人被兔人追殺lol
-[00:42:01]: [Say] (KU_uGVY9zVB) balalaboom: 先去看一下材料.好像要雞冠
-[00:44:26]: [Death Announcement] chunen 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
-[00:44:34]: [Say] (KU_uGVY9zVB) balalaboom: XDD
-[00:44:41]: [Say] (KU_d2kn6_6v) chunen: 可惡,趁黑偷打我
-[00:44:51]: [Say] (KU_d2kn6_6v) chunen: 看來我不適合玩女站
-[00:44:58]: [Say] (KU_uGVY9zVB) balalaboom: 此時不打.更待何時?
-[00:45:19]: [Say] (KU_d2kn6_6v) chunen: 而且還是大嘴.最機車
-[00:45:27]: [Resurrect Announcement] chunen 復活自 ルビー.
-[00:45:39]: [Say] (KU_uGVY9zVB) balalaboom: 要綜合堅果
-[00:48:33]: [Death Announcement] balalaboom 死亡，死因： 高腳鳥。她變成了一個令人毛骨悚然的鬼！
-[00:48:40]: [Resurrect Announcement] balalaboom 復活自 重生護符.
-[00:49:09]: [Death Announcement] balalaboom 死亡，死因： 高腳鳥。她變成了一個令人毛骨悚然的鬼！
-[00:49:13]: [Say] (KU_d2kn6_6v) chunen: @@
-[00:49:16]: [Say] (KU_uGVY9zVB) balalaboom: TAT
-[00:49:31]: [Say] (KU_uGVY9zVB) balalaboom: 東西在他們旁邊GG
-[00:49:39]: [Say] (KU_3aPAZWmD) ルビー: 你484想偷人家的蛋? =W=
-[00:49:48]: [Say] (KU_uGVY9zVB) balalaboom: (驚
-[00:50:03]: [Say] (KU_d2kn6_6v) chunen: 拿心臟還是蛋
-[00:50:03]: [Say] (KU_3aPAZWmD) ルビー: 我是說高腳鳥的 =W=
-[00:50:03]: [Say] (KU_uGVY9zVB) balalaboom: 是為了擷圖
-[00:50:10]: [Say] (KU_3aPAZWmD) ルビー: 喔喔
-[00:51:58]: [Say] (KU_uGVY9zVB) balalaboom: 有粽合堅果嗎?
-[00:52:06]: [Say] (KU_3aPAZWmD) ルビー: 沒
-[00:52:09]: [Say] (KU_d2kn6_6v) chunen: 沒有,要怎煮?
-[00:52:12]: [Say] (KU_uGVY9zVB) balalaboom: 幫我做一個來.拜託
-[00:52:19]: [Say] (KU_3aPAZWmD) ルビー: 沒砍樺樹 也沒漿果
-[00:52:32]: [Say] (KU_uGVY9zVB) balalaboom: 一個煮熟的樺樹果.加漿果
-[00:57:22]: [Say] (KU_3aPAZWmD) ルビー: 新月
-[00:57:29]: [Say] (KU_uGVY9zVB) balalaboom: >"<
-[00:57:35]: [Say] (KU_uGVY9zVB) balalaboom: 先打心臟
-[00:58:14]: [Say] (KU_3aPAZWmD) ルビー: 來不及
-[00:58:21]: [Resurrect Announcement] balalaboom 復活自 chunen.
-[01:01:03]: [Say] (KU_d2kn6_6v) chunen: 沒木甲31寫0口0
-[01:02:49]: [Death Announcement] ルビー 死亡，死因： 暗影主教。他變成了一個令人毛骨悚然的鬼！
-[01:03:27]: [Say] (KU_d2kn6_6v) chunen: 13HP
-[01:03:30]: [Say] (KU_d2kn6_6v) chunen: 拉掉吧
-[01:03:36]: [Say] (KU_3aPAZWmD) ルビー: 消失了
-[01:03:51]: [Join Announcement] 夜月夏目
-[01:05:48]: [Resurrect Announcement] ルビー 復活自 夜月夏目.
-[01:05:56]: [Say] (KU_3aPAZWmD) ルビー: 3Q
-[01:06:47]: [Say] (KU_M673WWQo) 夜月夏目: 我有要幫什麼嗎?
-[01:06:55]: [Say] (KU_3aPAZWmD) ルビー: 砍樹
-[01:08:22]: [Say] (KU_M673WWQo) 夜月夏目: 雨傘要放哪?
-[01:08:32]: [Say] (KU_d2kn6_6v) chunen: 5k4
-[01:08:39]: [Say] (KU_uGVY9zVB) balalaboom: 下面農場的柵欄旁
-[01:08:46]: [Say] (KU_M673WWQo) 夜月夏目: 恩
-[01:12:25]: [Say] (KU_uGVY9zVB) balalaboom: 98
-[01:16:17]: [Say] (KU_d2kn6_6v) chunen: 樹枝生病
-[01:16:41]: [Say] (KU_uGVY9zVB) balalaboom: 狗
-[01:16:50]: [Say] (KU_3aPAZWmD) ルビー: 處理阿
-[01:17:02]: [Say] (KU_d2kn6_6v) chunen: 我要叫鏟子
-[01:17:11]: [Say] (KU_d2kn6_6v) chunen: 狗就來了orz
-[01:17:17]: [Say] (KU_uGVY9zVB) balalaboom: XDD
-[01:17:45]: [Say] (KU_M673WWQo) 夜月夏目: 為甚麼我的狗特別晚來?
-[01:18:00]: [Say] (KU_uGVY9zVB) balalaboom: 住比較遠?
-[01:19:28]: [Leave Announcement] 夜月夏目
-[01:20:33]: [Say] (KU_d2kn6_6v) chunen: 無眼鹿很靠背,我在挖就黏過來狂黨
-[01:20:49]: [Say] (KU_d2kn6_6v) chunen: 挖完全立刻跑光光
-[01:20:59]: [Say] (KU_d2kn6_6v) chunen: 專門跑過來擋我的
-[01:22:10]: [Say] (KU_d2kn6_6v) chunen: BOOM,高鳥蛋塞哪
-[01:23:07]: [Say] (KU_uGVY9zVB) balalaboom: 3HP
-[01:23:14]: [Say] (KU_d2kn6_6v) chunen: 怕
-[01:23:19]: [Say] (KU_uGVY9zVB) balalaboom: 用3HP打春王XDD
-[01:26:11]: [Say] (KU_uGVY9zVB) balalaboom: 包在禮物包裡的冰塊還是會變質QQ
-[01:28:21]: [Join Announcement] 夜月夏目
-[01:30:21]: [Say] (KU_d2kn6_6v) chunen: 兔人被三階巢滅了orz滅,
-[01:32:15]: [Say] (KU_M673WWQo) 夜月夏目: 除了家上面 還有哪裡要砍?
-[01:35:16]: [Say] (KU_uGVY9zVB) balalaboom: 沒採的漿果
-[01:35:26]: [Say] (KU_uGVY9zVB) balalaboom: 在我面前變壞
-[01:35:40]: [Say] (KU_M673WWQo) 夜月夏目: ......
-[01:35:55]: [Say] (KU_uGVY9zVB) balalaboom: 都沒去碰它 >"<
-[01:36:18]: [Say] (KU_d2kn6_6v) chunen: 一秒變臭漿果
-[01:36:24]: [Say] (KU_uGVY9zVB) balalaboom: TAT
-[01:41:06]: [Say] (KU_uGVY9zVB) balalaboom: 2點了 lol
-[01:41:13]: [Say] (KU_uGVY9zVB) balalaboom: 我也要睡了
-[01:41:20]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
-[01:41:21]: [Say] (KU_d2kn6_6v) chunen: OK
-[01:41:21]: [Say] (KU_uGVY9zVB) balalaboom: 結果還是沒打到揪吉
-[01:41:28]: [Say] (KU_uGVY9zVB) balalaboom: 明天來打XD
-[01:41:30]: [Say] (KU_3aPAZWmD) ルビー: 人不夠
-[01:41:38]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
-[01:41:50]: [Say] (KU_d2kn6_6v) chunen: 那下囉
-[01:41:54]: [Say] (KU_uGVY9zVB) balalaboom: 好喔
-[01:41:59]: [Say] (KU_uGVY9zVB) balalaboom: 大家晚安
-[01:42:03]: [Say] (KU_d2kn6_6v) chunen: 晚安
-[01:42:06]: [Say] (KU_M673WWQo) 夜月夏目: 喔
-[01:42:06]: [Say] (KU_3aPAZWmD) ルビー: 晚安
-[01:42:12]: [Say] (KU_M673WWQo) 夜月夏目: 晚安
-[01:42:15]: [Leave Announcement] chunen
-[01:42:27]: [Leave Announcement] 夜月夏目
-[01:42:28]: [Leave Announcement] balalaboom
-[01:43:02]: [Leave Announcement] ルビー
+[00:11:53]: [Join Announcement] balalaboom
+[00:15:42]: [Join Announcement] ルビー
+[00:18:03]: [Join Announcement] 讓子彈飛一會兒
+[00:18:19]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: hi
+[00:18:24]: [Say] (KU_uGVY9zVB) balalaboom: HIHI
+[00:18:27]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我來 幫忙農
+[00:18:27]: [Say] (KU_3aPAZWmD) ルビー: 安
+[00:18:47]: [Say] (KU_uGVY9zVB) balalaboom: 幫我拿個活木
+[00:18:53]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: boom解解要幫啥
+[00:19:14]: [Say] (KU_uGVY9zVB) balalaboom: 等下來打苦痛揪吉XD
+[00:19:20]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: !!
+[00:19:20]: [Say] (KU_uGVY9zVB) balalaboom: 在準備吃的
+[00:19:33]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我要幫忙搬運物資嗎?
+[00:19:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 先班木頭過去搓
+[00:19:45]: [Say] (KU_uGVY9zVB) balalaboom: 好丫
+[00:19:53]: [Say] (KU_uGVY9zVB) balalaboom: 在上次那個點
+[00:20:01]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 壕
