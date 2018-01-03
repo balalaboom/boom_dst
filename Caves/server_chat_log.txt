@@ -206,3 +206,71 @@
 [02:30:39]: [Join Announcement] 提爾詩
 [02:31:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他強迫你當邊緣人
 [02:32:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我去放點木甲
+[02:36:13]: [Say] (KU_VOig0Obi) 阿薩謝爾:  (Hunger: 5/175) Our tummies are empty!
+[02:38:18]: [Say] (KU_VOig0Obi) 阿薩謝爾: 偽娘要從小培養起
+[02:38:57]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我護甲做好放著了 缺補品跟武器
+[02:39:35]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: LAAAAAAG
+[02:39:56]: [Leave Announcement] AierLuosen
+[02:40:22]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 0/120) I'll starve without some meat!
+[02:42:14]: [Join Announcement] chunen
+[02:42:16]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 都被我拿去做護假了 草
+[02:43:03]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你們要打蜂后了嗎?
+[02:43:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我房具做好丟那了
+[02:43:21]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 缺補跟武器
+[02:43:28]: [Say] (KU_d2kn6_6v) chunen: 肉丸我偷走囉><
+[02:43:59]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 燃料用骨盔骨甲刷很快
+[02:44:25]: [Leave Announcement] 提爾詩
+[02:44:29]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不能 一起嗨
+[02:44:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 8888
+[02:44:51]: [Say] (KU_d2kn6_6v) chunen: 88
+[02:44:55]: [Leave Announcement] 阿薩謝爾
+[02:45:26]: [Say] (KU_d2kn6_6v) chunen: 我一上大家都走了QAQ
+[02:46:16]: [Say] (KU_d2kn6_6v) chunen: OZ(X
+[02:46:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: (非洲人舉起火把
+[02:47:12]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我
+[02:48:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 狗還沒來捏
+[02:48:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 等等一定再打石來
+[02:48:58]: [Join Announcement] AierLuosen
+[02:49:10]: [Say] (KU_d2kn6_6v) chunen: 用蝴蝶翅膀跟你換食物QAQ
+[02:49:30]: [Say] (KU_d2kn6_6v) chunen: orz
+[02:49:47]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 先等狗吧  我很怕
+[02:50:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 會趕型楊
+[02:50:18]: [Say] (KU_d2kn6_6v) chunen: 那我先下,怕餓死ww
+[02:50:26]: [Say] (KU_d2kn6_6v) chunen: 狗走叫我
+[02:50:36]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 潮
+[02:50:38]: [Leave Announcement] chunen
+[02:50:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 很向中間塞一顆蛋黃
+[02:50:57]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 大型荷包蛋機
+[02:51:01]: [Leave Announcement] 夜月夏目
+[02:51:15]: [Leave Announcement] balalaboom
+[02:51:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 阿呆在那邊偷配音
+[02:51:58]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: OK
+[02:52:17]: [Join Announcement] 提爾詩
+[02:52:31]: [Join Announcement] balalaboom
+[02:52:53]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: Y
+[02:52:58]: [Join Announcement] chunen
+[02:53:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 滿滿的怪物肉
+[02:53:22]: [Join Announcement] 夜月夏目
+[02:53:40]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我可以過去了嗎
+[02:53:44]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: OK
+[02:53:53]: [Leave Announcement] AierLuosen
+[02:54:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我在路上了
+[02:54:41]: [Say] (KU_d2kn6_6v) chunen: 感恩><
+[02:54:51]: [Say] (KU_d2kn6_6v) chunen: 餓扁扁的女站
+[02:54:53]: [Say] (KU_3aPAZWmD) ルビー: 沒 我顧家
+[02:54:59]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 那我回去拿
+[02:55:00]: [Say] (KU_d2kn6_6v) chunen: 以後不完這隻,好挑食030
+[02:55:23]: [Say] (KU_d2kn6_6v) chunen: 我很新
+[02:55:24]: [Say] (KU_3aPAZWmD) ルビー: 完之前就該先想好 =W=
+[02:55:36]: [Say] (KU_d2kn6_6v) chunen: 目前只碰過大姊跟阿罵
+[02:55:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 口味這麼重
+[02:55:47]: [Say] (KU_d2kn6_6v) chunen: w
+[02:56:04]: [Say] (KU_d2kn6_6v) chunen: !什麼 口味重
+[02:56:19]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 餃子那包嗎?
+[02:56:39]: [Say] (KU_d2kn6_6v) chunen: 準備扣血wwww
+[02:56:45]: [Say] (KU_BIj2U1ZB) 提爾詩: BOT支援：什麼口味重!誰口味重!你才口味重!你全家都口味重!
+[02:56:50]: [Say] (KU_d2kn6_6v) chunen: www
+[02:56:53]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Hunger: 0/120) I'll starve without some meat!
+[02:57:02]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Health: 151/200) It's just a flesh wound!
+[02:58:14]: [Say] (KU_d2kn6_6v) chunen: www
+[02:58:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 歡樂送
