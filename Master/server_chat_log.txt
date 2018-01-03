@@ -342,3 +342,33 @@
 [03:54:50]: [Say] (KU_3aPAZWmD) ルビー: 沒人補雪球機
 [03:54:56]: [Say] (KU_d2kn6_6v) chunen: Y
 [03:55:45]: [Say] (KU_3aPAZWmD) ルビー: 珠人窩全燒了
+[03:59:19]: [Say] (KU_d2kn6_6v) chunen: +1
+[04:01:51]: [Say] (KU_d2kn6_6v) chunen: 乾,又忘記帶稿子
+[04:03:38]: [Say] (KU_d2kn6_6v) chunen: ww
+[04:03:59]: [Say] (KU_d2kn6_6v) chunen: 走下面
+[04:04:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ...
+[04:04:11]: [Say] (KU_d2kn6_6v) chunen: w
+[04:05:07]: [Say] (KU_d2kn6_6v) chunen: OKOK
+[04:05:31]: [Say] (KU_d2kn6_6v) chunen: 換雕像卡我
+[04:06:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 這月石別動 放著
+[04:06:26]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: 碎片擺這
+[04:06:49]: [Say] (KU_d2kn6_6v) chunen: 他的世界w
+[04:09:17]: [Say] (KU_d2kn6_6v) chunen: 往犀牛雕像拉
+[04:09:41]: [Say] (KU_d2kn6_6v) chunen: 全鋼OK嗎
+[04:11:21]: [Say] (KU_d2kn6_6v) chunen: K
+[04:12:55]: [Say] (KU_d2kn6_6v) chunen: 超愛追我= =
+[04:13:15]: [Say] (KU_d2kn6_6v) chunen: GG
+[04:13:30]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有機器人!
+[04:13:37]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 鋼彈!
+[04:15:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 那我先下?88
+[04:15:47]: [Say] (KU_d2kn6_6v) chunen: 又一隻女王
+[04:15:50]: [Leave Announcement] 讓子彈飛一會兒
+[04:16:40]: [Leave Announcement] balalaboom
+[04:18:48]: [Say] (KU_3aPAZWmD) ルビー: 狗
+[04:19:13]: [Say] (KU_d2kn6_6v) chunen: dog
+[04:19:25]: [Leave Announcement] chunen
+[04:20:29]: [Join Announcement] chunen
+[04:20:33]: [Death Announcement] chunen 死亡，死因： 投機取巧。她變成了一個令人毛骨悚然的鬼！
+[04:21:24]: [Vote Announcement] rollback passed
+[04:22:23]: [Leave Announcement] chunen
+[04:22:24]: [Leave Announcement] 夜月夏目
