@@ -545,3 +545,13 @@
 [00:21:16]: Resuming user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000572
 [00:21:16]: Player will spawn close to portal #1	
 [00:21:16]: Spawning player at: [Load] (366.81, 0.00, -264.38)	
+[00:26:39]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000572
+[00:26:39]: Serializing world: session/5C44BECFFFC07A2A/0000000572
+[00:27:30]: Activating portal[1] to 1	
+[00:27:30]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000573
+[00:27:30]: [Shard] Migration request: (KU_MitzUqYv) to [SHDMASTER](1)
+[00:27:30]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000573
+[00:27:31]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:27:31]: [Steam] SendUserDisconnect for '76561198099860495'
+[00:30:08]: [200] Account Communication Success (6)
+[00:30:08]: Received (KU_uGVY9zVB) from TokenPurpose
