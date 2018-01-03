@@ -3679,3 +3679,49 @@
 [04:57:29]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000604
 [04:57:29]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000604
 [04:57:30]: Serializing world: session/537C5C69FFB19629/0000000604
+[05:00:10]: [200] Account Communication Success (6)
+[05:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[05:05:30]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000605
+[05:05:30]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000605
+[05:05:30]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000605
+[05:05:30]: Serializing world: session/537C5C69FFB19629/0000000605
+[05:13:31]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000606
+[05:13:31]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000606
+[05:13:31]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000606
+[05:13:31]: Serializing world: session/537C5C69FFB19629/0000000606
+[05:16:45]: [Steam] SendUserDisconnect for '76561198310003934'
+[05:16:45]: Connection lost to 38.183.249.53|1 <6877029462449368029>
+[05:16:45]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[05:16:46]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000607
+[05:16:47]: [P2P] Connection failed for '76561198211986697'
+[05:16:48]: [Steam] SendUserDisconnect for '76561198211986697'
+[05:16:48]: Connection lost to 38.183.249.48|1 <4628118782711392464>
+[05:16:48]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[05:16:49]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000607
+[05:17:59]: [P2P] Received from 38.183.249.53|1 '76561198310003934'
+[05:17:59]: [P2P] Sent to 38.183.249.53|1 '76561198310003934'
+[05:17:59]: New incoming connection 38.183.249.53|1 <485263110119761604>
+[05:17:59]: Client connected from 38.183.249.53|1 <485263110119761604>
+[05:17:59]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^AEt6srYmQjB6BWvs8z+UxRmhtxp6dQZ7rSjAyKU3uck= for <485263110119761604>
+[05:18:00]: Client authenticated: (KU_d2kn6_6v) chunen
+[05:18:00]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[05:18:00]: [Steam] Authenticated client '76561198310003934'
+[05:18:03]: [Shard] Read save location file for (KU_d2kn6_6v)
+[05:18:11]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000607
+[05:18:11]: Spawning player at: [Load] (-583.76, 0.00, -354.32)	
+[05:18:21]: [P2P] Connection failed for '76561198211986697'
+[05:18:26]: [P2P] Received from 38.183.249.48|1 '76561198211986697'
+[05:18:26]: [P2P] Sent to 38.183.249.48|1 '76561198211986697'
+[05:18:26]: New incoming connection 38.183.249.48|1 <237397275670903159>
+[05:18:26]: Client connected from 38.183.249.48|1 <237397275670903159>
+[05:18:26]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^sGSbDgwjLS6p/k/gEWqeIKXSJC/5VkFhNQFYW1XUrWk= for <237397275670903159>
+[05:18:27]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[05:18:27]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[05:18:27]: [Steam] Authenticated client '76561198211986697'
+[05:18:29]: [Shard] Read save location file for (KU_M673WWQo)
+[05:18:42]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000607
+[05:18:42]: Spawning player at: [Load] (-562.72, 0.00, -332.80)	
+[05:21:32]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000607
+[05:21:32]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000607
+[05:21:32]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000607
+[05:21:33]: Serializing world: session/537C5C69FFB19629/0000000607

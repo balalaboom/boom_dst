@@ -378,3 +378,10 @@
 [04:52:21]: [Say] (KU_d2kn6_6v) chunen: orz
 [04:52:23]: [Say] (KU_M673WWQo) 夜月夏目: 綠洲那裏有2個100%的 我拿回來的
 [04:52:46]: [Say] (KU_d2kn6_6v) chunen: 那我丟龍爐旁邊囉
+[05:10:20]: [Say] (KU_d2kn6_6v) chunen: 曼陀拉我拖回家?
+[05:10:31]: [Say] (KU_3aPAZWmD) ルビー: 都可
+[05:16:42]: [Say] (KU_3aPAZWmD) ルビー: DOG
+[05:16:44]: [Leave Announcement] chunen
+[05:16:47]: [Leave Announcement] 夜月夏目
+[05:18:09]: [Join Announcement] chunen
+[05:18:40]: [Join Announcement] 夜月夏目
