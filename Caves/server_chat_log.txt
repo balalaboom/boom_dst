@@ -274,3 +274,29 @@
 [02:57:02]: [Say] (KU_BIj2U1ZB) 提爾詩:  (Health: 151/200) It's just a flesh wound!
 [02:58:14]: [Say] (KU_d2kn6_6v) chunen: www
 [02:58:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 歡樂送
+[02:59:25]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: OK
+[03:01:13]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 1J45JO JI3XK7
+[03:01:33]: [Leave Announcement] 讓子彈飛一會兒
+[03:02:32]: [Join Announcement] 讓子彈飛一會兒
+[03:04:36]: [Leave Announcement] 提爾詩
+[03:05:33]: [Join Announcement] 提爾詩
+[03:06:06]: [Say] (KU_d2kn6_6v) chunen: 我OK了
+[03:06:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 2018時尚帽子
+[03:06:35]: [Say] (KU_d2kn6_6v) chunen: 蜂茂+影刀會回理智嗎
+[03:06:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: N
+[03:06:43]: [Say] (KU_d2kn6_6v) chunen: OK
+[03:07:11]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 朕賜予你蜂王漿
+[03:08:37]: [Say] (KU_d2kn6_6v) chunen: 靠,我把槌子帶回來了orz
+[03:09:38]: [Say] (KU_d2kn6_6v) chunen: 蠟紙塞哪?
+[03:10:03]: [Say] (KU_3aPAZWmD) ルビー: 胃囊旁邊那廂
+[03:10:07]: [Say] (KU_d2kn6_6v) chunen: OK
+[03:10:23]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 快滿月了
+[03:10:56]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他不是必定會掉一種燈的藍圖嗎?
+[03:11:41]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 那我先下線洗澡
+[03:11:45]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 8888
+[03:11:48]: [Say] (KU_d2kn6_6v) chunen: 88/
+[03:12:14]: [Leave Announcement] 讓子彈飛一會兒
+[03:13:27]: [Leave Announcement] 提爾詩
+[03:20:42]: [Say] (KU_d2kn6_6v) chunen: 三階了
+[03:20:52]: [Say] (KU_d2kn6_6v) chunen: 四巢其中一個
+[03:22:15]: [Say] (KU_d2kn6_6v) chunen: 需要幫拆w
