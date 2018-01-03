@@ -826,3 +826,125 @@
 [01:33:20]: KU_MitzUqYv	running text command:	flex	true	
 [01:33:26]: KU_MitzUqYv	running text command:	flex	true	
 [01:34:23]: KU_MitzUqYv	running text command:	joy	true	
+[01:36:45]: KU_3aPAZWmD	running text command:	flex	true	
+[01:37:02]: KU_3aPAZWmD	running text command:	flex	true	
+[01:37:25]: KU_MitzUqYv	running text command:	flex	true	
+[01:38:45]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000581
+[01:38:45]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000581
+[01:38:45]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000581
+[01:38:45]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000581
+[01:38:45]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000581
+[01:38:46]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000581
+[01:38:46]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000581
+[01:38:46]: Serializing world: session/5C44BECFFFC07A2A/0000000581
+[01:38:56]: KU_3aPAZWmD	running text command:	flex	true	
+[01:39:00]: KU_3aPAZWmD	running text command:	flex	true	
+[01:40:57]: KU_MitzUqYv	running text command:	flex	true	
+[01:41:32]: KU_MitzUqYv	running text command:	flex	true	
+[01:42:34]: KU_MitzUqYv	running text command:	wave	true	
+[01:42:37]: KU_MitzUqYv	running text command:	flex	true	
+[01:42:42]: KU_MitzUqYv	running text command:	flex	true	
+[01:42:45]: KU_MitzUqYv	running text command:	flex	true	
+[01:42:46]: KU_TtsjKcrU	running text command:	flex	true	
+[01:42:50]: KU_TtsjKcrU	running text command:	flex	true	
+[01:42:52]: KU_TtsjKcrU	running text command:	flex	true	
+[01:42:55]: KU_MitzUqYv	running text command:	flex	true	
+[01:42:56]: KU_MitzUqYv	running text command:	flex	true	
+[01:42:57]: KU_TtsjKcrU	running text command:	flex	true	
+[01:42:59]: KU_TtsjKcrU	running text command:	flex	true	
+[01:43:00]: KU_MitzUqYv	running text command:	flex	true	
+[01:43:01]: KU_TtsjKcrU	running text command:	flex	true	
+[01:43:01]: KU_MitzUqYv	running text command:	carol	true	
+[01:43:03]: KU_TtsjKcrU	running text command:	slowclap	true	
+[01:43:04]: KU_TtsjKcrU	running text command:	carol	true	
+[01:43:26]: KU_VOig0Obi	running text command:	flex	true	
+[01:43:31]: KU_TtsjKcrU	running text command:	flex	true	
+[01:44:44]: Activating portal[1] to 1	
+[01:44:45]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000582
+[01:44:45]: [Shard] Migration request: (KU_MitzUqYv) to [SHDMASTER](1)
+[01:44:45]: [Shard] #19 <- session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000582
+[01:44:45]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:44:45]: [Steam] SendUserDisconnect for '76561198099860495'
+[01:44:53]: Activating portal[1] to 1	
+[01:44:53]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000582
+[01:44:53]: [Shard] Migration request: (KU_VOig0Obi) to [SHDMASTER](1)
+[01:44:53]: [Shard] #20 <- session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000582
+[01:44:53]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:44:53]: [Steam] SendUserDisconnect for '76561198196213781'
+[01:46:33]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:35]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:36]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:36]: KU_TtsjKcrU	running text command:	dance	true	
+[01:46:37]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:37]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:38]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:39]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:39]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:40]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:40]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:41]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:42]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:43]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:46]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000582
+[01:46:46]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000582
+[01:46:46]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000582
+[01:46:46]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000582
+[01:46:46]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000582
+[01:46:46]: Serializing world: session/5C44BECFFFC07A2A/0000000582
+[01:46:52]: Activating portal[1] to 1	
+[01:46:53]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000583
+[01:46:53]: [Shard] Migration request: (KU_TtsjKcrU) to [SHDMASTER](1)
+[01:46:53]: [Shard] #21 <- session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000583
+[01:46:53]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:46:53]: [Steam] SendUserDisconnect for '76561198251790870'
+[01:46:56]: Activating portal[1] to 1	
+[01:46:56]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000583
+[01:46:56]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[01:46:57]: [Shard] #22 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000583
+[01:46:57]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:46:57]: [Steam] SendUserDisconnect for '76561198354843262'
+[01:46:58]: Activating portal[1] to 1	
+[01:46:59]: Serializing user: session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000583
+[01:46:59]: [Shard] Migration request: (KU_3aPAZWmD) to [SHDMASTER](1)
+[01:46:59]: [Shard] #23 <- session/5C44BECFFFC07A2A/A7GE8P58S30D/0000000583
+[01:46:59]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:46:59]: [Steam] SendUserDisconnect for '76561198189824466'
+[01:47:05]: Activating portal[1] to 1	
+[01:47:05]: Serializing user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000583
+[01:47:05]: [Shard] Migration request: (KU_M673WWQo) to [SHDMASTER](1)
+[01:47:05]: [Shard] #24 <- session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000583
+[01:47:05]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:47:05]: [Steam] SendUserDisconnect for '76561198211986697'
+[01:47:09]: Activating portal[1] to 1	
+[01:47:10]: Serializing user: session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000583
+[01:47:10]: [Shard] Migration request: (KU_BIj2U1ZB) to [SHDMASTER](1)
+[01:47:10]: [Shard] #25 <- session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000583
+[01:47:10]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:47:10]: [Steam] SendUserDisconnect for '76561198286499269'
+[01:54:49]: Serializing world: session/5C44BECFFFC07A2A/0000000583
+[01:54:49]: Truncating to snapshot #583...
+[01:54:49]:  - session/5C44BECFFFC07A2A/0000000575
+[01:54:49]:  - session/5C44BECFFFC07A2A/0000000577
+[01:54:49]:  - session/5C44BECFFFC07A2A/0000000574
+[01:54:49]:  - session/5C44BECFFFC07A2A/0000000576
+[01:54:49]:  - session/5C44BECFFFC07A2A/0000000573
+[01:54:49]:  - session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000577
+[01:54:49]:  - session/5C44BECFFFC07A2A/A7HD5D17G66B/0000000501
+[01:54:49]:  - session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000577
+[01:54:49]:  - session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000573
+[01:54:49]:  - session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000569
+[01:54:49]:    10 file(s) removed
+[01:54:49]: [P2P] Session timed out for '76561198099860495'
+[01:54:49]: [P2P] Remove session: 38.182.210.188|1 '76561198099860495'
+[01:55:01]: [P2P] Session timed out for '76561198196213781'
+[01:55:01]: [P2P] Remove session: 38.182.210.190|1 '76561198196213781'
+[01:56:58]: [P2P] Session timed out for '76561198251790870'
+[01:56:58]: [P2P] Remove session: 38.182.210.186|1 '76561198251790870'
+[01:57:00]: [P2P] Session timed out for '76561198354843262'
+[01:57:00]: [P2P] Remove session: 38.182.210.187|1 '76561198354843262'
+[01:57:07]: [P2P] Session timed out for '76561198189824466'
+[01:57:07]: [P2P] Remove session: 38.182.210.192|1 '76561198189824466'
+[01:57:09]: [P2P] Session timed out for '76561198211986697'
+[01:57:09]: [P2P] Remove session: 38.182.210.191|1 '76561198211986697'
+[01:57:14]: [P2P] Session timed out for '76561198286499269'
+[01:57:14]: [P2P] Remove session: 38.182.210.189|1 '76561198286499269'
