@@ -362,3 +362,7 @@
 [04:21:24]: [Vote Announcement] rollback passed
 [04:22:23]: [Leave Announcement] chunen
 [04:22:24]: [Leave Announcement] 夜月夏目
+[04:23:05]: [Join Announcement] chunen
+[04:24:35]: [Join Announcement] 夜月夏目
+[04:27:30]: [Resurrect Announcement] 夜月夏目 復活自 惡魔之門.
+[04:34:03]: [Say] (KU_d2kn6_6v) chunen: 殺掉了

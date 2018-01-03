@@ -3594,3 +3594,47 @@
 [04:22:25]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000600
 [04:22:25]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000600
 [04:22:25]: Sim paused
+[04:22:53]: Restarting player migration on master server
+[04:22:53]: [Shard] Read save location file for (KU_3aPAZWmD)
+[04:22:53]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000600
+[04:22:53]: Spawning player at: [Load] (-119.69, 0.00, 539.10)	
+[04:22:53]: Sim unpaused
+[04:22:54]: [P2P] Received from 38.183.249.53|1 '76561198310003934'
+[04:22:54]: [P2P] Sent to 38.183.249.53|1 '76561198310003934'
+[04:22:54]: New incoming connection 38.183.249.53|1 <3443924359730454224>
+[04:22:54]: Client connected from 38.183.249.53|1 <3443924359730454224>
+[04:22:54]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^58NtV/0oT7jG4n/zuT7qBbae8gvL8A6hZ93HORqyS8U= for <3443924359730454224>
+[04:22:55]: Client authenticated: (KU_d2kn6_6v) chunen
+[04:22:55]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[04:22:55]: [Steam] Authenticated client '76561198310003934'
+[04:22:58]: [Shard] Read save location file for (KU_d2kn6_6v)
+[04:23:07]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000600
+[04:23:07]: Spawning player at: [Load] (-540.22, 0.00, -287.79)	
+[04:24:24]: [P2P] Received from 38.183.249.48|1 '76561198211986697'
+[04:24:24]: [P2P] Sent to 38.183.249.48|1 '76561198211986697'
+[04:24:25]: New incoming connection 38.183.249.48|1 <4628118782711392464>
+[04:24:25]: Client connected from 38.183.249.48|1 <4628118782711392464>
+[04:24:25]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^OimW71FuE+JU8Jpcq01eC/OOgbSr+QEonmR+X72wfto= for <4628118782711392464>
+[04:24:25]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[04:24:25]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[04:24:26]: [Steam] Authenticated client '76561198211986697'
+[04:24:28]: [Shard] Read save location file for (KU_M673WWQo)
+[04:24:37]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000600
+[04:24:37]: Could not find anim [idle_loop] in bank [ghost]
+[04:24:37]: Spawning player at: [Load] (-557.17, -0.00, -280.17)	
+[04:25:26]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000600
+[04:25:26]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000600
+[04:25:26]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000600
+[04:25:27]: Serializing world: session/537C5C69FFB19629/0000000600
+[04:25:51]: [P2P] Session timed out for '76561198099860495'
+[04:25:51]: [P2P] Remove session: 38.183.249.54|1 '76561198099860495'
+[04:26:41]: [P2P] Session timed out for '76561198354843262'
+[04:26:41]: [P2P] Remove session: 38.183.249.46|1 '76561198354843262'
+[04:27:31]: Could not find anim [idle_loop] in bank [ghost]
+[04:27:34]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000601
+[04:30:10]: [200] Account Communication Success (6)
+[04:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:33:27]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000601
+[04:33:27]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000601
+[04:33:27]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000601
+[04:33:28]: Serializing world: session/537C5C69FFB19629/0000000601
