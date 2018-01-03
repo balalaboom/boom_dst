@@ -390,3 +390,10 @@
 [05:25:36]: [Say] (KU_d2kn6_6v) chunen: OK,那我就塞一塞運回家囉
 [05:27:03]: [Say] (KU_d2kn6_6v) chunen: 靠,你都清空囉XD
 [05:27:20]: [Say] (KU_M673WWQo) 夜月夏目: 對
+[05:37:17]: [Say] (KU_M673WWQo) 夜月夏目: 你們要玩到哪一天?
+[05:37:29]: [Say] (KU_3aPAZWmD) ルビー: 秋天最後一天 大概
+[05:46:49]: [Say] (KU_M673WWQo) 夜月夏目: 家裡的人借我傳一下
+[05:47:01]: [Say] (KU_3aPAZWmD) ルビー: COME
+[05:48:21]: [Say] (KU_d2kn6_6v) chunen: 我打怪補救好,有頭燈輕鬆很多
+[05:48:32]: [Say] (KU_d2kn6_6v) chunen: 謝拉
+[05:51:16]: [Say] (KU_d2kn6_6v) chunen: dog
