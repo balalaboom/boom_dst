@@ -501,3 +501,43 @@
 [00:00:31]: Validating portal[9] <-> 2560562348[9] (active)	
 [00:00:31]: Validating portal[10] <-> 2560562348[10] (active)	
 [00:00:31]: Validating portal[8] <-> 2560562348[8] (active)	
+[00:18:34]: RemoteCommandInput: "c_shutdown()"
+[00:18:34]: c_shutdown	nil	
+[00:18:34]: Serializing world: session/537C5C69FFB19629/0000000620
+[00:18:34]: Truncating to snapshot #620...
+[00:18:34]:  - session/537C5C69FFB19629/0000000614
+[00:18:34]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000614
+[00:18:34]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000614
+[00:18:34]:    3 file(s) removed
+[00:18:34]: unloading prefabs for mod MOD_workshop-362175979	
+[00:18:34]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:18:34]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:18:34]: unloading prefabs for mod MOD_workshop-378160973	
+[00:18:34]: unloading prefabs for mod MOD_workshop-362175979	
+[00:18:34]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:18:34]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:18:34]: unloading prefabs for mod MOD_workshop-378160973	
+[00:18:35]: Serializing world: session/537C5C69FFB19629/0000000621
+[00:18:35]: Truncating to snapshot #621...
+[00:18:35]:  - session/537C5C69FFB19629/0000000615
+[00:18:35]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000615
+[00:18:35]:  - session/537C5C69FFB19629/A7KS5EOHNSDP/0000000615
+[00:18:35]:    3 file(s) removed
+[00:18:35]: unloading prefabs for mod MOD_workshop-362175979	
+[00:18:35]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:18:35]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:18:35]: unloading prefabs for mod MOD_workshop-378160973	
+[00:18:36]: [Shard] Stopping shard mode
+[00:18:37]: Collecting garbage...
+[00:18:37]: lua_gc took 0.61 seconds
+[00:18:38]: ~ShardLuaProxy()
+[00:18:38]: ~ItemServerLuaProxy()
+[00:18:38]: ~InventoryLuaProxy()
+[00:18:38]: ~NetworkLuaProxy()
+[00:18:38]: ~SimLuaProxy()
+[00:18:38]: lua_close took 0.65 seconds
+[00:18:38]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:18:38]: shaders/ui_yuv.ksh - 1
+[00:18:38]: CurlRequestManager::ClientThread::Main() complete
+[00:18:38]: HttpClient2 discarded 1 callbacks.
+[00:18:38]: Shutting down

@@ -512,3 +512,147 @@
 [00:00:31]: Validating portal[2] <-> 1[2] (active)	
 [00:00:32]: [Shard] Slave LUA is now ready!
 [00:00:32]: Sim paused
+[00:18:36]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[00:18:41]: About to start a shard with these settings:
+[00:18:41]:   ShardName: Caves
+[00:18:41]:   ShardID: 2560562348
+[00:18:41]:   ShardRole: SLAVE
+[00:18:41]:   MasterHost: 127.0.0.1
+[00:18:41]:   MasterBind: (null)
+[00:18:41]:   MasterPort: 10889
+[00:18:41]: [Shard] Connecting to master...
+[00:18:51]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:18:56]: About to start a shard with these settings:
+[00:18:56]:   ShardName: Caves
+[00:18:56]:   ShardID: 2560562348
+[00:18:56]:   ShardRole: SLAVE
+[00:18:56]:   MasterHost: 127.0.0.1
+[00:18:56]:   MasterBind: (null)
+[00:18:56]:   MasterPort: 10889
+[00:18:56]: [Shard] Connecting to master...
+[00:19:06]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:11]: About to start a shard with these settings:
+[00:19:11]:   ShardName: Caves
+[00:19:11]:   ShardID: 2560562348
+[00:19:11]:   ShardRole: SLAVE
+[00:19:11]:   MasterHost: 127.0.0.1
+[00:19:11]:   MasterBind: (null)
+[00:19:11]:   MasterPort: 10889
+[00:19:11]: [Shard] Connecting to master...
+[00:19:21]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:26]: About to start a shard with these settings:
+[00:19:26]:   ShardName: Caves
+[00:19:26]:   ShardID: 2560562348
+[00:19:26]:   ShardRole: SLAVE
+[00:19:26]:   MasterHost: 127.0.0.1
+[00:19:26]:   MasterBind: (null)
+[00:19:26]:   MasterPort: 10889
+[00:19:26]: [Shard] Connecting to master...
+[00:19:36]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:41]: About to start a shard with these settings:
+[00:19:41]:   ShardName: Caves
+[00:19:41]:   ShardID: 2560562348
+[00:19:41]:   ShardRole: SLAVE
+[00:19:41]:   MasterHost: 127.0.0.1
+[00:19:41]:   MasterBind: (null)
+[00:19:41]:   MasterPort: 10889
+[00:19:42]: [Shard] Connecting to master...
+[00:19:51]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:57]: About to start a shard with these settings:
+[00:19:57]:   ShardName: Caves
+[00:19:57]:   ShardID: 2560562348
+[00:19:57]:   ShardRole: SLAVE
+[00:19:57]:   MasterHost: 127.0.0.1
+[00:19:57]:   MasterBind: (null)
+[00:19:57]:   MasterPort: 10889
+[00:19:57]: [Shard] Connecting to master...
+[00:20:07]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:12]: About to start a shard with these settings:
+[00:20:12]:   ShardName: Caves
+[00:20:12]:   ShardID: 2560562348
+[00:20:12]:   ShardRole: SLAVE
+[00:20:12]:   MasterHost: 127.0.0.1
+[00:20:12]:   MasterBind: (null)
+[00:20:12]:   MasterPort: 10889
+[00:20:12]: [Shard] Connecting to master...
+[00:20:22]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:27]: About to start a shard with these settings:
+[00:20:27]:   ShardName: Caves
+[00:20:27]:   ShardID: 2560562348
+[00:20:27]:   ShardRole: SLAVE
+[00:20:27]:   MasterHost: 127.0.0.1
+[00:20:27]:   MasterBind: (null)
+[00:20:27]:   MasterPort: 10889
+[00:20:27]: [Shard] Connecting to master...
+[00:20:37]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:42]: About to start a shard with these settings:
+[00:20:42]:   ShardName: Caves
+[00:20:42]:   ShardID: 2560562348
+[00:20:42]:   ShardRole: SLAVE
+[00:20:42]:   MasterHost: 127.0.0.1
+[00:20:42]:   MasterBind: (null)
+[00:20:42]:   MasterPort: 10889
+[00:20:42]: [Shard] Connecting to master...
+[00:20:52]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:57]: About to start a shard with these settings:
+[00:20:57]:   ShardName: Caves
+[00:20:57]:   ShardID: 2560562348
+[00:20:57]:   ShardRole: SLAVE
+[00:20:57]:   MasterHost: 127.0.0.1
+[00:20:57]:   MasterBind: (null)
+[00:20:57]:   MasterPort: 10889
+[00:20:57]: [Shard] Connecting to master...
+[00:21:07]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:21:12]: About to start a shard with these settings:
+[00:21:12]:   ShardName: Caves
+[00:21:12]:   ShardID: 2560562348
+[00:21:12]:   ShardRole: SLAVE
+[00:21:12]:   MasterHost: 127.0.0.1
+[00:21:12]:   MasterBind: (null)
+[00:21:12]:   MasterPort: 10889
+[00:21:12]: [Shard] Connecting to master...
+[00:21:22]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:21:27]: About to start a shard with these settings:
+[00:21:27]:   ShardName: Caves
+[00:21:27]:   ShardID: 2560562348
+[00:21:27]:   ShardRole: SLAVE
+[00:21:27]:   MasterHost: 127.0.0.1
+[00:21:27]:   MasterBind: (null)
+[00:21:27]:   MasterPort: 10889
+[00:21:27]: [Shard] Connecting to master...
+[00:21:32]: RemoteCommandInput: "c_shutdown()"
+[00:21:32]: c_shutdown	nil	
+[00:21:32]: Serializing world: session/5C44BECFFFC07A2A/0000000620
+[00:21:32]: Truncating to snapshot #620...
+[00:21:32]:  - session/5C44BECFFFC07A2A/0000000614
+[00:21:32]:    1 file(s) removed
+[00:21:32]: unloading prefabs for mod MOD_workshop-362175979	
+[00:21:32]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:21:32]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:21:32]: unloading prefabs for mod MOD_workshop-378160973	
+[00:21:32]: unloading prefabs for mod MOD_workshop-362175979	
+[00:21:32]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:21:32]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:21:32]: unloading prefabs for mod MOD_workshop-378160973	
+[00:21:32]: Serializing world: session/5C44BECFFFC07A2A/0000000621
+[00:21:32]: Truncating to snapshot #621...
+[00:21:32]:  - session/5C44BECFFFC07A2A/0000000615
+[00:21:32]:    1 file(s) removed
+[00:21:32]: unloading prefabs for mod MOD_workshop-362175979	
+[00:21:32]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:21:32]: unloading prefabs for mod MOD_workshop-1242093526	
+[00:21:32]: unloading prefabs for mod MOD_workshop-378160973	
+[00:21:33]: [Shard] Stopping shard mode
+[00:21:34]: Collecting garbage...
+[00:21:34]: lua_gc took 0.34 seconds
+[00:21:34]: ~ShardLuaProxy()
+[00:21:34]: ~ItemServerLuaProxy()
+[00:21:34]: ~InventoryLuaProxy()
+[00:21:34]: ~NetworkLuaProxy()
+[00:21:34]: ~SimLuaProxy()
+[00:21:34]: lua_close took 0.37 seconds
+[00:21:34]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:21:34]: shaders/ui_yuv.ksh - 1
+[00:21:35]: CurlRequestManager::ClientThread::Main() complete
+[00:21:35]: HttpClient2 discarded 0 callbacks.
+[00:21:35]: Shutting down
