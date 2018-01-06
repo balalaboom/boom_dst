@@ -418,3 +418,8 @@
 [05:58:42]: [Say] (KU_3aPAZWmD) ルビー: 那我沒看到 @@
 [05:58:46]: [Say] (KU_d2kn6_6v) chunen: 視角轉一轉找一下
 [05:58:48]: [Say] (KU_M673WWQo) 夜月夏目: 沒事 找到了
+[06:13:59]: [Say] (KU_M673WWQo) 夜月夏目:  We have 5 仙人掌花s in this 冰箱.
+[06:23:34]: [Leave Announcement] 夜月夏目
+[06:24:58]: [Death Announcement] chunen 死亡，死因： 過熱。他變成了一個令人毛骨悚然的鬼！
+[06:25:08]: [Join Announcement] 夜月夏目
+[06:25:52]: [Resurrect Announcement] chunen 復活自 重生護符.
