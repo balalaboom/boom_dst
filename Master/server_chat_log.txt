@@ -160,3 +160,31 @@
 [02:30:44]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你可以把猴窩 用牆圍起來
 [02:30:53]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 以後遺跡刷新舊不用刷
 [02:30:55]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: y
+[02:31:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不用燒
+[02:31:19]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 把他圍起來 打完紅骨都不用怕他
+[02:31:24]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 猴子不會打牆
+[02:31:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你燒掉以後每打一次紅骨都要重新燒一次
+[02:32:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我回來再幫你做圍牆
+[02:32:26]: [Say] (KU_d2kn6_6v) chunen: 隕石區撿到的蜂巢~
+[02:32:29]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不用阿 圍起來就好
+[02:32:35]: [Say] (KU_d2kn6_6v) chunen: 放哪*(剛找半天
+[02:32:57]: [Say] (KU_d2kn6_6v) chunen: 原來我剛剛都沒進語音wwwww
+[02:33:10]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你4不4自言自語很爽
+[02:33:11]: [Say] (KU_d2kn6_6v) chunen: 939
+[02:33:20]: [Say] (KU_d2kn6_6v) chunen: 真的,我想說打字都沒人理我
+[02:36:43]: [Say] (KU_d2kn6_6v) chunen: !!!
+[02:36:50]: [Say] (KU_d2kn6_6v) chunen: 開車拉
+[02:37:01]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ch對阿罵很興奮?
+[02:37:12]: [Say] (KU_d2kn6_6v) chunen: 才,才沒有(羞
+[02:37:15]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我挖了110個蒂皮
+[02:37:28]: [Say] (KU_d2kn6_6v) chunen: 拿來燒0w0
+[02:37:35]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: 地
+[02:37:47]: [Say] (KU_3aPAZWmD) ルビー: Boom發作惹
+[02:37:52]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 才沒有(驕傲
+[02:38:00]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 地!
+[02:38:28]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不要問 我會怕
+[02:38:31]: [Say] (KU_3aPAZWmD) ルビー: 要留10%
+[02:39:04]: [Say] (KU_d2kn6_6v) chunen: 我以為是地表的地皮要留10%
+[02:42:49]: [Say] (KU_d2kn6_6v) chunen: 我可以重選www
+[02:42:53]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 要來悟道嗎?
+[02:43:03]: [Say] (KU_d2kn6_6v) chunen: 妙禪OK
