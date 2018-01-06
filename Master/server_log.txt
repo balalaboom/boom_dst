@@ -2453,3 +2453,25 @@
 [05:02:50]: Connection lost to 138.248.41.163|1 <2233241816787224946>
 [05:02:50]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
 [05:02:51]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000659
+[05:09:23]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000659
+[05:09:23]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000659
+[05:09:23]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000659
+[05:09:24]: Serializing world: session/537C5C69FFB19629/0000000659
+[05:12:50]: [P2P] Session timed out for '76561198354843262'
+[05:12:50]: [P2P] Remove session: 138.248.41.163|1 '76561198354843262'
+[05:17:24]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000660
+[05:17:24]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000660
+[05:17:24]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000660
+[05:17:25]: Serializing world: session/537C5C69FFB19629/0000000660
+[05:25:25]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000661
+[05:25:25]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000661
+[05:25:25]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000661
+[05:25:26]: Serializing world: session/537C5C69FFB19629/0000000661
+[05:26:02]: RemoteCommandInput: "c_save()"
+[05:26:03]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000662
+[05:26:03]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000662
+[05:26:03]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000662
+[05:26:04]: Serializing world: session/537C5C69FFB19629/0000000662
+[05:26:33]: RemoteCommandInput: "c_announce"偷學丫呆的指令""
+[05:30:07]: [200] Account Communication Success (6)
+[05:30:07]: Received (KU_uGVY9zVB) from TokenPurpose

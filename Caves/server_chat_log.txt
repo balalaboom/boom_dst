@@ -320,3 +320,15 @@
 [05:02:17]: [Say] (KU_d2kn6_6v) chunen: 那邊還有一點點東西,我去拎回來
 [05:02:29]: [Say] (KU_d2kn6_6v) chunen: 真的只剩一點點(抹臉
 [05:02:50]: [Leave Announcement] balalaboom
+[05:15:41]: [Skin Announcement] ルビー mysterybox_ice_4
+[05:25:16]: [Announcement] 伺服器我開著讓你們繼續玩唷
+[05:25:22]: [Say] (KU_d2kn6_6v) chunen: !
+[05:25:26]: [Say] (KU_d2kn6_6v) chunen: 好
+[05:25:46]: [Announcement] 很驚訝嗎? XDD
+[05:26:04]: [Say] (KU_d2kn6_6v) chunen: 有點w
+[05:26:33]: [Announcement] 偷學丫呆的指令
+[05:27:07]: [Say] (KU_d2kn6_6v) chunen: 我要跟阿呆講(?
+[05:29:29]: [Announcement] 不准!!NO!NO!NO!(指
+[05:29:35]: [Say] (KU_d2kn6_6v) chunen: XDDDD
+[05:30:40]: [Say] (KU_M673WWQo) 夜月夏目: BOOM:記得去打蟻獅
+[05:30:52]: [Say] (KU_3aPAZWmD) ルビー: 恩 等狗來

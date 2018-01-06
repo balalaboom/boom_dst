@@ -1832,3 +1832,25 @@
 [05:01:23]:  - session/5C44BECFFFC07A2A/0000000652
 [05:01:23]:  - session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000583
 [05:01:23]:    2 file(s) removed
+[05:09:23]: Serializing world: session/5C44BECFFFC07A2A/0000000659
+[05:09:23]: Truncating to snapshot #659...
+[05:09:23]:  - session/5C44BECFFFC07A2A/0000000653
+[05:09:23]:  - session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000653
+[05:09:23]:    2 file(s) removed
+[05:17:24]: Serializing world: session/5C44BECFFFC07A2A/0000000660
+[05:17:24]: Truncating to snapshot #660...
+[05:17:24]:  - session/5C44BECFFFC07A2A/0000000654
+[05:17:24]:    1 file(s) removed
+[05:25:16]: RemoteCommandInput: "c_announce"伺服器我開著讓你們繼續玩唷""
+[05:25:25]: Serializing world: session/5C44BECFFFC07A2A/0000000661
+[05:25:25]: Truncating to snapshot #661...
+[05:25:25]:  - session/5C44BECFFFC07A2A/0000000655
+[05:25:25]:    1 file(s) removed
+[05:25:46]: RemoteCommandInput: "c_announce"很驚訝嗎? XDD" "
+[05:26:03]: Serializing world: session/5C44BECFFFC07A2A/0000000662
+[05:26:03]: Truncating to snapshot #662...
+[05:26:03]:  - session/5C44BECFFFC07A2A/0000000656
+[05:26:03]:    1 file(s) removed
+[05:29:29]: RemoteCommandInput: "c_announce"不准!!NO!NO!NO!(指" "
+[05:30:07]: [200] Account Communication Success (6)
+[05:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
