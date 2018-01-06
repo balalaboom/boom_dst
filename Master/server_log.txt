@@ -2502,3 +2502,47 @@
 [05:42:59]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
 [05:42:59]: [Steam] Authenticated client '76561198211986697'
 [05:43:01]: [Shard] Read save location file for (KU_M673WWQo)
+[05:43:13]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000666
+[05:43:13]: Spawning player at: [Load] (179.97, -0.00, -79.60)	
+[05:44:51]: [P2P] Create session: 138.248.41.166|1 '76561198099860495'
+[05:44:51]: [P2P] Received from 138.248.41.166|1 '76561198099860495'
+[05:44:51]: [P2P] Sent to 138.248.41.166|1 '76561198099860495'
+[05:45:13]: [P2P] Received from 138.248.41.166|1 '76561198099860495'
+[05:45:13]: [P2P] Sent to 138.248.41.166|1 '76561198099860495'
+[05:45:13]: New incoming connection 138.248.41.166|1 <8510745456649248356>
+[05:45:13]: Client connected from 138.248.41.166|1 <8510745456649248356>
+[05:45:13]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^oDzMY8IgLNbTXDmx6qOZCpGKaVOLD9XCiR9crnRAMsc= for <8510745456649248356>
+[05:45:13]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[05:45:14]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[05:45:14]: [Steam] Authenticated client '76561198099860495'
+[05:45:17]: [Shard] Read save location file for (KU_MitzUqYv)
+[05:45:37]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000650
+[05:45:37]: Spawning player at: [Load] (-124.66, 0.00, 528.98)	
+[05:47:28]: RemoteCommandInput: "c_announce"全剛還不傳鹿比" "
+[05:48:23]: RemoteCommandInput: "c_announce"好喔.我相信你XDD" "
+[05:49:30]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000666
+[05:49:30]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000666
+[05:49:30]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000666
+[05:49:30]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000666
+[05:49:30]: Serializing world: session/537C5C69FFB19629/0000000666
+[05:49:53]: RemoteCommandInput: "c_announce"晚安" "
+[05:54:04]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000667
+[05:54:04]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000667
+[05:54:04]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000667
+[05:54:04]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000667
+[05:54:04]: Serializing world: session/537C5C69FFB19629/0000000667
+[05:57:31]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000668
+[05:57:31]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000668
+[05:57:31]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000668
+[05:57:31]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000668
+[05:57:31]: Serializing world: session/537C5C69FFB19629/0000000668
+[05:57:32]: [Steam] SendUserDisconnect for '76561198099860495'
+[05:57:32]: Connection lost to 138.248.41.166|1 <8510745456649248356>
+[05:57:32]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[05:57:32]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000669
+[06:00:07]: [200] Account Communication Success (6)
+[06:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:05:32]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000669
+[06:05:32]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000669
+[06:05:32]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000669
+[06:05:32]: Serializing world: session/537C5C69FFB19629/0000000669

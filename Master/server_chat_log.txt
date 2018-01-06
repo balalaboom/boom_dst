@@ -359,3 +359,62 @@
 [05:40:22]: [Say] (KU_3aPAZWmD) ルビー: 嗯啊
 [05:41:32]: [Leave Announcement] 夜月夏目
 [05:41:39]: [Say] (KU_d2kn6_6v) chunen: 來了
+[05:43:12]: [Join Announcement] 夜月夏目
+[05:45:35]: [Join Announcement] 讓子彈飛一會兒
+[05:45:40]: [Whisper] (KU_M673WWQo) 夜月夏目: 要過來了嗎
+[05:45:56]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3Q
+[05:46:18]: [Say] (KU_M673WWQo) 夜月夏目: 明天蟻獅就要發怒了
+[05:46:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: BOOM休息了?
+[05:46:26]: [Say] (KU_3aPAZWmD) ルビー: 泉崗 船我一下
+[05:46:28]: [Say] (KU_M673WWQo) 夜月夏目: 對阿
+[05:46:39]: [Say] (KU_3aPAZWmD) ルビー: SOR 打錯字
+[05:47:00]: [Announcement] 不要想偷講我壞話(指
+[05:47:02]: [Say] (KU_3aPAZWmD) ルビー: 全鋼 船我一下 感恩
+[05:47:05]: [Say] (KU_d2kn6_6v) chunen: 我也去幫忙嗎?
+[05:47:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 怕
+[05:47:12]: [Say] (KU_d2kn6_6v) chunen: 還是我先用影子砍樹
+[05:47:24]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我為人正直 不嘴砲
+[05:47:28]: [Announcement] 全剛還不傳鹿比
+[05:47:34]: [Say] (KU_d2kn6_6v) chunen: www/
+[05:47:39]: [Say] (KU_d2kn6_6v) chunen: 傳了
+[05:48:04]: [Say] (KU_3aPAZWmD) ルビー: 開囉
+[05:48:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: BOOM大解請相信我
+[05:48:23]: [Announcement] 好喔.我相信你XDD
+[05:48:44]: [Say] (KU_M673WWQo) 夜月夏目: = =
+[05:48:49]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 火把?
+[05:48:53]: [Say] (KU_M673WWQo) 夜月夏目: 冷火堆
+[05:49:00]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: XD
+[05:49:02]: [Announcement] 加油蛤丫~還有蜜蜂女王可以打一打
+[05:49:02]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 爆了
+[05:49:04]: [Say] (KU_M673WWQo) 夜月夏目: FFFFFFFFFFK
+[05:49:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 笑死
+[05:49:27]: [Say] (KU_M673WWQo) 夜月夏目: 先到綠洲
+[05:49:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: BOOM大姐晚安
+[05:49:37]: [Announcement] 全剛爆了吼
+[05:49:53]: [Announcement] 晚安
+[05:49:54]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 冷火坑爆了 他沒爆
+[05:50:25]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: CH接我們回去
+[05:50:36]: [Say] (KU_d2kn6_6v) chunen: K
+[05:50:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 如果你還愛我
+[05:50:59]: [Say] (KU_d2kn6_6v) chunen: 那我不接了(X
+[05:51:02]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ....
+[05:51:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 喪新
+[05:51:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 滿月 打大肉?
+[05:51:34]: [Say] (KU_3aPAZWmD) ルビー: 你要摸多久 =W=
+[05:51:36]: [Say] (KU_d2kn6_6v) chunen: 大包出了,要打嗎
+[05:51:36]: [Say] (KU_M673WWQo) 夜月夏目: 我也要
+[05:52:07]: [Say] (KU_M673WWQo) 夜月夏目: 謝了
+[05:52:19]: [Say] (KU_3aPAZWmD) ルビー: 有大肉 可以做大肉棒棒
+[05:55:04]: [Say] (KU_d2kn6_6v) chunen: 準備殺豬
+[05:57:10]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我也先休息一下
+[05:57:14]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 8888
+[05:57:16]: [Say] (KU_3aPAZWmD) ルビー: 晚安/
+[05:57:17]: [Say] (KU_d2kn6_6v) chunen: 88
+[05:57:32]: [Leave Announcement] 讓子彈飛一會兒
+[05:57:53]: [Say] (KU_M673WWQo) 夜月夏目: 有看到我的加速手仗嗎?
+[05:58:09]: [Say] (KU_d2kn6_6v) chunen: 沒拿
+[05:58:16]: [Say] (KU_3aPAZWmD) ルビー: 青蛙雨的時候落在狗牙區?
+[05:58:24]: [Say] (KU_M673WWQo) 夜月夏目: 變聲後不知道掉在哪
+[05:58:42]: [Say] (KU_3aPAZWmD) ルビー: 那我沒看到 @@
+[05:58:46]: [Say] (KU_d2kn6_6v) chunen: 視角轉一轉找一下
+[05:58:48]: [Say] (KU_M673WWQo) 夜月夏目: 沒事 找到了
