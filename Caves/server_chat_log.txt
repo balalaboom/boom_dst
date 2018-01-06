@@ -104,3 +104,36 @@
 [01:40:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 個落幕好像36還是37
 [01:40:29]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 沒
 [01:40:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 37
+[01:43:30]: [Join Announcement] chunen
+[01:45:01]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ...
+[01:45:05]: [Say] (KU_d2kn6_6v) chunen: wwww
+[01:45:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我塞過去
+[01:45:14]: [Say] (KU_d2kn6_6v) chunen: 安安
+[01:45:17]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我睡覺拿到的
+[01:45:36]: [Skin Announcement] chunen mysterybox_ice_4
+[01:46:03]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你是覺得我會故意吹膩
+[01:46:11]: [Say] (KU_3aPAZWmD) ルビー: 不是 030
+[01:47:31]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我先做跟強心針
+[01:47:51]: [Say] (KU_d2kn6_6v) chunen: 海象打了嗎
+[01:47:54]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3q
+[01:48:22]: [Say] (KU_3aPAZWmD) ルビー: 剛剛在刷鳥 沒去打
+[01:48:29]: [Say] (KU_d2kn6_6v) chunen: OK
+[01:48:41]: [Say] (KU_d2kn6_6v) chunen: 幫我準備心臟(X
+[01:48:54]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 是貼心的全鋼呢
+[01:49:48]: [Say] (KU_3aPAZWmD) ルビー: =W=
+[01:50:30]: [Say] (KU_3aPAZWmD) ルビー: 腐爛包包是拿來裝過剩物資的沒有必要特意燒掉
+[01:53:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有要再刷鳥嗎?
+[01:59:32]: [Death Announcement] ルビー 死亡，死因： 樹人守衛。他變成了一個令人毛骨悚然的鬼！
+[02:00:11]: [Resurrect Announcement] ルビー 復活自 夜月夏目.
+[02:03:02]: [Say] (KU_d2kn6_6v) chunen: ...
+[02:03:08]: [Say] (KU_uGVY9zVB) balalaboom: ??
+[02:03:18]: [Say] (KU_uGVY9zVB) balalaboom: 沒了XDD
+[02:03:19]: [Say] (KU_d2kn6_6v) chunen: 他偷回力鏢偷盜跑掉
+[02:03:24]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: xd
+[02:03:26]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[02:04:22]: [Skin Announcement] 讓子彈飛一會兒 mysterybox_classic_4
+[02:04:44]: [Death Announcement] balalaboom 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
+[02:04:48]: [Say] (KU_uGVY9zVB) balalaboom: !!!
+[02:04:51]: [Resurrect Announcement] balalaboom 復活自 chunen.
+[02:05:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 收個肉乾就接收到房主的死訊
+[02:05:35]: [Say] (KU_d2kn6_6v) chunen: XD

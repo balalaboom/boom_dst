@@ -677,3 +677,53 @@
 [01:36:53]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000633
 [01:36:53]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000633
 [01:36:53]: Serializing world: session/537C5C69FFB19629/0000000633
+[01:43:05]: [P2P] Session request for '76561198310003934'
+[01:43:08]: [P2P] Create session: 138.248.41.160|1 '76561198310003934'
+[01:43:08]: [P2P] Received from 138.248.41.160|1 '76561198310003934'
+[01:43:08]: [P2P] Sent to 138.248.41.160|1 '76561198310003934'
+[01:43:09]: New incoming connection 138.248.41.160|1 <6874591621069414836>
+[01:43:09]: Client connected from 138.248.41.160|1 <6874591621069414836>
+[01:43:09]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^zIpL6cOrJYwzY18oaEJcAUyNuJDfPHn07tcqbE250vY= for <6874591621069414836>
+[01:43:09]: Client authenticated: (KU_d2kn6_6v) chunen
+[01:43:10]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[01:43:10]: [Steam] Authenticated client '76561198310003934'
+[01:43:12]: [Shard] Read save location file for (KU_d2kn6_6v)
+[01:43:32]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000616
+[01:43:32]: Spawning player at: [Load] (-112.43, 0.00, 520.93)	
+[01:44:04]: KU_d2kn6_6v	running text command:	flex	true	
+[01:44:53]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000634
+[01:44:53]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000634
+[01:44:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000634
+[01:44:54]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000634
+[01:44:54]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000634
+[01:44:54]: Serializing world: session/537C5C69FFB19629/0000000634
+[01:51:08]: KU_MitzUqYv	running text command:	sit	true	
+[01:51:10]: KU_MitzUqYv	running text command:	sit	true	
+[01:52:54]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000635
+[01:52:54]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000635
+[01:52:54]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000635
+[01:52:54]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000635
+[01:52:55]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000635
+[01:52:55]: Serializing world: session/537C5C69FFB19629/0000000635
+[01:59:32]: Could not find anim [death] in bank [ghost]
+[01:59:32]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000636
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:00:11]: Could not find anim [idle_loop] in bank [ghost]
+[02:00:14]: Could not find anim [transform] in bank [wilson]
+[02:00:15]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000636
+[02:00:49]: KU_MitzUqYv	running text command:	flex	true	
+[02:00:55]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000636
+[02:00:55]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000636
+[02:00:55]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000636
+[02:00:55]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000636
+[02:00:55]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000636
+[02:00:56]: Serializing world: session/537C5C69FFB19629/0000000636
+[02:04:29]: KU_MitzUqYv	running text command:	laugh	true	
+[02:04:30]: KU_MitzUqYv	running text command:	laugh	true	
+[02:04:33]: KU_MitzUqYv	running text command:	laugh	true	
+[02:04:44]: Could not find anim [death] in bank [ghost]
+[02:04:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000637
+[02:04:51]: Could not find anim [idle_loop] in bank [ghost]
+[02:04:54]: Could not find anim [transform] in bank [wilson]
+[02:04:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000637
