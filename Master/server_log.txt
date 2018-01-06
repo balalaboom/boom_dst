@@ -545,3 +545,35 @@
 [00:05:51]: Spawning player at: [Load] (-111.21, -0.00, 519.11)	
 [00:06:02]: KU_MitzUqYv	running text command:	flex	true	
 [00:06:59]: [P2P] Session request for '76561198189824466'
+[00:07:04]: [P2P] Create session: 138.248.41.159|1 '76561198189824466'
+[00:07:04]: [P2P] Received from 138.248.41.159|1 '76561198189824466'
+[00:07:04]: [P2P] Sent to 138.248.41.159|1 '76561198189824466'
+[00:07:10]: New incoming connection 138.248.41.159|1 <6672156721899210848>
+[00:07:10]: Client connected from 138.248.41.159|1 <6672156721899210848>
+[00:07:10]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^6eW0c42meCbltU0z5uq2HZZcOHVHpi+WL9jSwJ3JjKE= for <6672156721899210848>
+[00:07:10]: Client authenticated: (KU_3aPAZWmD) ルビー
+[00:07:11]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[00:07:11]: [Steam] Authenticated client '76561198189824466'
+[00:07:13]: [Shard] Read save location file for (KU_3aPAZWmD)
+[00:08:39]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000617
+[00:08:39]: Spawning player at: [Load] (-90.69, 0.00, 389.92)	
+[00:08:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000622
+[00:08:44]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000622
+[00:08:44]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000622
+[00:08:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000622
+[00:08:44]: Serializing world: session/537C5C69FFB19629/0000000622
+[00:09:18]: KU_MitzUqYv	running text command:	flex	true	
+[00:11:33]: KU_MitzUqYv	running text command:	flex	true	
+[00:16:45]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000623
+[00:16:45]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000623
+[00:16:45]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000623
+[00:16:45]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000623
+[00:16:45]: Serializing world: session/537C5C69FFB19629/0000000623
+[00:24:46]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000624
+[00:24:46]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000624
+[00:24:46]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000624
+[00:24:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000624
+[00:24:46]: Serializing world: session/537C5C69FFB19629/0000000624
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:30:40]: KU_MitzUqYv	running text command:	sit	true	
