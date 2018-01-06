@@ -727,3 +727,59 @@
 [02:04:51]: Could not find anim [idle_loop] in bank [ghost]
 [02:04:54]: Could not find anim [transform] in bank [wilson]
 [02:04:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000637
+[02:08:10]: KU_MitzUqYv	running text command:	flex	true	
+[02:08:25]: KU_MitzUqYv	running text command:	sit	true	
+[02:08:56]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000637
+[02:08:56]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000637
+[02:08:56]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000637
+[02:08:56]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000637
+[02:08:56]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000637
+[02:08:57]: Serializing world: session/537C5C69FFB19629/0000000637
+[02:14:38]: [Steam] SendUserDisconnect for '76561198211986697'
+[02:14:38]: Connection lost to 138.248.41.158|1 <1367433046392050700>
+[02:14:38]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[02:14:38]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000638
+[02:16:57]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000638
+[02:16:57]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000638
+[02:16:57]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000638
+[02:16:57]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000638
+[02:16:58]: Serializing world: session/537C5C69FFB19629/0000000638
+[02:20:38]: [Steam] SendUserDisconnect for '76561198099860495'
+[02:20:38]: Connection lost to 138.248.41.157|1 <5043025665459933094>
+[02:20:38]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[02:20:38]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000639
+[02:20:47]: [P2P] Connection failed for '76561198354843262'
+[02:20:51]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:20:51]: Connection lost to 138.248.41.156|1 <4830497432134553169>
+[02:20:51]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[02:20:52]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000639
+[02:23:04]: [P2P] Received from 138.248.41.156|1 '76561198354843262'
+[02:23:04]: [P2P] Sent to 138.248.41.156|1 '76561198354843262'
+[02:23:05]: New incoming connection 138.248.41.156|1 <6054344067639751618>
+[02:23:05]: Client connected from 138.248.41.156|1 <6054344067639751618>
+[02:23:05]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^qP+fjeuLOQT9y9sEpxVD3zsB2hDGClmoiCraxYdUkf8= for <6054344067639751618>
+[02:23:05]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:23:05]: [Steam] Authenticated host '76561198354843262'
+[02:23:08]: [Shard] Read save location file for (KU_uGVY9zVB)
+[02:23:17]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000639
+[02:23:17]: Spawning player at: [Load] (-128.68, -0.00, 597.42)	
+[02:24:17]: [P2P] Received from 138.248.41.157|1 '76561198099860495'
+[02:24:17]: [P2P] Sent to 138.248.41.157|1 '76561198099860495'
+[02:24:22]: New incoming connection 138.248.41.157|1 <3326796403640700208>
+[02:24:22]: Client connected from 138.248.41.157|1 <3326796403640700208>
+[02:24:22]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^Ma+46uv0tnMTvf3hq+9flxWp9FWx0weq5wMBsOVg3mw= for <3326796403640700208>
+[02:24:23]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[02:24:23]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[02:24:23]: [Steam] Authenticated client '76561198099860495'
+[02:24:26]: [Shard] Read save location file for (KU_MitzUqYv)
+[02:24:37]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000639
+[02:24:37]: Spawning player at: [Load] (-98.25, -0.00, -82.62)	
+[02:24:38]: [P2P] Session timed out for '76561198211986697'
+[02:24:38]: [P2P] Remove session: 138.248.41.158|1 '76561198211986697'
+[02:24:58]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000639
+[02:24:58]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000639
+[02:24:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000639
+[02:24:58]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000639
+[02:24:58]: Serializing world: session/537C5C69FFB19629/0000000639
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
