@@ -300,3 +300,5 @@
 [04:01:05]: [Resurrect Announcement] 夜月夏目 復活自 雷克.
 [04:01:08]: [Say] (KU_UEtQ29K_) 雷克: ..
 [04:02:36]: [Leave Announcement] 雷克
+[04:09:21]: [Leave Announcement] chunen
+[04:12:10]: [Join Announcement] balalaboom
