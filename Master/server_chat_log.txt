@@ -39,3 +39,35 @@
 [00:33:27]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 地皮
 [00:35:49]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: 抱歉 我笑了
 [00:41:36]: [Leave Announcement] balalaboom
+[00:45:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: gg
+[00:45:56]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 打完了
+[00:46:06]: [Join Announcement] balalaboom
+[00:46:26]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 偷吃兩個拐杖糖壓壓驚
+[00:46:57]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: !比
+[00:47:01]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: !鹿比
+[00:48:10]: [Leave Announcement] 讓子彈飛一會兒
+[00:49:10]: [Join Announcement] 讓子彈飛一會兒
+[00:51:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有登拋!
+[00:51:45]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 燈泡
+[00:52:51]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 種他全家砍他媽媽
+[00:54:36]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 心想事成型玩家
+[00:55:05]: [Skin Announcement] balalaboom mysterybox_classic_4
+[00:56:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: www
+[00:57:40]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: y
+[00:57:44]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 會
+[00:57:58]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 砍
+[00:58:01]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 都砍
+[00:58:13]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有需要我搓啥嗎
+[00:58:51]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: 牛毛那個?
+[00:59:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: y
+[00:59:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 超多
+[00:59:28]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有經有3組了
+[00:59:31]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 毛
+[00:59:36]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你要做多少
+[00:59:58]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你要做多少地皮
+[01:00:11]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ok
+[01:01:16]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ok
+[01:01:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 你要放哪
+[01:02:22]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 冬天很不是合蓋家
+[01:03:37]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 還要量產什麼嗎?
+[01:04:14]: [Say] (KU_3aPAZWmD) ルビー: 別用冰塊 除非你要去敲 OAO
