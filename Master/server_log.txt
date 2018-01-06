@@ -2584,3 +2584,12 @@
 [06:29:35]: Serializing world: session/537C5C69FFB19629/0000000672
 [06:30:07]: [200] Account Communication Success (6)
 [06:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:37:32]: Could not find anim [death] in bank [ghost]
+[06:37:32]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000673
+[06:37:35]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000673
+[06:37:35]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000673
+[06:37:35]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000673
+[06:37:35]: Serializing world: session/537C5C69FFB19629/0000000673
+[06:38:27]: Could not find anim [idle_loop] in bank [ghost]
+[06:38:30]: Could not find anim [transform] in bank [wilson]
+[06:38:32]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000674
