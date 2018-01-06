@@ -229,3 +229,25 @@
 [03:04:14]: [Say] (KU_d2kn6_6v) chunen: 那應A
 [03:04:55]: [Say] (KU_d2kn6_6v) chunen: wwww
 [03:06:09]: [Join Announcement] 夜月夏目
+[03:08:01]: [Say] (KU_d2kn6_6v) chunen: 我非常願意
+[03:08:27]: [Say] (KU_d2kn6_6v) chunen: 痛苦的肉食動物
+[03:09:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: OK
+[03:10:21]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 那我帶些木頭過去作盔甲?
+[03:11:05]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我先過去等
+[03:11:27]: [Say] (KU_d2kn6_6v) chunen: 我這樣去打影子會不會死光阿
+[03:11:49]: [Say] (KU_d2kn6_6v) chunen: 那我去砍樹就好
+[03:12:00]: [Say] (KU_d2kn6_6v) chunen: 有樹人我要拉掉對不對?
+[03:13:09]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: OK
+[03:14:27]: [Death Announcement] balalaboom 死亡，死因： 龍蠅。她變成了一個令人毛骨悚然的鬼！
+[03:14:28]: [Death Announcement] ルビー 死亡，死因： 龍蠅。他變成了一個令人毛骨悚然的鬼！
+[03:14:31]: [Say] (KU_d2kn6_6v) chunen: w
+[03:14:36]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: YEEEEEEE
+[03:21:01]: [Say] (KU_d2kn6_6v) chunen: 麥叔影子死光了,麥叔可以打夏王了...
+[03:23:23]: [Say] (KU_d2kn6_6v) chunen: 剛想說幫全鋼打樹精,然後影子就去了
+[03:24:34]: [Say] (KU_3aPAZWmD) ルビー: OK
+[03:28:14]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 火。她變成了一個令人毛骨悚然的鬼！
+[03:28:23]: [Death Announcement] ルビー 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[03:29:59]: [Say] (KU_d2kn6_6v) chunen: 豬皮我拿了
+[03:30:04]: [Say] (KU_d2kn6_6v) chunen: 雨傘旁邊
+[03:30:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 趟
+[03:30:57]: [Say] (KU_d2kn6_6v) chunen: 這
