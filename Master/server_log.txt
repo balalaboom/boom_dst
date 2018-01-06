@@ -577,3 +577,18 @@
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
 [00:30:40]: KU_MitzUqYv	running text command:	sit	true	
+[00:32:47]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000625
+[00:32:47]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000625
+[00:32:47]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000625
+[00:32:47]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000625
+[00:32:47]: Serializing world: session/537C5C69FFB19629/0000000625
+[00:40:47]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000626
+[00:40:47]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000626
+[00:40:47]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000626
+[00:40:47]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000626
+[00:40:48]: Serializing world: session/537C5C69FFB19629/0000000626
+[00:41:30]: [P2P] Connection failed for '76561198354843262'
+[00:41:36]: [Steam] SendUserDisconnect for '76561198354843262'
+[00:41:36]: Connection lost to 138.248.41.156|1 <6531094215373115680>
+[00:41:36]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[00:41:37]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000627
