@@ -260,3 +260,16 @@
 [03:30:04]: [Say] (KU_d2kn6_6v) chunen: 雨傘旁邊
 [03:30:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 趟
 [03:30:57]: [Say] (KU_d2kn6_6v) chunen: 這
+[03:31:56]: [Say] (KU_3aPAZWmD) ルビー: 現在是因為都沒有穎刀了 所以攻擊力不構
+[03:32:48]: [Say] (KU_d2kn6_6v) chunen: 皮根頭
+[03:35:45]: [Death Announcement] balalaboom 死亡，死因： 龍蠅。她變成了一個令人毛骨悚然的鬼！
+[03:35:48]: [Death Announcement] ルビー 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[03:35:49]: [Death Announcement] chunen 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[03:36:45]: [Say] (KU_d2kn6_6v) chunen: 菸斗要不要外面一點
+[03:38:20]: [Join Announcement] 雷克
+[03:38:47]: [Say] (KU_UEtQ29K_) 雷克: 繃繃局!
+[03:41:09]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: 提振一下士氣
+[03:42:12]: [Say] (KU_d2kn6_6v) chunen: 狂打麥叔
+[03:42:14]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 看吧
+[03:42:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 機巴小龍蠅
+[03:42:33]: [Say] (KU_d2kn6_6v) chunen: 超ㄐ八
