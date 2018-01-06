@@ -302,3 +302,9 @@
 [04:02:36]: [Leave Announcement] 雷克
 [04:09:21]: [Leave Announcement] chunen
 [04:12:10]: [Join Announcement] balalaboom
+[04:32:59]: [Say] (KU_3aPAZWmD) ルビー: 會
+[04:37:30]: [Death Announcement] balalaboom 死亡，死因： 青蛙。她變成了一個令人毛骨悚然的鬼！
+[04:39:02]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[04:41:09]: [Join Announcement] chunen
+[04:42:04]: [Say] (KU_d2kn6_6v) chunen: 我回來了~
+[04:42:24]: [Say] (KU_d2kn6_6v) chunen: 我有聽到,所以躲起來了(X

@@ -2388,3 +2388,23 @@
 [04:29:20]: Serializing world: session/537C5C69FFB19629/0000000654
 [04:30:06]: [200] Account Communication Success (6)
 [04:30:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:37:21]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000655
+[04:37:21]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000655
+[04:37:21]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000655
+[04:37:21]: Serializing world: session/537C5C69FFB19629/0000000655
+[04:37:30]: Could not find anim [death] in bank [ghost]
+[04:37:30]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000656
+[04:39:02]: Could not find anim [idle_loop] in bank [ghost]
+[04:39:05]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000656
+[04:40:56]: [P2P] Create session: 138.248.41.165|1 '76561198310003934'
+[04:40:56]: [P2P] Received from 138.248.41.165|1 '76561198310003934'
+[04:40:56]: [P2P] Sent to 138.248.41.165|1 '76561198310003934'
+[04:40:56]: New incoming connection 138.248.41.165|1 <1881173640236226623>
+[04:40:56]: Client connected from 138.248.41.165|1 <1881173640236226623>
+[04:40:56]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^7aASbEIG/XkwwNO4ZXPAZIvYNkfB1IlBJbdiw6P6w6k= for <1881173640236226623>
+[04:40:57]: Client authenticated: (KU_d2kn6_6v) chunen
+[04:40:57]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[04:40:58]: [Steam] Authenticated client '76561198310003934'
+[04:41:00]: [Shard] Read save location file for (KU_d2kn6_6v)
+[04:41:11]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000652
+[04:41:11]: Spawning player at: [Load] (-413.68, 0.00, -353.07)	
