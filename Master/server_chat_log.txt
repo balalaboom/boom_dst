@@ -273,3 +273,30 @@
 [03:42:14]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 看吧
 [03:42:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 機巴小龍蠅
 [03:42:33]: [Say] (KU_d2kn6_6v) chunen: 超ㄐ八
+[03:43:15]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ?!
+[03:43:16]: [Say] (KU_UEtQ29K_) 雷克: 終於親眼看到蛋黃哥了
+[03:43:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 甘 好浪費
+[03:43:24]: [Whisper] (KU_MitzUqYv) 讓子彈飛一會兒: 早之道應打
+[03:43:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 下次弄個雪球機?
+[03:43:56]: [Say] (KU_3aPAZWmD) ルビー: 不用阿 沒東西能燒了w
+[03:44:05]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我一組石頭放這 別拿
+[03:44:09]: [Say] (KU_UEtQ29K_) 雷克: 雪球機會不會燒起來?
+[03:45:25]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 好 部裝
+[03:45:29]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 都不裝
+[03:45:43]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 剛剛聽到DIS的
+[03:45:45]: [Say] (KU_d2kn6_6v) chunen: XD
+[03:46:17]: [Say] (KU_d2kn6_6v) chunen: !?
+[03:46:24]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 用力!
+[03:46:50]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 現在可以拿裏誤了嗎(期待
+[03:47:03]: [Say] (KU_d2kn6_6v) chunen: 包裝紙哪裡找,我帶去砍樹,可以帶比較多東西
+[03:48:51]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 539才可以再拿裏物
+[03:49:01]: [Say] (KU_UEtQ29K_) 雷克: 難過
+[03:49:12]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 糾4不給你拿
+[03:49:27]: [Leave Announcement] balalaboom
+[03:49:30]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我先去收衣服 先離開一下
+[03:49:46]: [Leave Announcement] 讓子彈飛一會兒
+[03:54:19]: [Say] (KU_UEtQ29K_) 雷克: 豬人們是都滅絕ㄌ嗎
+[03:57:13]: [Death Announcement] 夜月夏目 死亡，死因： 伏特羊。他變成了一個令人毛骨悚然的鬼！
+[04:01:05]: [Resurrect Announcement] 夜月夏目 復活自 雷克.
+[04:01:08]: [Say] (KU_UEtQ29K_) 雷克: ..
+[04:02:36]: [Leave Announcement] 雷克

@@ -2283,3 +2283,43 @@
 [03:41:27]: KU_d2kn6_6v	running text command:	robot	true	
 [03:42:08]: KU_MitzUqYv	running text command:	robot	true	
 [03:42:23]: KU_d2kn6_6v	running text command:	robot	true	
+[03:49:15]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000649
+[03:49:15]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000649
+[03:49:15]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000649
+[03:49:15]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000649
+[03:49:15]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000649
+[03:49:15]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000649
+[03:49:16]: Serializing world: session/537C5C69FFB19629/0000000649
+[03:49:27]: [Steam] SendUserDisconnect for '76561198354843262'
+[03:49:27]: Connection lost to 138.248.41.156|1 <6054344067639751618>
+[03:49:27]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[03:49:27]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000650
+[03:49:46]: [Steam] SendUserDisconnect for '76561198099860495'
+[03:49:46]: Connection lost to 138.248.41.157|1 <3326796403640700208>
+[03:49:46]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[03:49:47]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000650
+[03:57:13]: Could not find anim [death] in bank [ghost]
+[03:57:13]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000650
+[03:57:16]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000650
+[03:57:16]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000650
+[03:57:16]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000650
+[03:57:16]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000650
+[03:57:16]: Serializing world: session/537C5C69FFB19629/0000000650
+[03:59:27]: [P2P] Session timed out for '76561198354843262'
+[03:59:27]: [P2P] Remove session: 138.248.41.156|1 '76561198354843262'
+[03:59:46]: [P2P] Session timed out for '76561198099860495'
+[03:59:46]: [P2P] Remove session: 138.248.41.157|1 '76561198099860495'
+[04:00:06]: [200] Account Communication Success (6)
+[04:00:06]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:01:05]: Could not find anim [idle_loop] in bank [ghost]
+[04:01:08]: Could not find anim [transform] in bank [wilson]
+[04:01:09]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000651
+[04:02:36]: [Steam] SendUserDisconnect for '76561198031035145'
+[04:02:36]: Connection lost to 138.248.41.162|1 <1439501188540061038>
+[04:02:36]: [Shard] (KU_UEtQ29K_) disconnected from [SHDMASTER](1)
+[04:02:37]: Serializing user: session/537C5C69FFB19629/A7JOTND0H59V/0000000651
+[04:03:27]: [P2P] Connection failed for '76561198031035145'
+[04:05:17]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000651
+[04:05:17]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000651
+[04:05:17]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000651
+[04:05:17]: Serializing world: session/537C5C69FFB19629/0000000651
