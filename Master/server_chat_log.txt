@@ -427,3 +427,12 @@
 [06:37:32]: [Death Announcement] chunen 死亡，死因： 兔人。他變成了一個令人毛骨悚然的鬼！
 [06:37:42]: [Say] (KU_d2kn6_6v) chunen: 拉巴兔人,最好是打我= =
 [06:38:27]: [Resurrect Announcement] chunen 復活自 ルビー.
+[06:47:40]: [Say] (KU_M673WWQo) 夜月夏目: 船我回去一下
+[07:02:44]: [Say] (KU_3aPAZWmD) ルビー: 我先下囉 88/
+[07:02:54]: [Say] (KU_d2kn6_6v) chunen: OK
+[07:03:11]: [Leave Announcement] ルビー
+[07:03:11]: [Say] (KU_M673WWQo) 夜月夏目: 我回到家也要先下了
+[07:03:24]: [Say] (KU_d2kn6_6v) chunen: 全綱你呢
+[07:03:31]: [Say] (KU_d2kn6_6v) chunen: OKOK
+[07:05:07]: [Leave Announcement] chunen
+[07:05:23]: [Leave Announcement] 夜月夏目

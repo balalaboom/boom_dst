@@ -2593,3 +2593,30 @@
 [06:38:27]: Could not find anim [idle_loop] in bank [ghost]
 [06:38:30]: Could not find anim [transform] in bank [wilson]
 [06:38:32]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000674
+[06:45:36]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000674
+[06:45:36]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000674
+[06:45:36]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000674
+[06:45:36]: Serializing world: session/537C5C69FFB19629/0000000674
+[06:53:37]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000675
+[06:53:37]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000675
+[06:53:37]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000675
+[06:53:37]: Serializing world: session/537C5C69FFB19629/0000000675
+[07:00:07]: [200] Account Communication Success (6)
+[07:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[07:01:37]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000676
+[07:01:37]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000676
+[07:01:37]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000676
+[07:01:38]: Serializing world: session/537C5C69FFB19629/0000000676
+[07:03:11]: [Steam] SendUserDisconnect for '76561198189824466'
+[07:03:11]: Connection lost to 138.248.41.159|1 <6672156721899210848>
+[07:03:11]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[07:03:11]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000677
+[07:05:07]: [Steam] SendUserDisconnect for '76561198310003934'
+[07:05:07]: Connection lost to 138.248.41.165|1 <531538297986303328>
+[07:05:07]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[07:05:08]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000677
+[07:05:23]: [Steam] SendUserDisconnect for '76561198211986697'
+[07:05:23]: Connection lost to 138.248.41.164|1 <5144092505441803852>
+[07:05:23]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[07:05:23]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000677
+[07:05:23]: Sim paused
