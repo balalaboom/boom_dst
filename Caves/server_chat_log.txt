@@ -90,3 +90,17 @@
 [01:20:23]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 吵鬧a火機
 [01:21:24]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我北
 [01:26:23]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我快回家了
+[01:31:40]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ?
+[01:32:29]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 獨眼巨鹿。她變成了一個令人毛骨悚然的鬼！
+[01:32:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 甘
+[01:32:46]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 喔喔喔 好刺激
+[01:33:26]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 大伯救我
+[01:34:22]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 ルビー.
+[01:34:28]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 3q
+[01:39:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我可以吃火雞嗎
+[01:39:46]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: y
+[01:39:49]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 33%
+[01:39:59]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 比他少一點
+[01:40:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 個落幕好像36還是37
+[01:40:29]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 沒
+[01:40:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 37
