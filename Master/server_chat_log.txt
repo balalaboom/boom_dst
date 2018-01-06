@@ -308,3 +308,26 @@
 [04:41:09]: [Join Announcement] chunen
 [04:42:04]: [Say] (KU_d2kn6_6v) chunen: 我回來了~
 [04:42:24]: [Say] (KU_d2kn6_6v) chunen: 我有聽到,所以躲起來了(X
+[04:45:02]: [Say] (KU_d2kn6_6v) chunen: 我上線有領一個
+[04:45:05]: [Say] (KU_d2kn6_6v) chunen: 頭燈
+[04:45:26]: [Say] (KU_d2kn6_6v) chunen: 快夏天囉
+[04:45:46]: [Say] (KU_d2kn6_6v) chunen: 可以去綠洲撈螢火蟲\0w0/
+[04:46:01]: [Say] (KU_d2kn6_6v) chunen: !?
+[04:47:47]: [Leave Announcement] chunen
+[04:48:35]: [Join Announcement] chunen
+[04:52:20]: [Death Announcement] chunen 死亡，死因： 眼球草。他變成了一個令人毛骨悚然的鬼！
+[04:52:22]: [Say] (KU_d2kn6_6v) chunen: ....
+[04:52:38]: [Say] (KU_d2kn6_6v) chunen: 我的東西都被眼球花吃光光了
+[04:52:47]: [Say] (KU_d2kn6_6v) chunen: 夏王蟲洞
+[04:52:54]: [Say] (KU_d2kn6_6v) chunen: 一出來就是眼球花
+[04:53:09]: [Say] (KU_d2kn6_6v) chunen: 偷懶想直接跳
+[04:54:20]: [Resurrect Announcement] chunen 復活自 balalaboom.
+[04:56:23]: [Say] (KU_d2kn6_6v) chunen: 我剛砍的木頭,都沒有了,還損失一個頭燈.....
+[04:56:30]: [Say] (KU_d2kn6_6v) chunen: 好難過
+[05:00:35]: [Say] (KU_d2kn6_6v) chunen: 好難過,頭燈跟拚死打樹人打的活木都沒了
+[05:00:48]: [Say] (KU_d2kn6_6v) chunen: 我要唱歌寶是傷心
+[05:00:57]: [Say] (KU_d2kn6_6v) chunen: 12@@
+[05:01:37]: [Say] (KU_d2kn6_6v) chunen: 夏王蟲洞生眼球,我想說直接跳蟲洞應該不會被打,然後就被打了orz
+[05:02:17]: [Say] (KU_d2kn6_6v) chunen: 那邊還有一點點東西,我去拎回來
+[05:02:29]: [Say] (KU_d2kn6_6v) chunen: 真的只剩一點點(抹臉
+[05:02:50]: [Leave Announcement] balalaboom
