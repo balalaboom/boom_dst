@@ -1966,3 +1966,9 @@
 [01:47:06]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000693
 [01:47:06]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000693
 [01:47:06]: Serializing world: session/537C5C69FFB19629/0000000693
+[01:55:06]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000694
+[01:55:06]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000694
+[01:55:06]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000694
+[01:55:07]: Serializing world: session/537C5C69FFB19629/0000000694
+[02:00:07]: [200] Account Communication Success (6)
+[02:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
