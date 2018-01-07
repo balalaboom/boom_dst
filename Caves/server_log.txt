@@ -918,3 +918,639 @@
 [00:56:20]:    1 file(s) removed
 [01:00:07]: [200] Account Communication Success (6)
 [01:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:04:21]: Serializing world: session/5C44BECFFFC07A2A/0000000690
+[01:04:21]: Truncating to snapshot #690...
+[01:04:21]:  - session/5C44BECFFFC07A2A/0000000684
+[01:04:21]:    1 file(s) removed
+[01:12:21]: Serializing world: session/5C44BECFFFC07A2A/0000000691
+[01:12:21]: Truncating to snapshot #691...
+[01:12:21]:  - session/5C44BECFFFC07A2A/0000000685
+[01:12:21]:    1 file(s) removed
+[01:14:25]: World 1 is now disconnected	
+[01:14:25]: Validating portal[10] <-> 1[10] (inactive)	
+[01:14:25]: Validating portal[6] <-> 1[6] (inactive)	
+[01:14:25]: Validating portal[8] <-> 1[8] (inactive)	
+[01:14:25]: Validating portal[1] <-> 1[1] (inactive)	
+[01:14:25]: Validating portal[9] <-> 1[9] (inactive)	
+[01:14:25]: Validating portal[3] <-> 1[3] (inactive)	
+[01:14:25]: Validating portal[4] <-> 1[4] (inactive)	
+[01:14:25]: Validating portal[5] <-> 1[5] (inactive)	
+[01:14:25]: Validating portal[2] <-> 1[2] (inactive)	
+[01:14:25]: Validating portal[7] <-> 1[7] (inactive)	
+[01:14:25]: Sim paused
+[01:14:46]: Synchronizing backward to master snapshot 691	
+[01:14:46]: unloading prefabs for mod MOD_workshop-362175979	
+[01:14:46]: unloading prefabs for mod MOD_workshop-1111711682	
+[01:14:46]: unloading prefabs for mod MOD_workshop-1242093526	
+[01:14:46]: unloading prefabs for mod MOD_workshop-1251678700	
+[01:14:46]: unloading prefabs for mod MOD_workshop-378160973	
+[01:14:46]: World 1 is now connected	
+[01:14:46]: Validating portal[10] <-> 1[10] (active)	
+[01:14:46]: Validating portal[6] <-> 1[6] (active)	
+[01:14:46]: Validating portal[8] <-> 1[8] (active)	
+[01:14:46]: Validating portal[1] <-> 1[1] (active)	
+[01:14:46]: Validating portal[9] <-> 1[9] (active)	
+[01:14:46]: Validating portal[3] <-> 1[3] (active)	
+[01:14:46]: Validating portal[4] <-> 1[4] (active)	
+[01:14:46]: Validating portal[5] <-> 1[5] (active)	
+[01:14:46]: Validating portal[2] <-> 1[2] (active)	
+[01:14:46]: Validating portal[7] <-> 1[7] (active)	
+[01:14:46]: Sim unpaused
+[01:14:47]: Collecting garbage...
+[01:14:47]: lua_gc took 0.16 seconds
+[01:14:47]: ~ShardLuaProxy()
+[01:14:47]: ~ItemServerLuaProxy()
+[01:14:47]: ~InventoryLuaProxy()
+[01:14:47]: ~NetworkLuaProxy()
+[01:14:47]: ~SimLuaProxy()
+[01:14:47]: lua_close took 0.45 seconds
+[01:14:47]: ReleaseAll
+[01:14:47]: ReleaseAll Finished
+[01:14:47]: cGame::StartPlaying
+[01:14:47]: LOADING LUA
+[01:14:47]: DoLuaFile scripts/main.lua
+[01:14:47]: DoLuaFile loading buffer scripts/main.lua
+[01:14:48]:   taskgrouplist:	default	Together	
+[01:14:48]:   taskgrouplist:	classic	Classic	
+[01:14:48]:   taskgrouplist:	cave_default	Underground	
+[01:14:48]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[01:14:48]: running main.lua
+	
+[01:14:48]: loaded modindex	
+[01:14:48]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[01:14:48]: modoverrides.lua enabling workshop-1242093526	
+[01:14:48]: modoverrides.lua enabling workshop-362175979	
+[01:14:48]: modoverrides.lua enabling workshop-1111711682	
+[01:14:48]: modoverrides.lua enabling workshop-378160973	
+[01:14:48]: modoverrides.lua enabling workshop-1251678700	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1251678700	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1242093526	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[01:14:48]: Could not load mod_config_data/modconfiguration_workshop-1251678700	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:14:48]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:14:48]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:14:48]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:14:48]: Loading mod: workshop-1251678700 (Enduring Backpack Skins) Version:17.12.31	
+[01:14:48]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:14:48]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:14:48]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:14:48]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:14:48]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:18.1.2	
+[01:14:48]: Could not load mod_config_data/modconfiguration_workshop-1242093526	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:14:48]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:14:48]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:14:48]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:14:48]: Loading mod: workshop-1242093526 (Eternal Glowcaps & Mushlights) Version:18.1.2	
+[01:14:48]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:14:48]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:14:48]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:14:48]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:14:48]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:14:48]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:14:48]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:14:48]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:14:48]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:14:48]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:14:48]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:14:48]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:14:48]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:14:48]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:14:48]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[01:14:48]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[01:14:48]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:14:48]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[01:14:48]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[01:14:48]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:14:48]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[01:14:48]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[01:14:48]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[01:14:48]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[01:14:48]: [adai] 中文化修復完成。	
+[01:14:48]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	Loading modworldgenmain.lua	
+[01:14:48]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:14:48]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	Loading modmain.lua	
+[01:14:48]: Mod: workshop-1251678700 (Enduring Backpack Skins)	Loading modworldgenmain.lua	
+[01:14:48]: Mod: workshop-1251678700 (Enduring Backpack Skins)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:14:48]: Mod: workshop-1251678700 (Enduring Backpack Skins)	Loading modmain.lua	
+[01:14:48]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:14:48]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:14:48]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1251678700	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1242093526	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:14:48]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[01:14:48]: LOADING LUA SUCCESS
+[01:14:48]: Registering mod namespace "workshop-378160973"
+[01:14:48]: PlayerDeaths could not load morgue	
+[01:14:48]: PlayerHistory could not load player_history	
+[01:14:48]: bloom_enabled	false	
+[01:14:48]: loaded saveindex	
+[01:14:48]: OnFilesLoaded()	
+[01:14:48]: OnUpdatePurchaseStateComplete	
+[01:14:48]: Loading world: session/5C44BECFFFC07A2A/0000000691	
+[01:14:48]: Save file is at version 4.77	
+[01:14:48]: 	BE assets already loaded	
+[01:14:49]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[01:14:49]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[01:14:49]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[01:14:49]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[01:14:49]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	Registering prefabs	
+[01:14:49]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	  Registering default mod prefab	
+[01:14:49]: Mod: workshop-1251678700 (Enduring Backpack Skins)	Registering prefabs	
+[01:14:49]: Mod: workshop-1251678700 (Enduring Backpack Skins)	  Registering default mod prefab	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[01:14:49]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[01:14:49]: Begin Session: 5C44BECFFFC07A2A
+[01:14:49]: Stomping previously assigned session identifier, two loads issued.
+[01:14:49]: saving to server_temp/server_save	
+[01:14:49]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[01:14:49]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[01:14:50]: Loading Nav Grid	
+[01:14:50]: setting 	summerlength	15	
+[01:14:50]: setting 	isnightmaredawn	false	
+[01:14:50]: setting 	elapseddaysinseason	4	
+[01:14:50]: setting 	isfullmoon	false	
+[01:14:50]: setting 	moisture	3527.0817871094	
+[01:14:50]: setting 	springlength	20	
+[01:14:50]: setting 	isnightmarewild	false	
+[01:14:50]: setting 	moonphase	new	
+[01:14:50]: setting 	precipitationrate	0	
+[01:14:50]: setting 	iswet	false	
+[01:14:50]: setting 	isnewmoon	false	
+[01:14:50]: setting 	iswinter	false	
+[01:14:50]: setting 	israining	false	
+[01:14:50]: setting 	isnightmarewarn	false	
+[01:14:50]: setting 	precipitation	none	
+[01:14:50]: setting 	cavephase	day	
+[01:14:50]: setting 	moistureceil	9976.513671875	
+[01:14:50]: setting 	isday	false	
+[01:14:50]: setting 	iscaveday	true	
+[01:14:50]: setting 	season	autumn	
+[01:14:50]: setting 	timeinphase	0.0037935610170717	
+[01:14:50]: setting 	temperature	25.791370897167	
+[01:14:50]: setting 	isnightmarecalm	true	
+[01:14:50]: setting 	isnight	true	
+[01:14:50]: setting 	isdusk	false	
+[01:14:50]: setting 	iscavedusk	false	
+[01:14:50]: setting 	isautumn	true	
+[01:14:50]: setting 	issnowing	false	
+[01:14:50]: setting 	iswaxingmoon	true	
+[01:14:50]: setting 	pop	0.25125212224079	
+[01:14:50]: setting 	snowlevel	0	
+[01:14:50]: setting 	issnowcovered	false	
+[01:14:50]: setting 	autumnlength	20	
+[01:14:50]: setting 	phase	night	
+[01:14:50]: setting 	nightmaretime	60.507230861181	
+[01:14:50]: setting 	winterlength	15	
+[01:14:50]: setting 	isspring	false	
+[01:14:50]: setting 	nightmarephase	calm	
+[01:14:50]: setting 	remainingdaysinseason	16	
+[01:14:50]: setting 	cycles	564	
+[01:14:50]: setting 	iscavenight	false	
+[01:14:50]: setting 	nightmaretimeinphase	0.16807564128106	
+[01:14:50]: setting 	wetness	0	
+[01:14:50]: setting 	time	0.0021338780721029	
+[01:14:50]: setting 	issummer	false	
+[01:14:54]: Reconstructing topology	
+[01:14:54]: 	...Sorting points	
+[01:14:54]: 	...Sorting edges	
+[01:14:54]: 	...Connecting nodes	
+[01:14:54]: 	...Validating connections	
+[01:14:55]: 	...Housekeeping	
+[01:14:55]: 	...Done!	
+[01:14:55]: 1 uploads added to server. From server_temp
+[01:14:55]: World 1 is now connected	
+[01:14:55]: Telling Client our new session identifier: 5C44BECFFFC07A2A
+[01:14:55]: ModIndex: Load sequence finished successfully.	
+[01:14:55]: Reset() returning
+[01:14:55]: Validating portal[10] <-> 1[10] (active)	
+[01:14:55]: Validating portal[6] <-> 1[6] (active)	
+[01:14:55]: Validating portal[2] <-> 1[2] (active)	
+[01:14:55]: Validating portal[9] <-> 1[9] (active)	
+[01:14:55]: Validating portal[4] <-> 1[4] (active)	
+[01:14:55]: Validating portal[8] <-> 1[8] (active)	
+[01:14:55]: Validating portal[5] <-> 1[5] (active)	
+[01:14:55]: Validating portal[7] <-> 1[7] (active)	
+[01:14:55]: Validating portal[3] <-> 1[3] (active)	
+[01:14:55]: Validating portal[1] <-> 1[1] (active)	
+[01:17:30]: RemoteCommandInput: "c_rollback(2)"
+[01:17:30]: World 1 is now disconnected	
+[01:17:30]: Validating portal[10] <-> 1[10] (inactive)	
+[01:17:30]: Validating portal[6] <-> 1[6] (inactive)	
+[01:17:30]: Validating portal[2] <-> 1[2] (inactive)	
+[01:17:30]: Validating portal[9] <-> 1[9] (inactive)	
+[01:17:30]: Validating portal[4] <-> 1[4] (inactive)	
+[01:17:30]: Validating portal[8] <-> 1[8] (inactive)	
+[01:17:30]: Validating portal[5] <-> 1[5] (inactive)	
+[01:17:30]: Validating portal[7] <-> 1[7] (inactive)	
+[01:17:30]: Validating portal[3] <-> 1[3] (inactive)	
+[01:17:30]: Validating portal[1] <-> 1[1] (inactive)	
+[01:17:30]: Sim paused
+[01:17:52]: Synchronizing backward to master snapshot 690	
+[01:17:52]: Truncating to snapshot #690...
+[01:17:52]:  - session/5C44BECFFFC07A2A/0000000691
+[01:17:52]:    1 file(s) removed
+[01:17:52]: unloading prefabs for mod MOD_workshop-362175979	
+[01:17:52]: unloading prefabs for mod MOD_workshop-1111711682	
+[01:17:52]: unloading prefabs for mod MOD_workshop-1242093526	
+[01:17:52]: unloading prefabs for mod MOD_workshop-1251678700	
+[01:17:52]: unloading prefabs for mod MOD_workshop-378160973	
+[01:17:52]: World 1 is now connected	
+[01:17:52]: Validating portal[10] <-> 1[10] (active)	
+[01:17:52]: Validating portal[6] <-> 1[6] (active)	
+[01:17:52]: Validating portal[2] <-> 1[2] (active)	
+[01:17:52]: Validating portal[9] <-> 1[9] (active)	
+[01:17:52]: Validating portal[4] <-> 1[4] (active)	
+[01:17:52]: Validating portal[8] <-> 1[8] (active)	
+[01:17:52]: Validating portal[5] <-> 1[5] (active)	
+[01:17:52]: Validating portal[7] <-> 1[7] (active)	
+[01:17:52]: Validating portal[3] <-> 1[3] (active)	
+[01:17:52]: Validating portal[1] <-> 1[1] (active)	
+[01:17:52]: Sim unpaused
+[01:17:52]: Collecting garbage...
+[01:17:52]: lua_gc took 0.24 seconds
+[01:17:53]: ~ShardLuaProxy()
+[01:17:53]: ~ItemServerLuaProxy()
+[01:17:53]: ~InventoryLuaProxy()
+[01:17:53]: ~NetworkLuaProxy()
+[01:17:53]: ~SimLuaProxy()
+[01:17:53]: lua_close took 0.44 seconds
+[01:17:53]: ReleaseAll
+[01:17:53]: ReleaseAll Finished
+[01:17:53]: cGame::StartPlaying
+[01:17:53]: LOADING LUA
+[01:17:53]: DoLuaFile scripts/main.lua
+[01:17:53]: DoLuaFile loading buffer scripts/main.lua
+[01:17:53]:   taskgrouplist:	default	Together	
+[01:17:53]:   taskgrouplist:	classic	Classic	
+[01:17:53]:   taskgrouplist:	cave_default	Underground	
+[01:17:53]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[01:17:53]: running main.lua
+	
+[01:17:53]: loaded modindex	
+[01:17:53]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[01:17:53]: modoverrides.lua enabling workshop-1242093526	
+[01:17:53]: modoverrides.lua enabling workshop-362175979	
+[01:17:53]: modoverrides.lua enabling workshop-1111711682	
+[01:17:53]: modoverrides.lua enabling workshop-378160973	
+[01:17:53]: modoverrides.lua enabling workshop-1251678700	
+[01:17:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1251678700	
+[01:17:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[01:17:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1242093526	
+[01:17:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:17:53]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[01:17:53]: Could not load mod_config_data/modconfiguration_workshop-1251678700	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:17:53]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:17:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:17:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:17:53]: Loading mod: workshop-1251678700 (Enduring Backpack Skins) Version:17.12.31	
+[01:17:53]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:17:53]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:17:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:17:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:17:53]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:18.1.2	
+[01:17:53]: Could not load mod_config_data/modconfiguration_workshop-1242093526	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:17:53]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:17:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:17:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:17:53]: Loading mod: workshop-1242093526 (Eternal Glowcaps & Mushlights) Version:18.1.2	
+[01:17:53]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:17:53]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:17:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:17:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:17:53]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[01:17:53]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1242093526	
+[01:17:53]: Overriding mod workshop-1242093526's option glowcap with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option winter_tree with value 1	
+[01:17:53]: Overriding mod workshop-1242093526's option mushlight with value 1	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[01:17:53]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[01:17:53]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[01:17:53]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[01:17:53]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[01:17:53]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[01:17:53]: applying configuration_options from modoverrides.lua to mod workshop-1251678700	
+[01:17:53]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[01:17:53]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[01:17:53]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:17:53]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[01:17:53]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[01:17:53]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:17:53]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[01:17:53]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[01:17:54]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[01:17:54]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[01:17:54]: [adai] 中文化修復完成。	
+[01:17:54]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	Loading modworldgenmain.lua	
+[01:17:54]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:17:54]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	Loading modmain.lua	
+[01:17:54]: Mod: workshop-1251678700 (Enduring Backpack Skins)	Loading modworldgenmain.lua	
+[01:17:54]: Mod: workshop-1251678700 (Enduring Backpack Skins)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:17:54]: Mod: workshop-1251678700 (Enduring Backpack Skins)	Loading modmain.lua	
+[01:17:54]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[01:17:54]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[01:17:54]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[01:17:54]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1251678700	
+[01:17:54]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[01:17:54]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1242093526	
+[01:17:54]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[01:17:54]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[01:17:54]: LOADING LUA SUCCESS
+[01:17:54]: Registering mod namespace "workshop-378160973"
+[01:17:54]: PlayerDeaths could not load morgue	
+[01:17:54]: PlayerHistory could not load player_history	
+[01:17:54]: bloom_enabled	false	
+[01:17:54]: loaded saveindex	
+[01:17:54]: OnFilesLoaded()	
+[01:17:54]: OnUpdatePurchaseStateComplete	
+[01:17:54]: Loading world: session/5C44BECFFFC07A2A/0000000690	
+[01:17:54]: Save file is at version 4.77	
+[01:17:54]: 	BE assets already loaded	
+[01:17:55]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[01:17:55]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[01:17:55]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[01:17:55]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[01:17:55]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	Registering prefabs	
+[01:17:55]: Mod: workshop-1242093526 (Eternal Glowcaps & Mushlights)	  Registering default mod prefab	
+[01:17:55]: Mod: workshop-1251678700 (Enduring Backpack Skins)	Registering prefabs	
+[01:17:55]: Mod: workshop-1251678700 (Enduring Backpack Skins)	  Registering default mod prefab	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[01:17:55]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[01:17:55]: Begin Session: 5C44BECFFFC07A2A
+[01:17:55]: Stomping previously assigned session identifier, two loads issued.
+[01:17:55]: saving to server_temp/server_save	
+[01:17:55]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[01:17:55]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[01:17:55]: Loading Nav Grid	
+[01:17:55]: setting 	summerlength	15	
+[01:17:55]: setting 	isnightmaredawn	false	
+[01:17:55]: setting 	elapseddaysinseason	3	
+[01:17:55]: setting 	isfullmoon	false	
+[01:17:55]: setting 	moisture	3210.5549316406	
+[01:17:55]: setting 	springlength	20	
+[01:17:55]: setting 	isnightmarewild	false	
+[01:17:55]: setting 	moonphase	new	
+[01:17:55]: setting 	precipitationrate	0	
+[01:17:55]: setting 	iswet	false	
+[01:17:55]: setting 	isnewmoon	false	
+[01:17:55]: setting 	iswinter	false	
+[01:17:55]: setting 	israining	false	
+[01:17:55]: setting 	isnightmarewarn	true	
+[01:17:55]: setting 	precipitation	none	
+[01:17:55]: setting 	cavephase	day	
+[01:17:55]: setting 	moistureceil	9976.513671875	
+[01:17:55]: setting 	isday	false	
+[01:17:55]: setting 	iscaveday	true	
+[01:17:55]: setting 	season	autumn	
+[01:17:55]: setting 	timeinphase	0.0038436324508102	
+[01:17:55]: setting 	temperature	28.842343094306	
+[01:17:55]: setting 	isnightmarecalm	false	
+[01:17:55]: setting 	isnight	true	
+[01:17:55]: setting 	isdusk	false	
+[01:17:55]: setting 	iscavedusk	false	
+[01:17:55]: setting 	isautumn	true	
+[01:17:55]: setting 	issnowing	false	
+[01:17:55]: setting 	iswaxingmoon	true	
+[01:17:55]: setting 	pop	0.21450488379861	
+[01:17:55]: setting 	snowlevel	0	
+[01:17:55]: setting 	issnowcovered	false	
+[01:17:55]: setting 	autumnlength	20	
+[01:17:55]: setting 	phase	night	
+[01:17:55]: setting 	nightmaretime	429.27730177692	
+[01:17:55]: setting 	winterlength	15	
+[01:17:55]: setting 	isspring	false	
+[01:17:55]: setting 	nightmarephase	warn	
+[01:17:55]: setting 	remainingdaysinseason	17	
+[01:17:55]: setting 	cycles	563	
+[01:17:55]: setting 	iscavenight	false	
+[01:17:55]: setting 	nightmaretimeinphase	0.76974779752135	
+[01:17:55]: setting 	wetness	0	
+[01:17:55]: setting 	time	0.0021620432535807	
+[01:17:55]: setting 	issummer	false	
+[01:18:00]: Reconstructing topology	
+[01:18:00]: 	...Sorting points	
+[01:18:00]: 	...Sorting edges	
+[01:18:00]: 	...Connecting nodes	
+[01:18:00]: 	...Validating connections	
+[01:18:00]: 	...Housekeeping	
+[01:18:00]: 	...Done!	
+[01:18:00]: 1 uploads added to server. From server_temp
+[01:18:00]: World 1 is now connected	
+[01:18:00]: Telling Client our new session identifier: 5C44BECFFFC07A2A
+[01:18:00]: ModIndex: Load sequence finished successfully.	
+[01:18:01]: Reset() returning
+[01:18:01]: Validating portal[1] <-> 1[1] (active)	
+[01:18:01]: Validating portal[8] <-> 1[8] (active)	
+[01:18:01]: Validating portal[4] <-> 1[4] (active)	
+[01:18:01]: Validating portal[2] <-> 1[2] (active)	
+[01:18:01]: Validating portal[7] <-> 1[7] (active)	
+[01:18:01]: Validating portal[10] <-> 1[10] (active)	
+[01:18:01]: Validating portal[5] <-> 1[5] (active)	
+[01:18:01]: Validating portal[3] <-> 1[3] (active)	
+[01:18:01]: Validating portal[9] <-> 1[9] (active)	
+[01:18:01]: Validating portal[6] <-> 1[6] (active)	
