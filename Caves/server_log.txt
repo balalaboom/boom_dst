@@ -586,3 +586,9 @@
 [00:04:46]: ~InventoryLuaProxy()
 [00:04:46]: ~NetworkLuaProxy()
 [00:04:46]: ~SimLuaProxy()
+[00:04:46]: lua_close took 0.32 seconds
+[00:04:46]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:04:46]: shaders/ui_yuv.ksh - 1
+[00:04:46]: CurlRequestManager::ClientThread::Main() complete
+[00:04:46]: HttpClient2 discarded 0 callbacks.
+[00:04:46]: Shutting down
