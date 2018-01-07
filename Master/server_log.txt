@@ -2166,3 +2166,8 @@
 [05:00:08]: Received (KU_uGVY9zVB) from TokenPurpose
 [05:01:04]: KU_3aPAZWmD	running text command:	carol	true	
 [05:01:30]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000720
+[05:01:30]: Serializing world: session/537C5C69FFB19629/0000000720
+[05:09:31]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000721
+[05:09:31]: Serializing world: session/537C5C69FFB19629/0000000721
+[05:17:31]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000722
+[05:17:32]: Serializing world: session/537C5C69FFB19629/0000000722
