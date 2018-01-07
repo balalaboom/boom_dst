@@ -2822,3 +2822,8 @@
 [16:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
 [16:30:10]: [200] Account Communication Success (6)
 [16:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[17:00:10]: [200] Account Communication Success (6)
+[17:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[17:02:43]: Failed to send server listings
+[17:02:43]: Failure error code received: 504
+[17:02:43]: With Body: 
