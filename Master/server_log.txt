@@ -2192,3 +2192,11 @@
 [06:14:19]: KU_3aPAZWmD	running text command:	carol	true	
 [06:21:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000730
 [06:21:38]: Serializing world: session/537C5C69FFB19629/0000000730
+[06:29:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000731
+[06:29:39]: Serializing world: session/537C5C69FFB19629/0000000731
+[06:30:09]: [200] Account Communication Success (6)
+[06:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[06:37:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000732
+[06:37:40]: Serializing world: session/537C5C69FFB19629/0000000732
+[06:45:40]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000733
+[06:45:40]: Serializing world: session/537C5C69FFB19629/0000000733
