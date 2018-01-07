@@ -122,3 +122,10 @@
 [03:00:49]: [Say] (KU_uGVY9zVB) balalaboom: 他說的樹妖在哪?QQ
 [03:01:00]: [Say] (KU_3aPAZWmD) ルビー: 我剛剛沒看 OAO
 [03:01:25]: [Say] (KU_uGVY9zVB) balalaboom: 他沒說QQ
+[03:01:36]: [Say] (KU_3aPAZWmD) ルビー: 對 QQ
+[03:02:02]: [Say] (KU_uGVY9zVB) balalaboom: 很幽默餒
+[03:02:10]: [Say] (KU_3aPAZWmD) ルビー: XD
+[03:08:22]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
+[03:10:56]: [Say] (KU_uGVY9zVB) balalaboom: 包包又被燒掉了XDD
+[03:11:09]: [Say] (KU_3aPAZWmD) ルビー: 對阿 蓋個龍蠅相?
+[03:11:18]: [Say] (KU_uGVY9zVB) balalaboom: 對吼
