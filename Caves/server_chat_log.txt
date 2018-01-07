@@ -16,3 +16,15 @@
 [00:47:33]: [Death Announcement] balalaboom 死亡，死因： 暗影主教。她變成了一個令人毛骨悚然的鬼！
 [00:47:37]: [Say] (KU_3aPAZWmD) ルビー: XD
 [00:47:42]: [Say] (KU_3aPAZWmD) ルビー: RE?
+[00:50:46]: [Death Announcement] ルビー 死亡，死因： 暗影城堡。他變成了一個令人毛骨悚然的鬼！
+[00:50:57]: [Say] (KU_3aPAZWmD) ルビー: 剛好沒甲...
+[00:53:52]: [Say] (KU_3aPAZWmD) ルビー: 恭喜 OWO/
+[00:53:58]: [Say] (KU_uGVY9zVB) balalaboom: 第一次
+[00:54:01]: [Say] (KU_uGVY9zVB) balalaboom: 超緊張
+[00:54:03]: [Say] (KU_3aPAZWmD) ルビー: XD
+[00:54:31]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[00:54:36]: [Say] (KU_3aPAZWmD) ルビー: 3Q
+[00:56:16]: [Say] (KU_uGVY9zVB) balalaboom: 還好有魚排XDD
+[00:56:20]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:00:17]: [Say] (KU_uGVY9zVB) balalaboom: 剛才沒武器.一度拿十字鎬在敲lol
+[01:00:29]: [Say] (KU_3aPAZWmD) ルビー: 有 我有看到 XD

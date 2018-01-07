@@ -949,3 +949,12 @@
 [00:48:25]: [Shard] Read save location file for (KU_3aPAZWmD)
 [00:48:25]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000689
 [00:48:25]: Spawning player at: [Load] (-126.81, 0.00, 566.17)	
+[00:50:46]: Could not find anim [death] in bank [ghost]
+[00:50:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000689
+[00:54:31]: Could not find anim [idle_loop] in bank [ghost]
+[00:54:34]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000689
+[00:56:20]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000689
+[00:56:20]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000689
+[00:56:20]: Serializing world: session/537C5C69FFB19629/0000000689
+[01:00:07]: [200] Account Communication Success (6)
+[01:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
