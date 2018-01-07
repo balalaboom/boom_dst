@@ -55,3 +55,17 @@
 [01:17:15]: [Say] (KU_3aPAZWmD) ルビー: XD
 [01:18:15]: [Say] (KU_3aPAZWmD) ルビー: 等狗來玩 XD
 [01:18:22]: [Say] (KU_uGVY9zVB) balalaboom: 對XDD
+[01:33:53]: [Say] (KU_3aPAZWmD) ルビー: OK準備OK
+[01:38:22]: [Death Announcement] balalaboom 死亡，死因： 熊獾。她變成了一個令人毛骨悚然的鬼！
+[01:38:25]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:38:26]: [Say] (KU_uGVY9zVB) balalaboom: =.=+
+[01:40:37]: [Say] (KU_uGVY9zVB) balalaboom: 今天來狗嗎?
+[01:40:46]: [Say] (KU_3aPAZWmD) ルビー: 來過了吧? OAO
+[01:40:51]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[01:40:54]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:40:57]: [Say] (KU_uGVY9zVB) balalaboom: 長太快了
+[01:41:02]: [Say] (KU_3aPAZWmD) ルビー: www
+[01:42:45]: [Say] (KU_3aPAZWmD) ルビー: 還是我去就好?
+[01:42:54]: [Say] (KU_uGVY9zVB) balalaboom: 好.你先去XDD
+[01:42:58]: [Say] (KU_3aPAZWmD) ルビー: OK
+[01:45:56]: [Join Announcement] 夜月夏目
