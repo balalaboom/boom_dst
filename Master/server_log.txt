@@ -2827,3 +2827,5 @@
 [17:02:43]: Failed to send server listings
 [17:02:43]: Failure error code received: 504
 [17:02:43]: With Body: 
+[17:30:10]: [200] Account Communication Success (6)
+[17:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
