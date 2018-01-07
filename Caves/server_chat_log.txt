@@ -1,0 +1,18 @@
+[00:34:28]: [Join Announcement] balalaboom
+[00:36:04]: [Join Announcement] ルビー
+[00:36:48]: [Say] (KU_3aPAZWmD) ルビー: 隔天秋天
+[00:36:53]: [Say] (KU_uGVY9zVB) balalaboom: 對XDD
+[00:37:40]: [Say] (KU_3aPAZWmD) ルビー: 要砍哪邊的樹?
+[00:38:10]: [Say] (KU_uGVY9zVB) balalaboom: 跳上面的蟲洞
+[00:38:14]: [Say] (KU_3aPAZWmD) ルビー: OK
+[00:39:42]: [Say] (KU_uGVY9zVB) balalaboom: hunds
+[00:39:52]: [Say] (KU_3aPAZWmD) ルビー: 恩恩 我跳過來惹 QWQ
+[00:42:17]: [Say] (KU_uGVY9zVB) balalaboom: 這
+[00:42:52]: [Say] (KU_3aPAZWmD) ルビー: 好窩
+[00:43:49]: [Say] (KU_uGVY9zVB) balalaboom: 朔月
+[00:44:00]: [Say] (KU_3aPAZWmD) ルビー: 把雄丟著?
+[00:44:09]: [Say] (KU_uGVY9zVB) balalaboom: OK
+[00:47:19]: [Death Announcement] ルビー 死亡，死因： 暗影主教。他變成了一個令人毛骨悚然的鬼！
+[00:47:33]: [Death Announcement] balalaboom 死亡，死因： 暗影主教。她變成了一個令人毛骨悚然的鬼！
+[00:47:37]: [Say] (KU_3aPAZWmD) ルビー: XD
+[00:47:42]: [Say] (KU_3aPAZWmD) ルビー: RE?
