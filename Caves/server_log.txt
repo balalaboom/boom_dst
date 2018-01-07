@@ -1947,3 +1947,12 @@
 [12:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
 [13:00:09]: [200] Account Communication Success (6)
 [13:00:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[13:23:30]: RemoteCommandInput: "c_save()"
+[13:23:30]: Sim unpaused
+[13:23:32]: Serializing world: session/5C44BECFFFC07A2A/0000000677
+[13:23:32]: Truncating to snapshot #677...
+[13:23:32]:  - session/5C44BECFFFC07A2A/0000000671
+[13:23:32]:    1 file(s) removed
+[13:23:32]: Sim paused
+[13:30:09]: [200] Account Communication Success (6)
+[13:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
