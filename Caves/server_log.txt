@@ -1993,3 +1993,54 @@
 [21:47:09]: With Body: 
 [22:00:12]: [200] Account Communication Success (6)
 [22:00:12]: Received (KU_uGVY9zVB) from TokenPurpose
+[22:25:15]: Sim unpaused
+[22:25:16]: Serializing world: session/5C44BECFFFC07A2A/0000000678
+[22:25:16]: Truncating to snapshot #678...
+[22:25:16]:  - session/5C44BECFFFC07A2A/0000000672
+[22:25:16]:    1 file(s) removed
+[22:25:17]: Sim paused
+[22:25:30]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[22:25:35]: About to start a shard with these settings:
+[22:25:35]:   ShardName: Caves
+[22:25:35]:   ShardID: 2560562348
+[22:25:35]:   ShardRole: SLAVE
+[22:25:35]:   MasterHost: 127.0.0.1
+[22:25:35]:   MasterBind: (null)
+[22:25:35]:   MasterPort: 10889
+[22:25:35]: [Shard] Connecting to master...
+[22:25:43]: RemoteCommandInput: "c_shutdown()"
+[22:25:43]: c_shutdown	nil	
+[22:25:43]: Serializing world: session/5C44BECFFFC07A2A/0000000679
+[22:25:43]: Truncating to snapshot #679...
+[22:25:43]:  - session/5C44BECFFFC07A2A/0000000673
+[22:25:43]:    1 file(s) removed
+[22:25:43]: unloading prefabs for mod MOD_workshop-362175979	
+[22:25:43]: unloading prefabs for mod MOD_workshop-1111711682	
+[22:25:43]: unloading prefabs for mod MOD_workshop-1242093526	
+[22:25:43]: unloading prefabs for mod MOD_workshop-378160973	
+[22:25:43]: unloading prefabs for mod MOD_workshop-362175979	
+[22:25:43]: unloading prefabs for mod MOD_workshop-1111711682	
+[22:25:43]: unloading prefabs for mod MOD_workshop-1242093526	
+[22:25:43]: unloading prefabs for mod MOD_workshop-378160973	
+[22:25:44]: Serializing world: session/5C44BECFFFC07A2A/0000000680
+[22:25:44]: Truncating to snapshot #680...
+[22:25:44]:  - session/5C44BECFFFC07A2A/0000000674
+[22:25:44]:    1 file(s) removed
+[22:25:44]: unloading prefabs for mod MOD_workshop-362175979	
+[22:25:44]: unloading prefabs for mod MOD_workshop-1111711682	
+[22:25:44]: unloading prefabs for mod MOD_workshop-1242093526	
+[22:25:44]: unloading prefabs for mod MOD_workshop-378160973	
+[22:25:45]: [Shard] Stopping shard mode
+[22:25:45]: Collecting garbage...
+[22:25:45]: lua_gc took 0.27 seconds
+[22:25:45]: ~ShardLuaProxy()
+[22:25:45]: ~ItemServerLuaProxy()
+[22:25:45]: ~InventoryLuaProxy()
+[22:25:45]: ~NetworkLuaProxy()
+[22:25:45]: ~SimLuaProxy()
+[22:25:46]: lua_close took 0.38 seconds
+[22:25:46]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[22:25:46]: shaders/ui_yuv.ksh - 1
+[22:25:46]: CurlRequestManager::ClientThread::Main() complete
+[22:25:46]: HttpClient2 discarded 0 callbacks.
+[22:25:46]: Shutting down
