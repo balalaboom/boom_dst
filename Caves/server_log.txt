@@ -1988,3 +1988,8 @@
 [21:00:12]: Received (KU_uGVY9zVB) from TokenPurpose
 [21:30:12]: [200] Account Communication Success (6)
 [21:30:12]: Received (KU_uGVY9zVB) from TokenPurpose
+[21:47:09]: Failed to register slave server
+[21:47:09]: Failure error code received: 504
+[21:47:09]: With Body: 
+[22:00:12]: [200] Account Communication Success (6)
+[22:00:12]: Received (KU_uGVY9zVB) from TokenPurpose
