@@ -116,3 +116,12 @@
 [04:58:28]: [Say] (KU_uGVY9zVB) balalaboom: 留給你們啦
 [04:58:35]: [Say] (KU_3aPAZWmD) ルビー: OK QWQ
 [04:58:40]: [Leave Announcement] balalaboom
+[05:07:05]: [Say] (KU_3aPAZWmD) ルビー: 冬天
+[05:07:12]: [Say] (KU_M673WWQo) 夜月夏目: 恩
+[05:10:35]: [Say] (KU_M673WWQo) 夜月夏目: 月圓= =
+[05:10:41]: [Say] (KU_3aPAZWmD) ルビー: 對阿 OWO
+[05:20:27]: [Say] (KU_3aPAZWmD) ルビー: 有冬王嗎? 還是我聽錯? OAOa
+[05:20:55]: [Say] (KU_M673WWQo) 夜月夏目: 剛剛打數人 妹注意
+[05:21:03]: [Announcement] 全剛又忘了帶木頭在身上嗎?XDD
+[05:21:08]: [Say] (KU_3aPAZWmD) ルビー: 恩... 應該... 不是冬王
+[05:21:19]: [Say] (KU_3aPAZWmD) ルビー: 滿越過了啦 =W=

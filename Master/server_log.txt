@@ -3593,3 +3593,15 @@
 [04:58:48]: Serializing world: session/537C5C69FFB19629/0000000785
 [05:00:11]: [200] Account Communication Success (6)
 [05:00:11]: Received (KU_uGVY9zVB) from TokenPurpose
+[05:06:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000786
+[05:06:46]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000786
+[05:06:47]: Serializing world: session/537C5C69FFB19629/0000000786
+[05:08:40]: [P2P] Session timed out for '76561198354843262'
+[05:08:40]: [P2P] Remove session: 110.173.114.1|1 '76561198354843262'
+[05:14:47]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000787
+[05:14:47]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000787
+[05:14:48]: Serializing world: session/537C5C69FFB19629/0000000787
+[05:21:03]: RemoteCommandInput: "c_announce"全剛又忘了帶木頭在身上嗎?XDD" "
+[05:22:48]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000788
+[05:22:48]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000788
+[05:22:48]: Serializing world: session/537C5C69FFB19629/0000000788
