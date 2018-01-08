@@ -1034,3 +1034,38 @@
 [03:57:45]:    1 file(s) removed
 [04:00:07]: [200] Account Communication Success (6)
 [04:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:05:45]: Serializing world: session/5C44BECFFFC07A2A/0000000827
+[04:05:45]: Truncating to snapshot #827...
+[04:05:45]:  - session/5C44BECFFFC07A2A/0000000821
+[04:05:45]:    1 file(s) removed
+[04:13:16]: [Shard] #1 -> session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000828
+[04:13:16]: [Shard] Received migration #1 data for (KU_VOig0Obi)
+[04:13:21]: [P2P] Session request for '76561198196213781'
+[04:13:24]: [P2P] Create session: 206.178.199.245|1 '76561198196213781'
+[04:13:24]: [P2P] Received from 206.178.199.245|1 '76561198196213781'
+[04:13:24]: [P2P] Sent to 206.178.199.245|1 '76561198196213781'
+[04:13:25]: New incoming connection 206.178.199.245|1 <6485534529588090196>
+[04:13:25]: Client connected from 206.178.199.245|1 <6485534529588090196>
+[04:13:25]: ValidateGameSessionToken pgs-sing^KU_VOig0Obi^DontStarveTogether^ITdu3cS5DdEYPA/pvtEXo641ipd817BJH1TtbhAWWaY= for <6485534529588090196>
+[04:13:26]: Client authenticated: (KU_VOig0Obi) 阿薩謝爾
+[04:13:26]: [Steam] SendUserConnectAndAuthenticate for '76561198196213781'
+[04:13:26]: [Steam] Authenticated client '76561198196213781'
+[04:13:26]: [Shard] Completed incoming migration #1 for (KU_VOig0Obi)
+[04:13:37]: Resuming user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000828
+[04:13:37]: Player will spawn close to portal #9	
+[04:13:37]: Spawning player at: [Load] (-570.27, 0.00, -206.94)	
+[04:13:46]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000828
+[04:13:46]: Serializing world: session/5C44BECFFFC07A2A/0000000828
+[04:15:36]: Activating portal[9] to 1	
+[04:15:36]: Serializing user: session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000829
+[04:15:36]: [Shard] Migration request: (KU_VOig0Obi) to [SHDMASTER](1)
+[04:15:36]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000829
+[04:15:36]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[04:15:36]: [Steam] SendUserDisconnect for '76561198196213781'
+[04:21:47]: Serializing world: session/5C44BECFFFC07A2A/0000000829
+[04:21:47]: Truncating to snapshot #829...
+[04:21:47]:  - session/5C44BECFFFC07A2A/0000000823
+[04:21:47]:  - session/5C44BECFFFC07A2A/0000000822
+[04:21:47]:    2 file(s) removed
+[04:25:44]: [P2P] Session timed out for '76561198196213781'
+[04:25:44]: [P2P] Remove session: 206.178.199.245|1 '76561198196213781'
