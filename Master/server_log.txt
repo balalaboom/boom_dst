@@ -1406,3 +1406,29 @@
 [04:21:47]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000829
 [04:21:47]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000829
 [04:21:48]: Serializing world: session/537C5C69FFB19629/0000000829
+[04:29:48]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000830
+[04:29:48]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000830
+[04:29:48]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000830
+[04:29:48]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000830
+[04:29:48]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000830
+[04:29:49]: Serializing world: session/537C5C69FFB19629/0000000830
+[04:30:07]: [200] Account Communication Success (6)
+[04:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:36:01]: [P2P] Connection failed for '76561198251790870'
+[04:36:04]: [Steam] SendUserDisconnect for '76561198251790870'
+[04:36:04]: Connection lost to 206.178.160.173|1 <1840700352848097813>
+[04:36:04]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[04:36:05]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000831
+[04:36:53]: [Steam] SendUserDisconnect for '76561197976933513'
+[04:36:53]: Connection lost to 206.178.160.174|1 <7732462726631628712>
+[04:36:53]: [Shard] (KU_g0ecL7wy) disconnected from [SHDMASTER](1)
+[04:36:53]: Serializing user: session/537C5C69FFB19629/A7L818J58VLS/0000000831
+[04:37:27]: [P2P] Connection failed for '76561197976933513'
+[04:37:42]: [P2P] Connection failed for '76561198196213781'
+[04:37:43]: [Steam] SendUserDisconnect for '76561198196213781'
+[04:37:43]: Connection lost to 206.178.160.171|1 <7365692174377536754>
+[04:37:43]: [Shard] (KU_VOig0Obi) disconnected from [SHDMASTER](1)
+[04:37:43]: Serializing user: session/537C5C69FFB19629/A7JTHCL032BC/0000000831
+[04:37:49]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000831
+[04:37:49]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000831
+[04:37:49]: Serializing world: session/537C5C69FFB19629/0000000831

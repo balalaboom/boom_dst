@@ -444,3 +444,41 @@
 [04:27:10]: [Say] (KU_uGVY9zVB) balalaboom: 打吧
 [04:27:20]: [Say] (KU_uGVY9zVB) balalaboom: 回程幫我殺一下羊XDD
 [04:27:59]: [Say] (KU_TtsjKcrU) AierLuosen: 玻璃要搬走
+[04:29:14]: [Say] (KU_uGVY9zVB) balalaboom: 鹿比幫我去睡一下
+[04:29:38]: [Say] (KU_3aPAZWmD) ルビー: 帳篷爆了 =W=
+[04:29:40]: [Say] (KU_TtsjKcrU) AierLuosen: 可已傳了
+[04:29:45]: [Say] (KU_TtsjKcrU) AierLuosen: 誰按個
+[04:30:22]: [Say] (KU_uGVY9zVB) balalaboom: AZ要回來嗎?
+[04:30:30]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: AZ去釣魚
+[04:30:33]: [Say] (KU_VOig0Obi) 阿薩謝爾: 等等好了 掀掉個於
+[04:30:34]: [Say] (KU_uGVY9zVB) balalaboom: OK
+[04:30:43]: [Say] (KU_VOig0Obi) 阿薩謝爾: 這錯字太嚴重了吧
+[04:30:50]: [Say] (KU_VOig0Obi) 阿薩謝爾: 幹你選自
+[04:30:53]: [Say] (KU_VOig0Obi) 阿薩謝爾: FK
+[04:30:54]: [Say] (KU_TtsjKcrU) AierLuosen: XDDD
+[04:32:57]: [Say] (KU_VOig0Obi) 阿薩謝爾: 好了 幫我船一下吧
+[04:33:05]: [Say] (KU_VOig0Obi) 阿薩謝爾: 天殺的選字
+[04:33:10]: [Say] (KU_TtsjKcrU) AierLuosen: 點了
+[04:33:18]: [Say] (KU_TtsjKcrU) AierLuosen:  (Sanity: 44/200) My mind's broke, I should be the one to fix it.
+[04:35:45]: [Say] (KU_TtsjKcrU) AierLuosen: 那我先下了/
+[04:35:49]: [Say] (KU_TtsjKcrU) AierLuosen: 晚安\
+[04:35:51]: [Say] (KU_VOig0Obi) 阿薩謝爾: 晚安
+[04:35:55]: [Say] (KU_3aPAZWmD) ルビー: a888/
+[04:35:56]: [Say] (KU_uGVY9zVB) balalaboom: 艾爾晚安
+[04:36:03]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 88
+[04:36:04]: [Leave Announcement] AierLuosen
+[04:36:24]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 我也要睡了88
+[04:36:31]: [Say] (KU_uGVY9zVB) balalaboom: K3晚安
+[04:36:34]: [Say] (KU_VOig0Obi) 阿薩謝爾: 我也差不多了 雖然明天不是甚麼重要的課>_>
+[04:36:36]: [Say] (KU_3aPAZWmD) ルビー: 暖時記得放下
+[04:36:53]: [Leave Announcement] 讓崎三睡一會兒
+[04:36:59]: [Say] (KU_VOig0Obi) 阿薩謝爾: 那蜘蛛巢呢?
+[04:37:12]: [Say] (KU_3aPAZWmD) ルビー: 等等我3皆會拆
+[04:37:27]: [Say] (KU_VOig0Obi) 阿薩謝爾: 那麻煩你了 晚安了
+[04:37:33]: [Say] (KU_3aPAZWmD) ルビー: 晚安/
+[04:37:43]: [Leave Announcement] 阿薩謝爾
+[04:37:44]: [Say] (KU_uGVY9zVB) balalaboom: AZ晚安
+[04:39:10]: [Say] (KU_uGVY9zVB) balalaboom: 有音樂!!
+[04:39:21]: [Say] (KU_uGVY9zVB) balalaboom: XDDDDD
+[04:39:27]: [Say] (KU_3aPAZWmD) ルビー: 楓楓點的歌
+[04:39:39]: [Say] (KU_uGVY9zVB) balalaboom: lol
