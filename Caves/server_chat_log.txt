@@ -194,3 +194,6 @@
 [02:22:43]: [Say] (KU_uGVY9zVB) balalaboom: 我先去幫小幻撿毛XD
 [02:22:49]: [Say] (KU_3aPAZWmD) ルビー: 好喔
 [02:22:58]: [Leave Announcement] balalaboom
+[02:40:16]: [Join Announcement] chunen
+[02:40:21]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
+[02:40:38]: [Leave Announcement] chunen
