@@ -193,3 +193,15 @@
 [09:36:47]: [Say] (KU_d2kn6_6v) chunen: 怕w
 [09:45:26]: [Say] (KU_d2kn6_6v) chunen: 我刷一下我叫影子的燃料(怕刷太多會死XD
 [09:45:40]: [Say] (KU_3aPAZWmD) ルビー: 恩
+[10:15:45]: [Say] (KU_d2kn6_6v) chunen: 還OK嗎
+[10:15:47]: [Death Announcement] ルビー 死亡，死因： 紅色獵犬。他變成了一個令人毛骨悚然的鬼！
+[10:16:00]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[10:16:41]: [Death Announcement] ルビー 死亡，死因： 獵犬。他變成了一個令人毛骨悚然的鬼！
+[10:17:33]: [Resurrect Announcement] ルビー 復活自 重生護符.
+[10:19:17]: [Say] (KU_3aPAZWmD) ルビー: CH先下線吧 請Boomcjo6gji4
+[10:19:19]: [Death Announcement] ルビー 死亡，死因： 獵犬。他變成了一個令人毛骨悚然的鬼！
+[10:19:32]: [Say] (KU_3aPAZWmD) ルビー: 我再請Boom回朔
+[10:19:38]: [Leave Announcement] chunen
+[10:19:52]: [Leave Announcement] ルビー
+[10:22:23]: [Join Announcement] 讓子彈飛一會兒
+[10:22:44]: [Leave Announcement] 讓子彈飛一會兒

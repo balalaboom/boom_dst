@@ -2391,3 +2391,50 @@
 [09:58:00]: Serializing world: session/537C5C69FFB19629/0000000757
 [10:00:10]: [200] Account Communication Success (6)
 [10:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[10:06:00]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000758
+[10:06:00]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000758
+[10:06:00]: Serializing world: session/537C5C69FFB19629/0000000758
+[10:14:01]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000759
+[10:14:01]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000759
+[10:14:01]: Serializing world: session/537C5C69FFB19629/0000000759
+[10:15:47]: Could not find anim [death] in bank [ghost]
+[10:15:47]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000760
+[10:16:00]: Could not find anim [idle_loop] in bank [ghost]
+[10:16:03]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000760
+[10:16:41]: Could not find anim [death] in bank [ghost]
+[10:16:41]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000760
+[10:17:33]: Could not find anim [idle_loop] in bank [ghost]
+[10:17:37]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000760
+[10:19:19]: Could not find anim [death] in bank [ghost]
+[10:19:19]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000760
+[10:19:38]: [Steam] SendUserDisconnect for '76561198310003934'
+[10:19:38]: Connection lost to 151.207.81.88|1 <3708824764652483850>
+[10:19:38]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[10:19:38]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000760
+[10:19:39]: [P2P] Connection failed for '76561198310003934'
+[10:19:52]: [Steam] SendUserDisconnect for '76561198189824466'
+[10:19:52]: Connection lost to 151.207.81.85|1 <9059595442833080429>
+[10:19:52]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[10:19:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000760
+[10:19:52]: Sim paused
+[10:20:44]: [P2P] Session request for '76561198099860495'
+[10:20:48]: [P2P] Create session: 151.207.81.89|1 '76561198099860495'
+[10:20:48]: [P2P] Received from 151.207.81.89|1 '76561198099860495'
+[10:20:48]: [P2P] Sent to 151.207.81.89|1 '76561198099860495'
+[10:22:06]: [P2P] Received from 151.207.81.89|1 '76561198099860495'
+[10:22:06]: [P2P] Sent to 151.207.81.89|1 '76561198099860495'
+[10:22:06]: New incoming connection 151.207.81.89|1 <647783363130616089>
+[10:22:06]: Client connected from 151.207.81.89|1 <647783363130616089>
+[10:22:06]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^OL3cWDHXSPGbZ3p66YWbFx/AfE4iHtulpNzz/ojeEKo= for <647783363130616089>
+[10:22:07]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[10:22:07]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[10:22:07]: [Steam] Authenticated client '76561198099860495'
+[10:22:10]: [Shard] Read save location file for (KU_MitzUqYv)
+[10:22:25]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000669
+[10:22:25]: Spawning player at: [Load] (-136.67, -0.00, 539.30)	
+[10:22:25]: Sim unpaused
+[10:22:44]: [Steam] SendUserDisconnect for '76561198099860495'
+[10:22:44]: Connection lost to 151.207.81.89|1 <647783363130616089>
+[10:22:44]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[10:22:45]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000760
+[10:22:45]: Sim paused

@@ -2219,3 +2219,15 @@
 [09:57:59]:    1 file(s) removed
 [10:00:10]: [200] Account Communication Success (6)
 [10:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[10:06:00]: Serializing world: session/5C44BECFFFC07A2A/0000000758
+[10:06:00]: Truncating to snapshot #758...
+[10:06:00]:  - session/5C44BECFFFC07A2A/0000000752
+[10:06:00]:    1 file(s) removed
+[10:14:01]: Serializing world: session/5C44BECFFFC07A2A/0000000759
+[10:14:01]: Truncating to snapshot #759...
+[10:14:01]:  - session/5C44BECFFFC07A2A/0000000753
+[10:14:01]:  - session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000741
+[10:14:01]:    2 file(s) removed
+[10:19:52]: Sim paused
+[10:22:25]: Sim unpaused
+[10:22:45]: Sim paused
