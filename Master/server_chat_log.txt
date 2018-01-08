@@ -200,3 +200,11 @@
 [02:40:16]: [Join Announcement] chunen
 [02:40:21]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
 [02:40:38]: [Leave Announcement] chunen
+[02:41:51]: [Join Announcement] chunen
+[02:42:33]: [Leave Announcement] chunen
+[02:44:20]: [Join Announcement] chunen
+[02:45:14]: [Leave Announcement] chunen
+[02:46:46]: [Join Announcement] chunen
+[02:48:11]: [Leave Announcement] chunen
+[03:02:15]: [Say] (KU_M673WWQo) 夜月夏目: 終於有時間逛世界了
+[03:02:24]: [Say] (KU_3aPAZWmD) ルビー: XD
