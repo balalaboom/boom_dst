@@ -541,3 +541,9 @@
 [05:00:04]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
 [05:04:08]: [Announcement] 你可以拆家裡上面的3個蜘蛛巢XD
 [05:04:30]: [Say] (KU_M673WWQo) 夜月夏目: !AZ
+[05:06:05]: [Announcement] 晚安嘍
+[05:06:10]: [Say] (KU_3aPAZWmD) ルビー: 晚安
+[05:11:28]: [Say] (KU_3aPAZWmD) ルビー: WC一下
+[05:17:54]: [Say] (KU_M673WWQo) 夜月夏目: 花呢?
+[05:18:05]: [Say] (KU_3aPAZWmD) ルビー: 快壞了 我先打包了
+[05:19:27]: [Say] (KU_M673WWQo) 夜月夏目: 如果.....XD
