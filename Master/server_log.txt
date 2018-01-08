@@ -2301,3 +2301,15 @@
 [08:19:28]: [P2P] Remove session: 151.207.81.87|1 '76561198310003934'
 [08:21:50]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000745
 [08:21:50]: Serializing world: session/537C5C69FFB19629/0000000745
+[08:29:50]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000746
+[08:29:51]: Serializing world: session/537C5C69FFB19629/0000000746
+[08:30:09]: [200] Account Communication Success (6)
+[08:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[08:37:51]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000747
+[08:37:51]: Serializing world: session/537C5C69FFB19629/0000000747
+[08:44:07]: Could not find anim [death] in bank [ghost]
+[08:44:07]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000748
+[08:44:17]: Could not find anim [idle_loop] in bank [ghost]
+[08:44:21]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000748
+[08:45:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000748
+[08:45:52]: Serializing world: session/537C5C69FFB19629/0000000748
