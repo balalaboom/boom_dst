@@ -3384,3 +3384,5 @@
 [11:35:10]: Sim paused
 [11:45:10]: [P2P] Session timed out for '76561198354843262'
 [11:45:10]: [P2P] Remove session: 151.207.81.90|1 '76561198354843262'
+[12:00:11]: [200] Account Communication Success (6)
+[12:00:11]: Received (KU_uGVY9zVB) from TokenPurpose
