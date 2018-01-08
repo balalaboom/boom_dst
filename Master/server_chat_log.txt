@@ -46,3 +46,9 @@
 [02:26:57]: [Join Announcement] balalaboom
 [02:39:09]: [Death Announcement] balalaboom 死亡，死因： 無眼鹿。她變成了一個令人毛骨悚然的鬼！
 [02:43:15]: [Leave Announcement] balalaboom
+[03:31:20]: [Join Announcement] balalaboom
+[03:39:10]: [Death Announcement] balalaboom 死亡，死因： 克勞斯。她變成了一個令人毛骨悚然的鬼！
+[03:39:29]: [Resurrect Announcement] balalaboom 復活自 重生護符.
+[03:42:16]: [Death Announcement] balalaboom 死亡，死因： 克勞斯。她變成了一個令人毛骨悚然的鬼！
+[03:52:38]: [Join Announcement] ルビー
+[03:53:17]: [Say] (KU_3aPAZWmD) ルビー: 安安 早上抱歉 QWQ
