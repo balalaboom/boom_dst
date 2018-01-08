@@ -284,3 +284,75 @@
 [03:40:35]: [Say] (KU_uGVY9zVB) balalaboom: K3先別...
 [03:40:39]: [Say] (KU_uGVY9zVB) balalaboom: 青蛙雨
 [03:40:42]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: .
+[03:40:53]: [Leave Announcement] 讓崎三睡一會兒
+[03:41:13]: [Say] (KU_uGVY9zVB) balalaboom: 這裡可以9個
+[03:41:29]: [Say] (KU_TtsjKcrU) AierLuosen: 6個就會卡了XD
+[03:41:29]: [Say] (KU_uGVY9zVB) balalaboom: 是Google這時間會lag一下
+[03:43:28]: [Say] (KU_3aPAZWmD) ルビー: 早上的青蛙雨很誇張 QAQ
+[03:43:51]: [Say] (KU_TtsjKcrU) AierLuosen: 狗
+[03:43:51]: [Say] (KU_VOig0Obi) 阿薩謝爾: 克難
+[03:43:58]: [Leave Announcement] 夜月夏目
+[03:44:06]: [Say] (KU_VOig0Obi) 阿薩謝爾: 這遊戲恨死我們了.-.
+[03:44:21]: [Say] (KU_uGVY9zVB) balalaboom: 我這房的青蛙雨都hen惡劣XDD
+[03:44:22]: [Join Announcement] 讓崎三睡一會兒
+[03:44:28]: [Say] (KU_uGVY9zVB) balalaboom: 狗..
+[03:45:06]: [Say] (KU_uGVY9zVB) balalaboom: K3家裡有狗嗎?
+[03:45:10]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 沒有
+[03:45:15]: [Say] (KU_uGVY9zVB) balalaboom: 那就好XD
+[03:45:25]: [Say] (KU_uGVY9zVB) balalaboom: 這是龍蠅丫!
+[03:45:35]: [Say] (KU_uGVY9zVB) balalaboom: 哪是綠色Glommer
+[03:45:58]: [Say] (KU_uGVY9zVB) balalaboom: 新月沒了QQ
+[03:46:20]: [Say] (KU_uGVY9zVB) balalaboom: 艾爾幫打克勞斯嗎?
+[03:46:27]: [Say] (KU_TtsjKcrU) AierLuosen: 好
+[03:47:24]: [Say] (KU_TtsjKcrU) AierLuosen: magic
+[03:47:29]: [Say] (KU_3aPAZWmD) ルビー: XD
+[03:47:58]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[03:48:06]: [Say] (KU_TtsjKcrU) AierLuosen: 袋子在哪/.
+[03:48:31]: [Say] (KU_uGVY9zVB) balalaboom: 喔喔
+[03:48:52]: [Say] (KU_uGVY9zVB) balalaboom: alt + 左鍵
+[03:48:53]: [Say] (KU_TtsjKcrU) AierLuosen: 在畫樹林嗎?
+[03:49:08]: [Say] (KU_TtsjKcrU) AierLuosen: 袋子 剛剛沒聽到XD
+[03:49:11]: [Say] (KU_uGVY9zVB) balalaboom: 鹿比等下帶你去XD
+[03:49:15]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯
+[03:49:51]: [Say] (KU_uGVY9zVB) balalaboom: 有丫
+[03:51:28]: [Say] (KU_TtsjKcrU) AierLuosen: 喔喔 最初的位置
+[03:51:33]: [Say] (KU_3aPAZWmD) ルビー: XD
+[03:51:34]: [Say] (KU_TtsjKcrU) AierLuosen: 好遠~
+[03:51:37]: [Say] (KU_TtsjKcrU) AierLuosen: 謝鹿比
+[03:51:48]: [Say] (KU_uGVY9zVB) balalaboom: >"<
+[03:51:51]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: .
+[03:54:14]: [Say] (KU_uGVY9zVB) balalaboom: 套招
+[03:54:17]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: ==
+[03:54:19]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[03:54:25]: [Say] (KU_VOig0Obi) 阿薩謝爾: 呵
+[03:54:41]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 呵
+[03:54:46]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: GAN
+[03:56:34]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 全黑 0.0
+[03:56:41]: [Say] (KU_uGVY9zVB) balalaboom: 哪裡?
+[03:56:47]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 我上身
+[03:57:04]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[03:57:14]: [Say] (KU_uGVY9zVB) balalaboom: 最黑XD
+[03:57:18]: [Say] (KU_VOig0Obi) 阿薩謝爾: 偷窺中
+[03:57:31]: [Say] (KU_VOig0Obi) 阿薩謝爾: 隔岸偷窺
+[03:57:36]: [Say] (KU_3aPAZWmD) ルビー: www
+[03:57:45]: [Say] (KU_3aPAZWmD) ルビー: 最會偷窺的蜘蛛 XD
+[03:57:59]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: a_a
+[03:58:00]: [Say] (KU_VOig0Obi) 阿薩謝爾: 這該死的海峽讓我沒辦法衝過去www
+[03:58:10]: [Say] (KU_3aPAZWmD) ルビー: XD
+[03:59:21]: [Say] (KU_uGVY9zVB) balalaboom: 幫我種11個藍蘑菇
+[03:59:38]: [Say] (KU_3aPAZWmD) ルビー: OK
+[03:59:44]: [Say] (KU_uGVY9zVB) balalaboom: 3Q
+[04:00:01]: [Say] (KU_3aPAZWmD) ルビー: 差點主光 6w6
+[04:00:11]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[04:03:21]: [Say] (KU_uGVY9zVB) balalaboom: 蜘蛛人應該要能住進3級豪華巢
+[04:03:31]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 6 禮物s.
+[04:03:40]: [Say] (KU_uGVY9zVB) balalaboom: 打好快XD
+[04:03:43]: [Say] (KU_3aPAZWmD) ルビー: 感謝艾爾 XD
+[04:03:53]: [Say] (KU_3aPAZWmD) ルビー: 我最快也要一天半 XD
+[04:03:54]: [Say] (KU_uGVY9zVB) balalaboom: 讚嘆艾爾
+[04:03:58]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 現在去春天?
+[04:04:01]: [Say] (KU_g0ecL7wy) 讓崎三睡一會兒: 是
+[04:04:03]: [Say] (KU_VOig0Obi) 阿薩謝爾: 艾爾 來海峽邊
+[04:04:10]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[04:04:16]: [Say] (KU_TtsjKcrU) AierLuosen: 難怪有蜘蛛聲
+[04:04:26]: [Say] (KU_3aPAZWmD) ルビー: www
