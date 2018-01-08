@@ -2313,3 +2313,24 @@
 [08:44:21]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000748
 [08:45:52]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000748
 [08:45:52]: Serializing world: session/537C5C69FFB19629/0000000748
+[08:51:41]: [P2P] Create session: 151.207.81.88|1 '76561198310003934'
+[08:51:41]: [P2P] Received from 151.207.81.88|1 '76561198310003934'
+[08:51:41]: [P2P] Sent to 151.207.81.88|1 '76561198310003934'
+[08:51:41]: New incoming connection 151.207.81.88|1 <4239994364443955470>
+[08:51:41]: Client connected from 151.207.81.88|1 <4239994364443955470>
+[08:51:41]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^2+7kBQDIbnaNpI5RNZ5ncbBsPcCGhvhETXpa4f0uMKg= for <4239994364443955470>
+[08:51:42]: Client authenticated: (KU_d2kn6_6v) chunen
+[08:51:42]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[08:51:42]: [Steam] Authenticated client '76561198310003934'
+[08:51:45]: [Shard] Read save location file for (KU_d2kn6_6v)
+[08:51:54]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000744
+[08:51:54]: Could not find anim [idle_loop] in bank [ghost]
+[08:51:54]: Spawning player at: [Load] (-449.27, 0.00, -416.23)	
+[08:53:53]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000749
+[08:53:53]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000749
+[08:53:53]: Serializing world: session/537C5C69FFB19629/0000000749
+[08:53:53]: Could not find anim [idle_loop] in bank [ghost]
+[08:53:56]: Could not find anim [transform] in bank [wilson]
+[08:53:58]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000750
+[09:00:10]: [200] Account Communication Success (6)
+[09:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
