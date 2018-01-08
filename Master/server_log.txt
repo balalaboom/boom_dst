@@ -741,3 +741,66 @@
 [04:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
 [04:30:07]: [200] Account Communication Success (6)
 [04:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:58:43]: Sim unpaused
+[04:58:45]: Serializing world: session/537C5C69FFB19629/0000000842
+[04:58:45]: Truncating to snapshot #842...
+[04:58:45]:  - session/537C5C69FFB19629/0000000836
+[04:58:45]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000836
+[04:58:45]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000836
+[04:58:45]:    3 file(s) removed
+[04:58:45]: Sim paused
+[04:59:53]: World 2560562348 is now disconnected	
+[04:59:53]: Validating portal[4] <-> 2560562348[4] (inactive)	
+[04:59:53]: Validating portal[10] <-> 2560562348[10] (inactive)	
+[04:59:53]: Validating portal[6] <-> 2560562348[6] (inactive)	
+[04:59:53]: Validating portal[5] <-> 2560562348[5] (inactive)	
+[04:59:53]: Validating portal[2] <-> 2560562348[2] (inactive)	
+[04:59:53]: Validating portal[9] <-> 2560562348[9] (inactive)	
+[04:59:53]: Validating portal[7] <-> 2560562348[7] (inactive)	
+[04:59:53]: Validating portal[8] <-> 2560562348[8] (inactive)	
+[04:59:53]: Validating portal[3] <-> 2560562348[3] (inactive)	
+[04:59:53]: Validating portal[1] <-> 2560562348[1] (inactive)	
+[04:59:53]: [Shard] A slave has disconnected: 'Caves(2560562348)'
+[04:59:58]: RemoteCommandInput: "c_shutdown()"
+[04:59:58]: c_shutdown	nil	
+[04:59:59]: Serializing world: session/537C5C69FFB19629/0000000843
+[04:59:59]: Truncating to snapshot #843...
+[04:59:59]:  - session/537C5C69FFB19629/0000000837
+[04:59:59]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000837
+[04:59:59]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000837
+[04:59:59]:    3 file(s) removed
+[04:59:59]: unloading prefabs for mod MOD_workshop-362175979	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1111711682	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1242093526	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1251678700	
+[04:59:59]: unloading prefabs for mod MOD_workshop-378160973	
+[04:59:59]: unloading prefabs for mod MOD_workshop-362175979	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1111711682	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1242093526	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1251678700	
+[04:59:59]: unloading prefabs for mod MOD_workshop-378160973	
+[04:59:59]: Serializing world: session/537C5C69FFB19629/0000000844
+[04:59:59]: Truncating to snapshot #844...
+[04:59:59]:  - session/537C5C69FFB19629/0000000838
+[04:59:59]:  - session/537C5C69FFB19629/A7IOC71O41LI/0000000838
+[04:59:59]:  - session/537C5C69FFB19629/A7GE8P58S30D/0000000838
+[04:59:59]:    3 file(s) removed
+[04:59:59]: unloading prefabs for mod MOD_workshop-362175979	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1111711682	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1242093526	
+[04:59:59]: unloading prefabs for mod MOD_workshop-1251678700	
+[04:59:59]: unloading prefabs for mod MOD_workshop-378160973	
+[05:00:00]: [Shard] Stopping shard mode
+[05:00:01]: Collecting garbage...
+[05:00:01]: lua_gc took 0.59 seconds
+[05:00:02]: ~ShardLuaProxy()
+[05:00:02]: ~ItemServerLuaProxy()
+[05:00:02]: ~InventoryLuaProxy()
+[05:00:02]: ~NetworkLuaProxy()
+[05:00:02]: ~SimLuaProxy()
+[05:00:02]: lua_close took 0.71 seconds
+[05:00:02]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[05:00:02]: shaders/ui_yuv.ksh - 1
+[05:00:02]: CurlRequestManager::ClientThread::Main() complete
+[05:00:02]: HttpClient2 discarded 1 callbacks.
+[05:00:02]: Shutting down
