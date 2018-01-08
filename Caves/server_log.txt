@@ -582,3 +582,18 @@
 [00:00:38]: [Shard] Slave LUA is now ready!
 [00:00:38]: Sim paused
 [00:26:52]: Sim unpaused
+[00:30:10]: [200] Account Communication Success (6)
+[00:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:34:52]: Serializing world: session/5C44BECFFFC07A2A/0000000760
+[00:34:52]: Truncating to snapshot #760...
+[00:34:52]:  - session/5C44BECFFFC07A2A/0000000754
+[00:34:52]:  - session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000754
+[00:34:52]:    2 file(s) removed
+[00:42:53]: Serializing world: session/5C44BECFFFC07A2A/0000000761
+[00:42:53]: Truncating to snapshot #761...
+[00:42:53]:  - session/5C44BECFFFC07A2A/0000000755
+[00:42:53]:    1 file(s) removed
+[00:50:54]: Serializing world: session/5C44BECFFFC07A2A/0000000762
+[00:50:54]: Truncating to snapshot #762...
+[00:50:54]:  - session/5C44BECFFFC07A2A/0000000756
+[00:50:54]:    1 file(s) removed
