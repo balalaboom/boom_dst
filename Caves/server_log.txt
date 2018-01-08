@@ -578,3 +578,5 @@
 [00:00:28]: Validating portal[2] <-> 1[2] (active)	
 [00:00:29]: [Shard] Slave LUA is now ready!
 [00:00:29]: Sim paused
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_uGVY9zVB) from TokenPurpose
