@@ -208,3 +208,23 @@
 [02:48:11]: [Leave Announcement] chunen
 [03:02:15]: [Say] (KU_M673WWQo) 夜月夏目: 終於有時間逛世界了
 [03:02:24]: [Say] (KU_3aPAZWmD) ルビー: XD
+[03:17:12]: [Join Announcement] chunen
+[03:19:31]: [Announcement] 要幫忙存檔嗎?
+[03:23:54]: [Join Announcement] 阿薩謝爾
+[03:24:48]: [Join Announcement] balalaboom
+[03:25:41]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[03:26:51]: [Say] (KU_uGVY9zVB) balalaboom: OK
+[03:27:20]: [Say] (KU_d2kn6_6v) chunen: 下線沒清掉會被掛在曬肉架上喔(亂講
+[03:27:30]: [Say] (KU_VOig0Obi) 阿薩謝爾: 怕爆
+[03:27:32]: [Say] (KU_uGVY9zVB) balalaboom: 沒有錯啦XD
+[03:27:38]: [Say] (KU_3aPAZWmD) ルビー: 葛洛姆標像是原本就壞了嗎? OAO
+[03:27:54]: [Say] (KU_uGVY9zVB) balalaboom: !!!!!!
+[03:27:57]: [Say] (KU_d2kn6_6v) chunen: 我的影子偷拆的
+[03:28:00]: [Say] (KU_d2kn6_6v) chunen: 抱歉
+[03:28:02]: [Say] (KU_3aPAZWmD) ルビー: ...
+[03:28:05]: [Say] (KU_VOig0Obi) 阿薩謝爾: 曬肉架準備
+[03:28:09]: [Say] (KU_3aPAZWmD) ルビー: 那不可修復...
+[03:28:13]: [Say] (KU_d2kn6_6v) chunen: @@
+[03:28:13]: [Say] (KU_uGVY9zVB) balalaboom: 來...哩來..
+[03:28:29]: [Say] (KU_d2kn6_6v) chunen: 那怎辦
+[03:28:41]: [Say] (KU_uGVY9zVB) balalaboom: 先掛在曬肉架再說

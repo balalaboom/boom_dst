@@ -997,3 +997,16 @@
 [03:01:37]: Truncating to snapshot #818...
 [03:01:37]:  - session/5C44BECFFFC07A2A/0000000812
 [03:01:37]:    1 file(s) removed
+[03:09:38]: Serializing world: session/5C44BECFFFC07A2A/0000000819
+[03:09:38]: Truncating to snapshot #819...
+[03:09:38]:  - session/5C44BECFFFC07A2A/0000000813
+[03:09:38]:    1 file(s) removed
+[03:17:39]: Serializing world: session/5C44BECFFFC07A2A/0000000820
+[03:17:39]: Truncating to snapshot #820...
+[03:17:39]:  - session/5C44BECFFFC07A2A/0000000814
+[03:17:39]:    1 file(s) removed
+[03:19:31]: RemoteCommandInput: "c_announce"要幫忙存檔嗎?" "
+[03:25:40]: Serializing world: session/5C44BECFFFC07A2A/0000000821
+[03:25:40]: Truncating to snapshot #821...
+[03:25:40]:  - session/5C44BECFFFC07A2A/0000000815
+[03:25:40]:    1 file(s) removed
