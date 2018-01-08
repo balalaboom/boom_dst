@@ -1088,3 +1088,32 @@
 [02:04:45]: Connection lost to 206.178.160.167|1 <6157875930505261619>
 [02:04:45]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
 [02:04:45]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000811
+[02:05:32]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000811
+[02:05:32]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000811
+[02:05:32]: Serializing world: session/537C5C69FFB19629/0000000811
+[02:06:26]: [P2P] Received from 206.178.160.167|1 '76561198211986697'
+[02:06:26]: [P2P] Sent to 206.178.160.167|1 '76561198211986697'
+[02:06:27]: New incoming connection 206.178.160.167|1 <6059912684545203750>
+[02:06:27]: Client connected from 206.178.160.167|1 <6059912684545203750>
+[02:06:27]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^WSopChKz59QdPaVzGN5d55GglMTC101qMNQMFVenyp4= for <6059912684545203750>
+[02:06:27]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[02:06:27]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[02:06:28]: [Steam] Authenticated client '76561198211986697'
+[02:06:30]: [Shard] Read save location file for (KU_M673WWQo)
+[02:06:40]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000811
+[02:06:40]: Spawning player at: [Load] (-462.99, -0.00, -366.36)	
+[02:13:33]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000812
+[02:13:33]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000812
+[02:13:33]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000812
+[02:13:33]: Serializing world: session/537C5C69FFB19629/0000000812
+[02:14:16]: [P2P] Session timed out for '76561198286499269'
+[02:14:16]: [P2P] Remove session: 206.178.160.168|1 '76561198286499269'
+[02:21:34]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000813
+[02:21:34]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000813
+[02:21:34]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000813
+[02:21:34]: Serializing world: session/537C5C69FFB19629/0000000813
+[02:22:54]: [P2P] Connection failed for '76561198354843262'
+[02:22:57]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:22:57]: Connection lost to 206.178.160.165|1 <6612771421225213198>
+[02:22:57]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[02:22:58]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000814

@@ -181,3 +181,16 @@
 [02:04:16]: [Leave Announcement] 提爾詩
 [02:04:45]: [Leave Announcement] 夜月夏目
 [02:04:45]: [Say] (KU_3aPAZWmD) ルビー: 都可
+[02:04:53]: [Say] (KU_3aPAZWmD) ルビー: ???
+[02:05:00]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[02:05:22]: [Say] (KU_3aPAZWmD) ルビー: 一聽到女王蜂都嚇跑了 (X
+[02:05:29]: [Say] (KU_uGVY9zVB) balalaboom: 對TAT
+[02:06:39]: [Join Announcement] 夜月夏目
+[02:11:35]: [Say] (KU_M673WWQo) 夜月夏目: 檢玩了
+[02:11:50]: [Say] (KU_uGVY9zVB) balalaboom: 牛群那邊的也撿了嗎?
+[02:11:58]: [Say] (KU_M673WWQo) 夜月夏目: 喔
+[02:12:10]: [Say] (KU_uGVY9zVB) balalaboom: 3Q
+[02:19:03]: [Say] (KU_uGVY9zVB) balalaboom: 滿月
+[02:22:43]: [Say] (KU_uGVY9zVB) balalaboom: 我先去幫小幻撿毛XD
+[02:22:49]: [Say] (KU_3aPAZWmD) ルビー: 好喔
+[02:22:58]: [Leave Announcement] balalaboom
