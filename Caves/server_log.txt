@@ -2114,3 +2114,16 @@
 [07:43:30]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000741
 [07:43:30]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [07:43:30]: [Steam] SendUserDisconnect for '76561198310003934'
+[07:49:47]: Serializing world: session/5C44BECFFFC07A2A/0000000741
+[07:49:47]: Truncating to snapshot #741...
+[07:49:47]:  - session/5C44BECFFFC07A2A/0000000734
+[07:49:47]:  - session/5C44BECFFFC07A2A/0000000735
+[07:49:47]:    2 file(s) removed
+[07:53:33]: [P2P] Session timed out for '76561198310003934'
+[07:53:33]: [P2P] Remove session: 151.207.194.209|1 '76561198310003934'
+[07:57:47]: Serializing world: session/5C44BECFFFC07A2A/0000000742
+[07:57:47]: Truncating to snapshot #742...
+[07:57:47]:  - session/5C44BECFFFC07A2A/0000000736
+[07:57:47]:    1 file(s) removed
+[08:00:09]: [200] Account Communication Success (6)
+[08:00:09]: Received (KU_uGVY9zVB) from TokenPurpose

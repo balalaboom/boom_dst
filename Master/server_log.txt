@@ -2278,3 +2278,11 @@
 [07:43:49]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000741
 [07:43:49]: Player will spawn close to portal #1	
 [07:43:49]: Spawning player at: [Load] (-8.77, 0.00, 467.50)	
+[07:49:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000741
+[07:49:46]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000741
+[07:49:47]: Serializing world: session/537C5C69FFB19629/0000000741
+[07:57:47]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000742
+[07:57:47]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000742
+[07:57:48]: Serializing world: session/537C5C69FFB19629/0000000742
+[08:00:09]: [200] Account Communication Success (6)
+[08:00:09]: Received (KU_uGVY9zVB) from TokenPurpose
