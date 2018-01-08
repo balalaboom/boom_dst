@@ -2209,3 +2209,13 @@
 [09:41:58]:    2 file(s) removed
 [09:45:00]: [P2P] Session timed out for '76561198310003934'
 [09:45:00]: [P2P] Remove session: 151.207.194.210|1 '76561198310003934'
+[09:49:59]: Serializing world: session/5C44BECFFFC07A2A/0000000756
+[09:49:59]: Truncating to snapshot #756...
+[09:49:59]:  - session/5C44BECFFFC07A2A/0000000750
+[09:49:59]:    1 file(s) removed
+[09:57:59]: Serializing world: session/5C44BECFFFC07A2A/0000000757
+[09:57:59]: Truncating to snapshot #757...
+[09:57:59]:  - session/5C44BECFFFC07A2A/0000000751
+[09:57:59]:    1 file(s) removed
+[10:00:10]: [200] Account Communication Success (6)
+[10:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
