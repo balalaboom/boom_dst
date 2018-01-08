@@ -2080,3 +2080,37 @@
 [07:17:43]: Truncating to snapshot #737...
 [07:17:43]:  - session/5C44BECFFFC07A2A/0000000731
 [07:17:43]:    1 file(s) removed
+[07:25:44]: Serializing world: session/5C44BECFFFC07A2A/0000000738
+[07:25:44]: Truncating to snapshot #738...
+[07:25:44]:  - session/5C44BECFFFC07A2A/0000000732
+[07:25:44]:    1 file(s) removed
+[07:30:09]: [200] Account Communication Success (6)
+[07:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[07:33:45]: Serializing world: session/5C44BECFFFC07A2A/0000000739
+[07:33:45]: Truncating to snapshot #739...
+[07:33:45]:  - session/5C44BECFFFC07A2A/0000000733
+[07:33:45]:    1 file(s) removed
+[07:41:17]: [Shard] #1 -> session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000740
+[07:41:17]: [Shard] Received migration #1 data for (KU_d2kn6_6v)
+[07:41:21]: [P2P] Session request for '76561198310003934'
+[07:41:25]: [P2P] Create session: 151.207.194.209|1 '76561198310003934'
+[07:41:25]: [P2P] Received from 151.207.194.209|1 '76561198310003934'
+[07:41:25]: [P2P] Sent to 151.207.194.209|1 '76561198310003934'
+[07:41:25]: New incoming connection 151.207.194.209|1 <4612376689099675438>
+[07:41:25]: Client connected from 151.207.194.209|1 <4612376689099675438>
+[07:41:25]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^dR14tLmlSCW+3Y1n3dZeL3MFYAPt6Rxc9/fn5nOu3Iw= for <4612376689099675438>
+[07:41:26]: Client authenticated: (KU_d2kn6_6v) chunen
+[07:41:26]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[07:41:26]: [Steam] Authenticated client '76561198310003934'
+[07:41:26]: [Shard] Completed incoming migration #1 for (KU_d2kn6_6v)
+[07:41:36]: Resuming user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000740
+[07:41:36]: Player will spawn close to portal #1	
+[07:41:36]: Spawning player at: [Load] (361.81, 0.00, -264.47)	
+[07:41:45]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000740
+[07:41:46]: Serializing world: session/5C44BECFFFC07A2A/0000000740
+[07:43:29]: Activating portal[1] to 1	
+[07:43:30]: Serializing user: session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000741
+[07:43:30]: [Shard] Migration request: (KU_d2kn6_6v) to [SHDMASTER](1)
+[07:43:30]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7KS5EOHNSDP/0000000741
+[07:43:30]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:43:30]: [Steam] SendUserDisconnect for '76561198310003934'

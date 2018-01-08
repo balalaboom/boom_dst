@@ -2223,3 +2223,58 @@
 [07:24:23]: [Shard] Read save location file for (KU_d2kn6_6v)
 [07:24:35]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000677
 [07:24:35]: Spawning player at: [Load] (-593.36, -0.00, -565.71)	
+[07:25:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000738
+[07:25:44]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000738
+[07:25:44]: Serializing world: session/537C5C69FFB19629/0000000738
+[07:26:26]: [Steam] SendUserDisconnect for '76561198310003934'
+[07:26:26]: Connection lost to 151.207.81.87|1 <4912089619781371018>
+[07:26:26]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[07:26:26]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000739
+[07:28:30]: [P2P] Received from 151.207.81.87|1 '76561198310003934'
+[07:28:30]: [P2P] Sent to 151.207.81.87|1 '76561198310003934'
+[07:28:30]: New incoming connection 151.207.81.87|1 <5790569571697173301>
+[07:28:30]: Client connected from 151.207.81.87|1 <5790569571697173301>
+[07:28:30]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^HZBUxnoBb6Fck9cLlTWfVf2h6gmIaq/eXcwumIzUUPg= for <5790569571697173301>
+[07:28:30]: Client authenticated: (KU_d2kn6_6v) chunen
+[07:28:30]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[07:28:31]: [Steam] Authenticated client '76561198310003934'
+[07:28:33]: [Shard] Read save location file for (KU_d2kn6_6v)
+[07:28:43]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000739
+[07:28:43]: Spawning player at: [Load] (-571.89, -0.00, -592.79)	
+[07:30:09]: [200] Account Communication Success (6)
+[07:30:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[07:33:45]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000739
+[07:33:45]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000739
+[07:33:45]: Serializing world: session/537C5C69FFB19629/0000000739
+[07:41:16]: Activating portal[1] to 2560562348	
+[07:41:16]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000740
+[07:41:16]: [Shard] Migration request: (KU_d2kn6_6v) to Caves(2560562348)
+[07:41:17]: [Shard] Begin migration #1 for (KU_d2kn6_6v)
+[07:41:17]: [Shard] #1 [SHDMASTER](1) -> Caves(2560562348)
+[07:41:17]: [Shard] #1 <- session/537C5C69FFB19629/A7KS5EOHNSDP/0000000740
+[07:41:17]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[07:41:17]: [Steam] SendUserDisconnect for '76561198310003934'
+[07:41:17]: [Shard] (KU_d2kn6_6v) disconnected from [SHDMASTER](1)
+[07:41:26]: [Shard] Completed migration #1 for player (KU_d2kn6_6v)
+[07:41:26]: [Shard] Writing save location file for (KU_d2kn6_6v)
+[07:41:46]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000740
+[07:41:46]: Serializing world: session/537C5C69FFB19629/0000000740
+[07:43:30]: [Shard] Begin migration #2 for (KU_d2kn6_6v)
+[07:43:30]: [Shard] #2 Caves(2560562348) -> [SHDMASTER](1)
+[07:43:30]: [Shard] #2 -> session/537C5C69FFB19629/A7KS5EOHNSDP/0000000741
+[07:43:30]: [Shard] Received migration #2 data for (KU_d2kn6_6v)
+[07:43:30]: [Shard] (KU_d2kn6_6v) disconnected from Caves(2560562348)
+[07:43:38]: [P2P] Received from 151.207.81.87|1 '76561198310003934'
+[07:43:38]: [P2P] Sent to 151.207.81.87|1 '76561198310003934'
+[07:43:38]: New incoming connection 151.207.81.87|1 <6504386195932048524>
+[07:43:38]: Client connected from 151.207.81.87|1 <6504386195932048524>
+[07:43:38]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^nZiF/1y4bFz2C+adcWPfoifjurTt6JRP6x0nbFyROEY= for <6504386195932048524>
+[07:43:39]: Client authenticated: (KU_d2kn6_6v) chunen
+[07:43:39]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[07:43:39]: [Steam] Authenticated client '76561198310003934'
+[07:43:39]: [Shard] Completed incoming migration #2 for (KU_d2kn6_6v)
+[07:43:39]: [Shard] Completed migration #2 for player (KU_d2kn6_6v)
+[07:43:39]: [Shard] Writing save location file for (KU_d2kn6_6v)
+[07:43:49]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000741
+[07:43:49]: Player will spawn close to portal #1	
+[07:43:49]: Spawning player at: [Load] (-8.77, 0.00, 467.50)	

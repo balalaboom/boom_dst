@@ -161,3 +161,11 @@
 [07:24:33]: [Join Announcement] chunen
 [07:24:45]: [Say] (KU_3aPAZWmD) ルビー: 早安 OWO*/
 [07:24:53]: [Say] (KU_d2kn6_6v) chunen: 早
+[07:26:21]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
+[07:26:26]: [Leave Announcement] chunen
+[07:28:41]: [Join Announcement] chunen
+[07:47:04]: [Say] (KU_d2kn6_6v) chunen: g殺豬?
+[07:47:08]: [Say] (KU_3aPAZWmD) ルビー: 恩
+[07:47:34]: [Say] (KU_d2kn6_6v) chunen: 這怎麼有蜘蛛巢
+[07:47:38]: [Say] (KU_d2kn6_6v) chunen: 豬被滅光
+[07:47:43]: [Say] (KU_3aPAZWmD) ルビー: 本來就會有
