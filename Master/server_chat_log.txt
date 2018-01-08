@@ -187,3 +187,7 @@
 [08:44:17]: [Resurrect Announcement] ルビー 復活自 重生護符.
 [08:51:52]: [Join Announcement] chunen
 [08:53:53]: [Resurrect Announcement] chunen 復活自 ルビー.
+[09:14:09]: [Say] (KU_d2kn6_6v) chunen: 我敲了一點石頭˙回來
+[09:14:17]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[09:14:42]: [Say] (KU_d2kn6_6v) chunen: 我沒有掃玩地板,因為那邊有3隻蜘蛛女王...
+[09:14:50]: [Say] (KU_3aPAZWmD) ルビー: OK
