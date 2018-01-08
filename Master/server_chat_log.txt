@@ -62,3 +62,10 @@
 [03:59:16]: [Say] (KU_uGVY9zVB) balalaboom: 沒有TAT
 [03:59:24]: [Say] (KU_3aPAZWmD) ルビー: (拍拍 QWQ
 [03:59:33]: [Say] (KU_3aPAZWmD) ルビー: QQ
+[04:08:34]: [Say] (KU_3aPAZWmD) ルビー: 狗狗
+[04:13:40]: [Say] (KU_uGVY9zVB) balalaboom: 我先去WC.等一下回來
+[04:13:44]: [Say] (KU_3aPAZWmD) ルビー: OK
+[04:13:54]: [Leave Announcement] balalaboom
+[04:24:00]: [Join Announcement] balalaboom
+[04:24:11]: [Say] (KU_3aPAZWmD) ルビー: 歡回 OWO/
+[04:24:21]: [Say] (KU_uGVY9zVB) balalaboom: 有卦嗎? XD
