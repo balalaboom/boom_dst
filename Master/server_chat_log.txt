@@ -44,3 +44,5 @@
 [01:41:18]: [Leave Announcement] chunen
 [02:06:51]: [Leave Announcement] balalaboom
 [02:26:57]: [Join Announcement] balalaboom
+[02:39:09]: [Death Announcement] balalaboom 死亡，死因： 無眼鹿。她變成了一個令人毛骨悚然的鬼！
+[02:43:15]: [Leave Announcement] balalaboom
