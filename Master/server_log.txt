@@ -3525,3 +3525,12 @@
 [03:52:08]: [Shard] Read save location file for (KU_3aPAZWmD)
 [03:52:44]: Resuming user: session/537C5C69FFB19629/A7GE8P58S30D/0000000758
 [03:52:44]: Spawning player at: [Load] (-130.29, 0.00, 523.50)	
+[03:54:38]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000776
+[03:54:38]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000776
+[03:54:39]: Serializing world: session/537C5C69FFB19629/0000000776
+[03:59:43]: KU_3aPAZWmD	running text command:	cry	true	
+[04:00:11]: [200] Account Communication Success (6)
+[04:00:11]: Received (KU_uGVY9zVB) from TokenPurpose
+[04:02:39]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000777
+[04:02:39]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000777
+[04:02:39]: Serializing world: session/537C5C69FFB19629/0000000777

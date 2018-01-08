@@ -52,3 +52,13 @@
 [03:42:16]: [Death Announcement] balalaboom 死亡，死因： 克勞斯。她變成了一個令人毛骨悚然的鬼！
 [03:52:38]: [Join Announcement] ルビー
 [03:53:17]: [Say] (KU_3aPAZWmD) ルビー: 安安 早上抱歉 QWQ
+[03:54:49]: [Say] (KU_uGVY9zVB) balalaboom: 沒關係XD
+[03:54:57]: [Say] (KU_uGVY9zVB) balalaboom: 剛在打克勞斯.抱歉
+[03:55:07]: [Say] (KU_3aPAZWmD) ルビー: 不會 QWQ
+[03:56:59]: [Say] (KU_uGVY9zVB) balalaboom: 第一次自己打掉
+[03:57:06]: [Say] (KU_3aPAZWmD) ルビー: 恭喜 OWO/
+[03:59:03]: [Say] (KU_uGVY9zVB) balalaboom: 哭了
+[03:59:09]: [Say] (KU_3aPAZWmD) ルビー: QWQ?
+[03:59:16]: [Say] (KU_uGVY9zVB) balalaboom: 沒有TAT
+[03:59:24]: [Say] (KU_3aPAZWmD) ルビー: (拍拍 QWQ
+[03:59:33]: [Say] (KU_3aPAZWmD) ルビー: QQ
