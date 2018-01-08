@@ -42,3 +42,5 @@
 [01:40:30]: [Say] (KU_uGVY9zVB) balalaboom: 好喔.謝謝
 [01:40:33]: [Say] (KU_uGVY9zVB) balalaboom: 8888
 [01:41:18]: [Leave Announcement] chunen
+[02:06:51]: [Leave Announcement] balalaboom
+[02:26:57]: [Join Announcement] balalaboom

@@ -1462,3 +1462,25 @@
 [02:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
 [02:04:11]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000770
 [02:04:12]: Serializing world: session/537C5C69FFB19629/0000000770
+[02:06:33]: RemoteCommandInput: "c_save()"
+[02:06:34]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000771
+[02:06:34]: Serializing world: session/537C5C69FFB19629/0000000771
+[02:06:51]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:06:51]: Connection lost to 110.173.113.254|1 <7933705089379429811>
+[02:06:51]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[02:06:51]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000772
+[02:06:51]: Sim paused
+[02:16:51]: [P2P] Session timed out for '76561198354843262'
+[02:16:51]: [P2P] Remove session: 110.173.113.254|1 '76561198354843262'
+[02:26:44]: [P2P] Create session: 110.173.114.0|1 '76561198354843262'
+[02:26:44]: [P2P] Received from 110.173.114.0|1 '76561198354843262'
+[02:26:44]: [P2P] Sent to 110.173.114.0|1 '76561198354843262'
+[02:26:45]: New incoming connection 110.173.114.0|1 <1129611623707380624>
+[02:26:45]: Client connected from 110.173.114.0|1 <1129611623707380624>
+[02:26:45]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^h0FpE67zlivlD6X8jOxz5Nmfiz1cgM3E5nkDfpzJE74= for <1129611623707380624>
+[02:26:45]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:26:45]: [Steam] Authenticated host '76561198354843262'
+[02:26:48]: [Shard] Read save location file for (KU_uGVY9zVB)
+[02:26:58]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000772
+[02:26:58]: Spawning player at: [Load] (-146.28, -0.00, 320.91)	
+[02:26:58]: Sim unpaused

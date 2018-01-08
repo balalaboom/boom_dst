@@ -1258,3 +1258,9 @@
 [02:04:11]: Truncating to snapshot #770...
 [02:04:11]:  - session/5C44BECFFFC07A2A/0000000764
 [02:04:11]:    1 file(s) removed
+[02:06:34]: Serializing world: session/5C44BECFFFC07A2A/0000000771
+[02:06:34]: Truncating to snapshot #771...
+[02:06:34]:  - session/5C44BECFFFC07A2A/0000000765
+[02:06:34]:    1 file(s) removed
+[02:06:52]: Sim paused
+[02:26:58]: Sim unpaused
