@@ -1079,3 +1079,25 @@
 [04:37:49]: Truncating to snapshot #831...
 [04:37:49]:  - session/5C44BECFFFC07A2A/0000000825
 [04:37:49]:    1 file(s) removed
+[04:45:50]: Serializing world: session/5C44BECFFFC07A2A/0000000832
+[04:45:50]: Truncating to snapshot #832...
+[04:45:50]:  - session/5C44BECFFFC07A2A/0000000826
+[04:45:50]:    1 file(s) removed
+[04:53:51]: Serializing world: session/5C44BECFFFC07A2A/0000000833
+[04:53:51]: Truncating to snapshot #833...
+[04:53:51]:  - session/5C44BECFFFC07A2A/0000000827
+[04:53:51]:  - session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000582
+[04:53:51]:    2 file(s) removed
+[04:59:17]: RemoteCommandInput: "c_save()"
+[04:59:19]: Serializing world: session/5C44BECFFFC07A2A/0000000834
+[04:59:19]: Truncating to snapshot #834...
+[04:59:19]:  - session/5C44BECFFFC07A2A/0000000828
+[04:59:19]:  - session/5C44BECFFFC07A2A/A7JTHCL032BC/0000000828
+[04:59:19]:    2 file(s) removed
+[05:00:07]: [200] Account Communication Success (6)
+[05:00:07]: Received (KU_uGVY9zVB) from TokenPurpose
+[05:01:53]: Serializing world: session/5C44BECFFFC07A2A/0000000835
+[05:01:53]: Truncating to snapshot #835...
+[05:01:53]:  - session/5C44BECFFFC07A2A/0000000829
+[05:01:53]:    1 file(s) removed
+[05:04:08]: RemoteCommandInput: "c_announce"你可以拆家裡上面的3個蜘蛛巢XD" "
