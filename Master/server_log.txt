@@ -2204,3 +2204,22 @@
 [06:53:41]: Serializing world: session/537C5C69FFB19629/0000000734
 [07:00:09]: [200] Account Communication Success (6)
 [07:00:09]: Received (KU_uGVY9zVB) from TokenPurpose
+[07:01:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000735
+[07:01:42]: Serializing world: session/537C5C69FFB19629/0000000735
+[07:09:42]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000736
+[07:09:43]: Serializing world: session/537C5C69FFB19629/0000000736
+[07:17:43]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000737
+[07:17:43]: Serializing world: session/537C5C69FFB19629/0000000737
+[07:24:16]: [P2P] Session request for '76561198310003934'
+[07:24:20]: [P2P] Create session: 151.207.81.87|1 '76561198310003934'
+[07:24:20]: [P2P] Received from 151.207.81.87|1 '76561198310003934'
+[07:24:20]: [P2P] Sent to 151.207.81.87|1 '76561198310003934'
+[07:24:20]: New incoming connection 151.207.81.87|1 <4912089619781371018>
+[07:24:20]: Client connected from 151.207.81.87|1 <4912089619781371018>
+[07:24:20]: ValidateGameSessionToken pgs-sing^KU_d2kn6_6v^DontStarveTogether^wYi1S98lCOLp0yet7uoEI/VqGcg1Rh+qxqD3t67V59w= for <4912089619781371018>
+[07:24:20]: Client authenticated: (KU_d2kn6_6v) chunen
+[07:24:20]: [Steam] SendUserConnectAndAuthenticate for '76561198310003934'
+[07:24:21]: [Steam] Authenticated client '76561198310003934'
+[07:24:23]: [Shard] Read save location file for (KU_d2kn6_6v)
+[07:24:35]: Resuming user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000677
+[07:24:35]: Spawning player at: [Load] (-593.36, -0.00, -565.71)	

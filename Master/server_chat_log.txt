@@ -159,3 +159,6 @@
 [03:49:54]: [Leave Announcement] ルビー
 [03:50:37]: [Leave Announcement] balalaboom
 [03:52:34]: [Join Announcement] ルビー
+[07:24:33]: [Join Announcement] chunen
+[07:24:45]: [Say] (KU_3aPAZWmD) ルビー: 早安 OWO*/
+[07:24:53]: [Say] (KU_d2kn6_6v) chunen: 早
