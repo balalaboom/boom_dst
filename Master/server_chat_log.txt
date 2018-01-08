@@ -170,3 +170,16 @@
 [07:47:34]: [Say] (KU_d2kn6_6v) chunen: 這怎麼有蜘蛛巢
 [07:47:38]: [Say] (KU_d2kn6_6v) chunen: 豬被滅光
 [07:47:43]: [Say] (KU_3aPAZWmD) ルビー: 本來就會有
+[08:07:00]: [Death Announcement] chunen 死亡，死因： 蜘蛛戰士。他變成了一個令人毛骨悚然的鬼！
+[08:07:09]: [Say] (KU_d2kn6_6v) chunen: 忘記穿甲orz
+[08:07:16]: [Say] (KU_d2kn6_6v) chunen: 超低能...
+[08:07:19]: [Say] (KU_3aPAZWmD) ルビー: =W=
+[08:07:41]: [Say] (KU_d2kn6_6v) chunen: 想說蜘蛛巢快清玩了
+[08:07:45]: [Say] (KU_d2kn6_6v) chunen: 哀大意了
+[08:07:57]: [Say] (KU_3aPAZWmD) ルビー: 恩恩
+[08:08:59]: [Say] (KU_d2kn6_6v) chunen: 這一塊有很多蜘蛛網跟石頭,有空再來收吧,夏天有點煩030
+[08:09:04]: [Say] (KU_d2kn6_6v) chunen: 不想過來
+[08:09:17]: [Say] (KU_d2kn6_6v) chunen: DOG
+[08:09:19]: [Say] (KU_3aPAZWmD) ルビー: 恩
+[08:09:25]: [Say] (KU_3aPAZWmD) ルビー: 秋天再說
+[08:09:28]: [Leave Announcement] chunen
