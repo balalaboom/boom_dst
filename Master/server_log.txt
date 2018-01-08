@@ -568,3 +568,16 @@
 [00:00:36]: Validating portal[7] <-> 2560562348[7] (active)	
 [00:00:36]: Validating portal[6] <-> 2560562348[6] (disabled)	
 [00:00:36]: Validating portal[4] <-> 2560562348[4] (active)	
+[00:26:35]: [P2P] Session request for '76561198354843262'
+[00:26:39]: [P2P] Create session: 110.173.113.254|1 '76561198354843262'
+[00:26:39]: [P2P] Received from 110.173.113.254|1 '76561198354843262'
+[00:26:39]: [P2P] Sent to 110.173.113.254|1 '76561198354843262'
+[00:26:39]: New incoming connection 110.173.113.254|1 <7933705089379429811>
+[00:26:39]: Client connected from 110.173.113.254|1 <7933705089379429811>
+[00:26:39]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^C1/NTJt3OFfDwBg42RauF2Cz6T4iVFKrUeRk5o45jUo= for <7933705089379429811>
+[00:26:40]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[00:26:40]: [Steam] Authenticated host '76561198354843262'
+[00:26:42]: [Shard] Read save location file for (KU_uGVY9zVB)
+[00:26:52]: Resuming user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000710
+[00:26:52]: Spawning player at: [Load] (-136.81, -0.00, 548.98)	
+[00:26:52]: Sim unpaused

@@ -581,3 +581,4 @@
 [00:00:38]: Serializing world: session/5C44BECFFFC07A2A/0000000759
 [00:00:38]: [Shard] Slave LUA is now ready!
 [00:00:38]: Sim paused
+[00:26:52]: Sim unpaused
