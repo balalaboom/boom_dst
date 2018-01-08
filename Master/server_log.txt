@@ -3568,3 +3568,28 @@
 [04:50:44]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000783
 [04:50:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000783
 [04:50:44]: Serializing world: session/537C5C69FFB19629/0000000783
+[04:53:56]: [P2P] Session request for '76561198211986697'
+[04:54:01]: [P2P] Create session: 110.173.114.3|1 '76561198211986697'
+[04:54:01]: [P2P] Received from 110.173.114.3|1 '76561198211986697'
+[04:54:01]: [P2P] Sent to 110.173.114.3|1 '76561198211986697'
+[04:54:01]: New incoming connection 110.173.114.3|1 <8407774954032638827>
+[04:54:01]: Client connected from 110.173.114.3|1 <8407774954032638827>
+[04:54:01]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^F1M+fFmYnUXCsbGzd7VYLFZFazAbjm6ZLNxpwA92BQ8= for <8407774954032638827>
+[04:54:02]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[04:54:02]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[04:54:02]: [Steam] Authenticated client '76561198211986697'
+[04:54:04]: [Shard] Read save location file for (KU_M673WWQo)
+[04:54:16]: Resuming user: session/537C5C69FFB19629/A7IOC71O41LI/0000000703
+[04:54:16]: Spawning player at: [Load] (-126.44, -0.00, 525.41)	
+[04:58:40]: [Steam] SendUserDisconnect for '76561198354843262'
+[04:58:40]: Connection lost to 110.173.114.1|1 <7409047757837477704>
+[04:58:40]: [Shard] (KU_uGVY9zVB) disconnected from [SHDMASTER](1)
+[04:58:41]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000784
+[04:58:45]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000784
+[04:58:45]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000784
+[04:58:45]: Serializing world: session/537C5C69FFB19629/0000000784
+[04:58:48]: Serializing user: session/537C5C69FFB19629/A7GE8P58S30D/0000000785
+[04:58:48]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000785
+[04:58:48]: Serializing world: session/537C5C69FFB19629/0000000785
+[05:00:11]: [200] Account Communication Success (6)
+[05:00:11]: Received (KU_uGVY9zVB) from TokenPurpose

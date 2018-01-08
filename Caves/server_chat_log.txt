@@ -100,3 +100,19 @@
 [04:49:03]: [Say] (KU_uGVY9zVB) balalaboom: 我忘了拿武器XD
 [04:50:01]: [Say] (KU_3aPAZWmD) ルビー: XD
 [04:50:05]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[04:54:14]: [Join Announcement] 夜月夏目
+[04:55:15]: [Say] (KU_M673WWQo) 夜月夏目: 我有要幫甚麼嗎?
+[04:55:25]: [Say] (KU_3aPAZWmD) ルビー: 砍樹 OwO
+[04:55:37]: [Say] (KU_3aPAZWmD) ルビー: 或你要逛地圖也可以
+[04:55:45]: [Say] (KU_M673WWQo) 夜月夏目: 別鬧了 活木還不夠嗎XD
+[04:55:58]: [Say] (KU_3aPAZWmD) ルビー: XD
+[04:56:00]: [Say] (KU_uGVY9zVB) balalaboom: 等等打蜜蜂女王
+[04:56:00]: [Say] (KU_M673WWQo) 夜月夏目: 光地圖有點來不及了 我去殺牛吧
+[04:56:05]: [Say] (KU_3aPAZWmD) ルビー: 換靈魂不夠w
+[04:56:11]: [Say] (KU_M673WWQo) 夜月夏目: 3人啊..
+[04:56:36]: [Say] (KU_3aPAZWmD) ルビー: 好窩
+[04:58:18]: [Say] (KU_uGVY9zVB) balalaboom: 我先去吃飯XD
+[04:58:22]: [Say] (KU_3aPAZWmD) ルビー: OK
+[04:58:28]: [Say] (KU_uGVY9zVB) balalaboom: 留給你們啦
+[04:58:35]: [Say] (KU_3aPAZWmD) ルビー: OK QWQ
+[04:58:40]: [Leave Announcement] balalaboom
