@@ -1416,3 +1416,21 @@
 [01:00:10]: Received (KU_uGVY9zVB) from TokenPurpose
 [01:05:11]: Could not find anim [death] in bank [ghost]
 [01:05:11]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000763
+[01:08:06]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000763
+[01:08:06]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000763
+[01:08:07]: Serializing world: session/537C5C69FFB19629/0000000763
+[01:08:39]: Could not find anim [idle_loop] in bank [ghost]
+[01:08:42]: Could not find anim [transform] in bank [wilson]
+[01:08:44]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000764
+[01:12:41]: Failed to send server listings
+[01:12:41]: Failure error code received: 504
+[01:12:41]: With Body: 
+[01:13:59]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[01:14:02]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[01:14:02]: Could not find anim [grow_normal_to_tall] in bank [tree_leaf_monster]
+[01:16:07]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000764
+[01:16:07]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000764
+[01:16:07]: Serializing world: session/537C5C69FFB19629/0000000764
+[01:24:08]: Serializing user: session/537C5C69FFB19629/A7KS5EOHNSDP/0000000765
+[01:24:08]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000765
+[01:24:08]: Serializing world: session/537C5C69FFB19629/0000000765

@@ -20,3 +20,13 @@
 [01:05:15]: [Say] (KU_d2kn6_6v) chunen: @@d
 [01:05:21]: [Say] (KU_uGVY9zVB) balalaboom: 被樹卡到XD
 [01:05:34]: [Say] (KU_d2kn6_6v) chunen: 先救你還先打豬?
+[01:05:39]: [Say] (KU_uGVY9zVB) balalaboom: 先打豬
+[01:08:39]: [Resurrect Announcement] balalaboom 復活自 chunen.
+[01:08:53]: [Say] (KU_uGVY9zVB) balalaboom: 3Q
+[01:19:39]: [Say] (KU_d2kn6_6v) chunen: 要幫忙打1
+[01:20:28]: [Say] (KU_uGVY9zVB) balalaboom: 他死了XDD
+[01:20:33]: [Say] (KU_d2kn6_6v) chunen: OKOK
+[01:24:44]: [Say] (KU_d2kn6_6v) chunen: 麥叔帶小弟,小弟狂砍,木頭越減越多...
+[01:24:51]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[01:25:07]: [Say] (KU_uGVY9zVB) balalaboom: 盡責的小弟 (O
+[01:25:35]: [Say] (KU_d2kn6_6v) chunen: 有點太盡責,這樣我會越撿走越遠
