@@ -2438,3 +2438,11 @@
 [10:22:44]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
 [10:22:45]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000760
 [10:22:45]: Sim paused
+[10:29:38]: [P2P] Session timed out for '76561198310003934'
+[10:29:38]: [P2P] Remove session: 151.207.81.88|1 '76561198310003934'
+[10:29:52]: [P2P] Session timed out for '76561198189824466'
+[10:29:52]: [P2P] Remove session: 151.207.81.85|1 '76561198189824466'
+[10:30:10]: [200] Account Communication Success (6)
+[10:30:10]: Received (KU_uGVY9zVB) from TokenPurpose
+[10:32:44]: [P2P] Session timed out for '76561198099860495'
+[10:32:44]: [P2P] Remove session: 151.207.81.89|1 '76561198099860495'
