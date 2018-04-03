@@ -304,3 +304,8 @@
 [02:47:10]: [Say] (KU_uGVY9zVB) balalaboom: OK
 [03:00:44]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 21 噩夢燃料s.
 [03:10:58]: [Death Announcement] balalaboom 死亡，死因： 黑暗。她變成了一個令人毛骨悚然的鬼！
+[03:15:58]: [Say] (KU_TtsjKcrU) AierLuosen: 離月石臺很近
+[03:28:06]: [Death Announcement] AierLuosen 死亡，死因： 尖喙恐懼化身。她變成了一個令人毛骨悚然的鬼！
+[03:29:26]: [Say] (KU_uGVY9zVB) balalaboom: 收涎啊你
+[03:30:10]: [Resurrect Announcement] AierLuosen 復活自 夜月夏目.
+[03:33:21]: [Skin Announcement] 夜月夏目 body_tweedvest_grey_steel
