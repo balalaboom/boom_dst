@@ -743,3 +743,60 @@
 [01:12:03]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000854
 [01:12:03]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000854
 [01:12:04]: Serializing world: session/537C5C69FFB19629/0000000854
+[01:14:01]: Activating portal[1] to 2560562348	
+[01:14:02]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000855
+[01:14:02]: [Shard] Migration request: (KU_MitzUqYv) to Caves(2560562348)
+[01:14:02]: [Shard] Begin migration #3 for (KU_MitzUqYv)
+[01:14:02]: [Shard] #3 [SHDMASTER](1) -> Caves(2560562348)
+[01:14:02]: [Shard] #3 <- session/537C5C69FFB19629/A7IQPNUNMI5P/0000000855
+[01:14:02]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:14:02]: [Steam] SendUserDisconnect for '76561198099860495'
+[01:14:02]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[01:14:16]: [Shard] Completed migration #3 for player (KU_MitzUqYv)
+[01:14:16]: [Shard] Writing save location file for (KU_MitzUqYv)
+[01:15:16]: [Shard] Begin migration #4 for (KU_MitzUqYv)
+[01:15:16]: [Shard] #4 Caves(2560562348) -> [SHDMASTER](1)
+[01:15:16]: [Shard] #4 -> session/537C5C69FFB19629/A7IQPNUNMI5P/0000000855
+[01:15:16]: [Shard] Received migration #4 data for (KU_MitzUqYv)
+[01:15:16]: [Shard] (KU_MitzUqYv) disconnected from Caves(2560562348)
+[01:15:23]: [P2P] Received from 74.35.4.194|1 '76561198099860495'
+[01:15:23]: [P2P] Sent to 74.35.4.194|1 '76561198099860495'
+[01:15:24]: New incoming connection 74.35.4.194|1 <1730841549662759751>
+[01:15:24]: Client connected from 74.35.4.194|1 <1730841549662759751>
+[01:15:24]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^gODf0jW0arH8lqspJq6VE73M5zLjZ0TSsylFr+m8iIE= for <1730841549662759751>
+[01:15:25]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[01:15:25]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[01:15:25]: [Steam] Authenticated client '76561198099860495'
+[01:15:25]: [Shard] Completed incoming migration #4 for (KU_MitzUqYv)
+[01:15:25]: [Shard] Completed migration #4 for player (KU_MitzUqYv)
+[01:15:25]: [Shard] Writing save location file for (KU_MitzUqYv)
+[01:15:33]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000855
+[01:15:33]: Player will spawn close to portal #1	
+[01:15:33]: Spawning player at: [Load] (-6.40, 0.00, 469.33)	
+[01:16:09]: KU_TtsjKcrU	running text command:	fistshake	true	
+[01:16:11]: KU_TtsjKcrU	running text command:	flex	true	
+[01:16:14]: KU_TtsjKcrU	running text command:	flex	true	
+[01:19:14]: [Steam] SendUserDisconnect for '76561198099860495'
+[01:19:14]: Connection lost to 74.35.4.194|1 <1730841549662759751>
+[01:19:14]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[01:19:14]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000855
+[01:20:04]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000855
+[01:20:04]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000855
+[01:20:04]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000855
+[01:20:05]: Serializing world: session/537C5C69FFB19629/0000000855
+[01:28:05]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000856
+[01:28:05]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000856
+[01:28:05]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000856
+[01:28:06]: Serializing world: session/537C5C69FFB19629/0000000856
+[01:29:06]: [Steam] SendUserDisconnect for '76561198211986697'
+[01:29:06]: Connection lost to 74.35.4.192|1 <403700438010484619>
+[01:29:06]: [Shard] (KU_M673WWQo) disconnected from [SHDMASTER](1)
+[01:29:06]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000857
+[01:29:14]: [P2P] Session timed out for '76561198099860495'
+[01:29:14]: [P2P] Remove session: 74.35.4.194|1 '76561198099860495'
+[01:29:18]: [P2P] Connection failed for '76561198211986697'
+[01:30:05]: [200] Account Communication Success (6)
+[01:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:36:06]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000857
+[01:36:06]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000857
+[01:36:07]: Serializing world: session/537C5C69FFB19629/0000000857

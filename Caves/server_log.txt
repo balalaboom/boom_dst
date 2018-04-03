@@ -641,3 +641,41 @@
 [01:12:03]: Truncating to snapshot #854...
 [01:12:03]:  - session/5C44BECFFFC07A2A/0000000848
 [01:12:03]:    1 file(s) removed
+[01:14:02]: [Shard] #3 -> session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000855
+[01:14:02]: [Shard] Received migration #3 data for (KU_MitzUqYv)
+[01:14:10]: [P2P] Session request for '76561198099860495'
+[01:14:14]: [P2P] Create session: 74.36.120.177|1 '76561198099860495'
+[01:14:14]: [P2P] Received from 74.36.120.177|1 '76561198099860495'
+[01:14:14]: [P2P] Sent to 74.36.120.177|1 '76561198099860495'
+[01:14:14]: New incoming connection 74.36.120.177|1 <4608145578380175947>
+[01:14:14]: Client connected from 74.36.120.177|1 <4608145578380175947>
+[01:14:14]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^dKYoJ8QNGlbmUwDVPDiRgqNo46qer8onUOGdJUzPsIE= for <4608145578380175947>
+[01:14:15]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[01:14:15]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[01:14:16]: [Steam] Authenticated client '76561198099860495'
+[01:14:16]: [Shard] Completed incoming migration #3 for (KU_MitzUqYv)
+[01:14:25]: Resuming user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000855
+[01:14:25]: Player will spawn close to portal #1	
+[01:14:25]: Spawning player at: [Load] (365.45, 0.00, -262.28)	
+[01:15:15]: Activating portal[1] to 1	
+[01:15:16]: Serializing user: session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000855
+[01:15:16]: [Shard] Migration request: (KU_MitzUqYv) to [SHDMASTER](1)
+[01:15:16]: [Shard] #4 <- session/5C44BECFFFC07A2A/A7IQPNUNMI5P/0000000855
+[01:15:16]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:15:16]: [Steam] SendUserDisconnect for '76561198099860495'
+[01:20:04]: Serializing world: session/5C44BECFFFC07A2A/0000000855
+[01:20:04]: Truncating to snapshot #855...
+[01:20:04]:  - session/5C44BECFFFC07A2A/0000000849
+[01:20:04]:    1 file(s) removed
+[01:25:22]: [P2P] Session timed out for '76561198099860495'
+[01:25:22]: [P2P] Remove session: 74.36.120.177|1 '76561198099860495'
+[01:28:05]: Serializing world: session/5C44BECFFFC07A2A/0000000856
+[01:28:05]: Truncating to snapshot #856...
+[01:28:05]:  - session/5C44BECFFFC07A2A/0000000850
+[01:28:05]:    1 file(s) removed
+[01:30:05]: [200] Account Communication Success (6)
+[01:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:36:06]: Serializing world: session/5C44BECFFFC07A2A/0000000857
+[01:36:06]: Truncating to snapshot #857...
+[01:36:06]:  - session/5C44BECFFFC07A2A/0000000851
+[01:36:06]:    1 file(s) removed
