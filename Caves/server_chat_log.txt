@@ -177,3 +177,60 @@
 [01:46:06]: [Say] (KU_uGVY9zVB) balalaboom: 如果有東西檔住會跳過XD
 [01:46:19]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯 剛剛我是先種再拉範圍
 [01:46:25]: [Say] (KU_TtsjKcrU) AierLuosen: 結果歪掉
+[01:55:28]: [Join Announcement] 夜月夏目
+[01:55:47]: [Leave Announcement] 夜月夏目
+[01:56:32]: [Say] (KU_uGVY9zVB) balalaboom: 去清遺跡嗎?
+[01:56:39]: [Say] (KU_uGVY9zVB) balalaboom: 不然一直收成好無聊XDD
+[01:56:51]: [Say] (KU_TtsjKcrU) AierLuosen: 等我砍完樹
+[01:56:52]: [Join Announcement] 夜月夏目
+[01:56:55]: [Say] (KU_uGVY9zVB) balalaboom: 好
+[01:57:12]: [Say] (KU_TtsjKcrU) AierLuosen: 不是麥叔砍樹 超累(?
+[01:57:43]: [Leave Announcement] 夜月夏目
+[01:58:56]: [Join Announcement] 夜月夏目
+[01:59:11]: [Say] (KU_TtsjKcrU) AierLuosen: 你遊戲壞了嗎
+[01:59:21]: [Say] (KU_TtsjKcrU) AierLuosen: (看全鋼
+[01:59:27]: [Say] (KU_M673WWQo) 夜月夏目: 應該是沒事了
+[01:59:52]: [Say] (KU_TtsjKcrU) AierLuosen: 我先拿怪物肉餵豬人~
+[01:59:57]: [Say] (KU_TtsjKcrU) AierLuosen: 換大肉
+[02:00:07]: [Say] (KU_uGVY9zVB) balalaboom: 好.好像只剩2、3隻
+[02:00:19]: [Say] (KU_uGVY9zVB) balalaboom: 剛被蜘蛛打的.我有救了QQ
+[02:00:23]: [Say] (KU_M673WWQo) 夜月夏目: 今天滿月OAO
+[02:00:25]: [Say] (KU_uGVY9zVB) balalaboom: 今天滿月耶
+[02:00:28]: [Say] (KU_TtsjKcrU) AierLuosen: 喔喔
+[02:00:32]: [Say] (KU_TtsjKcrU) AierLuosen: 那不打了
+[02:00:48]: [Say] (KU_TtsjKcrU) AierLuosen: 等滿月過嗎
+[02:00:55]: [Say] (KU_uGVY9zVB) balalaboom: 好
+[02:01:24]: [Say] (KU_uGVY9zVB) balalaboom: 滿月是做喚月法杖?
+[02:01:26]: [Say] (KU_M673WWQo) 夜月夏目: 喔 你們幫我種回來了
+[02:01:40]: [Say] (KU_TtsjKcrU) AierLuosen: 可以 那邊有圍東西嗎>?
+[02:02:03]: [Say] (KU_TtsjKcrU) AierLuosen: 沒圍會很麻煩
+[02:02:34]: [Say] (KU_M673WWQo) 夜月夏目: BOOM要不要多裝一些呆呆MOD阿
+[02:02:47]: [Say] (KU_TtsjKcrU) AierLuosen: Boom的伺服器?辦法裝mod
+[02:02:55]: [Say] (KU_TtsjKcrU) AierLuosen: *沒辦法裝
+[02:03:00]: [Say] (KU_M673WWQo) 夜月夏目: 喔
+[02:03:07]: [Say] (KU_uGVY9zVB) balalaboom: 其實是可以啦
+[02:03:14]: [Say] (KU_uGVY9zVB) balalaboom: 有點麻煩
+[02:03:30]: [Say] (KU_uGVY9zVB) balalaboom: 和大家的不一樣.QQ我要自己手動丟上去
+[02:03:48]: [Say] (KU_TtsjKcrU) AierLuosen: 你的月石台在哪
+[02:03:54]: [Say] (KU_uGVY9zVB) balalaboom: 沒圍
+[02:03:59]: [Say] (KU_TtsjKcrU) AierLuosen: 現在趕快過去吧
+[02:04:04]: [Say] (KU_uGVY9zVB) balalaboom: 在地圖有標的地方
+[02:04:15]: [Say] (KU_uGVY9zVB) balalaboom: 左下
+[02:04:25]: [Say] (KU_M673WWQo) 夜月夏目: 好遠= =
+[02:04:29]: [Say] (KU_TtsjKcrU) AierLuosen: 超遠XD
+[02:04:37]: [Say] (KU_uGVY9zVB) balalaboom: 打豬人好了
+[02:04:42]: [Say] (KU_TtsjKcrU) AierLuosen: 不去了嗎
+[02:04:47]: [Say] (KU_TtsjKcrU) AierLuosen: 晚上很短
+[02:04:59]: [Say] (KU_TtsjKcrU) AierLuosen: 可以很快變完法杖
+[02:04:59]: [Say] (KU_uGVY9zVB) balalaboom: 衝丫
+[02:08:16]: [Say] (KU_uGVY9zVB) balalaboom: 不.........
+[02:08:16]: [Say] (KU_TtsjKcrU) AierLuosen: 來不集 太遠了ˊOwOˋ
+[02:08:27]: [Say] (KU_uGVY9zVB) balalaboom: 超遠耶
+[02:08:33]: [Say] (KU_TtsjKcrU) AierLuosen: 要蓋東西傳送才行
+[02:08:54]: [Say] (KU_uGVY9zVB) balalaboom: 我看上面那地洞在地底哪邊
+[02:10:52]: [Say] (KU_uGVY9zVB) balalaboom: 蓋塔好了XDD
+[02:11:26]: [Say] (KU_TtsjKcrU) AierLuosen: 地洞的地底離營地近嗎
+[02:11:29]: [Say] (KU_TtsjKcrU) AierLuosen: 地底的嗎?
+[02:11:36]: [Say] (KU_uGVY9zVB) balalaboom: 也不近
+[02:11:56]: [Say] (KU_uGVY9zVB) balalaboom: 是比地上的近
+[02:12:07]: [Say] (KU_uGVY9zVB) balalaboom: 不過這個洞接近遺跡
