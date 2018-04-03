@@ -302,3 +302,5 @@
 [02:46:52]: [Resurrect Announcement] AierLuosen 復活自 balalaboom.
 [02:47:02]: [Say] (KU_TtsjKcrU) AierLuosen: 要聊天室嗎
 [02:47:10]: [Say] (KU_uGVY9zVB) balalaboom: OK
+[03:00:44]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 21 噩夢燃料s.
+[03:10:58]: [Death Announcement] balalaboom 死亡，死因： 黑暗。她變成了一個令人毛骨悚然的鬼！
