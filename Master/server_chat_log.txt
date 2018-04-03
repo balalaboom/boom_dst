@@ -40,3 +40,7 @@
 [00:34:53]: [Say] (KU_TtsjKcrU) AierLuosen: 燒~
 [00:35:37]: [Join Announcement] 夜月夏目
 [00:35:45]: [Say] (KU_uGVY9zVB) balalaboom: 老人家有時候只是客套>"<
+[00:45:21]: [Say] (KU_uGVY9zVB) balalaboom: 小心秋熊喔
+[00:45:34]: [Say] (KU_TtsjKcrU) AierLuosen: 我要打暗影西洋軍
+[00:45:39]: [Say] (KU_uGVY9zVB) balalaboom: 好
+[00:48:02]: [Say] (KU_M673WWQo) 夜月夏目: 嚇死= =
