@@ -163,3 +163,17 @@
 [01:31:46]: [Say] (KU_TtsjKcrU) AierLuosen: 我故意理智低的
 [01:31:50]: [Say] (KU_TtsjKcrU) AierLuosen: 想刷燃料
 [01:31:53]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[01:44:29]: [Say] (KU_TtsjKcrU) AierLuosen: 那個mod我還是不太會用
+[01:44:37]: [Say] (KU_TtsjKcrU) AierLuosen: 自動種植的
+[01:44:39]: [Say] (KU_uGVY9zVB) balalaboom: 種樹嗎?
+[01:44:41]: [Say] (KU_TtsjKcrU) AierLuosen: 會亂跑XD
+[01:44:43]: [Say] (KU_TtsjKcrU) AierLuosen: 對啊
+[01:44:54]: [Say] (KU_TtsjKcrU) AierLuosen: 我還是慢慢種就好XD
+[01:45:18]: [Say] (KU_uGVY9zVB) balalaboom: 拿起來.對地上
+[01:45:25]: [Say] (KU_TtsjKcrU) AierLuosen: 要先種嗎
+[01:45:36]: [Say] (KU_TtsjKcrU) AierLuosen: 喔喔
+[01:45:39]: [Say] (KU_uGVY9zVB) balalaboom: 按住shift+右鍵.拉出一個範圍
+[01:45:41]: [Say] (KU_TtsjKcrU) AierLuosen: 有了
+[01:46:06]: [Say] (KU_uGVY9zVB) balalaboom: 如果有東西檔住會跳過XD
+[01:46:19]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯 剛剛我是先種再拉範圍
+[01:46:25]: [Say] (KU_TtsjKcrU) AierLuosen: 結果歪掉
