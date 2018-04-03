@@ -783,3 +783,56 @@
 [02:35:48]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000865
 [02:35:48]: Player will spawn close to portal #4	
 [02:35:48]: Spawning player at: [Load] (454.01, 0.00, -137.64)	
+[02:37:57]: [Shard] #12 -> session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000865
+[02:37:57]: [Shard] Received migration #12 data for (KU_TtsjKcrU)
+[02:38:09]: [P2P] Create session: 74.36.120.179|1 '76561198251790870'
+[02:38:09]: [P2P] Received from 74.36.120.179|1 '76561198251790870'
+[02:38:09]: [P2P] Sent to 74.36.120.179|1 '76561198251790870'
+[02:38:10]: New incoming connection 74.36.120.179|1 <2091184496730655581>
+[02:38:10]: Client connected from 74.36.120.179|1 <2091184496730655581>
+[02:38:10]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^R0KF/kC0sEpBfV9NsqQwIBTG24b7er7lTtggclZfrFg= for <2091184496730655581>
+[02:38:10]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[02:38:10]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[02:38:11]: [Steam] Authenticated client '76561198251790870'
+[02:38:11]: [Shard] Completed incoming migration #12 for (KU_TtsjKcrU)
+[02:38:24]: Resuming user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000865
+[02:38:24]: Player will spawn close to portal #4	
+[02:38:24]: Spawning player at: [Load] (453.80, 0.00, -141.14)	
+[02:40:13]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000865
+[02:40:13]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000865
+[02:40:13]: Serializing world: session/5C44BECFFFC07A2A/0000000865
+[02:42:36]: [Shard] #13 -> session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000866
+[02:42:36]: [Shard] Received migration #13 data for (KU_M673WWQo)
+[02:42:54]: [P2P] Session request for '76561198211986697'
+[02:43:00]: [P2P] Create session: 74.36.120.180|1 '76561198211986697'
+[02:43:00]: [P2P] Received from 74.36.120.180|1 '76561198211986697'
+[02:43:00]: [P2P] Sent to 74.36.120.180|1 '76561198211986697'
+[02:43:01]: New incoming connection 74.36.120.180|1 <8298813555220340646>
+[02:43:01]: Client connected from 74.36.120.180|1 <8298813555220340646>
+[02:43:01]: ValidateGameSessionToken pgs-sing^KU_M673WWQo^DontStarveTogether^KLUZKeYrxbQsUQY2AYRqsUWhOW33E3hF9nx/J5N9zkc= for <8298813555220340646>
+[02:43:01]: Client authenticated: (KU_M673WWQo) 夜月夏目
+[02:43:01]: [Steam] SendUserConnectAndAuthenticate for '76561198211986697'
+[02:43:02]: [Steam] Authenticated client '76561198211986697'
+[02:43:02]: [Shard] Completed incoming migration #13 for (KU_M673WWQo)
+[02:43:55]: Resuming user: session/5C44BECFFFC07A2A/A7IOC71O41LI/0000000866
+[02:43:55]: Player will spawn close to portal #1	
+[02:43:55]: Spawning player at: [Load] (363.06, 0.00, -262.33)	
+[02:44:13]: Could not find anim [death] in bank [ghost]
+[02:44:13]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000866
+[02:45:51]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:45:51]: Connection lost to 74.36.120.178|1 <4102502832118111519>
+[02:45:52]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000866
+[02:46:33]: [Shard] Received forward request #14 for (KU_uGVY9zVB)
+[02:46:36]: [P2P] Received from 74.36.120.178|1 '76561198354843262'
+[02:46:36]: [P2P] Sent to 74.36.120.178|1 '76561198354843262'
+[02:46:36]: New incoming connection 74.36.120.178|1 <4965608980198414734>
+[02:46:36]: Client connected from 74.36.120.178|1 <4965608980198414734>
+[02:46:36]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^NNTta9Je2WcUFBbThe5+FtGTn5dVuIh/p3zXu3I4aNQ= for <4965608980198414734>
+[02:46:37]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:46:37]: [Steam] Authenticated host '76561198354843262'
+[02:46:39]: [Shard] Completed incoming migration #14 for (KU_uGVY9zVB)
+[02:46:48]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000866
+[02:46:48]: Spawning player at: [Load] (460.34, -0.00, 40.25)	
+[02:46:52]: Could not find anim [idle_loop] in bank [ghost]
+[02:46:55]: Could not find anim [transform] in bank [wilson]
+[02:46:56]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000866

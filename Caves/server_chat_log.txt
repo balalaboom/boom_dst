@@ -261,3 +261,44 @@
 [02:34:32]: [Say] (KU_uGVY9zVB) balalaboom: 差點忘了
 [02:34:33]: [Say] (KU_TtsjKcrU) AierLuosen: 下方有個地洞 開了嗎?
 [02:34:35]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯
+[02:37:28]: [Say] (KU_TtsjKcrU) AierLuosen: 你直接下地底了嗎?
+[02:37:32]: [Say] (KU_uGVY9zVB) balalaboom: 對
+[02:37:39]: [Join Announcement] 夜月夏目
+[02:37:45]: [Say] (KU_uGVY9zVB) balalaboom: 在這等妳0.0
+[02:37:54]: [Say] (KU_TtsjKcrU) AierLuosen: 喔喔喔想說你不見了XD
+[02:37:58]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[02:38:10]: [Say] (KU_uGVY9zVB) balalaboom: 我以為妳還在讀取中
+[02:38:20]: [Say] (KU_M673WWQo) 夜月夏目: .......最近宿舍網路不穩定
+[02:38:28]: [Say] (KU_uGVY9zVB) balalaboom: 好慘
+[02:38:41]: [Say] (KU_M673WWQo) 夜月夏目: 你們在哪?
+[02:39:01]: [Say] (KU_TtsjKcrU) AierLuosen: 離地底主營地很近耶
+[02:39:14]: [Say] (KU_uGVY9zVB) balalaboom: 不算遠XD
+[02:39:14]: [Say] (KU_TtsjKcrU) AierLuosen: 在地底
+[02:39:27]: [Say] (KU_TtsjKcrU) AierLuosen: 月石台下方的地洞
+[02:40:05]: [Say] (KU_TtsjKcrU) AierLuosen: 這邊很危險
+[02:40:14]: [Say] (KU_TtsjKcrU) AierLuosen: 繞個w
+[02:43:08]: [Say] (KU_TtsjKcrU) AierLuosen: 電線給我
+[02:43:22]: [Say] (KU_uGVY9zVB) balalaboom: 丟地上了XD 我滿的
+[02:44:13]: [Death Announcement] AierLuosen 死亡，死因： 損壞的主教。她變成了一個令人毛骨悚然的鬼！
+[02:44:14]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[02:44:20]: [Say] (KU_M673WWQo) 夜月夏目: 需要幫忙嗎?
+[02:44:20]: [Say] (KU_TtsjKcrU) AierLuosen: 太激烈
+[02:44:24]: [Say] (KU_uGVY9zVB) balalaboom: 我有帶心臟
+[02:44:33]: [Say] (KU_uGVY9zVB) balalaboom: 卡鍵啦
+[02:44:34]: [Say] (KU_TtsjKcrU) AierLuosen: 我有囊
+[02:44:36]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯
+[02:44:47]: [Say] (KU_TtsjKcrU) AierLuosen: 來 我們在清遺跡
+[02:45:03]: [Say] (KU_TtsjKcrU) AierLuosen: 帶點食物
+[02:45:24]: [Say] (KU_uGVY9zVB) balalaboom: =.="
+[02:45:33]: [Say] (KU_TtsjKcrU) AierLuosen: 該換鍵盤了?
+[02:45:35]: [Say] (KU_M673WWQo) 夜月夏目: 我只有1組蜂蜜
+[02:45:38]: [Say] (KU_uGVY9zVB) balalaboom: 我重登一下
+[02:45:41]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯
+[02:45:49]: [Say] (KU_TtsjKcrU) AierLuosen: 1組蠻多的
+[02:45:51]: [Leave Announcement] balalaboom
+[02:46:08]: [Say] (KU_TtsjKcrU) AierLuosen: 主教有點多隻
+[02:46:47]: [Join Announcement] balalaboom
+[02:46:52]: [Say] (KU_TtsjKcrU) AierLuosen: 循環要開始了
+[02:46:52]: [Resurrect Announcement] AierLuosen 復活自 balalaboom.
+[02:47:02]: [Say] (KU_TtsjKcrU) AierLuosen: 要聊天室嗎
+[02:47:10]: [Say] (KU_uGVY9zVB) balalaboom: OK
