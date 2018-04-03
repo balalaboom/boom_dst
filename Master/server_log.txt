@@ -715,3 +715,31 @@
 [00:48:00]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000851
 [00:48:00]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000851
 [00:48:01]: Serializing world: session/537C5C69FFB19629/0000000851
+[00:56:01]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000852
+[00:56:01]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000852
+[00:56:01]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000852
+[00:56:02]: Serializing world: session/537C5C69FFB19629/0000000852
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[01:04:02]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000853
+[01:04:02]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000853
+[01:04:02]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000853
+[01:04:03]: Serializing world: session/537C5C69FFB19629/0000000853
+[01:09:38]: [P2P] Session request for '76561198099860495'
+[01:09:42]: [P2P] Create session: 74.35.4.194|1 '76561198099860495'
+[01:09:42]: [P2P] Received from 74.35.4.194|1 '76561198099860495'
+[01:09:42]: [P2P] Sent to 74.35.4.194|1 '76561198099860495'
+[01:09:46]: New incoming connection 74.35.4.194|1 <3708822810244676671>
+[01:09:46]: Client connected from 74.35.4.194|1 <3708822810244676671>
+[01:09:46]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^/87p4ffOWgZcIkClftkWI5t+Ndfr25xO8CtMV/pVz/o= for <3708822810244676671>
+[01:09:46]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[01:09:46]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[01:09:47]: [Steam] Authenticated client '76561198099860495'
+[01:09:49]: [Shard] Read save location file for (KU_MitzUqYv)
+[01:10:08]: Resuming user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000669
+[01:10:08]: Spawning player at: [Load] (-136.67, -0.00, 539.30)	
+[01:12:03]: Serializing user: session/537C5C69FFB19629/A7N10VH2FLUB/0000000854
+[01:12:03]: Serializing user: session/537C5C69FFB19629/A7JNFMML4RAU/0000000854
+[01:12:03]: Serializing user: session/537C5C69FFB19629/A7IOC71O41LI/0000000854
+[01:12:03]: Serializing user: session/537C5C69FFB19629/A7IQPNUNMI5P/0000000854
+[01:12:04]: Serializing world: session/537C5C69FFB19629/0000000854
