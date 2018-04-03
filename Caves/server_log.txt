@@ -574,3 +574,45 @@
 [00:00:32]: [Shard] Slave LUA is now ready!
 [00:00:32]: Sim paused
 [00:05:40]: Sim unpaused
+[00:13:39]: Serializing world: session/5C44BECFFFC07A2A/0000000847
+[00:13:39]: Truncating to snapshot #847...
+[00:13:39]:  - session/5C44BECFFFC07A2A/0000000841
+[00:13:39]:    1 file(s) removed
+[00:18:37]: [Shard] #1 -> session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000848
+[00:18:37]: [Shard] Received migration #1 data for (KU_TtsjKcrU)
+[00:18:47]: [P2P] Session request for '76561198251790870'
+[00:18:48]: [P2P] Create session: 74.36.120.176|1 '76561198251790870'
+[00:18:48]: [P2P] Received from 74.36.120.176|1 '76561198251790870'
+[00:18:48]: [P2P] Sent to 74.36.120.176|1 '76561198251790870'
+[00:18:49]: New incoming connection 74.36.120.176|1 <628851001188298655>
+[00:18:49]: Client connected from 74.36.120.176|1 <628851001188298655>
+[00:18:49]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^vIRfcvpzQTKxGC6tHUiOwSxMQxbMxJLZfzE13pr6wV4= for <628851001188298655>
+[00:18:50]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:18:50]: [Steam] SendUserConnectAndAuthenticate for '76561198251790870'
+[00:18:50]: [Steam] Authenticated client '76561198251790870'
+[00:18:50]: [Shard] Completed incoming migration #1 for (KU_TtsjKcrU)
+[00:19:05]: Resuming user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000848
+[00:19:05]: Player will spawn close to portal #1	
+[00:19:05]: Spawning player at: [Load] (364.50, 0.00, -266.99)	
+[00:20:55]: Activating portal[1] to 1	
+[00:20:55]: Serializing user: session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000848
+[00:20:55]: [Shard] Migration request: (KU_TtsjKcrU) to [SHDMASTER](1)
+[00:20:55]: [Shard] #2 <- session/5C44BECFFFC07A2A/A7JNFMML4RAU/0000000848
+[00:20:55]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:20:55]: Ignored request to resume during migration
+[00:20:55]: [Steam] SendUserDisconnect for '76561198251790870'
+[00:21:40]: Serializing world: session/5C44BECFFFC07A2A/0000000848
+[00:21:40]: Truncating to snapshot #848...
+[00:21:40]:  - session/5C44BECFFFC07A2A/0000000842
+[00:21:40]:    1 file(s) removed
+[00:22:05]: RemoteCommandInput: "c_announce"我卡鍵""
+[00:23:30]: Sim paused
+[00:25:47]: Sim unpaused
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[00:31:03]: [P2P] Session timed out for '76561198251790870'
+[00:31:03]: [P2P] Remove session: 74.36.120.176|1 '76561198251790870'
+[00:31:58]: Serializing world: session/5C44BECFFFC07A2A/0000000849
+[00:31:58]: Truncating to snapshot #849...
+[00:31:58]:  - session/5C44BECFFFC07A2A/0000000843
+[00:31:58]:    1 file(s) removed

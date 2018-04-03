@@ -6,3 +6,37 @@
 [00:11:00]: [Say] (KU_M673WWQo) 夜月夏目: 一來先掉個魚XD
 [00:11:14]: [Say] (KU_uGVY9zVB) balalaboom: 盡情XD
 [00:11:29]: [Say] (KU_M673WWQo) 夜月夏目: 而且身上有彩燈
+[00:12:16]: [Join Announcement] AierLuosen
+[00:12:33]: [Say] (KU_M673WWQo) 夜月夏目: 似艾爾
+[00:12:38]: [Say] (KU_TtsjKcrU) AierLuosen: 安安安
+[00:12:45]: [Say] (KU_uGVY9zVB) balalaboom: 安安安安
+[00:13:47]: [Say] (KU_TtsjKcrU) AierLuosen: 上次該不會還是冬季盛宴XD
+[00:13:53]: [Say] (KU_uGVY9zVB) balalaboom: 對XDD
+[00:14:14]: [Say] (KU_M673WWQo) 夜月夏目: 我身上還有彩燈XD
+[00:14:23]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[00:14:41]: [Say] (KU_TtsjKcrU) AierLuosen: 蟻獅打了嗎
+[00:16:03]: [Say] (KU_M673WWQo) 夜月夏目: 打過了
+[00:16:07]: [Say] (KU_TtsjKcrU) AierLuosen: 好喔
+[00:18:09]: [Say] (KU_uGVY9zVB) balalaboom: 我都忘了什麼有打沒打的XD
+[00:19:33]: [Say] (KU_uGVY9zVB) balalaboom: :
+[00:19:45]: [Say] (KU_TtsjKcrU) AierLuosen: ?
+[00:19:53]: [Leave Announcement] balalaboom
+[00:22:05]: [Announcement] 我卡鍵
+[00:23:16]: [Leave Announcement] AierLuosen
+[00:23:29]: [Leave Announcement] 夜月夏目
+[00:25:46]: [Join Announcement] balalaboom
+[00:26:05]: [Join Announcement] AierLuosen
+[00:26:29]: [Say] (KU_TtsjKcrU) AierLuosen:  We have 9 魚s in this 冰箱.
+[00:28:45]: [Say] (KU_uGVY9zVB) balalaboom: 奇怪...我忘了格洛姆的賽去哪了
+[00:29:12]: [Say] (KU_TtsjKcrU) AierLuosen: 切斯特裡?
+[00:29:24]: [Say] (KU_uGVY9zVB) balalaboom: 原來被我移到這裡面了XDD
+[00:29:32]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[00:29:39]: [Say] (KU_uGVY9zVB) balalaboom: 格洛姆和切斯特
+[00:30:10]: [Join Announcement] 夜月夏目
+[00:34:16]: [Leave Announcement] 夜月夏目
+[00:34:29]: [Say] (KU_uGVY9zVB) balalaboom: 來吧
+[00:34:41]: [Say] (KU_uGVY9zVB) balalaboom: 太熱情了
+[00:34:48]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[00:34:53]: [Say] (KU_TtsjKcrU) AierLuosen: 燒~
+[00:35:37]: [Join Announcement] 夜月夏目
+[00:35:45]: [Say] (KU_uGVY9zVB) balalaboom: 老人家有時候只是客套>"<
