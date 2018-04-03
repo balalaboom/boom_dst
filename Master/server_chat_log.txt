@@ -234,3 +234,30 @@
 [02:11:35]: [Say] (KU_uGVY9zVB) balalaboom: 也不近
 [02:11:56]: [Say] (KU_uGVY9zVB) balalaboom: 是比地上的近
 [02:12:07]: [Say] (KU_uGVY9zVB) balalaboom: 不過這個洞接近遺跡
+[02:12:33]: [Say] (KU_TtsjKcrU) AierLuosen: 喔喔 等等從那下去
+[02:12:38]: [Say] (KU_TtsjKcrU) AierLuosen: 我先離位一下
+[02:12:47]: [Say] (KU_uGVY9zVB) balalaboom: OK
+[02:13:33]: [Leave Announcement] AierLuosen
+[02:13:33]: [Say] (KU_uGVY9zVB) balalaboom: 我回去拿材料
+[02:15:24]: [Leave Announcement] 夜月夏目
+[02:25:56]: [Join Announcement] AierLuosen
+[02:29:28]: [Death Announcement] AierLuosen 死亡，死因： 爬行恐懼。她變成了一個令人毛骨悚然的鬼！
+[02:29:31]: [Say] (KU_TtsjKcrU) AierLuosen: 卡
+[02:29:40]: [Say] (KU_TtsjKcrU) AierLuosen: xd
+[02:29:44]: [Resurrect Announcement] AierLuosen 復活自 重生護符.
+[02:29:59]: [Say] (KU_uGVY9zVB) balalaboom: 我們別理那群瘋狗
+[02:30:12]: [Say] (KU_TtsjKcrU) AierLuosen: 被咬死就順了
+[02:30:16]: [Say] (KU_uGVY9zVB) balalaboom: XDDD
+[02:30:16]: [Say] (KU_TtsjKcrU) AierLuosen: 黑人問號
+[02:30:30]: [Say] (KU_uGVY9zVB) balalaboom: 通體舒暢 (X
+[02:30:42]: [Say] (KU_uGVY9zVB) balalaboom: 原來有圍耶
+[02:30:47]: [Say] (KU_TtsjKcrU) AierLuosen: 黑啊
+[02:30:48]: [Say] (KU_uGVY9zVB) balalaboom: 也太小
+[02:33:29]: [Say] (KU_TtsjKcrU) AierLuosen: 要去清地底了嗎~
+[02:33:36]: [Say] (KU_uGVY9zVB) balalaboom: 好
+[02:33:43]: [Say] (KU_TtsjKcrU) AierLuosen: 清完就休息吧
+[02:33:45]: [Say] (KU_TtsjKcrU) AierLuosen: 累了xd
+[02:34:28]: [Say] (KU_uGVY9zVB) balalaboom: 等等.我蓋一下傳送塔
+[02:34:32]: [Say] (KU_uGVY9zVB) balalaboom: 差點忘了
+[02:34:33]: [Say] (KU_TtsjKcrU) AierLuosen: 下方有個地洞 開了嗎?
+[02:34:35]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯

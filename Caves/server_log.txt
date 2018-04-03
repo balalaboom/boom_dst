@@ -719,3 +719,67 @@
 [02:10:27]: [Shard] #6 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000862
 [02:10:27]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
 [02:10:27]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:13:51]: [Shard] #7 -> session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000862
+[02:13:51]: [Shard] Received migration #7 data for (KU_uGVY9zVB)
+[02:13:59]: [P2P] Received from 74.36.120.178|1 '76561198354843262'
+[02:13:59]: [P2P] Sent to 74.36.120.178|1 '76561198354843262'
+[02:14:00]: New incoming connection 74.36.120.178|1 <141928892891966000>
+[02:14:00]: Client connected from 74.36.120.178|1 <141928892891966000>
+[02:14:00]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^nPD+vNJfQX/XfZGsneJtgpzoJREgDwc2H8z75VfLp1s= for <141928892891966000>
+[02:14:00]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:14:00]: [Steam] Authenticated host '76561198354843262'
+[02:14:00]: [Shard] Completed incoming migration #7 for (KU_uGVY9zVB)
+[02:14:10]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000862
+[02:14:10]: Player will spawn close to portal #5	
+[02:14:10]: Spawning player at: [Load] (249.05, 0.00, -73.41)	
+[02:16:10]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000862
+[02:16:11]: Serializing world: session/5C44BECFFFC07A2A/0000000862
+[02:17:54]: Activating portal[1] to 1	
+[02:17:54]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000863
+[02:17:54]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[02:17:54]: [Shard] #8 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000863
+[02:17:54]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:17:54]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:24:12]: Serializing world: session/5C44BECFFFC07A2A/0000000863
+[02:24:12]: Truncating to snapshot #863...
+[02:24:12]:  - session/5C44BECFFFC07A2A/0000000857
+[02:24:12]:  - session/5C44BECFFFC07A2A/0000000856
+[02:24:12]:    2 file(s) removed
+[02:26:22]: [Shard] #9 -> session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000864
+[02:26:22]: [Shard] Received migration #9 data for (KU_uGVY9zVB)
+[02:26:30]: [P2P] Received from 74.36.120.178|1 '76561198354843262'
+[02:26:30]: [P2P] Sent to 74.36.120.178|1 '76561198354843262'
+[02:26:31]: New incoming connection 74.36.120.178|1 <651916083604645688>
+[02:26:31]: Client connected from 74.36.120.178|1 <651916083604645688>
+[02:26:31]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^ApjVPiWQ5Qe0Z30O8wjh3sm0wU5ic5j5eYdIPT1yeyM= for <651916083604645688>
+[02:26:31]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:26:31]: [Steam] Authenticated host '76561198354843262'
+[02:26:31]: [Shard] Completed incoming migration #9 for (KU_uGVY9zVB)
+[02:26:40]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000864
+[02:26:40]: Player will spawn close to portal #1	
+[02:26:40]: Spawning player at: [Load] (366.80, 0.00, -264.33)	
+[02:28:25]: Activating portal[5] to 1	
+[02:28:25]: Serializing user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000864
+[02:28:25]: [Shard] Migration request: (KU_uGVY9zVB) to [SHDMASTER](1)
+[02:28:25]: [Shard] #10 <- session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000864
+[02:28:25]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:28:25]: [Steam] SendUserDisconnect for '76561198354843262'
+[02:30:05]: [200] Account Communication Success (6)
+[02:30:05]: Received (KU_uGVY9zVB) from TokenPurpose
+[02:32:12]: Serializing world: session/5C44BECFFFC07A2A/0000000864
+[02:32:12]: Truncating to snapshot #864...
+[02:32:12]:  - session/5C44BECFFFC07A2A/0000000858
+[02:32:12]:    1 file(s) removed
+[02:35:29]: [Shard] #11 -> session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000865
+[02:35:29]: [Shard] Received migration #11 data for (KU_uGVY9zVB)
+[02:35:37]: [P2P] Received from 74.36.120.178|1 '76561198354843262'
+[02:35:37]: [P2P] Sent to 74.36.120.178|1 '76561198354843262'
+[02:35:38]: New incoming connection 74.36.120.178|1 <4102502832118111519>
+[02:35:38]: Client connected from 74.36.120.178|1 <4102502832118111519>
+[02:35:38]: ValidateGameSessionToken pgs-sing^KU_uGVY9zVB^DontStarveTogether^1SF0mH5QnB8LDTbaO+vAioijuKCDbtpyJfNPaTrkbFM= for <4102502832118111519>
+[02:35:39]: Client authenticated: (KU_uGVY9zVB) balalaboom
+[02:35:39]: [Steam] Authenticated host '76561198354843262'
+[02:35:39]: [Shard] Completed incoming migration #11 for (KU_uGVY9zVB)
+[02:35:48]: Resuming user: session/5C44BECFFFC07A2A/A7N10VH2FLUB/0000000865
+[02:35:48]: Player will spawn close to portal #4	
+[02:35:48]: Spawning player at: [Load] (454.01, 0.00, -137.64)	
